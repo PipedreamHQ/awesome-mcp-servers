@@ -2452,6 +2452,7 @@ generating custom PDF and Word documents."
  - [DotSimple MCP Server](https://mcp.pipedream.com/app/dotsimple) - DotSimple is the all-in-one solution for your social media management.
  - [Dreamhost MCP Server](https://mcp.pipedream.com/app/dreamhost) - We make sure your website is fast, secure & always up - so your visitors & search engines trust you.
  - [DropInBlog MCP Server](https://mcp.pipedream.com/app/dropinblog) - Embed a Blog into Your Website in 3 Minutes - DropInBlog
+ - [EdgeOne Pages MCP](https://github.com/TencentEdgeOne/edgeone-pages-mcp) - An MCP service for deploying HTML content to EdgeOne Pages and obtaining a publicly accessible URL.
  - [Fillout MCP Server](https://mcp.pipedream.com/app/fillout) - Create powerful forms, surveys and quizzes your audience will answer.
  - [FireCrawl MCP Server](https://mcp.pipedream.com/app/firecrawl) - Power your AI apps with clean data crawled from any website. It's also open-source.
  - [FlexiSign MCP Server](https://mcp.pipedream.com/app/flexisign) - Create an e-Signature with FlexiSign
