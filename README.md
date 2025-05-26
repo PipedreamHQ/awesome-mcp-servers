@@ -89,6 +89,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
  - [Columns Ai MCP Server](https://mcp.pipedream.com/app/columns_ai) - The simple platform to build data stories.
  - [Contact Enhance MCP Server](https://mcp.pipedream.com/app/contact_enhance) - A bot that enriches your business contact data.
  - [ContentGroove MCP Server](https://mcp.pipedream.com/app/contentgroove) - Create video highlights using generative AI.
+- [Creatify MCP Server](https://github.com/TSavo/creatify-mcp) - MCP Server that exposes Creatify AI API capabilities for AI video generation, including avatar videos, URL-to-video conversion, text-to-speech, and AI-powered editing tools.
  - [Cradl AI MCP Server](https://mcp.pipedream.com/app/cradl_ai) - Automate internal document processes with AI.
  - [CustomGPT MCP Server](https://mcp.pipedream.com/app/customgpt) - CustomGPT lets you easily build your own chatbot with your own data.
  - [Datarobot MCP Server](https://mcp.pipedream.com/app/datarobot) - Enterprise AI
