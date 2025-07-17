@@ -1138,6 +1138,7 @@ Klipfolio is a data analytics cloud app for building and sharing real-time busin
  - [Perigon MCP Server](https://mcp.pipedream.com/app/perigon) - "Compare news from all sides, decipher fact from fiction, and transform big media into actionable insights.
 "
  - [Plecto MCP Server](https://mcp.pipedream.com/app/plecto) - #1 Business Performance Platform with real-time data 🚀
+ - [Polar Signals Remote MCP](https://www.polarsignals.com/blog/posts/2025/07/17/the-mcp-for-performance-engineering) 🐍 ☁️ - MCP server for Polar Signals Cloud continuous profiling platform, enabling AI assistants to analyze CPU performance, memory usage, and identify optimization opportunities in production systems.
  - [PostHog MCP Server](https://mcp.pipedream.com/app/posthog) - Product Analytics? Session Recording? Feature Flags? Experiments? PostHog does that. Open source, backed by @ycombinator
  - [Proxycurl MCP Server](https://mcp.pipedream.com/app/proxycurl) - Pull rich data about people and companies.
  - [Pulsetic MCP Server](https://mcp.pipedream.com/app/pulsetic) - Website uptime monitoring service.
