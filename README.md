@@ -68,6 +68,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
  - [Autobound MCP Server](https://mcp.pipedream.com/app/autobound) - The ChatGPT for sales emails.
  - [Azure AI Vision MCP Server](https://mcp.pipedream.com/app/azure_ai_vision) - Azure AI Vision is a unified service that offers innovative computer vision capabilities. Give your apps the ability to analyze images, read text, and detect faces with prebuilt image tagging, text extraction with optical character recognition (OCR), and responsible facial recognition. Incorporate vision features into your projects with no machine learning experience required.
  - [Azure Speech Service MCP Server](https://mcp.pipedream.com/app/azure_speech_service) - A managed service offering industry-leading speech capabilities such as speech-to-text, text-to-speech, speech translation, and speaker recognition.
+ - [bitcoin.com/mcp-server](https://mcp.bitcoin.com/sse) - A comprehensive Model Context Protocol (MCP) server for serving Bitcoin.com's gambling/betting content with advanced i18n support, content discovery, and navigation tools.
  - [bot9 MCP Server](https://mcp.pipedream.com/app/bot9) - AI chatbot builder for customer support.
  - [Botcake MCP Server](https://mcp.pipedream.com/app/botcake) - Chatbot marketing made easy.
  - [Botmaker MCP Server](https://mcp.pipedream.com/app/botmaker) - The most advanced conversational platform that allows you to give smart and fast answers to your customers in all digital channels.
