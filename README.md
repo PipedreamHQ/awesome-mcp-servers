@@ -650,6 +650,7 @@ Find more products by UPC, EAN, and ISBN than anywhere else on the Web."
  - [Snapdocs MCP Server](https://mcp.pipedream.com/app/snapdocs) - "The perfect mortgage closing experience
 Fast, convenient, and error-free, the Snapdocs digital mortgage closing platform delivers a perfect closing experience to every single borrower."
  - [Snipcart MCP Server](https://mcp.pipedream.com/app/snipcart) - E-commerce platform for developers, by developers
+ - [ShopSavvy MCP Server](https://github.com/shopsavvy/shopsavvy-mcp-server) - Complete product and pricing data solution for AI assistants. Search for products by barcode/ASIN/URL, access detailed product metadata, access comprehensive pricing data from thousands of retailers, view and track price history, and more. Published as `@shopsavvy/mcp-server`.
  - [Square MCP Server](https://mcp.pipedream.com/app/square) - Solutions & Tools to Grow Your Business
  - [Starshipit MCP Server](https://mcp.pipedream.com/app/starshipit) - Starshipit is a shipping fulfilment web-based software designed to help eCommerce retailers, automate, process, fulfill, and ship orders from popular marketplaces and shopping carts.
  - [Storerocket MCP Server](https://mcp.pipedream.com/app/storerocket) - Beautifully Designed Store Locator Software, Widget and App for Websites
