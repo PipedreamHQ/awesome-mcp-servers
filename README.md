@@ -2473,7 +2473,6 @@ Natively integrate user research with minimal dev attention, privacy-first."
  - [Google Postmaster Tools MCP Server](https://mcp.pipedream.com/app/google_postmaster_tools_api) - Use Postmaster Tools to analyze your email performance, and help Gmail route your messages to the right place
  - [Google Tag Manager MCP Server](https://mcp.pipedream.com/app/google_tag_manager) - Google Tag Manager is a tool that enables you to install, store, and manage tags.
  - [Grafbase MCP Server](https://mcp.pipedream.com/app/grafbase) - Grafbase is the easiest way to build and deploy GraphQL backends.
- - [Greptile MCP Server](https://mcp.pipedream.com/app/greptile) - Chat with your repos or use our API to build your own AI dev tools.
  - [GTmetrix MCP Server](https://mcp.pipedream.com/app/gtmetrix) - Performance testing and monitoring tool.
  - [Headless Testing MCP Server](https://mcp.pipedream.com/app/headless_testing) - Headless Testing with Puppeteer and Playwright in the Cloud
  - [HTML 2 PDF MCP Server](https://mcp.pipedream.com/app/html_2_pdf) - Convert HTML to PDF without effort.
