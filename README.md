@@ -1651,6 +1651,7 @@ Add a live chat widget to your website, connect other channels, and automate sal
  - [n8n.io MCP Server](https://mcp.pipedream.com/app/n8n_io) - The workflow automation platform that doesn't box you in, that you never outgrow.
  - [Namecheap MCP Server](https://mcp.pipedream.com/app/namecheap) - Powering Internet freedom through domains, hosting, security, and more — everything you need to make more online, for less.
  - [ncScale MCP Server](https://mcp.pipedream.com/app/ncscale) - No-Code Monitoring is a must-have to make your app reliable, secure and crystal clear. Bring back trust in your no-code stack!
+ - [NCP MCP Server](https://github.com/portel-dev/ncp) - 1 MCP to rule them all - Orchestrates your entire MCP ecosystem through intelligent discovery, eliminating token overhead while maintaining 98.2% accuracy. Transform 100+ tools into 2 unified interfaces, achieve 94.8% token savings.
  - [Neo4j AuraDB MCP Server](https://mcp.pipedream.com/app/neo4j_auradb) - Fully Managed Graph Database
  - [Neutrino MCP Server](https://mcp.pipedream.com/app/neutrino) - The Neutrino API platform provides a highly available, performant global network that lets developers focus on their product and not on building and maintaining complex in-house tools not relevant to their core business.
  - [NextDNS MCP Server](https://mcp.pipedream.com/app/nextdns) - "The new firewall for the modern Internet.
