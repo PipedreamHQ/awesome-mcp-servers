@@ -161,6 +161,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
  - [Metatext.AI Pre-build AI models API MCP Server](https://mcp.pipedream.com/app/metatext_ai_pre_build_ai_models_api) - Create and manage machines that read and write.
  - [Microsoft Azure AI Translator MCP Server](https://mcp.pipedream.com/app/microsoft_azure_ai_translator) - Translate text instantly or in batches across more than 100 languages, powered by the latest innovations in machine translation
  - [MindStudio MCP Server](https://mcp.pipedream.com/app/mindstudio) - Create AI solutions – simple, fast, hassle-free
+ - [Mnemex MCP Server](https://github.com/simplemindedbot/mnemex) - Temporal memory system for AI assistants with human-like decay and reinforcement. Two-layer architecture (JSONL + Markdown/Obsidian), natural spaced repetition, and knowledge graphs. Privacy-first local storage.
  - [Nano Nets MCP Server](https://mcp.pipedream.com/app/nano_nets) - Automate Document Workflows
  - [Needle MCP Server](https://mcp.pipedream.com/app/needle) - The Knowledge Threading Platform
  - [NEURONWriter MCP Server](https://mcp.pipedream.com/app/neuronwriter) - Content optimization with semantic SEO.
