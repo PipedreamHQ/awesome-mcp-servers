@@ -1316,7 +1316,7 @@ Connect provides managed authentication, approved client IDs, durable components
  - [SFTP (key-based auth) MCP Server](https://mcp.pipedream.com/app/sftp) - Interact with an SFTP (SSH File Transfer Protocol) Server using a private key for auth
  - [Sifter MCP Server](https://mcp.pipedream.com/app/sifter) - Simple and streamlined. Sifter makes issue tracking convenient for even your least technical team members so that everyone can get involved and help find and resolve issues sooner.
  - [Snyk MCP Server](https://mcp.pipedream.com/app/snyk) - Find and automatically fix vulnerabilities in your code, open source dependencies, containers, and infrastructure as code — all powered by Snyk’s industry-leading security intelligence.
-
+  
  - [Softr MCP Server](https://mcp.pipedream.com/app/softr) - The easiest way to build custom apps and portals from Airtable, in minutes. #nocode required.
  - [SonarCloud MCP Server](https://mcp.pipedream.com/app/sonarcloud) - SonarCloud is the leading online service for Code Quality & Security. Free analysis for open-source projects covering 24 languages.
  - [SSH (password-based auth) MCP Server](https://mcp.pipedream.com/app/ssh_password_based_auth) - Use the Secure Shell protocol to execute commands on a remote server using a username and password
@@ -1326,6 +1326,7 @@ Connect provides managed authentication, approved client IDs, durable components
  - [TestMonitor MCP Server](https://mcp.pipedream.com/app/testmonitor) - TestMonitor, a modern software tool for functional, user- and acceptance tests of software implementations with one goal only: Testing with a smile!
  - [TRIGGERcmd MCP Server](https://mcp.pipedream.com/app/triggercmd) - "TRIGGERcmd is a cloud service that allows you to securely and remotely run commands on your computers.
 Your commands could install updates, open your garage, run a script, or anything else you decide."
+-  [Vulert](https://vulert.com/) - Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more
  - [WakaTime MCP Server](https://mcp.pipedream.com/app/wakatime) - "Dashboards for developers
 Open source plugins for metrics about your programming"
  - [WhoisFreaks MCP Server](https://mcp.pipedream.com/app/whoisfreaks) - Best Source For Domain WHOIS Database and API.
