@@ -570,6 +570,7 @@ Find more products by UPC, EAN, and ISBN than anywhere else on the Web."
  - [Google Merchant Center MCP Server](https://mcp.pipedream.com/app/google_merchant_center) - Merchant Center helps businesses promote their products across Google.
  - [Gorgias MCP Server](https://mcp.pipedream.com/app/gorgias_oauth) - Gorgias is the ecommerce helpdesk that turns your customer service into a profit center.
  - [Gumroad MCP Server](https://mcp.pipedream.com/app/gumroad) - E-commerce and audience-building software for creators
+ - [Gunsnation MCP Server](https://github.com/DynamicDeals/mcp-server-gunsnation) - AI-ready MCP server that gives assistants real-time access to the Gunsnation firearms catalog for product search and firearm specifications.
  - [Helcim MCP Server](https://mcp.pipedream.com/app/helcim) - Helcim is a payments company that lets businesses accept credit cards with ease. Discover better payments for your business in Canada & the US.
  - [IDX Broker MCP Server](https://mcp.pipedream.com/app/idx_broker) - IDXBroker empowers real estate agents with lead management solutions, customizable home search, and fully hosted websites.
  - [Ikas MCP Server](https://mcp.pipedream.com/app/ikas) - New Generation E-Commerce Platform
