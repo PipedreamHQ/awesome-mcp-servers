@@ -167,6 +167,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
  - [Nyckel MCP Server](https://mcp.pipedream.com/app/nyckel) - Nyckel makes image and text classification easy for everyone. In just a few minutes, you can build an AI model to categorize images and text using any labels you want. No machine learning experience needed.
  - [OCR Web Service MCP Server](https://mcp.pipedream.com/app/ocr_web_service) - OCRWebService.com provides a web service interfaces (SOAP and REST) which allows you to integrate Optical Character Recognition (OCR) technology into your software products, mobile devices or other web services.
  - [Ollama MCP Server](https://mcp.pipedream.com/app/ollama) - Get up and running with large language models.
+ - [OMEGA MCP Server](https://github.com/omega-memory/core) - Persistent memory for AI coding agents. Semantic search, auto-capture, cross-session learning, checkpoint/resume. #1 on LongMemEval (95.4%). Local-first, 25 MCP tools.
  - [OpenAI (ChatGPT) MCP Server](https://mcp.pipedream.com/app/openai) - OpenAI is an AI research and deployment company with the mission to ensure that artificial general intelligence benefits all of humanity. They are the makers of popular models like ChatGPT, DALL-E, and Whisper.
  - [OpenPerplex MCP Server](https://mcp.pipedream.com/app/openperplex) - Seamlessly integrate advanced content retrieval and search into your applications.
  - [OpenRouter MCP Server](https://mcp.pipedream.com/app/openrouter) - A unified interface for LLMs
