@@ -1725,6 +1725,7 @@ A unique dashboard packed with innovative tools, all designed for a flawless use
  - [Oxford Dictionaries MCP Server](https://mcp.pipedream.com/app/oxford_dictionaries) - Helping the world work, play, and communicate through our world-renowned Oxford Dictionaries data, brought to you by Oxford University Press.
  - [Rev MCP Server](https://mcp.pipedream.com/app/rev) - Affordable, accurate, easy-to-use speech-to-text solutions powered by people and A.I working together. Rev offers transcripts, captions, subtitles, and more.
  - [Sonix MCP Server](https://mcp.pipedream.com/app/sonix) - Automated transcription, translation, and subtitling. Over 40 languages supported. Fast, accurate, and affordable.
+ - [Speech AI MCP Server](https://github.com/fasuizu-br/speech-ai-examples) - Speech AI platform with pronunciation assessment (phoneme-level scoring, 17MB model, <300ms), text-to-speech, and speech-to-text. 8 MCP tools for language learning, accessibility, and voice applications.
  - [Temi MCP Server](https://mcp.pipedream.com/app/temi) - Temi is an audio transcription service that uses computers to transcribe English audio or video into text. We also offer rich editing tools that you can use to annotate and edit your transcripts.
  - [TextRazor MCP Server](https://mcp.pipedream.com/app/textrazor) - The Natural Language Processing API
  - [Transifex MCP Server](https://mcp.pipedream.com/app/transifex) - Grow revenue and take your business global with AI empowered translation and localization.
