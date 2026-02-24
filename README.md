@@ -1044,6 +1044,7 @@ Designed to increase your Growth 🚀"
  - [Axesso Data Service - Amazon MCP Server](https://mcp.pipedream.com/app/axesso_data_service) - Axesso is your real-time data API to collect structured information from various sources like Amazon, Walmart, Otto, Facebook, Instagram and many more.
  - [Aylien News API MCP Server](https://mcp.pipedream.com/app/aylien_news_api) - Build intelligent applications, processes, and models with real-time access to enriched, tagged, and structured news feeds.
  - [Baremetrics MCP Server](https://mcp.pipedream.com/app/baremetrics) - 
+ - [BGPT MCP](https://github.com/connerlambden/bgpt-mcp) - Search scientific papers with structured experimental data extracted from full-text studies, including methods, results, sample sizes, and quality scores
  - [Big Data Cloud MCP Server](https://mcp.pipedream.com/app/big_data_cloud) - BigData Cloud provides the industry’s most performant, scalable and flexible APIs. Built for eCommerce, Ad Agencies, Financial Institution, Saas, CRM Systems.
  - [BigDataCorp MCP Server](https://mcp.pipedream.com/app/bigdatacorp) - The data platform for the digital age! The best data on the market in an ethical and transparent way.
  - [Bigpicture.io MCP Server](https://mcp.pipedream.com/app/bigpicture_io) - BigPicture provides company APIs for data-driven B2B teams.
