@@ -1867,6 +1867,7 @@ The Fomo app does this by enabling online experience that feels like a busy stor
  - [Front MCP Server](https://mcp.pipedream.com/app/frontapp) - Customer communication platform
  - [Frontify MCP Server](https://mcp.pipedream.com/app/frontify) - Where Brands Live – Brand Management Software
  - [FullEnrich MCP Server](https://mcp.pipedream.com/app/fullenrich) - B2B Email & Phone Waterfall Enrichment
+ - [GEOScore MCP Server](https://github.com/henu-wang/geoscore-mcp) - AI search optimization (GEO). Scan websites for AI search readiness, generate llms.txt, Schema.org fixes, and meta tag optimizations. `TypeScript`
  - [GetResponse MCP Server](https://mcp.pipedream.com/app/getresponse) - Trusted Inbound Marketing Software
  - [Getswift MCP Server](https://mcp.pipedream.com/app/getswift) - GetSwift is a technology & services co. helping businesses build, manage & optimize their delivery & business systems
  - [Gist MCP Server](https://mcp.pipedream.com/app/gist) - Build personal relationships at scale. Gist offers live chat, email marketing automation, event tracking, and more.
