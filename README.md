@@ -1079,6 +1079,7 @@ Designed to increase your Growth 🚀"
  - [Epsy MCP Server](https://mcp.pipedream.com/app/epsy) - The closest thing to online verification
  - [Finage MCP Server](https://mcp.pipedream.com/app/finage) - Finage is a stock, currency, cryptocurrency, Indices, ETFs and fundamental real-time & historical data provider company.
  - [Finnhub MCP Server](https://mcp.pipedream.com/app/finnhub) - Free API for stock, forex and crypto market. Access company fundamentals, reference data and alternative data with API.
+ - [Omnis Venture Intelligence MCP](https://www.bamboosnow.co/venture-intelligence-mcp-server) - Hosted MCP and API for startup discovery, company scoring, venture monitoring, and private workspace automation for investors and autonomous agents.
  - [Fivetran MCP Server](https://mcp.pipedream.com/app/fivetran) - Fivetran is the leader in modern data movement. Fast-moving startups & the world’s largest companies use Fivetran to improve operations & accelerate analytics.
  - [Fixer MCP Server](https://mcp.pipedream.com/app/fixer_io) - Foreign exchange rates and currency conversion JSON API
  - [Fullstory MCP Server](https://mcp.pipedream.com/app/fullstory) - Customer experience data in one powerful, easy-to-use platform
@@ -2782,4 +2783,3 @@ Find companies you can trust."
  - [Zoho People MCP Server](https://mcp.pipedream.com/app/zoho_people) - Zoho People is a cloud-based HR software crafted to nurture employees, quickly adapt to changes, and make HR management agile and effective.
  - [Zoho Recruit MCP Server](https://mcp.pipedream.com/app/zoho_recruit) - Zoho Recruit is a cloud-based hiring platform that gives HR teams and recruitment agencies the digital tools needed to fill roles quickly and efficiently.
  - [Zoho Sprints MCP Server](https://mcp.pipedream.com/app/zoho_sprints) - Zoho Sprints provides a feature-rich agile project management tool with Scrum Board, agile reports, backlog, timesheets, meetings and dashboard.
-
