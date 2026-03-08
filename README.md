@@ -139,6 +139,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
  - [InsertChat MCP Server](https://mcp.pipedream.com/app/insertchat) - Best AI Chatbot Creator With Your Data And Brand.
  - [Insighto.ai MCP Server](https://mcp.pipedream.com/app/insighto_ai) - AI Agent Builder: Build, Customize, & Deploy.
  - [Intellexer API MCP Server](https://mcp.pipedream.com/app/intellexer_api) - The Intellexer API enables developers to embed Intellexer semantic products into consumer or enterprise applications or web-services using XML or JSON.
+ - [IteraTools MCP Server](https://api.iteratools.com) - Multi-tool API for AI agents: image generation (Flux), web scraping, TTS, OCR, browser automation, code execution, DNS lookup, WHOIS, weather, crypto, QR codes, charts, and 34+ tools. Pay-per-use with x402 protocol.
  - [JigsawStack MCP Server](https://mcp.pipedream.com/app/jigsawstack) - The AI SDK for every tech stack.
  - [Jina Reader MCP Server](https://mcp.pipedream.com/app/jina_reader) - Convert a URL to LLM-friendly input, by simply adding r.jina.ai in front.
  - [Kindo MCP Server](https://mcp.pipedream.com/app/kindo) - Enterpise-Ready Agentic Security
