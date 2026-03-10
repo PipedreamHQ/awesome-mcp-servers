@@ -184,6 +184,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
  - [Reform MCP Server](https://mcp.pipedream.com/app/reform) - Paperwork automation for the logistics industry.
  - [Relevance AI MCP Server](https://mcp.pipedream.com/app/relevance_ai) - The fastest platform to build and deploy AI apps & agents. Home of the AI Workforce.
  - [Rev.ai MCP Server](https://mcp.pipedream.com/app/rev_ai) - Accurate Speech-to-Text APIs for all of your speech recognition needs
+ - [Roundtable MCP Server](https://github.com/deadpixel/roundtable-dashboard) - Multi-model AI debates: GPT-4o, Claude, Gemini & 200+ models discuss your question, then a moderator synthesizes the best answer. 13 tools for code review, debugging, architecture, and more. [Website](https://roundtable.now)
  - [RunPod MCP Server](https://mcp.pipedream.com/app/runpod) - The Cloud Built for AI
  - [Runware MCP Server](https://mcp.pipedream.com/app/runware) - Low Cost, Ultra-Fast Stable Diffusion API
  - [Sapling.ai MCP Server](https://mcp.pipedream.com/app/sapling_ai) - Language models for enterprise applications.
