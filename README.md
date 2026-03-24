@@ -42,6 +42,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 ### <a name="artificial-intelligence"></a>Artificial Intelligence (AI)
 
  - [AgentQL MCP Server](https://mcp.pipedream.com/app/agentql) - Make the Web AI-Ready
+- [claw-army/claude-node](https://github.com/claw-army/claude-node) - Python subprocess bridge for Claude Code CLI, giving Python code direct access to Claude Code native capabilities via stream-json.
  - [Agenty MCP Server](https://mcp.pipedream.com/app/agenty) - Robotic Process Automation Software
  - [AI Textraction MCP Server](https://mcp.pipedream.com/app/ai_textraction) - Extract any custom user-defined entities from free text such as names, dates, prices and more!
  - [AI/ML API MCP Server](https://mcp.pipedream.com/app/ai_ml_api) - Access 200+ AI Models with a Single AI API
