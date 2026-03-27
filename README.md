@@ -2574,6 +2574,8 @@ Visit www.ragic.com to get started with your free database!"
 
 ### <a name="other"></a>Other
 
+ - [Useful AI MCP Server](https://smithery.ai/servers/useful-ai/useful-ai-mcp) - A dynamic server with 165+ pre-built utility tools (unit conversion, data normalization, text parsing). No API key required.
+
  - [Acelle Mail MCP Server](https://mcp.pipedream.com/app/acelle_mail) - Acelle Mail is a self-hosted, full-featured, easy to use Email Marketing Web Application
  - [Affinda MCP Server](https://mcp.pipedream.com/app/affinda) - Use AI to do your document processing, and free your team to do the real work
  - [Airmeet MCP Server](https://mcp.pipedream.com/app/airmeet) - Virtual and hybrid event experiences with a real human connection.
