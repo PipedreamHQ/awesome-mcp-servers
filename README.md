@@ -2507,6 +2507,7 @@ Natively integrate user research with minimal dev attention, privacy-first."
  - [Okta MCP Server](https://mcp.pipedream.com/app/okta) - Okta is a cloud-based identity and access management (IAM) company that provides single sign-on (SSO) and multi-factor authentication (MFA) services. Okta's platform allows users to securely access applications from any device, at any time, and from anywhere.
  - [Overledger MCP Server](https://mcp.pipedream.com/app/overledger) - Overledger Platform. The enterprise standard for building on blockchain.
  - [Owl Protocol MCP Server](https://mcp.pipedream.com/app/owl_protocol) - Full-Stack Web3 Development with Smart Wallets, REST APIs, and Integrated Workflows
+ - [PageBolt MCP Server](https://mcp.pipedream.com/app/pagebolt) - Hosted web capture MCP server: screenshots, PDFs, narrated video recording, and page inspection. REST API + MCP. No infrastructure required.
  - [Parser Expert MCP Server](https://mcp.pipedream.com/app/parser_expert) - Extract Specific Data from Documents & Webpages Precisely with AI.
  - [Parsio.io MCP Server](https://mcp.pipedream.com/app/parsio_io) - No-code email parser. Extract & export the valuable data from your emails, PDFs and any documents 🤖
  - [PDF Toolkit by CustomJS MCP Server](https://mcp.pipedream.com/app/customjs) - Integrate custom logic with JavaScript into any software
