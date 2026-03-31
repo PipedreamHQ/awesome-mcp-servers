@@ -205,6 +205,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
  - [Thoughtful GPT MCP Server](https://mcp.pipedream.com/app/thoughtful_gpt) - AI Collaboration Tools to Supercharge your Team.
  - [Tiledesk MCP Server](https://mcp.pipedream.com/app/tiledesk) - We help people from all around the world to build chatbots and conversational apps.
  - [Tisane Labs MCP Server](https://mcp.pipedream.com/app/tisane_labs) - Home of cutting edge, explainable AI software that turns unstructured content into meaningful insights.
+ - [ToolRouter](https://toolrouter.com) - Give your AI agent superpowers with access to 150+ tools on demand with just one account. One API key replaces managing dozens of provider accounts. `npx -y toolrouter-mcp`
  - [Tuesday MCP Server](https://mcp.pipedream.com/app/tuesday) - Scale Personalized Outreach with AI
  - [TurboHire MCP Server](https://mcp.pipedream.com/app/turbohire) - 
  - [Twin MCP Server](https://mcp.pipedream.com/app/twin) - Never do the same thing twice
