@@ -2295,6 +2295,8 @@ A weather forecast API, built as a compatible alternative to the Dark Sky API."
 
 ### <a name="social-media"></a>Social Media
 
+ - [SocialBu MCP Server](https://github.com/usamaejaz/socialbu-mcp) - Social media management MCP server for SocialBu. Lets AI agents create, schedule, publish, analyze, and manage posts across supported social platforms. Remote endpoint: https://socialbu.com/mcp
+
  - [Bluesky MCP Server](https://mcp.pipedream.com/app/bluesky) - Bluesky is an open network. With one account, you can access both an easy-to-use social network and a shared identity across the entire social internet.
  - [Dev.to MCP Server](https://mcp.pipedream.com/app/dev_to) - Where programmers share ideas and help each other grow.
  - [Mediatoolkit MCP Server](https://mcp.pipedream.com/app/mediatoolkit) - Monitor Online Mentions of your brand in real-time. Know every article, hashtag or comment mentioning your business.
