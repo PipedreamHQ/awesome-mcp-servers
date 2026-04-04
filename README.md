@@ -1282,6 +1282,7 @@ Build scalable DApps, faster ⚡"
  - [ngrok MCP Server](https://mcp.pipedream.com/app/ngrok) - API Gateway, IoT Device Gateway, Secure Tunnels for Containers, Apps & APIs
  - [Ninox MCP Server](https://mcp.pipedream.com/app/ninox) - Ninox is the software with which anyone can develop individual business applications without programming knowledge.
  - [nocodb MCP Server](https://mcp.pipedream.com/app/nocodb) - Free & open source Airtable alternative
+ - [Nucleus MCP Server](https://github.com/eidetic-works/nucleus-mcp) - 114 MCP tools for persistent memory, execution verification, governance, and compliance. Local-first.
  - [Nutrient Document Web Services API MCP Server](https://mcp.pipedream.com/app/nutrient_document_web_services_api) - PDF API Tools: Fast Setup with 25+ PDF Tools
  - [OCRSpace MCP Server](https://mcp.pipedream.com/app/ocrspace) - The OCR.space Online OCR service converts scans or (smartphone) images of text documents into editable files by using Optical Character Recognition (OCR). The OCR software also can get text from PDF . Our Online OCR service is free to use, no registration necessary. Just upload your image files.
  - [OpenGraph.io MCP Server](https://mcp.pipedream.com/app/opengraph_io) - A very simple Open Graph API. Don't waste time and resources scraping sites or trying to unfurl urls.
