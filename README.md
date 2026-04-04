@@ -1325,6 +1325,7 @@ Connect provides managed authentication, approved client IDs, durable components
  - [Testmo MCP Server](https://mcp.pipedream.com/app/testmo) - The #1 unified test management tool. All your manual, exploratory & automated tests in one powerful platform. Full integration with Jira, GitHub, GitLab & more.
  - [TestMonitor MCP Server](https://mcp.pipedream.com/app/testmonitor) - TestMonitor, a modern software tool for functional, user- and acceptance tests of software implementations with one goal only: Testing with a smile!
  - [TRIGGERcmd MCP Server](https://mcp.pipedream.com/app/triggercmd) - "TRIGGERcmd is a cloud service that allows you to securely and remotely run commands on your computers.
+ - [ToolPipe MCP Server](https://github.com/COSAI-Labs/toolpipe-mcp-server) - 120+ developer utility MCP tools: code review, JSON/CSV/XML/YAML conversion, QR codes, hashing, DNS lookup, security headers, Docker Compose generation. Zero install via remote URL or npx.
 Your commands could install updates, open your garage, run a script, or anything else you decide."
  - [WakaTime MCP Server](https://mcp.pipedream.com/app/wakatime) - "Dashboards for developers
 Open source plugins for metrics about your programming"
