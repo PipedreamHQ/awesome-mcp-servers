@@ -1250,6 +1250,7 @@ Build scalable DApps, faster ⚡"
  - [Dromo MCP Server](https://mcp.pipedream.com/app/dromo) - Dromo is a self-service data file importer that deploys in minutes. Embed in your app or trigger via API to handle csv, xls, xlsx and more.
  - [EasyCSV MCP Server](https://mcp.pipedream.com/app/easycsv) - Add a spreadsheet import to your app in minutes. Send spreadsheet data to a webhook or an App.
  - [elmah.io MCP Server](https://mcp.pipedream.com/app/elmah_io) - elmah.io is the easy error logging and uptime monitoring service for .NET. Take back control of your errors with support for all .NET web and logging frameworks.
+ - [Embody](https://github.com/dylanroscover/Embody) - MCP server for TouchDesigner — 45 tools let AI assistants create operators, set parameters, wire connections, and manage projects through natural conversation
  - [Error MCP Server](https://mcp.pipedream.com/app/error) - Quickly an easily throw an error in your workflow so you can quickly catch, debug, and fix any issues.
  - [Fibery MCP Server](https://mcp.pipedream.com/app/fibery) - Connected workspace for teams
  - [FileStack MCP Server](https://mcp.pipedream.com/app/filestack) - The #1 File Handling Service for Developers.
