@@ -599,6 +599,7 @@ Find more products by UPC, EAN, and ISBN than anywhere else on the Web."
  - [MX Technologies MCP Server](https://mcp.pipedream.com/app/mx_technologies) - MX is a fintech company that offers open banking, bank APIs, mobile banking, and more via modern connectivity and data enhancement.
  - [Nasdaq Data Link (Time Series and Table data) MCP Server](https://mcp.pipedream.com/app/nasdaq_data_link_time_series_and_table_data_) - Nasdaq Data Link is a powerful, centralized, cloud-based technology platform providing access to more than 250 trusted data sets, available via API. Search, discover and build.
  - [neetoinvoice MCP Server](https://mcp.pipedream.com/app/neetoinvoice) - Simple invoicing and time tracking tool. It's forever free.
+ - [Newsletter Commerce MCP](https://github.com/teamsincetoday/newsletter-commerce-mcp) - Extracts products, brands, and deals from newsletter content. Returns structured commerce data with confidence scores. F1 accuracy: 97%. Free tier: 200 calls/day. Install: `npx newsletter-commerce-mcp`
  - [Omnisend MCP Server](https://mcp.pipedream.com/app/omnisend) - Marketing automation built for ecommerce. Increase your sales, not your workload.
  - [OpenSea MCP Server](https://mcp.pipedream.com/app/opensea) - Discover, collect, and sell extraordinary NFTs. OpenSea is the world's first and largest NFT marketplace.
  - [OpenSRS MCP Server](https://mcp.pipedream.com/app/opensrs) - Reseller Platform for Domains, Email, and SSL
@@ -615,6 +616,7 @@ Find more products by UPC, EAN, and ISBN than anywhere else on the Web."
  - [Pinterest MCP Server](https://mcp.pipedream.com/app/pinterest) - Pinterest is a visual discovery engine for finding ideas like recipes, home and style inspiration, and more.
  - [Plaid MCP Server](https://mcp.pipedream.com/app/plaid) - Connect to users' bank accounts.
  - [Plisio MCP Server](https://mcp.pipedream.com/app/plisio) - Accept Crypto on Your Website.
+ - [Podcast Commerce MCP](https://github.com/teamsincetoday/podcast-commerce-mcp) - Extracts products, brands, and affiliate opportunities from podcast transcripts. Speaker attribution, sponsor intelligence, cross-show aggregation. F1 accuracy: 100%. Free tier: 200 calls/day. Install: `npx podcast-commerce-mcp`
  - [Polygon.io MCP Server](https://mcp.pipedream.com/app/polygon_io) - Polygon empowers participation in the financial markets by providing fair access to market data through a developer-focused platform.
  - [PolygonScan MCP Server](https://mcp.pipedream.com/app/polygonscan) - Blockchain explorer for the Polygon (MATIC) network.
  - [Poof MCP Server](https://mcp.pipedream.com/app/poof) - Empowering millions of digital businesses & creators with payments from crypto to fiat.
@@ -629,6 +631,7 @@ Find more products by UPC, EAN, and ISBN than anywhere else on the Web."
  - [Quickbooks Sandbox MCP Server](https://mcp.pipedream.com/app/quickbooks_sandbox) - Online accounting software
  - [Razorpay MCP Server](https://mcp.pipedream.com/app/razorpay) - Power your finance, grow your business. Accept payments from customers. Automate payouts to vendors & employees. Never run out of working capital.
  - [ReCharge MCP Server](https://mcp.pipedream.com/app/recharge) - Subscriptions & Recurring Payments for Ecommerce
+ - [Recipe Commerce MCP](https://github.com/teamsincetoday/recipe-commerce-mcp) - Matches recipe ingredients to affiliate products and extracts structured ingredient lists with brand matching. F1 accuracy: 100%. Free tier: 200 calls/day. Install: `npx recipe-commerce-mcp`
  - [Recurly MCP Server](https://mcp.pipedream.com/app/recurly) - The subscription management platform delivering unrivaled results to smart brands worldwide.
  - [Refersion MCP Server](https://mcp.pipedream.com/app/refersion) - Manage and track your ambassador, influencer and affiliate marketing programs with ease.
  - [RepairShopr MCP Server](https://mcp.pipedream.com/app/repairshopr) - RepairShopr is a platform to manage a service or repair business with job tracking (ticketing) and an emphasis on great communication.
@@ -667,6 +670,7 @@ Fast, convenient, and error-free, the Snapdocs digital mortgage closing platform
  - [Utradea MCP Server](https://mcp.pipedream.com/app/utradea) - Stock and Crypto Investment Ideas | Social Sentiment Analytics | Automated Due Diligence and Trade Alerts | Investment Community
  - [Verifone MCP Server](https://mcp.pipedream.com/app/verifone) - Online Payment Processing. Modern Commerce. Simplified.
  - [Veriphone MCP Server](https://mcp.pipedream.com/app/veriphone) - Phone number validation & carrier lookup.
+ - [Video Commerce MCP](https://github.com/teamsincetoday/video-commerce-mcp) - Extracts products, brands, and entities from video transcripts and descriptions for affiliate commerce intelligence. F1 accuracy: 100%. Free tier: 200 calls/day. Install: `npx video-commerce-mcp`
  - [Vosfactures MCP Server](https://mcp.pipedream.com/app/vosfactures) - Online Invoicing software for businesses entrepreneurs. Simple, fast and multifunctional. Efficiently create and manage custom invoices and quotes
  - [WhatsAble MCP Server](https://mcp.pipedream.com/app/whatsable) - Get customized WhatsApp Messages when you need it with our API.
  - [White Swan MCP Server](https://mcp.pipedream.com/app/white_swan) - White Swan’s digital platform and expert advisors makes it easy to get your clients any type of life insurance solution with the highest best-interest standards and most convenient experience.
