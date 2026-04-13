@@ -1552,6 +1552,7 @@ Add a live chat widget to your website, connect other channels, and automate sal
  - [Namely MCP Server](https://mcp.pipedream.com/app/namely) - Namely is the only HR, payroll, benefits, and talent management platform your employees will love.
  - [Niceboard MCP Server](https://mcp.pipedream.com/app/niceboard) - Modern and easy-to-use job board software.
  - [Onbee.app MCP Server](https://mcp.pipedream.com/app/onbee_app) - Onbee.app: Onboarding & Offboarding; digital employee card, HRIS
+ - [open-greenhouse-mcp](https://github.com/benmonopoli/open-greenhouse-mcp) - 175-tool MCP server for Greenhouse Recruiting. Pipeline views, analytics, batch operations, candidate search, resume reading, and full Harvest/Job Board/Ingestion API coverage.
  - [Oyster MCP Server](https://mcp.pipedream.com/app/oyster) - Automated Global Employment Platform
  - [Paylocity MCP Server](https://mcp.pipedream.com/app/paylocity) - Online HR & Payroll Built for Employees
  - [Personio MCP Server](https://mcp.pipedream.com/app/personio) - Europe’s most valuable HR tech company offering an all-in-one HR software for SMEs.
