@@ -2632,6 +2632,7 @@ Visit www.ragic.com to get started with your free database!"
 With customizable modes, interactive features, insightful analytics, powerful integrations, and flexible pricing, our intuitive webinar platform has everything you need to host virtual events of all sizes."
  - [Gryd MCP Server](https://mcp.pipedream.com/app/gryd) - Unleash the Power of Real-Time Vehicle Data: Accelerate Your Applications and Drive Innovation with our Seamless Integration and Developer-first Platform.
  - [Handwrytten MCP Server](https://mcp.pipedream.com/app/handwrytten) - Automate your handwritten correspondence. Send real notes w/ your message written in pen by robots.
+ - [Helium MCP Server](https://github.com/connerlambden/helium-mcp) - Real-time news with bias scoring, live market data, AI options pricing, balanced news synthesis. Remote MCP: https://heliumtrades.com/mcp
  - [HighLevel (OAuth) MCP Server](https://mcp.pipedream.com/app/highlevel_oauth) - HighLevel is a subscription-based all-in-one marketing and customer relationship management solution for agencies and professionals.
  - [Hookdeck MCP Server](https://mcp.pipedream.com/app/hookdeck) - Never miss a webhook again. Our reliable webhook infrastructure gives you full visibility over your webhooks.
  - [Hootsuite MCP Server](https://mcp.pipedream.com/app/hootsuite) - Social media management platform.
