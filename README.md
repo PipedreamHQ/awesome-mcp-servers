@@ -2261,6 +2261,7 @@ ProWorkflow is an online project management software that enables you to keep ac
 
  - [Bitdefender GravityZone MCP Server](https://mcp.pipedream.com/app/bitdefender_gravityzone) - Cyber Security Platform
  - [HackerOne MCP Server](https://mcp.pipedream.com/app/hackerone) - Attack Resistance Platform combines the most creative human intelligence with the latest artificial intelligence to reduce threat exposure at all stages of the software development lifecycle.
+ - [Operant MCP Server](https://github.com/operantlabs/operant-mcp) - Open-source MCP server with 51 security testing tools for pentesting, vulnerability scanning, and security auditing.
 
 ### <a name="home-automation"></a>Smart Home Automation
 
