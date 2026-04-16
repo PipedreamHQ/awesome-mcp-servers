@@ -1,2785 +1,1809 @@
-# Awesome MCP Servers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-A curated list of awesome Model Context Protocol (MCP) servers.
-
-## What is MCP?
-
-[MCP](https://modelcontextprotocol.io/) is an open protocol that enables AI models to securely interact with local and remote resources through standardized server implementations. This list focuses on production-ready and experimental MCP servers that extend AI capabilities through file access, database connections, API integrations, and other contextual services.
-
-## Tutorials
-
-* [Model Context Protocol (MCP) Quickstart](https://glama.ai/blog/2024-11-25-model-context-protocol-quickstart)
-* [Setup Claude Desktop App to Use a SQLite Database](https://youtu.be/wxCCzo9dGj0)
-
-## Server Implementations
-
-* [Artificial Intelligence](#artificial-intelligence)
-* [Business Management](#business-management)
-* [Commerce](#commerce)
-* [Communication](#communication)
-* [Control Flow](#control-flow)
-* [CRM](#crm)
-* [Data Analytics](#data-analytics)
-* [Databases](#databases)
-* [Developer Tools](#developer-tools)
-* [Entertainment](#entertainment)
-* [File Storage](#file-storage)
-* [Help Desk & Support](#help-desk-support)
-* [Smart Home Automation](#home-automation)
-* [Human Resources](#human-resources)
-* [Infrastructure & Cloud](#infrastructure-cloud)
-* [Language Tools](#language-tools)
-* [Leanring & Education](#learning-education)
-* [Marketing](#marketing)
-* [Productivity](#productivity)
-* [Security](#security)
-* [Social Media](#social-media)
-* [Survey & Forms](#survey-forms)
-* [Travel](#travel)
-* [Web & App Development](#web-app-development)
-* [Other](#other)
-
-### <a name="artificial-intelligence"></a>Artificial Intelligence (AI)
-
- - [AgentQL MCP Server](https://mcp.pipedream.com/app/agentql) - Make the Web AI-Ready
- - [Agenty MCP Server](https://mcp.pipedream.com/app/agenty) - Robotic Process Automation Software
- - [AI Textraction MCP Server](https://mcp.pipedream.com/app/ai_textraction) - Extract any custom user-defined entities from free text such as names, dates, prices and more!
- - [AI/ML API MCP Server](https://mcp.pipedream.com/app/ai_ml_api) - Access 200+ AI Models with a Single AI API
- - [Aidbase MCP Server](https://mcp.pipedream.com/app/aidbase) - Aidbase - AI-Powered support for your SaaS startup
- - [AirOps MCP Server](https://mcp.pipedream.com/app/airops) - Build and scale LLM-powered workflows and chat assistants using AirOps Studio.
- - [Airparser MCP Server](https://mcp.pipedream.com/app/airparser) - Revolutionize data extraction with the GPT-powered document parser.
- - [AITable.ai MCP Server](https://mcp.pipedream.com/app/aitable_ai) - Automate data across 6,000+ apps
- - [Albus MCP Server](https://mcp.pipedream.com/app/albus) - AI Slack Search & Web Assistant.
- - [Aleph Alpha (Luminous) MCP Server](https://mcp.pipedream.com/app/luminous) - Europe's most sophisticated AI base technology for your value creation.
- - [AlgoDocs MCP Server](https://mcp.pipedream.com/app/algodocs) - Intelligent Document Processing - AI-Powered Document Data Extraction
- - [Algomo MCP Server](https://mcp.pipedream.com/app/algomo) - Multilingual Customer Service, powered by Generative AI
- - [Algorithmia MCP Server](https://mcp.pipedream.com/app/algorithmia) - Algorithmia is community algorithm development
- - [All-Images.ai MCP Server](https://mcp.pipedream.com/app/all_images_ai) - Take advantage of unique, original, exclusive, personalized and royalty-free visuals for all your projects.
- - [Alphamoon MCP Server](https://mcp.pipedream.com/app/alphamoon) - AI-Based Document Automation & Data Extraction
- - [AltText.ai MCP Server](https://mcp.pipedream.com/app/alttext_ai) - Automatically generate alt text for images in over 130 languages. Improve SEO and site accessibility. Integrations for WordPress, Shopify, web, CMS, and more.
- - [Anchor Browser MCP Server](https://mcp.pipedream.com/app/anchor_browser) - Browser For AI Agents
- - [Anthropic (Claude) MCP Server](https://mcp.pipedream.com/app/anthropic) - AI research and products that put safety at the frontier. Introducing Claude, a next-generation AI assistant for your tasks, no matter the scale.
- - [API Labz MCP Server](https://mcp.pipedream.com/app/api_labz) - Streamline your workflows, automate tasks, and build innovative applications with our comprehensive suite of AI tools and APIs.
- - [api4ai MCP Server](https://mcp.pipedream.com/app/api4ai) - api4ai offers a multitude of ready-to-use AI APIs to extract information from your images.
- - [APIpie.ai MCP Server](https://mcp.pipedream.com/app/apipie_ai) - APIpie AI is your gateway to global AI. Home of the worlds fastest, least expensive and most reliable AI.
- - [Aryn MCP Server](https://mcp.pipedream.com/app/aryn) - Unlock your unstructured data with only a few lines of code.
- - [astica.ai MCP Server](https://mcp.pipedream.com/app/astica_ai) - Integrate artificial intelligence into your applications without deploying models and no infra.
- - [AutoBlogger MCP Server](https://mcp.pipedream.com/app/autoblogger) - Automatically create and publish posts Set it up once and then redirect your focus to more important tasks.
- - [Autobound MCP Server](https://mcp.pipedream.com/app/autobound) - The ChatGPT for sales emails.
- - [Azure AI Vision MCP Server](https://mcp.pipedream.com/app/azure_ai_vision) - Azure AI Vision is a unified service that offers innovative computer vision capabilities. Give your apps the ability to analyze images, read text, and detect faces with prebuilt image tagging, text extraction with optical character recognition (OCR), and responsible facial recognition. Incorporate vision features into your projects with no machine learning experience required.
- - [Azure Speech Service MCP Server](https://mcp.pipedream.com/app/azure_speech_service) - A managed service offering industry-leading speech capabilities such as speech-to-text, text-to-speech, speech translation, and speaker recognition.
- - [bot9 MCP Server](https://mcp.pipedream.com/app/bot9) - AI chatbot builder for customer support.
- - [Botcake MCP Server](https://mcp.pipedream.com/app/botcake) - Chatbot marketing made easy.
- - [Botmaker MCP Server](https://mcp.pipedream.com/app/botmaker) - The most advanced conversational platform that allows you to give smart and fast answers to your customers in all digital channels.
- - [BotX MCP Server](https://mcp.pipedream.com/app/botx) - Build AI Workflows with ChatGPT & More No-code
- - [BrainShop MCP Server](https://mcp.pipedream.com/app/brainshop) - Delight your customers with conversational A.I. today.
- - [Browserbase MCP Server](https://mcp.pipedream.com/app/browserbase) - A web browser for AI agents & applications
- - [Bruzu MCP Server](https://mcp.pipedream.com/app/bruzu) - Simple Image API
- - [Budgets.ai MCP Server](https://mcp.pipedream.com/app/budgets_ai) - Generative AI-driven platform that help sales and marketing teams identify and predict relevant budgets.
- - [BurstyAI MCP Server](https://mcp.pipedream.com/app/burstyai) - The Autopilot AI Workers For Small Business Growth
- - [Castmagic MCP Server](https://mcp.pipedream.com/app/castmagic) - 10x Audio Content With AI.
- - [ChainAware.ai MCP Server](https://mcp.pipedream.com/app/chainaware_ai) - Crypto Wallet Auditor
- - [Chaindesk MCP Server](https://mcp.pipedream.com/app/chaindesk) - Build ChatGPT Agents trained on custom data.
- - [Chatbot Builder MCP Server](https://mcp.pipedream.com/app/chatbot_builder) - Build Custom Chatbots and GPTs for Your Website, Social Media, Texting Messaging, Phone Calls, & More!
- - [ChatBotKit MCP Server](https://mcp.pipedream.com/app/chatbotkit) - ChatBotKit helps you create conversational AI chatbots with your own data to communicate naturally with users on your website, Slack, Discord and WhatsApp.
- - [ChatFly MCP Server](https://mcp.pipedream.com/app/chatfly) - ChatFly assists businesses in creating, testing, launching, and managing. AI Chatbots for various use cases or channels - at scale.
- - [Chatlayer MCP Server](https://mcp.pipedream.com/app/chatlayer) - Power your business with #AI | Build voice- and #chatbots in 100+ languages, no coding skills needed
- - [Claid AI MCP Server](https://mcp.pipedream.com/app/claid_ai) - Transform e-commerce visuals effortlessly with Claid AI. From image enhancements to AI Photoshoots, create professional product photos that drive conversion 📸✨
- - [Cody MCP Server](https://mcp.pipedream.com/app/cody) - The magic of ChatGPT meets the expertise of a custom-made AI assistant trained on your specific business.
- - [Columns Ai MCP Server](https://mcp.pipedream.com/app/columns_ai) - The simple platform to build data stories.
- - [Contact Enhance MCP Server](https://mcp.pipedream.com/app/contact_enhance) - A bot that enriches your business contact data.
- - [ContentGroove MCP Server](https://mcp.pipedream.com/app/contentgroove) - Create video highlights using generative AI.
- - [Cradl AI MCP Server](https://mcp.pipedream.com/app/cradl_ai) - Automate internal document processes with AI.
- - [CustomGPT MCP Server](https://mcp.pipedream.com/app/customgpt) - CustomGPT lets you easily build your own chatbot with your own data.
- - [Datarobot MCP Server](https://mcp.pipedream.com/app/datarobot) - Enterprise AI
- - [Datumbox MCP Server](https://mcp.pipedream.com/app/datumbox) - Datumbox offers an innovative Machine Learning platform specialized in Natural Language Processing.
- - [Deepgram MCP Server](https://mcp.pipedream.com/app/deepgram) - Intelligent, high accuracy speech recognition built for business
- - [DeepImage MCP Server](https://mcp.pipedream.com/app/deepimage) - AI Image Enhancer to Generate & Upscale
- - [DeepSeek MCP Server](https://mcp.pipedream.com/app/deepseek) - DeepSeek is an AI-powered tool that helps developers quickly find, understand, and optimize code using natural language search and contextual suggestions. It integrates seamlessly with your workflow, offering insights into your codebase to improve productivity and code quality. Perfect for teams and solo developers, DeepSeek simplifies code navigation and accelerates development.
- - [Documenterra MCP Server](https://mcp.pipedream.com/app/documenterra) - Documenterra is a system for creating corporate knowledge bases and company documentation sites.
- - [DopplerAI MCP Server](https://mcp.pipedream.com/app/dopplerai) - DopplerAI is a single API for memory, data processing and scaling vector databases.
- - [Droxy MCP Server](https://mcp.pipedream.com/app/droxy) - The ultimate AI chatbot builder.
- - [Dust MCP Server](https://mcp.pipedream.com/app/dust) - Build custom AI assistants to speed up your work.
- - [E2B MCP Server](https://mcp.pipedream.com/app/e2b) - Open-source Code Interpreting for AI Apps.
- - [Eagle Doc MCP Server](https://mcp.pipedream.com/app/eagle_doc) - Document Processing - AI-Powered, Fast, Reliable and Accurate Invoice OCR and Receipt OCR API for Seamless Integration into Your Application.
- - [Easy-Peasy.AI MCP Server](https://mcp.pipedream.com/app/easy_peasy_ai) - Best AI Writer, Content Generator & Copywriting Assistant.
- - [Extracta.ai MCP Server](https://mcp.pipedream.com/app/extracta_ai) - AI Data Extraction Tool for Documents and Images
- - [EyePop.ai MCP Server](https://mcp.pipedream.com/app/eyepop_ai) - Effortless Computer Vision. Streamlining visual data analysis for easy, accessible AI-powered insights. Build your tailored AI application with EyePop.
- - [fal.ai MCP Server](https://mcp.pipedream.com/app/fal_ai) - The generative media platform for developers
- - [Faraday MCP Server](https://mcp.pipedream.com/app/faraday) - Faraday lets you embed AI in workflows throughout your stack—to make your favorite tools perform even better
- - [Fireflies MCP Server](https://mcp.pipedream.com/app/fireflies) - Fireflies.ai helps your team transcribe, summarize, search, and analyze voice conversations.
- - [Flash (by Velora AI) MCP Server](https://mcp.pipedream.com/app/flash_by_velora_ai) - Flash (by Velora AI) is an AI copilot for product and growth leaders.
- - [Flipando MCP Server](https://mcp.pipedream.com/app/flipando) - Boost Your Team's Efficiency and Superpowers with AI! Transform your business and workflows from ordinary to extraordinary.
- - [FlowiseAI MCP Server](https://mcp.pipedream.com/app/flowiseai) - Open source UI visual tool to build LLM apps.
- - [Gan.AI MCP Server](https://mcp.pipedream.com/app/gan_ai) - Personalized videos at scale.
- - [Genderize MCP Server](https://mcp.pipedream.com/app/genderize) - Find Gender From a Name - Accurate Gender Classification API.
- - [Generated Photos MCP Server](https://mcp.pipedream.com/app/generated_photos) - Unique, worry-free model photos
- - [Google Cloud Vision MCP Server](https://mcp.pipedream.com/app/google_cloud_vision_api) - Image recognition through pre-trained REST & RPC API models.
- - [Google Gemini MCP Server](https://mcp.pipedream.com/app/google_gemini) - Google Gemini is a multimodal AI by DeepMind that processes text, audio, images, and more.
- - [Google Vertex AI MCP Server](https://mcp.pipedream.com/app/google_vertex_ai) - Vertex AI offers everything you need to build and use generative AI—from AI solutions, to Search and Conversation, to 130+ foundation models, to a unified AI platform.
- - [gpt-trainer MCP Server](https://mcp.pipedream.com/app/gpt_trainer) - Create a personalized AI chatbot using your own data
- - [GPTZero: Detect AI MCP Server](https://mcp.pipedream.com/app/gptzero_detect_ai) - AI Detector - the Original AI Checker for ChatGPT & More
- - [Griptape MCP Server](https://mcp.pipedream.com/app/griptape) - AI Agent Framework & AI Development Platform
- - [Groq Cloud MCP Server](https://mcp.pipedream.com/app/groqcloud) - Hyperfast LLM running on custom built GPU and the fastest interface in the world.
- - [Hansei MCP Server](https://mcp.pipedream.com/app/hansei) - Chat with your data using AI powered Assistants.
- - [Hathr AI MCP Server](https://mcp.pipedream.com/app/hathr_ai) - HIPAA Compliant AI Tools for Healthcare & HIPAA Compliant Claude
- - [Height MCP Server](https://mcp.pipedream.com/app/height) - Next-gen tool to get things done together.
- - [HeyGen MCP Server](https://mcp.pipedream.com/app/heygen) - AI-powered video creations at scale
- - [HoneyHive MCP Server](https://mcp.pipedream.com/app/honeyhive) - AI Observability and Evaluation Platform
- - [Hugging Face MCP Server](https://mcp.pipedream.com/app/hugging_face) - Build, train and deploy state of the art models powered by the reference open source in machine learning.
- - [HumanLayer MCP Server](https://mcp.pipedream.com/app/humanlayer) - API and SDK that enables AI Agents to contact humans for feedback, input, and approvals.
- - [HumanLoop MCP Server](https://mcp.pipedream.com/app/humanloop) - AI is the new platform. We help you build impactful applications on top of large language models and align these systems with human feedback.
- - [Hyperbrowser MCP Server](https://mcp.pipedream.com/app/hyperbrowser) - Cloud Browsers for your AI Agents
- - [Hystruct MCP Server](https://mcp.pipedream.com/app/hystruct) - Hystruct uses AI to help you scrape the web with ease.
- - [IBM Cloud - Natural Language Understanding MCP Server](https://mcp.pipedream.com/app/ibm_cloud_natural_language_understanding) - The natural language AI service for advanced text analytics
- - [IBM Cloud - Speech to Text MCP Server](https://mcp.pipedream.com/app/ibm_cloud_speech_to_text) - Speech to Text
- - [IdentityCheck MCP Server](https://mcp.pipedream.com/app/identitycheck) - Effortless Identity Verification in your existing software.
- - [Illumidesk MCP Server](https://mcp.pipedream.com/app/illumidesk) - IllumiDesk's interactive learning platform helps instructors save time, maximize learner engagement, and improve course quality with A.I.
- - [Imagga MCP Server](https://mcp.pipedream.com/app/imagga) - Imagga Image Recognition API provides solutions for image tagging & categorization, visual search, content moderation.
- - [InsertChat MCP Server](https://mcp.pipedream.com/app/insertchat) - Best AI Chatbot Creator With Your Data And Brand.
- - [Insighto.ai MCP Server](https://mcp.pipedream.com/app/insighto_ai) - AI Agent Builder: Build, Customize, & Deploy.
- - [Intellexer API MCP Server](https://mcp.pipedream.com/app/intellexer_api) - The Intellexer API enables developers to embed Intellexer semantic products into consumer or enterprise applications or web-services using XML or JSON.
- - [JigsawStack MCP Server](https://mcp.pipedream.com/app/jigsawstack) - The AI SDK for every tech stack.
- - [Jina Reader MCP Server](https://mcp.pipedream.com/app/jina_reader) - Convert a URL to LLM-friendly input, by simply adding r.jina.ai in front.
- - [Kindo MCP Server](https://mcp.pipedream.com/app/kindo) - Enterpise-Ready Agentic Security
- - [Koala AI MCP Server](https://mcp.pipedream.com/app/koala_ai) - Create high-quality SEO-optimized articles in minutes. KoalaWriter, powered by GPT-4, combines SERP analysis with real-time data to create content that ranks.
- - [KodaGPT MCP Server](https://mcp.pipedream.com/app/kodagpt) - Customer Communication: Customize ChatGPT to meet the unique needs of your business.
- - [Langbase MCP Server](https://mcp.pipedream.com/app/langbase) - Deploy serverless composable AI agents in mins, not months.
- - [Langfuse MCP Server](https://mcp.pipedream.com/app/langfuse) - Open source LLM engineering platform. Traces, evals, prompt management and metrics to debug and improve your LLM application.
- - [Leiga MCP Server](https://mcp.pipedream.com/app/leiga) - Next Generation of Teamwork. Unlock your team's potential with AI.
- - [Lightpanda MCP Server](https://mcp.pipedream.com/app/lightpanda) - Headless Chrome API with an innovative tailor-made browser for unmatched performance and efficiency in browser automation.
- - [Linkup MCP Server](https://mcp.pipedream.com/app/linkup) - Connect your AIs to the Web
- - [LiveKit MCP Server](https://mcp.pipedream.com/app/livekit) - Build realtime AI. Instantly transport audio + video between LLMs and your users.
- - [Llama AI MCP Server](https://mcp.pipedream.com/app/llama_ai) - API for Llama and Open-Source Models
- - [LLMWhisperer MCP Server](https://mcp.pipedream.com/app/llmwhisperer) - LLMWhisperer is a technology that presents data from complex documents to LLMs in a way that they can best understand.
- - [LMNT MCP Server](https://mcp.pipedream.com/app/lmnt) - Empowering creative expression through speech. Create emotive, human-like speech and custom voices that delight.
- - [LoyJoy MCP Server](https://mcp.pipedream.com/app/loyjoy) - LoyJoy is the Conversational Platform That Helps You Wow Customers, Triple Conversation Rates and Cut Project Times in Half.
- - [Maestra MCP Server](https://mcp.pipedream.com/app/maestra) - Automatic, fast, accurate transcription and captioning for journalists, students, podcasters. Audio to text in minutes.
- - [Matterport MCP Server](https://mcp.pipedream.com/app/matterport) - Capture, share, and collaborate the built world in immersive 3D.
- - [Mem MCP Server](https://mcp.pipedream.com/app/mem) - Your very own AI knowledge assistant.
- - [Metatext.AI Inference API MCP Server](https://mcp.pipedream.com/app/metatext_ai_inference_api) - Create and manage machines that read and write.
- - [Metatext.AI Pre-build AI models API MCP Server](https://mcp.pipedream.com/app/metatext_ai_pre_build_ai_models_api) - Create and manage machines that read and write.
- - [Microsoft Azure AI Translator MCP Server](https://mcp.pipedream.com/app/microsoft_azure_ai_translator) - Translate text instantly or in batches across more than 100 languages, powered by the latest innovations in machine translation
- - [MindStudio MCP Server](https://mcp.pipedream.com/app/mindstudio) - Create AI solutions – simple, fast, hassle-free
- - [Nano Nets MCP Server](https://mcp.pipedream.com/app/nano_nets) - Automate Document Workflows
- - [Needle MCP Server](https://mcp.pipedream.com/app/needle) - The Knowledge Threading Platform
- - [NEURONWriter MCP Server](https://mcp.pipedream.com/app/neuronwriter) - Content optimization with semantic SEO.
- - [Nyckel MCP Server](https://mcp.pipedream.com/app/nyckel) - Nyckel makes image and text classification easy for everyone. In just a few minutes, you can build an AI model to categorize images and text using any labels you want. No machine learning experience needed.
- - [OCR Web Service MCP Server](https://mcp.pipedream.com/app/ocr_web_service) - OCRWebService.com provides a web service interfaces (SOAP and REST) which allows you to integrate Optical Character Recognition (OCR) technology into your software products, mobile devices or other web services.
- - [Ollama MCP Server](https://mcp.pipedream.com/app/ollama) - Get up and running with large language models.
- - [OpenAI (ChatGPT) MCP Server](https://mcp.pipedream.com/app/openai) - OpenAI is an AI research and deployment company with the mission to ensure that artificial general intelligence benefits all of humanity. They are the makers of popular models like ChatGPT, DALL-E, and Whisper.
- - [OpenPerplex MCP Server](https://mcp.pipedream.com/app/openperplex) - Seamlessly integrate advanced content retrieval and search into your applications.
- - [OpenRouter MCP Server](https://mcp.pipedream.com/app/openrouter) - A unified interface for LLMs
- - [Originality.ai MCP Server](https://mcp.pipedream.com/app/originality_ai) - AI & Plagiarism Detector for Serious Content Publishers.
- - [Orimon MCP Server](https://mcp.pipedream.com/app/orimon) - Orimon helps you close deals 24*7 with ChatGPT like Sales Chatbots.
- - [Paigo MCP Server](https://mcp.pipedream.com/app/paigo) - SaaS Billing on Autopilot with Full Flexibility.
- - [Perplexity MCP Server](https://mcp.pipedream.com/app/perplexity) - Search and discovery with AI.
- - [PersanaAI MCP Server](https://mcp.pipedream.com/app/persanaai) - 10x Your Sales Prospecting with AI
- - [Pinecone MCP Server](https://mcp.pipedream.com/app/pinecone) - Long-term Memory for AI. The Pinecone vector database makes it easy to build high-performance vector search applications. Developer-friendly, fully managed, and easily scalable without infrastructure hassles.
- - [Plate Recognizer MCP Server](https://mcp.pipedream.com/app/platerecognizer) - Automatic License Plate Recognition - High Accuracy ALPR.
- - [promptmate.io MCP Server](https://mcp.pipedream.com/app/promptmate_io) - Unleash the potential of AI. Say hello to faster, better ChatGPT results.
- - [PublisherKit MCP Server](https://mcp.pipedream.com/app/publisherkit) - PublisherKit helps you to auto-generate News Articles, Social Media Visuals and more.
- - [Qualetics MCP Server](https://mcp.pipedream.com/app/qualetics) - Qualetics AI Management System (AIMS) offers basic to advanced AI capabilities that embed and integrate into your products & systems.
- - [Ragie MCP Server](https://mcp.pipedream.com/app/ragie) - Fully managed RAG-as-a-Service for developers
- - [Reform MCP Server](https://mcp.pipedream.com/app/reform) - Paperwork automation for the logistics industry.
- - [Relevance AI MCP Server](https://mcp.pipedream.com/app/relevance_ai) - The fastest platform to build and deploy AI apps & agents. Home of the AI Workforce.
- - [Rev.ai MCP Server](https://mcp.pipedream.com/app/rev_ai) - Accurate Speech-to-Text APIs for all of your speech recognition needs
- - [RunPod MCP Server](https://mcp.pipedream.com/app/runpod) - The Cloud Built for AI
- - [Runware MCP Server](https://mcp.pipedream.com/app/runware) - Low Cost, Ultra-Fast Stable Diffusion API
- - [Sapling.ai MCP Server](https://mcp.pipedream.com/app/sapling_ai) - Language models for enterprise applications.
- - [ScoreDetect MCP Server](https://mcp.pipedream.com/app/scoredetect) - ScoreDetect allows you to easily create verification certificates for your digital content.
- - [SiteSpeakAI MCP Server](https://mcp.pipedream.com/app/sitespeakai) - Automate your customer support with ChatGPT. SiteSpeakAI helps you create a custom trained AI powered support chatbot for your business or website.
- - [Skyvern MCP Server](https://mcp.pipedream.com/app/skyvern) - Automate Browser-Based Workflows with AI
- - [SpamCheck.ai MCP Server](https://mcp.pipedream.com/app/spamcheck_ai) - SpamCheck.ai - AI-Powered Spam Detection & Prevention
- - [Spider MCP Server](https://mcp.pipedream.com/app/spider) - The Web Crawler for AI Agents and LLMs
- - [Stack AI MCP Server](https://mcp.pipedream.com/app/stack_ai) - No-Code Platform for Enterprise AI.
- - [Stammer.ai MCP Server](https://mcp.pipedream.com/app/stammer_ai) - White Label AI Platform for Agencies
- - [StealthGPT MCP Server](https://mcp.pipedream.com/app/stealthgpt) - Undetectable AI: StealthGPT and Free AI Checker
- - [Studio by AI21 Labs MCP Server](https://mcp.pipedream.com/app/studio_by_ai21_labs) - AI21 Studio provides API access to Jurassic-1 large-language-models. Our models power text generation and comprehension features in thousands of live applications.
- - [Symbl.ai MCP Server](https://mcp.pipedream.com/app/symbl_ai) - AI platform built for analyzing open domain human-to-human conversations
- - [Synthflow MCP Server](https://mcp.pipedream.com/app/synthflow) - Automate phone calls with AI voice agents
- - [Taskade MCP Server](https://mcp.pipedream.com/app/taskade) - 10X productivity with Taskade AI — automate 700+ tasks, generate dynamic workflows, brainstorm in mind maps, and chat with AI in every project and workspace.
- - [Tavily MCP Server](https://mcp.pipedream.com/app/tavily) - Tavily is the leading search engine designed for LLMs and tailored for RAG purposes.
- - [Tess AI by Pareto MCP Server](https://mcp.pipedream.com/app/tess_ai_by_pareto) - Global Leader Generative AI for Companies
- - [Textgain MCP Server](https://mcp.pipedream.com/app/textgain) - Textgain is a language technology startup company that offers web services for predictive text analytics.
- - [Thoughtful GPT MCP Server](https://mcp.pipedream.com/app/thoughtful_gpt) - AI Collaboration Tools to Supercharge your Team.
- - [Tiledesk MCP Server](https://mcp.pipedream.com/app/tiledesk) - We help people from all around the world to build chatbots and conversational apps.
- - [Tisane Labs MCP Server](https://mcp.pipedream.com/app/tisane_labs) - Home of cutting edge, explainable AI software that turns unstructured content into meaningful insights.
- - [Tuesday MCP Server](https://mcp.pipedream.com/app/tuesday) - Scale Personalized Outreach with AI
- - [TurboHire MCP Server](https://mcp.pipedream.com/app/turbohire) - 
- - [Twin MCP Server](https://mcp.pipedream.com/app/twin) - Never do the same thing twice
- - [Uberduck MCP Server](https://mcp.pipedream.com/app/uberduck) - Make Music With AI Vocals. Epic synthetic singing and rapping vocals for creative agencies, musicians, and coders.
- - [Undetectable AI MCP Server](https://mcp.pipedream.com/app/undetectable_ai) - Rated #1 Best AI Detector by Forbes! Use our AI detector to check if your text will be flagged as AI-written content.
- - [Universal Summarizer by Kagi MCP Server](https://mcp.pipedream.com/app/universal_summarizer_by_kagi) - The Universal Summarizer is an API using powerful LLMs to summarize any content, of almost any format, with unlimited token length!
- - [V7 Darwin MCP Server](https://mcp.pipedream.com/app/v7_darwin) - AI Data Labeling & ML Training Data Platform.
- - [V7 Go MCP Server](https://mcp.pipedream.com/app/v7_go) - Build Better AI With Pixel-Perfect Auto-Annotation.
- - [Vapi MCP Server](https://mcp.pipedream.com/app/vapi) - Vapi is the platform to build, test and deploy voicebots in minutes rather than months.
- - [VectorShift MCP Server](https://mcp.pipedream.com/app/vectorshift) - The End-to-End AI Automations Platform
- - [Vext MCP Server](https://mcp.pipedream.com/app/vext) - Vext is an out-of-the-box RAG & LLM platform that fast-tracks custom AI development with your data.
- - [Vida MCP Server](https://mcp.pipedream.com/app/vida) - AI phone agents for business
- - [Virifi MCP Server](https://mcp.pipedream.com/app/virifi) - Certify and protect your documents on the blockchain.
- - [Voiceflow MCP Server](https://mcp.pipedream.com/app/voice) - The collaborative platform to design and build chat or voice assistants.
- - [VoxApp MCP Server](https://mcp.pipedream.com/app/voxapp) - AI Voice Assistants for your Business
- - [Wafrow MCP Server](https://mcp.pipedream.com/app/wafrow) - Easy personalized marketing. AI Conversion Rate Optimization
- - [WatsonX AI MCP Server](https://mcp.pipedream.com/app/watsonx_ai) - The AI and data platform that’s built for business-
- - [WebScraping.AI MCP Server](https://mcp.pipedream.com/app/webscraping_ai) - Simple and powerful web scraping API with automated proxies rotation and Chrome JS rendering
- - [What Are Those MCP Server](https://mcp.pipedream.com/app/what_are_those) - Dubbed “The Shazam For Sneakers” helps you to identify 1M sneakers & Fashion Products with 95% accuracy!
- - [Winston AI MCP Server](https://mcp.pipedream.com/app/winston_ai) - The world’s most accurate AI Detector now available through API.
- - [wit.ai MCP Server](https://mcp.pipedream.com/app/wit_ai) - Natural Language for Developers
- - [Wolfram Alpha MCP Server](https://mcp.pipedream.com/app/wolfram_alpha) - Computational intelligence engine
- - [Wolfram Alpha API MCP Server](https://mcp.pipedream.com/app/wolfram_alpha_api) - Computational intelligence engine - use this app to connect Wolfram Alpha APIs using `http://api.wolframalpha.com` base URL, such as Full Results and Short Answers APIs.
- - [Wonderchat MCP Server](https://mcp.pipedream.com/app/wonderchat) - Instantly build AI Chatbots with your knowledge base.
- - [Writer MCP Server](https://mcp.pipedream.com/app/writer) - Writer is generative AI purpose-built for business teams. World-class companies use Writer to unlock on-brand content at scale.
- - [Writesonic MCP Server](https://mcp.pipedream.com/app/writesonic) - Need some inspiration for your next blog post, email, or landing page? Try Writesonic, the smart and fast way to write better.
- - [xAI MCP Server](https://mcp.pipedream.com/app/x_ai) - xAI is an AI company with the mission of advancing scientific discovery and gaining a deeper understanding of our universe.
- - [y.gy MCP Server](https://mcp.pipedream.com/app/y_gy) - Free QR Code Creator and Link Shortener
- - [Zep MCP Server](https://mcp.pipedream.com/app/zep) - The Foundational Memory Layer for AI. Equip your agents with the knowledge to complete tasks, from the mundane to monumental.
- - [Zylvie MCP Server](https://mcp.pipedream.com/app/zylvie) - High-Converting Cart Software - Sell Digital Products & Subscriptions.
-
-### <a name="business-management"></a>Business Management
-
- - [10,000ft by Smartsheet MCP Server](https://mcp.pipedream.com/app/_10000ft) - Simple resource allocation
- - [21RISK MCP Server](https://mcp.pipedream.com/app/_21risk) - Audit. Improve. Empower. Make compliance happen.
- - [7todos MCP Server](https://mcp.pipedream.com/app/seventodos) - 7todos is a task board platform that helps in tracking and managing multiple projects for indie makers, content creators, and freelancers.
- - [Accelo MCP Server](https://mcp.pipedream.com/app/accelo) - Automating Professional Service Operations
- - [Action Builder MCP Server](https://mcp.pipedream.com/app/action_builder) - Action Builder is an organizing tool set built with organizers for organizers through a deeply cooperative process with the AFL-CIO.
- - [addevent MCP Server](https://mcp.pipedream.com/app/addevent) - AddEvent is the number #1 "Add to calendar" service on the Internet. We handle millions of events every year for businesses around the world
- - [Aero Workflow MCP Server](https://mcp.pipedream.com/app/aero_workflow) - Aero is workflow & practice management built specifically with the modern cloud-based accounting firm in mind.
- - [Agiliron MCP Server](https://mcp.pipedream.com/app/agiliron) - Inventory Management & Multi-Channel Retail POS Software.
- - [Agrello MCP Server](https://mcp.pipedream.com/app/agrello) - E-Signing Software For Busy People
- - [Aha MCP Server](https://mcp.pipedream.com/app/aha) - Product Roadmap Software
- - [Airfocus MCP Server](https://mcp.pipedream.com/app/airfocus) - Strategic Product Management Platform | airfocus
- - [Akeneo MCP Server](https://mcp.pipedream.com/app/akeneo) - Product information management and data intelligence software
- - [Algolia MCP Server](https://mcp.pipedream.com/app/algolia) - Algolia helps businesses across industries quickly create relevant, scalable, and lightning fast Search and Discovery experiences.
- - [Allocadence MCP Server](https://mcp.pipedream.com/app/allocadence) - All-in-one cloud platform for managing your warehouse operations. From inventory to order management and shipping, you have total visibility.
- - [Altoviz MCP Server](https://mcp.pipedream.com/app/altoviz) - Online management software for entrepreneurs, small businesses, and self-employed individuals. Quotes, invoicing, payments, treasury, accounting, and much more.
- - [Annature MCP Server](https://mcp.pipedream.com/app/annature) - Annature is the leading AU & NZ eSignature provider for small businesses and enterprises. We deliver a complete ISO 27001 certified Digital Transaction Management (DTM) solution built on blockchain technology.
- - [Apaleo MCP Server](https://mcp.pipedream.com/app/apaleo) - Property Management Platform
- - [Apex 27 MCP Server](https://mcp.pipedream.com/app/apex_27) - Estate agency software for estate agent professionals.
- - [Appcues MCP Server](https://mcp.pipedream.com/app/appcues) - User onboarding is just the beginning. Empower your team to measure and improve product adoption—without a developer.
- - [Appointedd MCP Server](https://mcp.pipedream.com/app/appointedd) - The world’s most flexible online scheduling system.
- - [Appointo MCP Server](https://mcp.pipedream.com/app/appointo) - The Best Appointment Scheduling Software For Your Business.
- - [Ascora MCP Server](https://mcp.pipedream.com/app/ascora) - Trades Job Management Software & App
- - [AttractWell MCP Server](https://mcp.pipedream.com/app/attractwell) - Grow Your Coaching Business Faster With Funnels, Blog, Website, CRM, Courses, Payments, Email & Text Marketing, Follow-Up System, Zoom, and More.
- - [Autotask PSA MCP Server](https://mcp.pipedream.com/app/autotask_psa) - Autotask Professional Services Automation (PSA) is a powerful and intuitive cloud-based IT service management platform providing a singular view of your entire operation.
- - [Backlog (API) MCP Server](https://mcp.pipedream.com/app/backlog_api) - Project & code management
- - [BC Gov News MCP Server](https://mcp.pipedream.com/app/bc_gov_news) - Government of British Columbia providing you with current news & info.
- - [Beebole MCP Server](https://mcp.pipedream.com/app/beebole_app) - We built the easiest time management tool for companies: Over 1000 companies in 60+ countries know where their time goes.
- - [Better Proposals MCP Server](https://mcp.pipedream.com/app/better_proposals) - Better Proposals helps you create your proposals faster, makes them look more professional, and gives you all the tools you need to win the job as quickly as possible.
- - [BetterVoice MCP Server](https://mcp.pipedream.com/app/bettervoice) - Everything you need in a business class phone system. No hardware required!
- - [Bilflo MCP Server](https://mcp.pipedream.com/app/bilflo) - Next Gen Staffing Management Tools.
- - [Bilionis MCP Server](https://mcp.pipedream.com/app/bilionis) - Bilionis is the community of Italian professionals and companies who use intelligent catalogues.
- - [Billplz MCP Server](https://mcp.pipedream.com/app/billplz) - Billplz is a payment platform for organizations to pay and get paid the fastest, at the lowest cost possible.
- - [Biztera MCP Server](https://mcp.pipedream.com/app/biztera) - Decision Management and Approval Tracking
- - [Blackbaud MCP Server](https://mcp.pipedream.com/app/blackbaud) - Software solutions powering the entire social good community
- - [BoxHero MCP Server](https://mcp.pipedream.com/app/boxhero) - Inventory Management Reinvented. BoxHero makes inventory management easier than ever.
- - [Brex MCP Server](https://mcp.pipedream.com/app/brex) - Payments, Deposits, Cards
- - [BusinessLogic MCP Server](https://mcp.pipedream.com/app/businesslogic) - Include Excel spreadsheets in your business workflows, applications and service deliveries.
- - [Cal.com MCP Server](https://mcp.pipedream.com/app/cal_com) - Scheduling infrastructure for absolutely everyone.
- - [CalendarHero MCP Server](https://mcp.pipedream.com/app/calendarhero) - Smart scheduling software for modern business.
- - [Cardinal MCP Server](https://mcp.pipedream.com/app/cardinal) - Your AI product backlog.
- - [Cascade Strategy MCP Server](https://mcp.pipedream.com/app/cascade_strategy) - Cascade Strategy is a seamlessly integrated suite of tools for running your entire business. Innovation and agility is at the core of what we do.
- - [Celonis EMS MCP Server](https://mcp.pipedream.com/app/celonis_ems) - The Celonis Execution Management System helps businesses maximize execution capacity across the enterprise.
- - [Chaser MCP Server](https://mcp.pipedream.com/app/chaser) - Credit check, monitor debtors, chase invoices via email and text, collect payments and recover debt - all in one place.
- - [Clear Books MCP Server](https://mcp.pipedream.com/app/clear_books) - Online Accounting Software
- - [Click2Mail MCP Server](https://mcp.pipedream.com/app/click2mail2) - We build tech that lets you send mail from your computer in just a few clicks. Yes, you can call us the #MailNerds.
- - [ClickTime MCP Server](https://mcp.pipedream.com/app/clicktime) - ClickTime helps businesses become more productive every day. Its time and expense tracking tools are used by thousands of companies worldwide.
- - [Clientary MCP Server](https://mcp.pipedream.com/app/clientary) - A full-suite platform to manage Clients, Invoices, Projects, Proposals, Estimates, Hours, Payments, Contractors and Staff. The perfect solution to win clients and save time.
- - [Cliniko MCP Server](https://mcp.pipedream.com/app/cliniko) - Health Practice Management Software
- - [Clockwork Recruiting MCP Server](https://mcp.pipedream.com/app/clockwork_recruiting) - Executive search software and business solutions for executive search firms, in-house teams and venture capital.
- - [Cloudpresenter MCP Server](https://mcp.pipedream.com/app/cloudpresenter) - Webinar Software & Video Conference Platform
- - [Cloze MCP Server](https://mcp.pipedream.com/app/cloze) - Cloze automatically keeps track of your email, phone calls, text messages, meetings, documents, Evernote, LinkedIn, Facebook, and Twitter.
- - [Codat MCP Server](https://mcp.pipedream.com/app/codat) - Codat's business data APIs connect banks and fintechs to all of the financial systems their customers use.
- - [Connecteam MCP Server](https://mcp.pipedream.com/app/connecteam) - Connecteam: The World's #1 Employee App
- - [Connectwise PSA MCP Server](https://mcp.pipedream.com/app/connectwise_psa) - Streamline your business from end to end with ConnectWise PSA.
- - [Corrently MCP Server](https://mcp.pipedream.com/app/corrently) - Electricity tariff with a loyalty program allowing every electricity customer to do micro investments into renewable energy generation facilities
- - [Craftboxx MCP Server](https://mcp.pipedream.com/app/craftboxx) - Craftboxx: Streamlining craftsmen's work with our innovative software. Offering job scheduling, documentation, and time recording tools.
- - [Current RMS MCP Server](https://mcp.pipedream.com/app/current_rms) - Powerful Cloud Rental Management Software for the AV, Production, Events & Broadcast rental industry
- - [DataForSEO MCP Server](https://mcp.pipedream.com/app/dataforseo) - DataForSEO aggregates data from search engines, marketplaces, review platforms, and billions of other websites across the web to provide you with unique insights for building innovative digital marketing solutions.
- - [DataScope MCP Server](https://mcp.pipedream.com/app/datascope) - DataScope is the ideal tool to get rid of paperwork, save time and collect data efficiently from the field. The platform allows your team to answer personalized mobile forms (even offline), from their phones or tablets.
- - [DEAR Systems MCP Server](https://mcp.pipedream.com/app/dear) - DEAR Inventory is a comprehensive inventory control application positioned as a complete back end management system with product planning, cost and development, manufacturing, sales, shipping and payment features.
- - [DeskTime MCP Server](https://mcp.pipedream.com/app/desktime) - DeskTime is a time tracking software solution that also analyzes productivity. The only fully automatic time tracker app.
- - [Dex MCP Server](https://mcp.pipedream.com/app/dex) - Dex brings together LinkedIn, email, and all your daily tools. Keep in touch, remember where you left off, and see everyone you know.
- - [Dispatch MCP Server](https://mcp.pipedream.com/app/dispatch) - Dispatch is your partner in on-demand delivery. Focus on growing your business and let us help you Deliver More*
- - [Dock Certs MCP Server](https://mcp.pipedream.com/app/dock_certs) - Make any document fraud-proof and instantly verifiable.
- - [DocuMerge MCP Server](https://mcp.pipedream.com/app/documerge) - Automated Document Generation.
- - [Docusign Developer MCP Server](https://mcp.pipedream.com/app/docusign_developer) - Electronic Signature and Agreement Cloud (for developers)
- - [Donately MCP Server](https://mcp.pipedream.com/app/donately) - An online donation platform providing organizations of all sizes a simple solution for collecting donations online.
- - [Drata MCP Server](https://mcp.pipedream.com/app/drata) - Drata automates your compliance journey from start to audit-ready and beyond and provides support from the security and compliance experts who built it.
- - [DrChrono MCP Server](https://mcp.pipedream.com/app/drchrono) - Practice Medicine, Not Administration. An EHR system that lets you focus on what matters most.
- - [Easyly MCP Server](https://mcp.pipedream.com/app/easyly) - Easyly Cloud-based CRM software for streamlined sales, marketing, and everyday tasks with customizable workflows.
- - [Easyship MCP Server](https://mcp.pipedream.com/app/easyship) - The leading global shipping platform for crowdfunding and eCommerce, powering makers worldwide.
- - [eGestor MCP Server](https://mcp.pipedream.com/app/egestor) - Business Management System - Online ERP
- - [Elorus MCP Server](https://mcp.pipedream.com/app/elorus) - Online software with time-tracking, invoicing, billing, project & expense management features for your business only.
- - [Email Verifier Api MCP Server](https://mcp.pipedream.com/app/email_verifier_api) - Enterprise grade cloud based transactional email verification solution compatible with all programming languages.
- - [Enrow MCP Server](https://mcp.pipedream.com/app/enrow) - Reach out to your leads with deeply verified email addresses and secure more deals for your business.
- - [Equifax MCP Server](https://mcp.pipedream.com/app/equifax) - Securely access Equifax's credit reporting and identity verification services to automate credit checks, fraud prevention, and consumer data validation workflows.
- - [ERPNext MCP Server](https://mcp.pipedream.com/app/erpnext) - Free and open-source integrated Enterprise Resource Planning software
- - [eTermin MCP Server](https://mcp.pipedream.com/app/etermin) - Online appointment scheduling software.
- - [Evenium MCP Server](https://mcp.pipedream.com/app/evenium) - We develop the best web and mobile technologies to deliver great experiences and engage participants at meetings and events
- - [Eventee MCP Server](https://mcp.pipedream.com/app/eventee) - Our mission is to change ordinary events into extraordinary rides! 🚀Attendees love the app - they will love your event, too. ⭐
- - [Eventzilla MCP Server](https://mcp.pipedream.com/app/eventzilla) - Eventzilla is a leading cloud-based event registration & marketing platform with thousands of users worldwide. We make it easy for event organizers to create a beautiful, professional web presence to promote their live or virtual events.
- - [Exact MCP Server](https://mcp.pipedream.com/app/exact) - Cloud business software for SMEs and their accountants
- - [ExhibitDay MCP Server](https://mcp.pipedream.com/app/exhibitday) - Plan for Trade Shows and Exhibits. Collaborate with your event team to get things done.
- - [Expensify MCP Server](https://mcp.pipedream.com/app/expensify) - From unlimited receipt scanning and mileage tracking to next-day reimbursement, automate your preaccounting system with an easy to use expense tracking app.
- - [Extensiv Integration Manager MCP Server](https://mcp.pipedream.com/app/extensiv_integration_manager) - All the integrations you need to easily automate and streamline your online orders from a single platform. Formerly CartRover.
- - [FacturaDirecta MCP Server](https://mcp.pipedream.com/app/facturadirecta) - Invoice and accounting cloud software for companies and freelancers
- - [faktoora MCP Server](https://mcp.pipedream.com/app/faktoora) - Invoicing made easy. For companies of all sizes – securely and without IT expertise.
- - [Fakturoid MCP Server](https://mcp.pipedream.com/app/fakturoid) - Easy to use invoicing software.
- - [Fatture in Cloud MCP Server](https://mcp.pipedream.com/app/fatture_in_cloud) - With Cloud Invoices, you can manage your business or individual VAT number from your smartphone and tablet, even at a plan rates.
- - [Findymail MCP Server](https://mcp.pipedream.com/app/findymail) - The best B2B email finder on the market.
- - [Fingertip MCP Server](https://mcp.pipedream.com/app/fingertip) - All-in-one page builder
- - [Finmei MCP Server](https://mcp.pipedream.com/app/finmei) - Effortless Invoicing, Easy Expense Management.
- - [Float MCP Server](https://mcp.pipedream.com/app/float) - Resource management that keeps projects profitable, workloads sustainable, and distributed teams in sync.
- - [Flowla MCP Server](https://mcp.pipedream.com/app/flowla) - Personalised buyer journeys that win deals.
- - [FranConnect MCP Server](https://mcp.pipedream.com/app/franconnect) - FranConnect is the leading enterprise software provider for franchise and multi-location businesses
- - [Givebutter MCP Server](https://mcp.pipedream.com/app/givebutter) - #1 rated, world's first free fundraising platform powering $150M+ in donations annually for thousands of good causes. 💛
- - [GivingFuel MCP Server](https://mcp.pipedream.com/app/givingfuel) - The world’s simplest and most affordable donation platform, GivingFuel helps people and organizations fundraise to change the world.
- - [Gong MCP Server](https://mcp.pipedream.com/app/gong) - The Revenue Intelligence Platform
- - [Google Business Profile MCP Server](https://mcp.pipedream.com/app/google_my_business) - Show up when customers search for businesses on Google Search and Maps. Easily manage multiple locations. Leverage the latest engagement features to stay connected to customers.
- - [Grab Your Reviews MCP Server](https://mcp.pipedream.com/app/grab_your_reviews) - Get online reviews on sites that matter to your business and boost customer happiness by leveraging feedback, one simple yet powerful platform.
- - [Graceblocks MCP Server](https://mcp.pipedream.com/app/graceblocks) - GraceBlocks is the platform that makes it easy to build and deploy systems that work for your users.
- - [H-supertools Analytics Tool MCP Server](https://mcp.pipedream.com/app/h_supertools_analytics_tool) - Track your visitors in realtime, without compromising their privacy.
- - [heedjy MCP Server](https://mcp.pipedream.com/app/heedjy) - Build your partner ecosystem. Heedjy helps modern partnership teams maximize revenue from their partners with faster sales cycles.
- - [Hiveage MCP Server](https://mcp.pipedream.com/app/hiveage) - Hiveage helps freelancers and small businesses automate their online invoicing and billing.
- - [Housecall Pro MCP Server](https://mcp.pipedream.com/app/housecall_pro) - Home Services Business Management Software
- - [IdealSpot MCP Server](https://mcp.pipedream.com/app/idealspot) - Hyperlocal Demographics, Vehicle Traffic, Economic, Market Signals, and More. IdealSpot provides hyperlocal geospatial market insight and geometry data.
- - [IFTTT MCP Server](https://mcp.pipedream.com/app/ifttt) - Every thing works better together
- - [Intuiface MCP Server](https://mcp.pipedream.com/app/intuiface) - Intuiface is a no-code platform dedicated to the delivery of rich interactive digital experiences that connect audiences to place.
- - [Invoicing.Plus MCP Server](https://mcp.pipedream.com/app/invoicing_plus) - Invoicing software for modern businesses.
- - [Ironclad MCP Server](https://mcp.pipedream.com/app/ironclad) - Ironclad is the only platform built from the ground up to handle all contract types – legal, sales, finance, HR, marketing, procurement, and more.
- - [Jira Data Center MCP Server](https://mcp.pipedream.com/app/jira_data_center) - Jira Software Data Center helps the world’s best agile teams plan, track, and release great software at scale.
- - [Jobber MCP Server](https://mcp.pipedream.com/app/jobber) - Operations management software for home service businesses
- - [Jobnimbus MCP Server](https://mcp.pipedream.com/app/jobnimbus) - JobNimbus saves you time and money with robust project, contact, and task management tools wrapped in a simple interface.
- - [Jooto MCP Server](https://mcp.pipedream.com/app/jooto) - Free Task & Project Management Platform
- - [Keen.io MCP Server](https://mcp.pipedream.com/app/keen_io) - "The Complete Event Data Management Solution 📊
-Keen is the all in one solution for event data management, from collection to application."
- - [KonfHub MCP Server](https://mcp.pipedream.com/app/konfhub) - Event Management, Registration & Ticketing Platform.
- - [Labs64 NetLicensing MCP Server](https://mcp.pipedream.com/app/labs64_netlicensing) - NetLicensing - Innovative License Management Solution
- - [Launch27 MCP Server](https://mcp.pipedream.com/app/launch27) - One customer called us "Shopify for local businesses that offer neighborhood services!" We love it. Enjoy simple, powerful, online booking!
- - [LessAccounting MCP Server](https://mcp.pipedream.com/app/lessaccounting) - Small business bookkeeping made super easy.
- - [Locate MCP Server](https://mcp.pipedream.com/app/locate) - Cloud-based inventory management software for small to mid-size businesses
- - [Lodgify MCP Server](https://mcp.pipedream.com/app/lodgify) - Lodgify is the easiest way to create a hospitality website with a “Book Now” button and manage your reservations.
- - [Logistia Route Planner MCP Server](https://mcp.pipedream.com/app/logistia_route_planner) - Flexible Delivery Management System
- - [Loyverse MCP Server](https://mcp.pipedream.com/app/loyverse) - Point of Sale and Inventory Management Platform for Small & Medium Businesses.
- - [MaintainX MCP Server](https://mcp.pipedream.com/app/maintainx) - MaintainX is mobile-first work order and procedure digitization software that allows factory frontline teams to know what they need to do and how to do it.
- - [Manifestly Checklists MCP Server](https://mcp.pipedream.com/app/manifestly_checklists) - Manage and automate your recurring workflows and tasks
- - [McTime MCP Server](https://mcp.pipedream.com/app/mctime) - McTime's time recording helps small and large teams to record and evaluate project hours or absences. Fully automatic time recording included!
- - [Membership.io MCP Server](https://mcp.pipedream.com/app/membership_io) - The best online platform for your membership business
- - [Merge MCP Server](https://mcp.pipedream.com/app/merge) - One Unified API for all HR, Payroll, Accounting, Ticketing, CRM, and ATS Integrations.
- - [Mews MCP Server](https://mcp.pipedream.com/app/mews) - An innovative hospitality management cloud that empowers the modern hotelier to improve performance, maximize revenue, and provide remarkable guest experiences.
- - [Microsoft Dynamics 365 Business Central API MCP Server](https://mcp.pipedream.com/app/dynamics_365_business_central_api) - Run your entire business with a single solution
- - [Microsoft Viva Goals MCP Server](https://mcp.pipedream.com/app/microsoft_viva_goals) - Align your teams and drive results by managing your business goals in one central place.
- - [Middesk MCP Server](https://mcp.pipedream.com/app/middesk) - Business Verification & Risk Assessment
- - [Mindbody MCP Server](https://mcp.pipedream.com/app/mindbody) - Wellness Business Management
- - [Modern Treasury MCP Server](https://mcp.pipedream.com/app/modern_treasury) - Payment operations software
- - [monday.com (OAuth) MCP Server](https://mcp.pipedream.com/app/monday_oauth) - monday.com is a powerful project management system — a complete Work OS designed to help your team complete projects efficiently, collaborate effectively, and grow online.
- - [More Trees MCP Server](https://mcp.pipedream.com/app/more_trees_) - "🌍 CO2 sequestration & offsetting made easy. 
-🌳 Plant trees from £1 for yourself, your business and others
-⚙️You can even do it automatically with our API."
- - [morningmate MCP Server](https://mcp.pipedream.com/app/morningmate) - Your team's own work social media platform.
- - [Motive MCP Server](https://mcp.pipedream.com/app/motive) - All-in-One Fleet Management & Driver Safety Platform
- - [Mslm Cloud MCP Server](https://mcp.pipedream.com/app/mslm_cloud) - Mslm Business Cloud offers you all the tools you need to make your business successful.
- - [MurList MCP Server](https://mcp.pipedream.com/app/murlist) - Murlist works on autopilot to generate, score, verify and convert leads.
- - [Netcore Cloud MCP Server](https://mcp.pipedream.com/app/netcore) - Highly scalable and reliable cloud based email delivery platform with the most disruptive pricing model ever. We deliver emails into inbox.
- - [Nexudus MCP Server](https://mcp.pipedream.com/app/nexudus) - The leading white-label platform to manage your coworking and flex workspace.
- - [Nifty MCP Server](https://mcp.pipedream.com/app/nifty) - Delivering the future of remote collaboration. Manage projects, not tools.
- - [Nmbrs MCP Server](https://mcp.pipedream.com/app/nmbrs) - HR & payroll software built around employees
- - [Nusii Proposals MCP Server](https://mcp.pipedream.com/app/nusii_proposals) - "Proposal software that both you and your clients will love.
-Stop fighting with Word, InDesign and PDF's. Create beautiful proposals in less time, every time with Nusii."
- - [OANDA MCP Server](https://mcp.pipedream.com/app/oanda) - OANDA is a global leader in online multi-asset trading services, currency data, corporate payments and FX services.
- - [Occasion MCP Server](https://mcp.pipedream.com/app/occasion) - Occasion is the fastest booking and scheduling software available.
- - [Odoo MCP Server](https://mcp.pipedream.com/app/odoo) - Integrated enterprise application platform for ERP and CRM.
- - [Office 365 Management MCP Server](https://mcp.pipedream.com/app/office_365_management) - The Office 365 Management APIs provide a single extensibility platform for all Office 365 customers' and partners' management tasks.
- - [OKSign MCP Server](https://mcp.pipedream.com/app/oksign) - Sign online contracts, purchase orders, forms, you name it. Simple and legal.
- - [OnceHub MCP Server](https://mcp.pipedream.com/app/oncehub) - Don't keep your leads waiting. Capture, qualify, and engage with inbound leads in minutes, not days.
- - [Onethread MCP Server](https://mcp.pipedream.com/app/onethread) - Onethread empowers you to plan, organise, and track projects with ease, ensuring you meet deadlines, allocate resources efficiently, and keep progress transparent.
- - [Onfleet MCP Server](https://mcp.pipedream.com/app/onfleet) - Onfleet is the world's most advanced last mile delivery platform.
- - [OnlineCheckWriter MCP Server](https://mcp.pipedream.com/app/onlinecheckwriter) - Online Check Writer: Online Check Printing, eChecks, Mail Checks
- - [OptimoRoute MCP Server](https://mcp.pipedream.com/app/optimoroute) - OptimoRoute plans and optimizes routes and schedules for delivery and field service businesses.
- - [Order Desk MCP Server](https://mcp.pipedream.com/app/order_desk) - Save time and use Order Desk to automate your ecommerce order management workflow with 300+ integrations and counting!
- - [Pennylane MCP Server](https://mcp.pipedream.com/app/pennylane) - Pennylane brings together your finances, your accounting, and your Business Account!
- - [PicDefense MCP Server](https://mcp.pipedream.com/app/picdefense) - Your trusted image copyright checker, ensuring compliance and protecting your digital assets effortlessly.
- - [Planday MCP Server](https://mcp.pipedream.com/app/planday) - Workforce management and scheduling tool
- - [Planning Center MCP Server](https://mcp.pipedream.com/app/planning_center) - "A flexible system to meet the needs of your church
-Planning Center is a set of software tools to help you organize information, coordinate events, communicate with your team, and connect with your congregation."
- - [Planview Leankit MCP Server](https://mcp.pipedream.com/app/planview_leankit) - Planview LeanKit enables organizations and teams to visually track and manage the flow of work from strategy to delivery in enterprise Kanban boards. Share a consolidated view of work priority and status – whether in the same room or distributed across the globe.
- - [Planyo Online Booking MCP Server](https://mcp.pipedream.com/app/planyo_online_booking) - Planyo is an online reservation system which can be used by any business taking bookings: for days, nights, hours or minutes, or scheduled events.
- - [Portfolio Optimizer MCP Server](https://mcp.pipedream.com/app/portfolio_optimizer) - The Nobel Prize-winning science of portfolio optimization, available as a Web API.
- - [PostGrid Verify MCP Server](https://mcp.pipedream.com/app/postgrid_verify) - Autocomplete, Verify, Validate, and Standardize addresses to local postal standards for better deliverability, up-to-date records, and eliminating return mail.
- - [pretix MCP Server](https://mcp.pipedream.com/app/pretix) - Ticketing software that cares about your event—all the way.
- - [Pro Ledger MCP Server](https://mcp.pipedream.com/app/pro_ledger) - Bookkeeping Software for Small Business
- - [ProAbono MCP Server](https://mcp.pipedream.com/app/proabono) - ProAbono is the smart subscription management software that automates your daily routine.
- - [ProcessPlan MCP Server](https://mcp.pipedream.com/app/processplan) - Visually track, manage and automate your business processes.
- - [Project Bubble (ProProfs Project) MCP Server](https://mcp.pipedream.com/app/project_bubble) - Manage Projects Online, Delightfully. Easy to use online project management tool you'll love.
- - [Proposify MCP Server](https://mcp.pipedream.com/app/proposify) - Proposal Software to Streamline Your Sales Process
- - [Qualiobee MCP Server](https://mcp.pipedream.com/app/qualiobee) - Management software for training organizations
- - [Quipu MCP Server](https://mcp.pipedream.com/app/quipu) - Online bookkeeping service
- - [Railsr MCP Server](https://mcp.pipedream.com/app/railsr) - Railsr, the world’s leading Embedded Finance Experience platform.
- - [Ramp MCP Server](https://mcp.pipedream.com/app/ramp) - The Corporate Card That Helps You Spend Less
- - [Ramp (Sandbox) MCP Server](https://mcp.pipedream.com/app/ramp_sandbox) - The Ramp sandbox is a full-fledged environment in which you can explore different API endpoints and test your application.
- - [Real ID MCP Server](https://mcp.pipedream.com/app/real_id) - Sell and ship with confidence using secure, scalable, and automated ID verification. No code required.
- - [Regal MCP Server](https://mcp.pipedream.com/app/regal) - Outbound Cloud Contact Center Software.
- - [Remote Retrieval MCP Server](https://mcp.pipedream.com/app/remote_retrieval) - Effortless Remote Laptop or Monitor Return
- - [Rentman MCP Server](https://mcp.pipedream.com/app/rentman) - Efficiently manage your crew and equipment from one place and ensure nothing falls through the cracks.
- - [Resource Guru MCP Server](https://mcp.pipedream.com/app/resource_guru) - Blissfully simple resource management software.
- - [Reviewflowz MCP Server](https://mcp.pipedream.com/app/reviewflowz) - Review and Testimonial Software for SaaS.
- - [Ringba MCP Server](https://mcp.pipedream.com/app/ringba) - Inbound Call Tracking for Pay Per Call
- - [SalesBlink MCP Server](https://mcp.pipedream.com/app/salesblink) - SalesBlink is an all-in-one full-stack sales outreach tool that takes you from prospecting to outreach to closing lightning fast.
- - [Salespype MCP Server](https://mcp.pipedream.com/app/salespype) - Qualify & Convert Leads on Autopilot Faster & Cheaper!
- - [SavvyCal MCP Server](https://mcp.pipedream.com/app/savvycal) - The thoughtful way to find a time to meet You’ll love it for the advanced features to keep you in control of your calendar. They’ll love it for the personalized scheduling experience.
- - [Schedule it MCP Server](https://mcp.pipedream.com/app/schedule_it) - Reduce your costs and save time by scheduling all your resources, quickly and easily, in any location, on any device.
- - [Sellsy MCP Server](https://mcp.pipedream.com/app/sellsy) - Sellsy, the only solution that lets you manage your marketing, sales, invoicing and cash flow all in one place.
- - [Sendcloud MCP Server](https://mcp.pipedream.com/app/sendcloud) - Europe’s #1 shipping automation platform
- - [ServiceM8 MCP Server](https://mcp.pipedream.com/app/servicem8) - Field service software
- - [ServiceTitan MCP Server](https://mcp.pipedream.com/app/servicetitan) - Home and Commercial Software for the Trades
- - [sevDesk MCP Server](https://mcp.pipedream.com/app/sevdesk) - The billing & accounting software for freelancers, founders, startups, small entrepreneurs and smallbusinesses. Free test now!
- - [Shipday MCP Server](https://mcp.pipedream.com/app/shipday) - Making Local Deliveries Easy Globally - Powering Local E-commerce.
- - [ShipHero MCP Server](https://mcp.pipedream.com/app/shiphero) - "Whether you want to let go of running your own warehouse, or run your warehouse better, you can do both – and so much more –
-with ShipHero."
- - [Sidetracker MCP Server](https://mcp.pipedream.com/app/sidetracker) - Make your sales funnel completely clear.
- - [SignWell MCP Server](https://mcp.pipedream.com/app/signwell) - SignWell is an electronic signature tool for legally binding e-signatures and faster document signing.
- - [SimplyBook.me MCP Server](https://mcp.pipedream.com/app/simplybook_me) - SimplyBook.me is an online booking system that is easy to use, yet customizable and flexible enough to fit your business or organization like a glove.
- - [Slite MCP Server](https://mcp.pipedream.com/app/slite) - Your company knowledge base, on autopilot
- - [SmartRoutes MCP Server](https://mcp.pipedream.com/app/smartroutes) - Route planning, capture PODs, automate notifications, track your fleet - all in one platform.
- - [SoftLedger MCP Server](https://mcp.pipedream.com/app/softledger) - The Real-time Cloud Accounting Software Platform. Meet SoftLedger - the cloud accounting software that empowers your growing company to operate more efficiently and make smarter decisions.
- - [Storeganise MCP Server](https://mcp.pipedream.com/app/storeganise) - Automate your Self Storage Business with Storeganise
- - [Supercast MCP Server](https://mcp.pipedream.com/app/supercast) - Supercast is the easiest way to turn your listeners into paid members and unlock sustainable, recurring revenue.
- - [Sympla MCP Server](https://mcp.pipedream.com/app/sympla) - Sympla is Brazil's leading self-service ticketing and event management platform.
- - [Teamcamp MCP Server](https://mcp.pipedream.com/app/teamcamp) - All-In-One Project Management Application.
- - [The Bookie MCP Server](https://mcp.pipedream.com/app/the_bookie) - Accounting software
- - [Tick MCP Server](https://mcp.pipedream.com/app/tick) - Tick keeps projects on track so you make more money. It's time tracking worth everyone's time.
- - [TidyHQ MCP Server](https://mcp.pipedream.com/app/tidyhq) - Membership Management. All in 1 Membership Software/App.
- - [Time Doctor MCP Server](https://mcp.pipedream.com/app/time_doctor) - Workforce Analytics Platform. Get Peace of Mind with Workforce Analytics for In House, Fully Remote. Distributed Teams.
- - [Timekit MCP Server](https://mcp.pipedream.com/app/timekit) - Timekit lets you build scalable and flexible booking experiences and scheduling flows that grow your business.
- - [TimeTonic MCP Server](https://mcp.pipedream.com/app/timetonic) - Unlock the full potential of your business with TimeTonic's powerful NoCode platform. Centralize information, custom create collaborative business apps and automate workflows to seamlessly connect your data, teams and processes for improved efficiency and productivity.
- - [Tookan MCP Server](https://mcp.pipedream.com/app/tookan) - Tookan is an off the shelf solution to manage and track, field workforces that enable on-demand deliveries.
- - [Tremendous MCP Server](https://mcp.pipedream.com/app/tremendous) - Buy, track, and manage incentives at scale with ease.
- - [UiPath MCP Server](https://mcp.pipedream.com/app/uipath) - Automation Platform - Leading RPA Company
- - [UpBooks MCP Server](https://mcp.pipedream.com/app/upbooks) - Simple and Efficient Business Management Solution.
- - [Upollo MCP Server](https://mcp.pipedream.com/app/upollo) - Bringing subscription businesses 5%+ ARR growth per month by converting repeat sign-ups, account sharers and more into happy paying customers
- - [Vend MCP Server](https://mcp.pipedream.com/app/vend) - Retail POS Software
- - [Vivocalendar MCP Server](https://mcp.pipedream.com/app/vivocalendar) - The all-in-one appointment scheduler.
- - [Waitwhile MCP Server](https://mcp.pipedream.com/app/waitwhile) - Waitwhile is a virtual waitlist app and queue management platform that can be customized to work for any business.
- - [Webling MCP Server](https://mcp.pipedream.com/app/webling) - Online club software - fun club work
- - [WeSupply MCP Server](https://mcp.pipedream.com/app/wesupply) - Post-Purchase CX Automation Platform built for Retail. WeSupply helps retailers reduce their customer support tickets with Pre-purchase delivery prediction, automated shipping tracking, proactive notifications and self-service returns.
- - [WildApricot MCP Server](https://mcp.pipedream.com/app/wildapricot) - Cloud-based software for membership management, events, and more.
- - [WooDelivery MCP Server](https://mcp.pipedream.com/app/woodelivery) - Delivery Management Software Solution
- - [Woovi MCP Server](https://mcp.pipedream.com/app/woovi) - A Woovi is a complete platform that helps businesses increase their sales and customer loyalty, offering various functions, such as Pix, Cashback, Pix Parcelado and other solutions.
- - [Workamajig MCP Server](https://mcp.pipedream.com/app/workamajig) - Marketing project management software designed just for creative teams.
- - [Workflow Max MCP Server](https://mcp.pipedream.com/app/workflow_max) - All-In-One Project & Job Management Software
- - [Workiom MCP Server](https://mcp.pipedream.com/app/workiom) - An online No-Code Platform for teams and companies to manage their Data & Tasks using automation and advance collaboration features
- - [Yext MCP Server](https://mcp.pipedream.com/app/yext) - Create and deliver content to any channel
- - [Yodiz MCP Server](https://mcp.pipedream.com/app/yodiz) - Agile Scrum Tool - Know where you stand, know where you’re going. From idea to delivery - we have covered you.
- - [YoPrint MCP Server](https://mcp.pipedream.com/app/yoprint) - Next-generation software for garment decorators and promotional product printers.
- - [You Need a Budget MCP Server](https://mcp.pipedream.com/app/you_need_a_budget) - Money doesn’t have to be messy. The YNAB budgeting app and its simple four-rule method will help you organize your finances, demolish your debt, save piles of cash, and reach your financial goals faster.
- - [Zenventory MCP Server](https://mcp.pipedream.com/app/zenventory) - All-In-One Platform for E-Commerce Operations Success
- - [Zoho Desk MCP Server](https://mcp.pipedream.com/app/zoho_desk) - Omnichannel customer service software to delight and retain customers.
- - [Zoho Inventory MCP Server](https://mcp.pipedream.com/app/zoho_inventory) - Inventory Management | Online Inventory Software
-
-### <a name="commerce"></a>Commerce
-
- - [Ablefy (formerly elopage) MCP Server](https://mcp.pipedream.com/app/elopage) - Sales platform and payment processor for your online courses, digital products, memberships, subscriptions and more 💡
- - [Adyen MCP Server](https://mcp.pipedream.com/app/adyen) - End-to-end payments, data, and financial management in a single solution. Meet the financial technology platform that helps you realize your ambitions faster.
- - [AfterShip MCP Server](https://mcp.pipedream.com/app/aftership) - Create a world-class post-purchase experience.
- - [Alegra MCP Server](https://mcp.pipedream.com/app/alegra) - Alegra is an accounting and billing app designed for Latin American managers.
- - [Amazon MCP Server](https://mcp.pipedream.com/app/amazon) - Online shopping from the earth's biggest selection
- - [Amazon Selling Partner MCP Server](https://mcp.pipedream.com/app/amazon_selling_partner) - For Amazon selling partners, programmatically access data on your orders, shipments, payments, and much more. Applications using the SP-API can increase selling efficiency, reduce labor requirements, and improve response time to customers, helping selling partners grow their businesses.
- - [AMcards MCP Server](https://mcp.pipedream.com/app/amcards) - Online Greeting Card company
- - [Amentum Aerospace MCP Server](https://mcp.pipedream.com/app/amentum_aerospace) - Transforming industries with predictive scientific models. Aviation, space, defence, navigation.
- - [AmeriCommerce MCP Server](https://mcp.pipedream.com/app/americommerce) - The B2B Commerce Platform for Digital Transformations.
- - [Amilia MCP Server](https://mcp.pipedream.com/app/amilia) - Amilia helps organizations offer, manage and sell activities to their community with the SmartRec eCommerce platform.
- - [Amplifier MCP Server](https://mcp.pipedream.com/app/amplifier) - Vertically-integrated merchandise logistics platform. Our name is our mission. We support the community commerce of some of Internet's most beloved brands.
- - [ASIN Data API MCP Server](https://mcp.pipedream.com/app/asin_data_api) - The World's Lowest Cost Amazon Product Data API.
- - [Barcode Lookup MCP Server](https://mcp.pipedream.com/app/barcode_lookup) - Find millions of products online by searching their barcode.
- - [BaseLinker MCP Server](https://mcp.pipedream.com/app/baselinker) - Integrate your e-commerce workflow in one place.
- - [Beanstalk MCP Server](https://mcp.pipedream.com/app/beanstalkapp) - "Beanstalk helps families work together to build a pot of money to give the children they love a better future. 
-Designed to help every family, Beanstalk makes saving and investing easy no matter your family's shape or budget."
- - [Benzinga MCP Server](https://mcp.pipedream.com/app/benzinga) - Actionable Trading Ideas & Real Time News
- - [bexio MCP Server](https://mcp.pipedream.com/app/bexio) - Business software for small businesses, startups and self-employed individuals
- - [Big Cartel MCP Server](https://mcp.pipedream.com/app/big_cartel) - Easy Online Stores for Artists and Makers
- - [BigBox MCP Server](https://mcp.pipedream.com/app/bigbox) - BigBox is the real-time Home Depot Product Data API you've been looking for. No manual rules or web-scraper maintenance required.
- - [BigCommerce MCP Server](https://mcp.pipedream.com/app/bigcommerce) - Ecommerce for a New Era
- - [BILL MCP Server](https://mcp.pipedream.com/app/bill) - The intelligent way to create and pay bills, send invoices, and get paid. Get started with BILL.
- - [Billsby MCP Server](https://mcp.pipedream.com/app/billsby) - The most powerful, customizable and easy to integrate subscription billing software used by hundreds of companies worldwide to simplify revenue operations
- - [BingX MCP Server](https://mcp.pipedream.com/app/bingx) - "Connect with Elite Traders, Discover Smarter Investing
-"
- - [Blockchain Exchange MCP Server](https://mcp.pipedream.com/app/blockchain_exchange) - The fastest crypto exchange trusted by millions of users.
- - [Blocknative MCP Server](https://mcp.pipedream.com/app/blocknative) - Real-time core blockchain infrastructure.
- - [BlueCart API MCP Server](https://mcp.pipedream.com/app/bluecart_api) - BlueCart is the real-time Walmart Product Data API you've been looking for.
- - [BlueSnap MCP Server](https://mcp.pipedream.com/app/bluesnap) - Global Payment Processing Platform
- - [Braintree MCP Server](https://mcp.pipedream.com/app/braintree) - We provide the global commerce tools people need to build businesses, accept payments, and enable beautiful commerce experiences for their users.
- - [Brex (Staging) MCP Server](https://mcp.pipedream.com/app/brex_staging) - Payments, Deposits, Cards
- - [BTCPay Server MCP Server](https://mcp.pipedream.com/app/btcpay_server) - Best way to accept Bitcoin. No fees, no intermediary. Free, open source & self-hosted Bitcoin payment processor for self-sovereign individuals and businesses.
- - [CDR Platform MCP Server](https://mcp.pipedream.com/app/cdr_platform) - An API to remove carbon dioxide
- - [ChangeNOW MCP Server](https://mcp.pipedream.com/app/changenow) - ChangeNOW instant crypto exchange service
- - [ChannelAdvisor MCP Server](https://mcp.pipedream.com/app/channeladvisor) - Multichannel Commerce Platform
- - [Chargebee MCP Server](https://mcp.pipedream.com/app/chargebee) - Automated Subscription Billing Software
- - [Chargeblast MCP Server](https://mcp.pipedream.com/app/chargeblast) - Chargeblast helps hypergrowth startups reduce chargeback rates by up to 99%.
- - [ChargeOver MCP Server](https://mcp.pipedream.com/app/chargeover) - Automate your recurring billling with ChargeOver.
- - [Chargify MCP Server](https://mcp.pipedream.com/app/chargify) - Billing & Revenue Management for B2B SaaS
- - [Checkout.com MCP Server](https://mcp.pipedream.com/app/checkout_com) - Payment services to power your performance
- - [Cheddar MCP Server](https://mcp.pipedream.com/app/cheddar) - Subscription and usage-based billing. Cheddar's modern approach to billing gets you up and running in as little as one day.
- - [CloudCart MCP Server](https://mcp.pipedream.com/app/cloudcart) - All-in-One eCommerce Platform with Marketing Tools for More Conversions / FREE e-commerce store until you hit your first $1,000 in revenue!
- - [Cobalt MCP Server](https://mcp.pipedream.com/app/cobalt) - Master your fund data
- - [Coinbase MCP Server](https://mcp.pipedream.com/app/coinbase) - Explore crypto like Bitcoin, Ethereum, and Dogecoin. Simply and securely buy, sell, and manage hundreds of cryptocurrencies.
- - [Coinbase Commerce MCP Server](https://mcp.pipedream.com/app/coinbase_commerce) - Coinbase Commerce is an enterprise blockchain service that facilitates cryptocurrency transactions between customers and merchants, including Bitcoin, Bitcoin Cash, DAI, Dogecoin, Ethereum, Litecoin, and USD Coin.
- - [CoinLore MCP Server](https://mcp.pipedream.com/app/coinlore) - Coinlore provides original cryptocurrency/coin prices calculated by own algorithm, and other metrics such as markets, volumes, historical prices, charts, coin market caps, blockchain info, API, widgets and more.
- - [CoinMarketCal MCP Server](https://mcp.pipedream.com/app/coinmarketcal) - The most trusted crypto events database in the industry.
- - [CoinMarketCap MCP Server](https://mcp.pipedream.com/app/coinmarketcap) - CoinMarketCap is a website that provides cryptocurrency market cap rankings, charts, and more.
- - [Coinranking MCP Server](https://mcp.pipedream.com/app/coinranking) - Cryptocurrency Prices Live
- - [CommerceHQ MCP Server](https://mcp.pipedream.com/app/commercehq) - "The eCommerce Platform Built To Convert 
-Launch Your Online Store With The Highest Converting Apps And Themes, Built Right In"
- - [commercetools MCP Server](https://mcp.pipedream.com/app/commercetools) - Commerce platform built on modern MACH principles
- - [Corsizio MCP Server](https://mcp.pipedream.com/app/corsizio) - Corsizio was built to facilitate online registrations, payments, and feedback for any live teaching event, like in-person or online classes, courses, workshops, camps, lessons, or any similar events.
- - [Countdown API MCP Server](https://mcp.pipedream.com/app/countdown_api) - Countdown API is the real-time Ebay Product Data API you've been looking for. No manual rules or web-scraper maintenance required.
- - [Covalent MCP Server](https://mcp.pipedream.com/app/covalent) - A unified API bringing visibility to billions of blockchain data points.
- - [Crunchbase MCP Server](https://mcp.pipedream.com/app/crunchbase) - Discover innovative companies and the people behind them
- - [Cults MCP Server](https://mcp.pipedream.com/app/cults) - The world’s leading independent website for 3D printer files. Discover & download the best 3D models for your 3D printing projects.
- - [currencyapi MCP Server](https://mcp.pipedream.com/app/currencyapi) - The perfect tool to handle your exchange rate conversions. Our API helps you with current and historical foreign exchanges rates.
- - [CurrencyScoop MCP Server](https://mcp.pipedream.com/app/currencyscoop) - CurrencyBeacon is a developer friendly, easy-to-use REST API with real-time and historical exchange rates for fiat currencies and cryptocurrencies.
- - [DigitalRiver MCP Server](https://mcp.pipedream.com/app/digitalriver) - The ultimate ecommerce accelerator for global growth. Fast, easy, risk-free expansion into 240+ destinations. Accelerate. Simplify. Optimize.
- - [Discogs MCP Server](https://mcp.pipedream.com/app/discogs) - Discover music on Discogs, the largest online music database. Buy and sell music with collectors in the Marketplace.
- - [Domain Group MCP Server](https://mcp.pipedream.com/app/domain_group) - Domain.com.au | Real Estate & Properties For Sale & Rent
- - [Dots! MCP Server](https://mcp.pipedream.com/app/dots_) - Receive and send payments on multiple platforms while we handle your payout tasks—all through one simple API.
- - [DPD MCP Server](https://mcp.pipedream.com/app/dpd2) - DPD is an all-in-one shopping cart and digital fulfillment service to sell downloads. Serving thousands of stores, DPD processes and delivers millions worth of downloads each year.
- - [E-conomic MCP Server](https://mcp.pipedream.com/app/e_conomic) - E-conomic, by Visma, is an online accounting software application that promises a simplicity and level of intuitiveness suitable for use by small and medium-sized organizations of any kind.
- - [EasyPost MCP Server](https://mcp.pipedream.com/app/easypost) - EasyPost is a Shipping API that solves complex logistics problems for eCommerce businesses.
- - [ecwid MCP Server](https://mcp.pipedream.com/app/ecwid) - Online store platform
- - [EODHD APIs MCP Server](https://mcp.pipedream.com/app/eodhd_apis) - Stock market fundamental and historical prices API for stocks, ETFs, mutual funds and bonds all over the world.
- - [Escrow.com MCP Server](https://mcp.pipedream.com/app/escrow) - Online escrow service
- - [Etherscan MCP Server](https://mcp.pipedream.com/app/ethereum) - Providing equitable access to human readable blockchain data.
- - [Etsy MCP Server](https://mcp.pipedream.com/app/etsy) - Shop for handmade, vintage, custom, and unique gifts
- - [Expedy MCP Server](https://mcp.pipedream.com/app/expedy) - Expedy is an online SaaS software suite: IOT Cloud Print | TMS & Automation (API) Cloud Print; Transport Management System.
- - [FedEx MCP Server](https://mcp.pipedream.com/app/fedex) - Ship, manage, track, deliver
- - [Felt MCP Server](https://mcp.pipedream.com/app/felt) - The only cloud-native GIS platform
- - [Fidel API MCP Server](https://mcp.pipedream.com/app/fidel_api) - Make money programmable: Fidel API enables developers to build transformative experiences on top of payment cards.
- - [FinerWorks MCP Server](https://mcp.pipedream.com/app/finerworks) - A service for artists and photographers requiring high end giclée prints on fine art papers, as well as wood prints and canvas.
- - [Flodesk MCP Server](https://mcp.pipedream.com/app/flodesk) - Flodesk is the world's most intuitive email marketing platform designed to help small businesses grow, nurture and monetize their list while staying beautifully on-brand
- - [Flutterwave MCP Server](https://mcp.pipedream.com/app/flutterwave) - We help banks and businesses build secure and seamless payments solutions for their customers.
- - [Foxy MCP Server](https://mcp.pipedream.com/app/foxy) - Flexible ecommerce for your website
- - [FraudLabs Pro MCP Server](https://mcp.pipedream.com/app/fraudlabs_pro) - FraudLabs Pro helps merchants to protect their online e-commerce stores from malicious fraudsters. It screens all sales orders transacted using credit cards, PayPal, and so on for online frauds (also known as payment frauds or CNP frauds).
- - [FreeAgent MCP Server](https://mcp.pipedream.com/app/freeagent) - Accounting software for small businesses
- - [FreshBooks MCP Server](https://mcp.pipedream.com/app/freshbooks) - Accounting Software Built for Business Owners and Accountants
- - [Gemini Public MCP Server](https://mcp.pipedream.com/app/gemini_public) - Cryptocurrency Exchange to Buy Bitcoin and Ether
- - [Gift Up! MCP Server](https://mcp.pipedream.com/app/gift_up) - The simplest way to sell your business' gift cards
- - [GmodStore MCP Server](https://mcp.pipedream.com/app/gmodstore) - GmodStore - The Garry's Mod Marketplace. Tailored towards two types of people, if you're a Garry's Mod server owner, GmodStore can offer a variety of premium content for your server, or if you're looking for something a little more tailored, you can create a job listing checked out by a big audience of content-creators.
- - [Go-UPC MCP Server](https://mcp.pipedream.com/app/go_upc) - "The World's Largest Barcode Database.
-Find more products by UPC, EAN, and ISBN than anywhere else on the Web."
- - [GoCardless Bank Account Data (formerly Nordigen) MCP Server](https://mcp.pipedream.com/app/nordigen) - The Nordigen product has now been relaunched as GoCardless Bank Account Data.
- - [Google Merchant Center MCP Server](https://mcp.pipedream.com/app/google_merchant_center) - Merchant Center helps businesses promote their products across Google.
- - [Gorgias MCP Server](https://mcp.pipedream.com/app/gorgias_oauth) - Gorgias is the ecommerce helpdesk that turns your customer service into a profit center.
- - [Gumroad MCP Server](https://mcp.pipedream.com/app/gumroad) - E-commerce and audience-building software for creators
- - [Helcim MCP Server](https://mcp.pipedream.com/app/helcim) - Helcim is a payments company that lets businesses accept credit cards with ease. Discover better payments for your business in Canada & the US.
- - [IDX Broker MCP Server](https://mcp.pipedream.com/app/idx_broker) - IDXBroker empowers real estate agents with lead management solutions, customizable home search, and fully hosted websites.
- - [Ikas MCP Server](https://mcp.pipedream.com/app/ikas) - New Generation E-Commerce Platform
- - [Invoice Ninja MCP Server](https://mcp.pipedream.com/app/invoice_ninja) - Open-source online invoicing app for freelancers & businesses
- - [Invoiced MCP Server](https://mcp.pipedream.com/app/invoiced) - Accounts / receivables platform
- - [JP Funda MCP Server](https://mcp.pipedream.com/app/jp_funda) - Acquire securities report data of Japanese companies.
- - [Jumpseller MCP Server](https://mcp.pipedream.com/app/jumpseller) - The e-commerce platform for fast-growing businesses.
- - [Keysender MCP Server](https://mcp.pipedream.com/app/keysender) - Keysender provides fulfillment, order automation, fraud prevention, and insights for Digital Product sellers.
- - [Kucoin Futures MCP Server](https://mcp.pipedream.com/app/kucoin_futures) - Kucoin Crypto Exchange
- - [l3mbda MCP Server](https://mcp.pipedream.com/app/l3mbda) - L3MBDA automates your Web3 Actions, DeFi Research, Smart Contract Monitoring, and much more.
- - [Lemon Squeezy MCP Server](https://mcp.pipedream.com/app/lemon_squeezy) - Lemon Squeezy is the all-in-one platform for running your SaaS business. Payments, subscriptions, global tax compliance, fraud prevention, multi-currency support, failed payment recovery, PayPal integration and more. We make running your software business easy peasy.
- - [Lexoffice MCP Server](https://mcp.pipedream.com/app/lexoffice) - Lexoffice is the online accounting software from Lexware. Regardless of whether you are writing an invoice or making an offer. Access to your numbers from anywhere, web-based and via app.
- - [Little Green Light MCP Server](https://mcp.pipedream.com/app/little_green_light) - Donor Management Software for Nonprofits
- - [Loop Returns MCP Server](https://mcp.pipedream.com/app/loop_returns) - The best return experience, for your customers and for your team.
- - [LoyaltyLion MCP Server](https://mcp.pipedream.com/app/loyaltylion) - Customer loyalty and engagement platform
- - [Luno MCP Server](https://mcp.pipedream.com/app/luno) - We make it safe and easy to buy, save, and manage your crypto.
- - [Mamo Business MCP Server](https://mcp.pipedream.com/app/mamo_business) - Digital payments and spend management for businesses
- - [Marketplacer MCP Server](https://mcp.pipedream.com/app/marketplacer) - The World's Leading Online Marketplace Platform
- - [Marketstack MCP Server](https://mcp.pipedream.com/app/marketstack) - Stock Data Real-Time, Intraday & Historical Market Data API
- - [Megaventory MCP Server](https://mcp.pipedream.com/app/megaventory) - Web-based software for online inventory management, order fulfillment and manufacturing using bills of materials.
- - [Memberstack MCP Server](https://mcp.pipedream.com/app/memberstack) - User login & payments for modern websites
- - [Mercury MCP Server](https://mcp.pipedream.com/app/mercury) - Bank
- - [Microsoft Advertising MCP Server](https://mcp.pipedream.com/app/microsoft_advertising) - Use search ads to build your business and drive your success.
- - [Mollie MCP Server](https://mcp.pipedream.com/app/mollie) - Effortless payments and money management for every business.
- - [Moneybird MCP Server](https://mcp.pipedream.com/app/moneybird) - Accounting software
- - [MoonClerk MCP Server](https://mcp.pipedream.com/app/moonclerk) - MoonClerk is a web-based application designed to facilitate recurring and one-time transactions without hassle.
- - [MX Technologies MCP Server](https://mcp.pipedream.com/app/mx_technologies) - MX is a fintech company that offers open banking, bank APIs, mobile banking, and more via modern connectivity and data enhancement.
- - [Nasdaq Data Link (Time Series and Table data) MCP Server](https://mcp.pipedream.com/app/nasdaq_data_link_time_series_and_table_data_) - Nasdaq Data Link is a powerful, centralized, cloud-based technology platform providing access to more than 250 trusted data sets, available via API. Search, discover and build.
- - [neetoinvoice MCP Server](https://mcp.pipedream.com/app/neetoinvoice) - Simple invoicing and time tracking tool. It's forever free.
- - [Omnisend MCP Server](https://mcp.pipedream.com/app/omnisend) - Marketing automation built for ecommerce. Increase your sales, not your workload.
- - [OpenSea MCP Server](https://mcp.pipedream.com/app/opensea) - Discover, collect, and sell extraordinary NFTs. OpenSea is the world's first and largest NFT marketplace.
- - [OpenSRS MCP Server](https://mcp.pipedream.com/app/opensrs) - Reseller Platform for Domains, Email, and SSL
- - [OPN (formerly Omise) MCP Server](https://mcp.pipedream.com/app/omise) - 
- - [Paddle MCP Server](https://mcp.pipedream.com/app/paddle) - We’re the only complete payments infrastructure provider for SaaS companies.
- - [PassSlot MCP Server](https://mcp.pipedream.com/app/passslot) - PassSlot is a Passbook service that makes Passbook usage easy for everybody. It helps you design and distribute mobile passes to all major mobile platforms.
- - [Payhere MCP Server](https://mcp.pipedream.com/app/payhere) - Easy payment links
- - [Paykickstart MCP Server](https://mcp.pipedream.com/app/paykickstart) - The ultimate shopping cart and affiliate management platform, empowering online Entrepreneurs and digital publishers.
- - [PayPal MCP Server](https://mcp.pipedream.com/app/paypal) - Send Money, Pay Online or Set Up a Merchant Account
- - [PayPro MCP Server](https://mcp.pipedream.com/app/paypro) - Online payment tools to run and boost your business: Payment methods, Recurring, Upsells, Affiliate Marketing and more..
- - [Paystack MCP Server](https://mcp.pipedream.com/app/paystack) - Paystack is a Nigerian financial technology company that offers payment processing services to businesses.
- - [Pexels MCP Server](https://mcp.pipedream.com/app/pexels) - Free Stock Photos
- - [PHP Point of Sale MCP Server](https://mcp.pipedream.com/app/php_point_of_sale) - PHP Point of Sale Turns your Retail Small Business into a Customer Focused, Profit Generating Machine
- - [Pinterest MCP Server](https://mcp.pipedream.com/app/pinterest) - Pinterest is a visual discovery engine for finding ideas like recipes, home and style inspiration, and more.
- - [Plaid MCP Server](https://mcp.pipedream.com/app/plaid) - Connect to users' bank accounts.
- - [Plisio MCP Server](https://mcp.pipedream.com/app/plisio) - Accept Crypto on Your Website.
- - [Polygon.io MCP Server](https://mcp.pipedream.com/app/polygon_io) - Polygon empowers participation in the financial markets by providing fair access to market data through a developer-focused platform.
- - [PolygonScan MCP Server](https://mcp.pipedream.com/app/polygonscan) - Blockchain explorer for the Polygon (MATIC) network.
- - [Poof MCP Server](https://mcp.pipedream.com/app/poof) - Empowering millions of digital businesses & creators with payments from crypto to fiat.
- - [Printavo MCP Server](https://mcp.pipedream.com/app/printavo) - Printavo is an easy to use, cloud-based tool for print, embroidery, promotional product and sign shops to manage their shop.
- - [Printful MCP Server](https://mcp.pipedream.com/app/printful) - Easy print-on-demand drop shipping and fulfillment warehouse services
- - [Printful (OAuth) MCP Server](https://mcp.pipedream.com/app/printful_oauth) - Easy print-on-demand drop shipping and fulfillment warehouse services. Connect your account using OAuth.
- - [Printify MCP Server](https://mcp.pipedream.com/app/printify) - Sell custom t-shirts, phone cases, and 900+ products with your designs printed on demand. Printify handles printing and shipping to your customers.
- - [ProfitWell MCP Server](https://mcp.pipedream.com/app/profitwell) - We take on the hard parts of subscription growth.
- - [Propeller MCP Server](https://mcp.pipedream.com/app/propeller) - Digitize all your buyer-seller interactions
- - [Quaderno MCP Server](https://mcp.pipedream.com/app/quaderno) - Automate tax compliance worldwide with one click. Quaderno handles sales tax so savvy entrepreneurs don’t have to.
- - [QuickBooks MCP Server](https://mcp.pipedream.com/app/quickbooks) - QuickBooks Online is designed to help you manage your business finances with ease.
- - [Quickbooks Sandbox MCP Server](https://mcp.pipedream.com/app/quickbooks_sandbox) - Online accounting software
- - [Razorpay MCP Server](https://mcp.pipedream.com/app/razorpay) - Power your finance, grow your business. Accept payments from customers. Automate payouts to vendors & employees. Never run out of working capital.
- - [ReCharge MCP Server](https://mcp.pipedream.com/app/recharge) - Subscriptions & Recurring Payments for Ecommerce
- - [Recurly MCP Server](https://mcp.pipedream.com/app/recurly) - The subscription management platform delivering unrivaled results to smart brands worldwide.
- - [Refersion MCP Server](https://mcp.pipedream.com/app/refersion) - Manage and track your ambassador, influencer and affiliate marketing programs with ease.
- - [RepairShopr MCP Server](https://mcp.pipedream.com/app/repairshopr) - RepairShopr is a platform to manage a service or repair business with job tracking (ticketing) and an emphasis on great communication.
- - [Retailed MCP Server](https://mcp.pipedream.com/app/retailed) - The ultimate inventory tool for resellers. Retailed Suite combines all the digital tools and advice needed to help you grow your business. ‍Built by resellers, for resellers!
- - [Revel Systems MCP Server](https://mcp.pipedream.com/app/revel_systems) - POS system
- - [Route4Me MCP Server](https://mcp.pipedream.com/app/route4me) - Powering Logistics Intense Businesses
- - [SamCart MCP Server](https://mcp.pipedream.com/app/samcart) - The first Ecommerce Platform built for Direct-To-Consumer brands.
- - [Sellix MCP Server](https://mcp.pipedream.com/app/sellix) - Sellix is a powerful ecommerce solution built for digital entrepreneurs which includes everything you need to create, grow, and manage an online store.
- - [Shift4 MCP Server](https://mcp.pipedream.com/app/shift4) - We’re changing the way the world experiences commerce.
- - [shipcloud MCP Server](https://mcp.pipedream.com/app/shipcloud) - Shipcloud is the shipping service provider and represents a new generation in package shipping. A cloud-based service, it enables small and medium-sized online vendors to work easily and efficiently with all major shipping providers.
- - [Shipengine MCP Server](https://mcp.pipedream.com/app/shipengine) - Shipping API & multi carrier shipping system
- - [Shippo MCP Server](https://mcp.pipedream.com/app/shippotoken) - We help #eCommerce merchants grow by empowering them with the #1 shipping solution tool needed to save time and money.
- - [ShipStation MCP Server](https://mcp.pipedream.com/app/shipstation) - Import, manage and ship your orders with ShipStation
- - [Shopify MCP Server](https://mcp.pipedream.com/app/shopify) - Shopify is a complete commerce platform that lets anyone start, manage, and grow a business. You can use Shopify to build an online store, manage sales, market to customers, and accept payments in digital and physical locations.
- - [Shopify MCP Server](https://mcp.pipedream.com/app/shopify_developer_app) - Shopify is a complete commerce platform that lets anyone start, manage, and grow a business. You can use Shopify to build an online store, manage sales, market to customers, and accept payments in digital and physical locations.
- - [Shopify Partner MCP Server](https://mcp.pipedream.com/app/shopify_partner) - Shopify Partner API connection. Listen to events like installs, uninstalls, charges & transactions.
- - [Shoprocket MCP Server](https://mcp.pipedream.com/app/shoprocket) - Sell from existing websites, hosted stores, social media channels and more, with no technical skills required and 0% platform fees.
- - [Shopwaive MCP Server](https://mcp.pipedream.com/app/shopwaive) - Checkout, Store Credit, and Gift Card Management for eCommerce. Integrates with Headless, Shopify Plus, and Wix.
- - [Snapdocs MCP Server](https://mcp.pipedream.com/app/snapdocs) - "The perfect mortgage closing experience
-Fast, convenient, and error-free, the Snapdocs digital mortgage closing platform delivers a perfect closing experience to every single borrower."
- - [Snipcart MCP Server](https://mcp.pipedream.com/app/snipcart) - E-commerce platform for developers, by developers
- - [Square MCP Server](https://mcp.pipedream.com/app/square) - Solutions & Tools to Grow Your Business
- - [Starshipit MCP Server](https://mcp.pipedream.com/app/starshipit) - Starshipit is a shipping fulfilment web-based software designed to help eCommerce retailers, automate, process, fulfill, and ship orders from popular marketplaces and shopping carts.
- - [Storerocket MCP Server](https://mcp.pipedream.com/app/storerocket) - Beautifully Designed Store Locator Software, Widget and App for Websites
- - [Stripe MCP Server](https://mcp.pipedream.com/app/stripe) - Stripe powers online and in-person payment processing and financial solutions for businesses of all sizes.
- - [SumUp MCP Server](https://mcp.pipedream.com/app/sumup) - The easiest way for small businesses and sole traders to accept card payments.
- - [SwagUp MCP Server](https://mcp.pipedream.com/app/swagup) - Create, automate, and distribute high quality swag
- - [Swell MCP Server](https://mcp.pipedream.com/app/swell) - Swell is the most powerful headless ecommerce platform for modern brands, startups, and agencies.
- - [Syncro MCP Server](https://mcp.pipedream.com/app/syncro) - Syncro is the integrated business platform for running a profitable MSP. Enjoy PSA, RMM and remote access in one affordable package.
- - [Tapfiliate MCP Server](https://mcp.pipedream.com/app/tapfiliate) - Affiliate tracking software to grow your business. Easily create, track and optimize your own affiliate marketing and referral programs with Tapfiliate.
- - [TaxJar MCP Server](https://mcp.pipedream.com/app/taxjar) - Sales Tax Compliance for Modern Commerce
- - [The Magic Drip MCP Server](https://mcp.pipedream.com/app/the_magic_drip) - Build multi-step funnels using LinkedIn to supercharge your outreach 🚀
- - [Ticket Source MCP Server](https://mcp.pipedream.com/app/ticket_source) - Sell Tickets Online | Free Event Ticketing with TicketSource.
- - [Uber Direct MCP Server](https://mcp.pipedream.com/app/uber_direct) - Offer on-demand delivery branded by you, delivered with Uber.
- - [USPS MCP Server](https://mcp.pipedream.com/app/usps) - United States Postal Service
- - [Utradea MCP Server](https://mcp.pipedream.com/app/utradea) - Stock and Crypto Investment Ideas | Social Sentiment Analytics | Automated Due Diligence and Trade Alerts | Investment Community
- - [Verifone MCP Server](https://mcp.pipedream.com/app/verifone) - Online Payment Processing. Modern Commerce. Simplified.
- - [Veriphone MCP Server](https://mcp.pipedream.com/app/veriphone) - Phone number validation & carrier lookup.
- - [Vosfactures MCP Server](https://mcp.pipedream.com/app/vosfactures) - Online Invoicing software for businesses entrepreneurs. Simple, fast and multifunctional. Efficiently create and manage custom invoices and quotes
- - [WhatsAble MCP Server](https://mcp.pipedream.com/app/whatsable) - Get customized WhatsApp Messages when you need it with our API.
- - [White Swan MCP Server](https://mcp.pipedream.com/app/white_swan) - White Swan’s digital platform and expert advisors makes it easy to get your clients any type of life insurance solution with the highest best-interest standards and most convenient experience.
- - [Whop MCP Server](https://mcp.pipedream.com/app/whop) - Making everyone an internet entrepreneur. Explore a playground for digital products, memberships & communities.
- - [Wildberries MCP Server](https://mcp.pipedream.com/app/wildberries) - Wildberries is the largest Russian online retailer.
- - [Wise MCP Server](https://mcp.pipedream.com/app/wise) - Wise, Formerly TransferWise: Transfer money or spend abroad
- - [WooCommerce MCP Server](https://mcp.pipedream.com/app/woocommerce) - WooCommerce is the open-source ecommerce platform for WordPress.
- - [XeggeX MCP Server](https://mcp.pipedream.com/app/xeggex) - Cryptocurrency Exchange
- - [Xendit MCP Server](https://mcp.pipedream.com/app/xendit) - Xendit helps businesses accept payments and send money - simply, at speed, with great customer service.
- - [Xero Accounting MCP Server](https://mcp.pipedream.com/app/xero_accounting_api) - Accounting Software
- - [Yotpo - Reviews & Ratings MCP Server](https://mcp.pipedream.com/app/yotpo) - Yotpo is an eCommerce marketing platform with the most advanced solutions for customer reviews, visual marketing, loyalty, referrals, and SMS marketing.
- - [Zoho Books MCP Server](https://mcp.pipedream.com/app/zoho_books) - Online accounting software
- - [Zuora Billing MCP Server](https://mcp.pipedream.com/app/zuora) - Zuora’s Subscription Economy® billing solutions help businesses monetize their innovations through flexible pricing strategies and simple, automated billing operations.
-
-### <a name="communication"></a>Communication
-
- - [1msg MCP Server](https://mcp.pipedream.com/app/__1msg) - Tools & automation for WhatsApp Business API.
- - [1S2U MCP Server](https://mcp.pipedream.com/app/ones2u) - "International Quality Bulk SMS Service Provider.
-
-1s2u.com is committed to be the best international Bulk SMS services provider in the world with high quality and real-time support for 24/7."
- - [1sec Mail MCP Server](https://mcp.pipedream.com/app/onesec_mail) - Create and receive email in only 1 second!
- - [2Chat MCP Server](https://mcp.pipedream.com/app/_2chat) - All-in-one WhatsApp* automation for small teams. Integrate it into your existing workflows easily while you keep using WhatsApp as usual.
- - [8x8 Connect MCP Server](https://mcp.pipedream.com/app/_8x8_connect) - 8x8 Connect is your intuitive all-in-one omnichannel communications management platform. Send millions of messages, get insights, and optimize effortlessly.
- - [Acquire MCP Server](https://mcp.pipedream.com/app/acquire) - Unified customer service platform
- - [AEvent MCP Server](https://mcp.pipedream.com/app/aevent) - Double Your Webinar Show Rates On AutoPilot. With the ONLY webinar platform that fully integrates with Zoom and GoToWebinar
- - [Aircall MCP Server](https://mcp.pipedream.com/app/aircall) - Call center software for customer-centric teams
- - [Akismet MCP Server](https://mcp.pipedream.com/app/akismet) - The most trusted solution for spam protection for small sites and large enterprises.
- - [Alerty MCP Server](https://mcp.pipedream.com/app/alerty) - Send yourself native notifications from your apps and servers.
- - [Altiria MCP Server](https://mcp.pipedream.com/app/altiria) - SMS platform
- - [Amazon SES MCP Server](https://mcp.pipedream.com/app/amazon_ses) - Amazon SES is a cloud-based email service provider that can integrate into any application for high volume email automation
- - [Anymail Finder MCP Server](https://mcp.pipedream.com/app/anymail_finder) - Anymail finder is a SaaS company that allows its customers to quickly find validated emails of the employees of any company.
- - [Avochato MCP Server](https://mcp.pipedream.com/app/avochato) - Avochato allows you to text customers and internal teams more efficiently. Automation and collaboration features such as templates, auto-assignment, shared notes, tags, and conversation history make texting easier to manage at scale.
- - [Bandwidth MCP Server](https://mcp.pipedream.com/app/bandwidth) - Enterprise Grade Voice, Messaging, and 911 Access
- - [Bird MCP Server](https://mcp.pipedream.com/app/message_bird) - Business in a box. Grow, Manage, Automate your company. Everything you need in one app.
- - [Bland AI MCP Server](https://mcp.pipedream.com/app/bland_ai) - Send or receive millions of phone calls per day, using programmable voice agents that sound and feel human.
- - [Blink MCP Server](https://mcp.pipedream.com/app/blink) - Create trust and dialogue between frontline workers and executive teams in real-time.
- - [Bluesky by Unshape MCP Server](https://mcp.pipedream.com/app/bluesky_by_unshape) - Revolutionize your Bluesky interactions unlocking the power of automation.
- - [Botbaba MCP Server](https://mcp.pipedream.com/app/botbaba) - A flow based Chatbot platform which lets your create your first chatbot in less than 10 mins.
- - [BotPenguin MCP Server](https://mcp.pipedream.com/app/botpenguin) - BotPenguin lets you create and deploy chatbots for website, WhatsApp, Facebook and Telegram with no coding.
- - [Botsonic MCP Server](https://mcp.pipedream.com/app/botsonic) - Custom ChatGPT AI Chatbots Trained on your Own Data
- - [Botstar MCP Server](https://mcp.pipedream.com/app/botstar) - Bot application
- - [Brosix MCP Server](https://mcp.pipedream.com/app/brosix) - Brosix is the perfect solution for all types of businesses in need of advanced protection for their work communication.
- - [BulkGate MCP Server](https://mcp.pipedream.com/app/bulkgate) - Reach anyone, anywhere in the world with BulkGate SMS gateway.
- - [Burst SMS MCP Server](https://mcp.pipedream.com/app/burst_sms) - The world's smartest online SMS service. Designed by us, refined by our customers.
- - [CallerAPI MCP Server](https://mcp.pipedream.com/app/callerapi) - Enrich your business with caller identification API
- - [CallFire MCP Server](https://mcp.pipedream.com/app/call_fire) - CallFire is a communication platform powering businesses to market effectively by communicating smarter with text and phone.
- - [CallHub MCP Server](https://mcp.pipedream.com/app/callhub) - The all-in-one digital organizing platform for political campaigns, nonprofits & businesses.
- - [Callingly MCP Server](https://mcp.pipedream.com/app/callingly) - Callingly calls you when you have a new lead and dials them automatically.
- - [Canva MCP Server](https://mcp.pipedream.com/app/canva) - Canva makes it easy to create professional designs and to share or print them.
- - [Canva Enterprise MCP Server](https://mcp.pipedream.com/app/canva_enterprise) - Enable your organization to create, collaborate, and publish visual content with a secure platform designed for enterprise.
- - [ChatBot MCP Server](https://mcp.pipedream.com/app/chatbot) - ChatBot is an all-in-one platform to create, deploy, and track chatbots across channels.
- - [Chatbotic MCP Server](https://mcp.pipedream.com/app/chatbotic) - Chatbot platform that CAPTIVATES Your Visitors with SMART Contextual Responses to Their Inquiries.
- - [Chatforma MCP Server](https://mcp.pipedream.com/app/chatforma) - The biggest CIS chatbots platform. Build, connect and manage Telegram, Facebook, VK and Viber chatbots without coding.
- - [Chatfuel (Dashboard API) MCP Server](https://mcp.pipedream.com/app/chatfuel_dashboard_api_) - Chatfuel is a chatbots nocode service for Facebook, Instagram, and Messenger. The Dashboard API provides access to onternal methods used by Chatfuel's dashboard
- - [chatra MCP Server](https://mcp.pipedream.com/app/chatra) - Chatra is a live chat messenger app designed to infuse the most popular elements of mobile messengers into traditional live chat software.
- - [Cisco Webex MCP Server](https://mcp.pipedream.com/app/cisco_webex) - Video conferencing, online meetings, screen share, and webinars
- - [ClickMeeting MCP Server](https://mcp.pipedream.com/app/clickmeeting) - ClickMeeting, a browser-based platform, brings the power of webinars to organizations of any size.
- - [ClickSend SMS MCP Server](https://mcp.pipedream.com/app/clicksend) - Business Communications. Solved.
- - [Cloudpress MCP Server](https://mcp.pipedream.com/app/cloudpress) - "Export content from Google Docs and Notion to your CMS.
-Automate the export of perfectly formatted content, so you have more time for doing work that matters."
- - [CloudTalk MCP Server](https://mcp.pipedream.com/app/cloudtalk) - CloudTalk is an intuitive cloud-based call center software for sales and support teams of all sizes, looking to improve customer experiences through more personalized, data-driven customer interactions.
- - [CommPeak MCP Server](https://mcp.pipedream.com/app/commpeak) - Cloud Contact Center Solutions That Boost Sales.
- - [Control D MCP Server](https://mcp.pipedream.com/app/control_d) - Control D is a modern and customizable DNS service that blocks threats, unwanted content and ads - on all devices.
- - [Convolo.ai MCP Server](https://mcp.pipedream.com/app/convolo_ai) - AI-powered Communications Platform that will increase your sales calls by 124% and conversion rate by 391%.
- - [Crisp MCP Server](https://mcp.pipedream.com/app/crisp) - The all-in-one business messaging platform that gathers teams, conversations, data and knowledge, around one place.
- - [D7 SMS MCP Server](https://mcp.pipedream.com/app/d7_networks) - D7 Networks, SMS solution provider with easy integrating API have global connectivity.
- - [DailyBot MCP Server](https://mcp.pipedream.com/app/dailybot) - The go-to assistant for your work chat. DailyBot has built-in skills to help you run async meetings, track and celebrate milestones, and automate routines. 🤖💬
- - [Deftship MCP Server](https://mcp.pipedream.com/app/deftship) - DeftShip: Free Multi-carrier Shipping Software.
- - [Dexatel MCP Server](https://mcp.pipedream.com/app/dexatel) - Business Text Messaging Simplified
- - [DialMyCalls MCP Server](https://mcp.pipedream.com/app/dialmycalls) - Voice + SMS broadcasting service that gives members the ability to create a message and send it out to all of their contacts instantly.
- - [Dialpad MCP Server](https://mcp.pipedream.com/app/dialpad) - "Talk. Message. Meet. Support.
-One beautiful workspace for team and customer communications.
-"
- - [DingConnect MCP Server](https://mcp.pipedream.com/app/dingconnect) - The most popular international top-up platform. Changing billions of lives by accelerating mobile access.
- - [Discord MCP Server](https://mcp.pipedream.com/app/discord) - Use this app to create a Discord source that emits messages from your guild to a Pipedream workflow.
- - [Discord Bot MCP Server](https://mcp.pipedream.com/app/discord_bot) - Use this app to interact with the Discord API using a bot in your account
- - [Drift MCP Server](https://mcp.pipedream.com/app/drift) - The New Way Businesses Buy From Businesses
- - [efinder MCP Server](https://mcp.pipedream.com/app/efinder) - Free Email Finder - Discover anyone's email in seconds.
- - [Email MCP Server](https://mcp.pipedream.com/app/email) - Trigger workflows on new emails, and send emails to yourself as part of a Pipedream workflow.
- - [Esendex MCP Server](https://mcp.pipedream.com/app/esendex) - We're a global business communication provider, delivering reliable SMS, voice, web and multichannel solutions.
- - [eWebinar MCP Server](https://mcp.pipedream.com/app/ewebinar) - eWebinar turns any video into an interactive, automated webinar. We run your webinars for you so you don't have to.
- - [FracTEL MCP Server](https://mcp.pipedream.com/app/fractel) - With FracTEL you can deliver big communication solutions with small business resources.
- - [Gmail MCP Server](https://mcp.pipedream.com/app/gmail) - Gmail offers private and secure email by Google at no cost, for business and consumer accounts.
- - [Google Chat MCP Server](https://mcp.pipedream.com/app/google_chat) - Simplify 1:1 messaging and group collaboration
- - [Google Meet MCP Server](https://mcp.pipedream.com/app/google_meet) - Real-time meetings by Google. Using your browser, share your video, desktop, and presentations with teammates and customers.
- - [GoTo Meeting MCP Server](https://mcp.pipedream.com/app/goto_meeting) - Web Conferencing & Online Meeting Software
- - [Gupshup MCP Server](https://mcp.pipedream.com/app/gupshup) - Gupshup offers an easy-to-use omnichannel messaging API, advanced bot-building platform and mobile marketing tools.
- - [HappyFox Chat MCP Server](https://mcp.pipedream.com/app/happyfox_chat) - HappyFox Chat is a live chat software to connect, engage and convert customers.
- - [Hashnode MCP Server](https://mcp.pipedream.com/app/hashnode) - Where tech writers come to shine. Showcase your writing skills and join the conversation.
- - [Heartbeat MCP Server](https://mcp.pipedream.com/app/heartbeat) - Plug-and-play online communities.
- - [Heyy MCP Server](https://mcp.pipedream.com/app/heyy) - Connect with your customers on Whatsapp, SMS, Messenger and Instagram using automation.
- - [Hullo MCP Server](https://mcp.pipedream.com/app/hullo) - Next generation business SMS
- - [IMAP MCP Server](https://mcp.pipedream.com/app/imap) - Connect Pipedream to any IMAP email provider to trigger custom workflows.
- - [Infobip MCP Server](https://mcp.pipedream.com/app/infobip) - Infobip is a multi-channel communications platform
- - [InMobile MCP Server](https://mcp.pipedream.com/app/inmobile) - Efficient SMS gateway made easy.
- - [Intelliprint MCP Server](https://mcp.pipedream.com/app/intelliprint) - Intelliprint: Efficient Online Letter & Postcard Sending
- - [Intercom MCP Server](https://mcp.pipedream.com/app/intercom) - Intercom is the only solution that combines an AI chatbot, help desk, and proactive support—so you can keep costs low, support teams happy, and customers satisfied.
- - [Invision Community MCP Server](https://mcp.pipedream.com/app/invision_community) - Build and grow your community with our scalable and customizable community platform.
- - [Kakao MCP Server](https://mcp.pipedream.com/app/kakao) - Kakao is a Korean service that helps daily life with people and technology
- - [KrispCall MCP Server](https://mcp.pipedream.com/app/krispcall) - AI powered modern phone app.
- - [kwtsms MCP Server](https://mcp.pipedream.com/app/kwtsms) - Kuwaits' #1 SMS Provider
- - [LabsMobile MCP Server](https://mcp.pipedream.com/app/labsmobile) - LabsMobile.com is a leading provider of SMS communication services. We help any company or organization of any sector, size and country to have better and more efficient communications.
- - [Landbot MCP Server](https://mcp.pipedream.com/app/landbot) - Use Landbot drag-and-drop creator to build advanced conversational flows with ease, flexibility, and speed - no coding required. Deploy Chatbots Anywhere, Instantly. Launch chatbots on popular messaging channels or the web as pop-ups, widgets, landing pages, or website embeds -with a click.
- - [LeadIQ MCP Server](https://mcp.pipedream.com/app/leadiq) - The Smart B2B Prospecting Platform.
- - [Leexi MCP Server](https://mcp.pipedream.com/app/leexi) - AI notetaker - Transcribe, analyse and summarize your calls and meetings.
- - [Line MCP Server](https://mcp.pipedream.com/app/line) - Line is a communication app that connects people, services, and information.
- - [LINE Messaging API MCP Server](https://mcp.pipedream.com/app/line_messaging_api) - Get engaged in interactive conversations with LINE users.
- - [LinkedIn Ads MCP Server](https://mcp.pipedream.com/app/linkedin_ads) - Use LinkedIn self-service ads to reach more than 900+ million users worldwide.
- - [LiveChat MCP Server](https://mcp.pipedream.com/app/livechat) - LiveChat is a complete customer service platform that delights your customers and fuels your sales.
- - [LiveSwitch MCP Server](https://mcp.pipedream.com/app/liveswitch) - Live Video Software to Grow Your Business.
- - [lobste.rs MCP Server](https://mcp.pipedream.com/app/lobste_rs) - Computing-focused community centered around link aggregation and discussion.
- - [MailGenius MCP Server](https://mcp.pipedream.com/app/mailgenius) - Free Email SpamChecker. Use our Mail Tester to run a Email Deliverability Test and check email spam score.
- - [Mailtrap MCP Server](https://mcp.pipedream.com/app/mailtrap) - Email Delivery Platform
- - [ManyChat MCP Server](https://mcp.pipedream.com/app/manychat) - Grow your business with ChatMarketing today. Connect with customers via Messenger, SMS, Email, or IG using ManyChat.
- - [Mattermost MCP Server](https://mcp.pipedream.com/app/mattermost) - Open-source, self-hostable online chat service
- - [Microsoft Outlook MCP Server](https://mcp.pipedream.com/app/microsoft_outlook) - Microsoft Outlook lets you bring all your email accounts and calendars in one convenient spot.
- - [Microsoft Teams MCP Server](https://mcp.pipedream.com/app/microsoft_teams) - Microsoft Teams has communities, events, chats, channels, meetings, storage, tasks, and calendars in one place.
- - [Microsoft Teams Bot MCP Server](https://mcp.pipedream.com/app/microsoft_teams_bot) - Interact with Microsoft Teams with your own bot user
- - [Microsoft Teams Events MCP Server](https://mcp.pipedream.com/app/microsoft_teams_events) - Connect, engage, educate, and share—from anywhere.
- - [Mission Mobile MCP Server](https://mcp.pipedream.com/app/mission_mobile) - SMS Marketing Solutions For Media Companies
- - [MixMax MCP Server](https://mcp.pipedream.com/app/mixmax) - The #1 Sales Engagement Platform for Gmail.
- - [Mobile Text Alerts MCP Server](https://mcp.pipedream.com/app/mobile_text_alerts) - We help businesses grow their revenue through SMS marketing.
- - [Mobivate MCP Server](https://mcp.pipedream.com/app/mobivate) - Global leader in Bulk SMS and MobiPay across DCB and PSMS. Bulk SMS direct mobile marketing communication into the hands of your customers.
- - [Mocean API MCP Server](https://mcp.pipedream.com/app/mocean_api) - Mocean is a communication platform that provides an API and SDK for software developers to programmatically send and receive SMS worldwide, and perform other communication functions.
- - [MojoTxt MCP Server](https://mcp.pipedream.com/app/mojotxt) - The all-in-one texting service for churches and nonprofits.
- - [MSG91 MCP Server](https://mcp.pipedream.com/app/msg91) - Communication APIs for SMS, Voice, Video and Authentication
- - [Myphoner MCP Server](https://mcp.pipedream.com/app/myphoner) - Simple cold outreach for remote sales teams. Myphoner is a cold outreach platform that takes the complexity and guesswork out of cold calling.
- - [Nerv MCP Server](https://mcp.pipedream.com/app/nerv) - Digital Business Cards
- - [Noor MCP Server](https://mcp.pipedream.com/app/noor) - Chat for high-performance teams.
- - [ntfy MCP Server](https://mcp.pipedream.com/app/ntfy) - Send push notifications to your phone via PUT/POST.
- - [numverify MCP Server](https://mcp.pipedream.com/app/numverify) - Global Phone Number Validation & Lookup JSON API
- - [Octopush SMS MCP Server](https://mcp.pipedream.com/app/octopush_sms) - SMS Marketing software.
- - [OpenPhone MCP Server](https://mcp.pipedream.com/app/openphone) - Modern business phone for startups and small businesses
- - [Phaxio MCP Server](https://mcp.pipedream.com/app/phaxio) - Build apps that talk fax. Send and receive fax through our advanced, best-in-class API.
- - [Phone.com MCP Server](https://mcp.pipedream.com/app/phone_com) - Phone.com is the modern small business communication solution that lets you connect a business phone number to any device. You get the voice, video, text, call management, and collaboration features of an enterprise phone system without the cost.
- - [Pidj MCP Server](https://mcp.pipedream.com/app/pidj) - SMS for Business | Text Messaging Service
- - [Plivo MCP Server](https://mcp.pipedream.com/app/plivo) - SMS API and Voice API platform
- - [PortaBilling MCP Server](https://mcp.pipedream.com/app/portabilling) - A comprehensive billing and charging platform for telcos and communication service providers.
- - [ProxiedMail MCP Server](https://mcp.pipedream.com/app/proxiedmail) - Proxy-email service.
- - [Pumble MCP Server](https://mcp.pipedream.com/app/pumble) - FREE Chat & Communication App for Teams.
- - [Pushbullet MCP Server](https://mcp.pipedream.com/app/pushbullet) - Pushbullet connects your devices, making them feel like one
- - [Pushover MCP Server](https://mcp.pipedream.com/app/pushover) - Pushover is a simple push notification service that integrates easily into web apps like IFTTT, network monitoring systems, shell scripts, servers, and more.
- - [QuickEmailVerification MCP Server](https://mcp.pipedream.com/app/quickemailverification) - QuickEmailVerification is an email validation and verification service with 99% accuracy that helps marketers improve their email data quality and reduce hard bounce.
- - [Quriiri MCP Server](https://mcp.pipedream.com/app/quriiri) - Quriiri is the industry's leading domestic communication platform that helps you connect with your customers.
- - [Resend MCP Server](https://mcp.pipedream.com/app/resend) - Email API for developers
- - [Revolt MCP Server](https://mcp.pipedream.com/app/revolt) - Open source user-first chat platform.
- - [RingCentral MCP Server](https://mcp.pipedream.com/app/ringcentral) - Experience Intelligent Phone, Meetings, Contact Center, and AI Solutions with RingCentral, the complete cloud communications platform.
- - [Rocket Chat MCP Server](https://mcp.pipedream.com/app/rocket_chat) - The Ultimate Communication Platform
- - [Ryver MCP Server](https://mcp.pipedream.com/app/ryver) - Ryver empowers you to centralize all your team collaboration IN ONE APP.
- - [Salesmsg MCP Server](https://mcp.pipedream.com/app/salesmsg) - One SMS app for your entire company. 2-way texting, SMS marketing, calling, & more.
- - [Semaphore MCP Server](https://mcp.pipedream.com/app/semaphore) - "Extend your messaging reach with the fastest SMS API.
-Semaphore lets you send SMS blast with a single line of code. No complicated setup, no dealing with telecom protocols and procedures"
- - [Sendbird MCP Server](https://mcp.pipedream.com/app/sendbird) - SendBird is messaging-as-a-service. We provide the client SDK and the backend for your app enabling communication among your users.
- - [Sendbird AI chabot MCP Server](https://mcp.pipedream.com/app/sendbird_ai_chabot) - Create a custom AI chatbot for your website in minutes
- - [Sendblue MCP Server](https://mcp.pipedream.com/app/sendblue) - Simple iMessage API ready for scale.
- - [sendSMS MCP Server](https://mcp.pipedream.com/app/sendsms) - Chat & SMS Marketing + Mobile Advertising.
- - [Sendspark MCP Server](https://mcp.pipedream.com/app/sendspark) - Boost your outreach, schedule more meetings, and increase revenue with the #1 video platform.
- - [Sendy MCP Server](https://mcp.pipedream.com/app/sendy) - Sendy is a self hosted newsletter app that lets you send newsletters 100x cheaper via Amazon SES.
- - [SerwerSMS.pl MCP Server](https://mcp.pipedream.com/app/serwersms_pl) - SerwerSMS allows sending and receiving SMS messages. Our platform has the function of both single and mass SMS sending. Sending messages has never been so easy, fast and effective.
- - [Sessions MCP Server](https://mcp.pipedream.com/app/sessions) - Run online meetings and webinars like a pro.
- - [SignalWire MCP Server](https://mcp.pipedream.com/app/signalwire) - Build what's next with the OGs of telecom. Video, voice, and messaging APIs from the source.
- - [SilFer Bots MCP Server](https://mcp.pipedream.com/app/silfer_bots) - Facebook Messenger bot for sales
- - [SimpleTexting MCP Server](https://mcp.pipedream.com/app/simpletexting) - We make it easy, fast and affordable to send SMS marketing campaigns or engage in 1-on-1 conversations with customers.
- - [Sinch MessageMedia MCP Server](https://mcp.pipedream.com/app/sinch_messagemedia) - Sinch MessageMedia: Business SMS & Messaging Platform
- - [Slack MCP Server](https://mcp.pipedream.com/app/slack) - Slack is a channel-based messaging platform. With Slack, people can work together more effectively, connect all their software tools and services, and find the information they need to do their best work — all within a secure, enterprise-grade environment.
- - [Slack Bot MCP Server](https://mcp.pipedream.com/app/slack_bot) - Interact with Slack with your own bot user
- - [SlickText MCP Server](https://mcp.pipedream.com/app/slicktext) - We make text message marketing and SMS marketing easy. Increase revenue and build customer loyalty with our SMS marketing software.
- - [SmartReach MCP Server](https://mcp.pipedream.com/app/smartreach) - Supercharge your email outreach! Send cold emails & follow-ups automatically from your email account.
- - [SmartyMeet MCP Server](https://mcp.pipedream.com/app/smartymeet) - SmartyMeet is a Technology Startup that Leveraging AI To Enhance Team Video Meetings.
- - [SMS Alert MCP Server](https://mcp.pipedream.com/app/sms_alert) - SMS Alert is a enterprise grade transactional and promotional SMS platform.
- - [SMS Everyone MCP Server](https://mcp.pipedream.com/app/sms_everyone) - Send Bulk SMS Marketing & Business SMS messages with SMS Everyone.
- - [SMS Fusion MCP Server](https://mcp.pipedream.com/app/sms_fusion) - "Enterprise Grade SMS. Let us help you put the power of our
-SMS services to work for your business."
- - [SMS Partner MCP Server](https://mcp.pipedream.com/app/sms_partner) - SMS Platform for professionals
- - [SMSlink nc MCP Server](https://mcp.pipedream.com/app/smslink_nc) - SMSlink, envoi de SMS en Nouvelle-Calédonie
- - [SMSTools MCP Server](https://mcp.pipedream.com/app/smstools) - Text Message Marketing Platform Low cost Bulk SMS
- - [SnatchBot MCP Server](https://mcp.pipedream.com/app/snatchbot) - A revolutionary bot builder platform to add multi-channel messaging to your system.
- - [Spoke Phone MCP Server](https://mcp.pipedream.com/app/spoke_phone) - Optimizing customer conversations, wherever people work.
- - [Stack Overflow for Teams MCP Server](https://mcp.pipedream.com/app/stack_overflow_for_teams) - Collaborative team communication platform
- - [Surveybot MCP Server](https://mcp.pipedream.com/app/surveybot) - Surveybot lets you survey the audience via Facebook Messenger and Workplace. Its Facebook bot makes it a lot easier to do Facebook Survey.
- - [Switchboard MCP Server](https://mcp.pipedream.com/app/switchboard) - Switchboard is an AI-driven content creation platform.
- - [tawk.to MCP Server](https://mcp.pipedream.com/app/tawk_to) - Monitor and chat with the visitors on your website, respond to support tickets, organize contacts and create a help center to empower customers to help themselves.
- - [Team SMS MCP Server](https://mcp.pipedream.com/app/team_sms) - Effortlessly share 2FA SMS with your team
- - [Telegram Bot MCP Server](https://mcp.pipedream.com/app/telegram_bot_api) - Telegram, is a cloud-based, cross-platform, encrypted instant messaging (IM) service.
- - [TeleSign MCP Server](https://mcp.pipedream.com/app/telesign) - Telesign provides Continuous Trust™ to leading global enterprises by connecting, protecting, and defending digital identities through our powerful AI.
- - [TextIt MCP Server](https://mcp.pipedream.com/app/textit) - TextIt provides a way of automating conversational interactions over SMS, messaging bots and phone calls.
- - [Textline MCP Server](https://mcp.pipedream.com/app/textline) - Textline is the most secure business texting platform for modern customer support, sales, marketing, and logistics teams.
- - [Textlocal MCP Server](https://mcp.pipedream.com/app/textlocal) - Bulk SMS Marketing Service for Business | Send ...
- - [TextMagic MCP Server](https://mcp.pipedream.com/app/textmagic) - TextMagic is an international text messaging company that helps small businesses engage with their customers.
- - [TPSCheck MCP Server](https://mcp.pipedream.com/app/tpscheck) - Check in real-time if a phone number is registered with the TPS/CTPS. Also get insights on validity, location, type, and provider of the number.
- - [Twilio MCP Server](https://mcp.pipedream.com/app/twilio) - Twilio is a cloud communications platform for building SMS, Voice & Messaging applications on an API built for global scale.
- - [Twist MCP Server](https://mcp.pipedream.com/app/twist) - Clear & Organized Team Communication
- - [Typefully MCP Server](https://mcp.pipedream.com/app/typefully) - Write better content & Grow on social media faster. Level up on X, LinkedIn, Bluesky, and Threads powered by AI
- - [Uchat MCP Server](https://mcp.pipedream.com/app/uchat) - Collect leads, Drive sales & engaged prospects through Facebook Messenger, Whatsapp, Google Business Messenger, SMS, Voice, Slack, Telegram, Wechat, etc
- - [UltraMsg MCP Server](https://mcp.pipedream.com/app/ultramsg) - Ultramsg is a WhatsApp API provider and a gateway for working with messages.
- - [UniOne MCP Server](https://mcp.pipedream.com/app/unione) - The email delivery system you can rely on
- - [Vectera MCP Server](https://mcp.pipedream.com/app/vectera) - Vectera is the easy way to meet clients online. Schedule appointments and conduct videomeetings. Start for free.
- - [Verifalia MCP Server](https://mcp.pipedream.com/app/verifalia) - "Verifalia is a fast and accurate email verification service which identifies deliverable, invalid, or otherwise risky email addresses in real-time: it stops bad and low-quality emails getting into your systems, reduces bounce rates and keeps your campaigns deliverable.
-"
- - [Vestaboard MCP Server](https://mcp.pipedream.com/app/vestaboard) - Vestaboard is smart messaging display you control with your phone or PC.
- - [VideoAsk MCP Server](https://mcp.pipedream.com/app/videoask) - VideoAsk helps you streamline your conversations and build business relationships at scale.
- - [Vivomeetings MCP Server](https://mcp.pipedream.com/app/vivomeetings) - Vivomeetings plan comes with unlimited recordings, real-time transcription, webinar mode and so much more.
- - [Vonage MCP Server](https://mcp.pipedream.com/app/vonage) - Business Phone, VoIP, Communication APIs, Contact Center
- - [Voodoo SMS MCP Server](https://mcp.pipedream.com/app/voodoo_sms) - Powerful, easy to use, mobile messaging platform for businesses to communicate with their customers or staff.
- - [Waboxapp MCP Server](https://mcp.pipedream.com/app/waboxapp) - API for WhatsApp and WhatsApp Business
- - [WebinarFuel MCP Server](https://mcp.pipedream.com/app/webinarfuel) - All-In-One Automated Webinar Software.
- - [Welcome MCP Server](https://mcp.pipedream.com/app/welcome) - Welcome - Webinar Software for Marketers
- - [WhatsApp Business MCP Server](https://mcp.pipedream.com/app/whatsapp_business) - WhatsApp Business products support businesses from large to small. Engage audiences, accelerate sales and drive better customer support outcomes on the platform with more than 2 billion users around the world.
- - [WhatsApp by Online Live Support MCP Server](https://mcp.pipedream.com/app/online_live_support) - Integrate WhatsApp messaging via Online Live Support
- - [Whautomate MCP Server](https://mcp.pipedream.com/app/whautomate) - Whautomate - Omnichannel Customer Engagement Platform!
- - [Wire2Air MCP Server](https://mcp.pipedream.com/app/wire2air) - Mobile Marketing | SMS Gateway, Mobile Marketing, Dedicated shortcode, Bulk SMS, 2 Way API
- - [Wuf MCP Server](https://mcp.pipedream.com/app/wuf) - Wuf allows you to easily integrate mobile push notifications into your workflow.
- - [Z-API MCP Server](https://mcp.pipedream.com/app/z_api) - An API for integration with WhatsApp.
- - [Zoho Cliq MCP Server](https://mcp.pipedream.com/app/zoho_cliq) - Chat app that's built for work. Messaging, video collaboration, task management and productivity.
- - [Zoho Mail MCP Server](https://mcp.pipedream.com/app/zoho_mail) - "Zoho Mail offers secure business email for your organization.
-Host your business email on a secure, encrypted, privacy-guaranteed, and ad-free email service, and add a professional touch to every email that goes out."
- - [Zoom MCP Server](https://mcp.pipedream.com/app/zoom) - Zoom is the leader in modern enterprise video communications, with an easy, reliable cloud platform for video and audio conferencing, chat, and webinars.
- - [Zoom Admin MCP Server](https://mcp.pipedream.com/app/zoom_admin) - Video conferencing (includes account-level scopes) for Zoom Admins.
- - [Zulip MCP Server](https://mcp.pipedream.com/app/zulip) - "Chat for distributed teams.
-Zulip combines the immediacy of real-time chat with an email threading model.
-With Zulip, you can catch up on important conversations while ignoring irrelevant ones."
-
-### <a name="crm"></a>CRM
-
- - [1CRM MCP Server](https://mcp.pipedream.com/app/_1crm) - The All in One CRM That Changes Everything.
- - [Act! 365 MCP Server](https://mcp.pipedream.com/app/act_365) - Act! 365 puts essential sales and marketing tools in your hands to close more deals, find new leads, and grow your business. The perfect Microsoft® Office 365 companion, stay productive from your inbox, the app—or wherever work takes you.
- - [Adversus MCP Server](https://mcp.pipedream.com/app/adversus) - Dialer Software
- - [AeroLeads MCP Server](https://mcp.pipedream.com/app/aeroleads) - Aeroleads find emails and phone numbers of business people and businesses from LinkedIn, Google, Yahoo and other sources.
- - [Affinity MCP Server](https://mcp.pipedream.com/app/affinity) - Affinity is a collective intelligence CRM
- - [Agendor MCP Server](https://mcp.pipedream.com/app/agendor) - Agendor is a sales improvement platform with web and mobile version designed for Brazilian companies with long sales cycles.
- - [agentOS MCP Server](https://mcp.pipedream.com/app/agentos) - A CRM platform that connects you, via open API, to your PropTech.
- - [Agile CRM MCP Server](https://mcp.pipedream.com/app/agile_crm) - Agile CRM Software is the best, easy, powerful yet affordable Customer Relationship Management (CRM) with sales and marketing automation for small businesses.
- - [Ambivo MCP Server](https://mcp.pipedream.com/app/ambivo) - Digital Platform for fast-growing businesses. CRM | Payments | Phone | Automation | Intelligent Workflows | Website | 100% White glove service to build your website.
- - [Apollo.io MCP Server](https://mcp.pipedream.com/app/apollo_io) - The leading data-first sales acceleration platform.
- - [Attio MCP Server](https://mcp.pipedream.com/app/attio) - Customer relationship magic. Powerful, flexible and data-driven, Attio makes it easy to build the exact CRM your business needs.
- - [Axonaut MCP Server](https://mcp.pipedream.com/app/axonaut) - Make billing easier. Run your business better!
- - [Badger Maps MCP Server](https://mcp.pipedream.com/app/badger_maps) - The #1 Route Planner for Field Sales.
- - [BenchmarkONE MCP Server](https://mcp.pipedream.com/app/benchmarkone) - All-in-one marketing automation tool.
- - [Bidsketch MCP Server](https://mcp.pipedream.com/app/bidsketch) - Bidsketch is proposal software that helps you close deals in minutes. So you can focus on your work. It's proposal management that helps you cut your proposal time in half, up-sell for more revenue, close more deals in your sales pipeline.
- - [Bloomerang MCP Server](https://mcp.pipedream.com/app/bloomerang) - Bloomerang Donor Management and Fundraising Software for Nonprofits
- - [BoldSign MCP Server](https://mcp.pipedream.com/app/boldsign) - Electronic Signature Software & API
- - [Brevo MCP Server](https://mcp.pipedream.com/app/brevo) - Brevo helps you grow your business. Build customer relationships across email, SMS, chat, and more. Use the tools you need, when you need them.
- - [Capsule MCP Server](https://mcp.pipedream.com/app/capsule) - CRM Made Simple
- - [CentralStationCRM MCP Server](https://mcp.pipedream.com/app/centralstationcrm) - Easy CRM software for SMEs.
- - [CINC MCP Server](https://mcp.pipedream.com/app/cinc) - CINC is the #1 real estate tech solution powering elite teams. Better Leads. Higher Conversion.
- - [Circle MCP Server](https://mcp.pipedream.com/app/circle) - The all-in-one community platform for creators and brands.
- - [Clarify MCP Server](https://mcp.pipedream.com/app/clarify) - Clarify is a next-gen CRM for modern revenue teams
- - [Cliengo MCP Server](https://mcp.pipedream.com/app/cliengo) - Cliengo is a chatbot that boosts your business sales opportunities, chatting with your visitors proactively and at any time.
- - [Cliento MCP Server](https://mcp.pipedream.com/app/cliento) - Cliento is a modern and complete booking system, with our app you can take your booking system with you wherever you go.
- - [ClinchPad MCP Server](https://mcp.pipedream.com/app/clinchpad) - ClinchPad is a deal focused CRM that enables you to close deals faster. It is a simple to use, web based application built for small teams who are looking to transition from a cluster of spreadsheets to a more organized way of tracking leads.
- - [Clio MCP Server](https://mcp.pipedream.com/app/clio) - Legal software
- - [Close MCP Server](https://mcp.pipedream.com/app/close) - Inside Sales Software CRM with Calling & Emailing
- - [CompanyHub MCP Server](https://mcp.pipedream.com/app/companyhub) - CompanyHub is a sales automation CRM for sales teams that can be completely tailored for your industry.
- - [Contacts+ MCP Server](https://mcp.pipedream.com/app/contacts) - Cross-Platform Contacts App‎
- - [Copper MCP Server](https://mcp.pipedream.com/app/copper) - CRM Software Solutions Company
- - [Crowd.dev MCP Server](https://mcp.pipedream.com/app/crowd_dev) - Crowd.dev is the developer community data platform - Understand, grow, and leverage your developer community with zero hassle.
- - [Dixa MCP Server](https://mcp.pipedream.com/app/dixa) - The CX Platform for Consumer Brands
- - [Donorbox MCP Server](https://mcp.pipedream.com/app/donorbox) - Nonprofit Fundraising Software
- - [EngageBay MCP Server](https://mcp.pipedream.com/app/engagebay) - EngageBay is an affordable all-in-one CRM with marketing, sales & support solution for growing businesses to engage and convert web visitors to happy customers.
- - [EspoCRM MCP Server](https://mcp.pipedream.com/app/espocrm) - Open Source CRM. Easy to customize.
- - [Finmo MCP Server](https://mcp.pipedream.com/app/finmo) - Our mission is to simplify payments and empower businesses and consumers to transact with relevant payment methods.
- - [Fireberry MCP Server](https://mcp.pipedream.com/app/fireberry) - Any app, any process, one modular CRM platform.
- - [Flexie MCP Server](https://mcp.pipedream.com/app/flexie) - Flexible CRM software solutions and automation tools
- - [Follow Up Boss MCP Server](https://mcp.pipedream.com/app/follow_up_boss) - Follow Up Boss is the leading CRM for high-growth real estate businesses. Get all your leads in one place & take control of your follow up so you can work smarter.
- - [ForceManager MCP Server](https://mcp.pipedream.com/app/forcemanager) - The CRM to Supercharge Sales Teams. On the road. In the office. From home.
- - [Freshsales MCP Server](https://mcp.pipedream.com/app/freshsales) - Personalize engagement, shorten your sales cycle, and grow your business with Freshsales
- - [FullContact MCP Server](https://mcp.pipedream.com/app/full_contact) - Identity Resolution Platform
- - [Gainsight MCP Server](https://mcp.pipedream.com/app/gainsight_nxt) - Turn Customer Success into a durable growth engine for your business.
- - [Gainsight PX MCP Server](https://mcp.pipedream.com/app/gainsight_px) - Product Experience Software: Drive Product Adoption and Time to Value
- - [Gleap MCP Server](https://mcp.pipedream.com/app/gleap) - Bug reporting & customer feedback software for mobile apps and websites.
- - [Gloria AI MCP Server](https://mcp.pipedream.com/app/gloria_ai) - Conversational AI to Automate Lead Qualification
- - [GoDial MCP Server](https://mcp.pipedream.com/app/godial) - GoDial is a mobile app to help increase sales. Simple import your contact lists. Auto dial calls. Save call status. Schedule Callbacks. Add Notes.
- - [Google Contacts MCP Server](https://mcp.pipedream.com/app/google_contacts) - Google Contacts is a contact management service developed by Google. This service is backed by the Google People API.
- - [GroundHogg MCP Server](https://mcp.pipedream.com/app/groundhogg) - The Best CRM Plugin for WordPress. Groundhogg does all the Heavy Lifting & Marketing Automation Marketers need to CRUSH IT!
- - [HelloLeads MCP Server](https://mcp.pipedream.com/app/helloleads) - An award-winning Smart and Simple Lead Management solution for Small Businesses.
- - [Highrise MCP Server](https://mcp.pipedream.com/app/highrise) - Simple CRM software
- - [Holded MCP Server](https://mcp.pipedream.com/app/holded) - Smart Business Management Software for SMEs
- - [HotspotSystem MCP Server](https://mcp.pipedream.com/app/hotspotsystem) - Hotspotsystem.com reseller program is designed for ISP and WISP companies, Multi-site, Hotels, Campgrounds, Retail Chains, Wireless Hotspot Installers, Network System Integrators.
- - [HubSpot MCP Server](https://mcp.pipedream.com/app/hubspot) - HubSpot's CRM platform contains the marketing, sales, service, operations, and website-building software you need to grow your business.
- - [Hunter MCP Server](https://mcp.pipedream.com/app/hunter) - Verify professional email addresses
- - [iHomefinder MCP Server](https://mcp.pipedream.com/app/ihomefinder) - The leading national provider of online property search technology & MLS® System data for real estate websites.
- - [Insightly MCP Server](https://mcp.pipedream.com/app/insightly) - CRM Software CRM Platform Marketing Automation
- - [ISN MCP Server](https://mcp.pipedream.com/app/isn) - The Inspection Support Network is the world leader in connecting, streamlining & automating all aspects of running any #InspectionBusiness.
- - [Junip MCP Server](https://mcp.pipedream.com/app/junip) - Reviews for products worth talking about. Helping 3,000+ brands on Shopify gather more reviews & display them everywhere that matters
- - [Klipy MCP Server](https://mcp.pipedream.com/app/klipy) - Largest library of Localized GIFs, Stickers & Clips
- - [Kommo MCP Server](https://mcp.pipedream.com/app/kommo) - Messenger-based sales CRM
- - [Kustomer MCP Server](https://mcp.pipedream.com/app/kustomer) - The AI-Powered Customer Service CRM Platform
- - [Leadfeeder MCP Server](https://mcp.pipedream.com/app/leadfeeder) - Leadfeeder is the #1-rated app for Google Analytics and it's the best way to generate free sales leads.
- - [Leap MCP Server](https://mcp.pipedream.com/app/leap) - Add AI features to your app in minutes. Generate images, fine tune models, and more with our easy-to-use API.
- - [LIME Go MCP Server](https://mcp.pipedream.com/app/lime_go) - Lime Go boosts sales. Lime Go is a sales tool filled with features for exceptional customer relationships. For you who want to sell smarter.
- - [LiveSession MCP Server](https://mcp.pipedream.com/app/livesession) - The fastest way to analyze and optimize customer experience.
- - [Livespace MCP Server](https://mcp.pipedream.com/app/livespace) - CRM Software
- - [Lusha MCP Server](https://mcp.pipedream.com/app/lusha) - B2B Lead Enrichment in a Click
- - [Mailrefine MCP Server](https://mcp.pipedream.com/app/mailrefine) - Email verification service provider.
- - [Mav MCP Server](https://mcp.pipedream.com/app/mav) - Mav handles the back-and-forth conversations with your leads via automated text message.
- - [Microsoft Dynamics 365 Sales MCP Server](https://mcp.pipedream.com/app/microsoft_dynamics_365_sales) - Close more deals and increase seller efficiency with an AI-powered CRM solution.
- - [Miyn MCP Server](https://mcp.pipedream.com/app/miyn) - Best Appointment Scheduling Software For Small Business
- - [Moskit MCP Server](https://mcp.pipedream.com/app/moskit) - Moskit é um CRM de vendas voltado para pequenas e médias empresas que buscam um software acessível, fácil de usar e com grande capacidade de personalização.
- - [Nectar CRM MCP Server](https://mcp.pipedream.com/app/nectar_crm) - NectarCRM is a solution for customer relationships, focused on the management and acceleration of sales.
- - [NetHunt CRM MCP Server](https://mcp.pipedream.com/app/nethunt_crm) - NetHunt is a Gmail CRM that brings sales automation and drip campaigns straight to your inbox.
- - [Nimble MCP Server](https://mcp.pipedream.com/app/nimble) - The AI Powered CRM that builds relationships everywhere you work. Follow for sales and digital marketing tips.
- - [NioLeads MCP Server](https://mcp.pipedream.com/app/nioleads) - Simplify your LinkedIn outreach with Nioleads 📧 Email Finder. Take your networking to the next level!
- - [noCRM.io MCP Server](https://mcp.pipedream.com/app/nocrm_io) - Lead Management Software
- - [Nutshell MCP Server](https://mcp.pipedream.com/app/nutshell) - The all-in-one CRM and email marketing platform that helps B2B organizations work together to win more deals.
- - [OnePageCRM MCP Server](https://mcp.pipedream.com/app/onepagecrm) - #1 action-focused CRM software for small business. We help bring action and focus to the chaotic world of sales.
- - [OneSignal (REST API) MCP Server](https://mcp.pipedream.com/app/onesignal_rest_api) - Push messaging
- - [OrbisX MCP Server](https://mcp.pipedream.com/app/orbisx) - The #1 Auto Shop CRM with Artificial Intelligence Bookings
- - [Otter Waiver MCP Server](https://mcp.pipedream.com/app/otter_waiver) - Worry-Free Waiver Management.
- - [Outgrow MCP Server](https://mcp.pipedream.com/app/outgrow) - Interactive Content Platform
- - [Overloop MCP Server](https://mcp.pipedream.com/app/overloop) - All-in-one CRM & Sales Automation Platform
- - [PAGE X MCP Server](https://mcp.pipedream.com/app/page_x) - Transform your business with our intelligent CRM solutions. Drive sales, track leads, automate tasks, enhance service, boost efficiency - all in line place.
- - [Parma MCP Server](https://mcp.pipedream.com/app/parma) - Parma is a minimalistic CRM that helps you remember who your customers are, what they like, and when you last connected.
- - [Picky Assist MCP Server](https://mcp.pipedream.com/app/picky_assist) - AI Powered Chatbots, WhatsApp Business API, Social CRM, Machine Learning, Natural Language Processing, Phone Automation
- - [Pipedrive MCP Server](https://mcp.pipedream.com/app/pipedrive) - Pipedrive is the easy-to-use, #1 user-rated CRM tool. Get more qualified leads and grow your business with Pipedrive's sales CRM.
- - [Pipeliner CRM MCP Server](https://mcp.pipedream.com/app/pipeliner_crm) - Pipeliner has revolutionized CRM with our unique visual interface, no-code workflow automation engine, and instant, dynamic insights and reporting.
- - [Planhat MCP Server](https://mcp.pipedream.com/app/planhat) - The customer platform built to acquire, service and grow lifelong customers.
- - [Pobuca Connect MCP Server](https://mcp.pipedream.com/app/pobuca_connect) - Optimize the way your company stores & communicates with business contacts
- - [quentn MCP Server](https://mcp.pipedream.com/app/quentn) - Quentn is the first marketing operating system, with a portal for complete customer communication.
- - [Qwilr MCP Server](https://mcp.pipedream.com/app/qwilr) - Save time and win more work with smart sales documents. Great for proposals, quotes and more!
- - [RD Station CRM MCP Server](https://mcp.pipedream.com/app/rd_station_crm) - Discover RD Station CRM, the CRM System that will help you control your business process and generate more sales.
- - [RealGeeks MCP Server](https://mcp.pipedream.com/app/realgeeks) - An affordable and flexible real estate conversion engine, built to create a lifetime of opportunities for your business
- - [REIPro MCP Server](https://mcp.pipedream.com/app/reipro) - REIPro is the worlds first ever Real Estate Investor Software that walks you through the entire deal… step-by-step.
- - [Relavate MCP Server](https://mcp.pipedream.com/app/relavate) - Enable, track & reward partners to sell and scale your software.
- - [Relintex CRM MCP Server](https://mcp.pipedream.com/app/relintex_crm) - Solutions for Finance, Insurance, and Legal Teams
- - [Reputation Lyncs MCP Server](https://mcp.pipedream.com/app/reputation_lyncs) - We automate collecting reviews from customers, making it simple to rank above your competitors on google and increase your business's revenue quickly!
- - [Revamp CRM MCP Server](https://mcp.pipedream.com/app/revamp_crm) - Sales & Marketing Automation CRM for small business
- - [Richpanel MCP Server](https://mcp.pipedream.com/app/richpanel) - Richpanel is the help desk software that helps you create a seamless support experience for both the customer & support teams.
- - [Sales Simplify MCP Server](https://mcp.pipedream.com/app/sales_simplify) - The ultimate shopping cart and affiliate management platform, empowering online Entrepreneurs and digital publishers.
- - [Salesflare MCP Server](https://mcp.pipedream.com/app/salesflare) - Salesflare is an intelligent CRM startups and small businesses love to use. It's a zero-input sales pipeline tool that thinks and works for its user, not the other way around.
- - [Salesforce MCP Server](https://mcp.pipedream.com/app/salesforce_rest_api) - Cloud-based customer relationship management (CRM) platform that helps businesses manage sales, marketing, customer support, and other business activities, ultimately aiming to improve customer relationships and streamline operations.
- - [Salesmate MCP Server](https://mcp.pipedream.com/app/salesmate) - CRM & Unified Customer Platform for Growing Teams.
- - [Satuit MCP Server](https://mcp.pipedream.com/app/satuit) - SatuitCRM is the industry-leading asset management CRM software for buy-side investment professionals including Institutional Asset Managers, Private Equity, Wealth Managers, Hedge Funds, and Alternative Investments.
- - [Simla.com MCP Server](https://mcp.pipedream.com/app/simla_com) - CRM platform for increased sales in eCommerce, customer service, newsletters and chatbots.
- - [SMS Magic MCP Server](https://mcp.pipedream.com/app/sms_magic) - SMS-Magic is a global text messaging platform for popular CRM platforms with 2,000+ clients of all sizes accessing 59 direct carriers to win & retain customers.
- - [Snov MCP Server](https://mcp.pipedream.com/app/snov) - Outreach automation - find, validate and email prospects
- - [Solve CRM MCP Server](https://mcp.pipedream.com/app/solve_crm) - Solve is a productivity CRM for teams to manage customer workflows. Simplify all record keeping, scheduling, communication and information sharing - especially when mobile.
- - [Streak MCP Server](https://mcp.pipedream.com/app/streak) - Streak is a flexible CRM and process management system that lives inside your Gmail inbox.
- - [Successeve MCP Server](https://mcp.pipedream.com/app/successeve) - "The Lifecycle Management Company. 3 Products: Convert, Retain & Expand and Analyze.
-Designed to increase your Growth 🚀"
- - [Superdocu MCP Server](https://mcp.pipedream.com/app/superdocu) - Superdocu helps companies collect documents from their contacts: clients, employees or partners.
- - [Teamgate MCP Server](https://mcp.pipedream.com/app/teamgate) - Teamgate is an intelligent sales CRM with a great insights. Start from Lead capturing and move along to closing a Deal. Get top reports, which will become a necessity from day one.
- - [TeamWave MCP Server](https://mcp.pipedream.com/app/teamwave) - Manage Your Sales, Contacts, Projects, Clients & Team on ONE platform. All-in-One software suite for Small Business.
- - [Tomba MCP Server](https://mcp.pipedream.com/app/tomba) - Tomba is the leading solution to find and verify professional email addresses. Start using Tomba and connect with the people that matter for your business.
- - [Totango MCP Server](https://mcp.pipedream.com/app/totango) - Customer Success Software
- - [Tubular MCP Server](https://mcp.pipedream.com/app/tubular) - Sales CRM and pipeline management software for modern collaborative sales teams. Visualise your sales forecast and enjoy the most advanced smart sales reports.
- - [Twenty MCP Server](https://mcp.pipedream.com/app/twenty) - The #1 Open-Source CRM. Modern, powerful, affordable platform to manage your customer relationships.
- - [UpLead MCP Server](https://mcp.pipedream.com/app/uplead) - B2B Prospecting with 95% Data Accuracy. Build prospecting lists free from dodgy data, bad-fit buyers and low-qualified leads.
- - [User.com MCP Server](https://mcp.pipedream.com/app/user_com) - Improve sales, customer success and marketing processes with a single automation tool for communicating in all the channels and gathering all the data about your visitors.
- - [UserSketch MCP Server](https://mcp.pipedream.com/app/usersketch) - CRM platform built with async B2C SaaS teams in mind.
- - [UserVoice MCP Server](https://mcp.pipedream.com/app/uservoice) - User feedback made easy and actionable
- - [VerifyBee MCP Server](https://mcp.pipedream.com/app/verifybee) - VerifyBee is a fast and accurate customer verification service written on top of some of the must cutting edge technologies.
- - [Visitor Queue MCP Server](https://mcp.pipedream.com/app/visitor_queue) - Visitor Queue is an advanced B2B lead generation software that identifies the name, contact details & user data of the businesses that visit your website.
- - [VoilaNorbert MCP Server](https://mcp.pipedream.com/app/voilanorbert) - Norbert is the ultimate lead generation tool with one of the best success rate to find any corporate email address.
- - [Vryno MCP Server](https://mcp.pipedream.com/app/vryno) - Powerful CRM System for a Fraction of Price. Vryno is a powerful CRM system that has been meticulously crafted to cater to the evolving needs of modern businesses.
- - [Vtiger CRM MCP Server](https://mcp.pipedream.com/app/vtiger_crm) - Vtiger all-in-one CRM empowers you to align your marketing, sales and support teams with unified customer data powered by One View
- - [Wealthbox MCP Server](https://mcp.pipedream.com/app/wealthbox) - Modern CRM for Financial Advisors. Wealthbox allows financial advisors, enterprise firms, and broker-dealers to manage client relationships while streamlining operations.
- - [Workbooks CRM MCP Server](https://mcp.pipedream.com/app/workbooks_crm) - Workbooks offers an end-to-end CRM platform designed specifically for small & mid-size businesses.
- - [Zendesk Sell MCP Server](https://mcp.pipedream.com/app/zendesk_sell) - Our modern sales CRM frees you to maximize productivity, maintain pipeline visibility, and grow revenue.
- - [Zixflow MCP Server](https://mcp.pipedream.com/app/zixflow) - AI-CRM and Messaging Across SMS, Email, and WhatsApp.
- - [Zoho CRM MCP Server](https://mcp.pipedream.com/app/zoho_crm) - Zoho CRM is an online Sales CRM software that manages your sales, marketing, and support in one CRM platform.
- - [Zoho SalesIQ MCP Server](https://mcp.pipedream.com/app/zoho_salesiq) - Zoho SalesIQ offers your marketing, sales, and support teams the digital customer engagement tools to communicate with every site visitor at every stage of the customer lifecycle. This all-in-one live chat and analytics platform promotes proactive customer engagement, allowing you to initiate the right kind of conversation at exactly the right time.
-
-### <a name="data-analytics"></a>Data Analytics
-
- - [Accuranker MCP Server](https://mcp.pipedream.com/app/accuranker) - World's fastest rank tracker
- - [Addressfinder MCP Server](https://mcp.pipedream.com/app/addressfinder) - A reliably smart, reliably accurate data quality platform
- - [Akkio MCP Server](https://mcp.pipedream.com/app/akkio) - AI Data Platform for Agencies.
- - [Alpha Vantage MCP Server](https://mcp.pipedream.com/app/alpha_vantage) - Free Stock APIs in JSON & Excel
- - [Alteryx Analytics Cloud MCP Server](https://mcp.pipedream.com/app/alteryx_analytics_cloud) - Automate data and analytic processing at scale to enable intelligent decisions across the enterprise.
- - [Ambee MCP Server](https://mcp.pipedream.com/app/ambee) - Climate & environmental intelligence for the world
- - [Amplitude MCP Server](https://mcp.pipedream.com/app/amplitude) - Build better products by turning your user data into meaningful insights, using Amplitude's digital analytics platform and experimentation tools.
- - [API Sports MCP Server](https://mcp.pipedream.com/app/api_sports) - RESTFUL APIs FOR SPORTS DATA | FOOTBALL | BASKETBALL | BASEBALL | HOCKEY | RUGBY | FORMULA-1 | HANDBALL | VOLLEYBALL
- - [ArcGIS Online MCP Server](https://mcp.pipedream.com/app/arcgis_online) - Connect people, locations, and data using interactive maps. Work with smart, data-driven styles and intuitive analysis tools. Share your insights with the world or specific groups.
- - [Automatic Data Extraction MCP Server](https://mcp.pipedream.com/app/automatic_data_extraction) - Instantly access web data with our patented AI-powered automated extraction API.
- - [Axesso Data Service - Amazon MCP Server](https://mcp.pipedream.com/app/axesso_data_service) - Axesso is your real-time data API to collect structured information from various sources like Amazon, Walmart, Otto, Facebook, Instagram and many more.
- - [Aylien News API MCP Server](https://mcp.pipedream.com/app/aylien_news_api) - Build intelligent applications, processes, and models with real-time access to enriched, tagged, and structured news feeds.
- - [Baremetrics MCP Server](https://mcp.pipedream.com/app/baremetrics) - 
- - [Big Data Cloud MCP Server](https://mcp.pipedream.com/app/big_data_cloud) - BigData Cloud provides the industry’s most performant, scalable and flexible APIs. Built for eCommerce, Ad Agencies, Financial Institution, Saas, CRM Systems.
- - [BigDataCorp MCP Server](https://mcp.pipedream.com/app/bigdatacorp) - The data platform for the digital age! The best data on the market in an ethical and transparent way.
- - [Bigpicture.io MCP Server](https://mcp.pipedream.com/app/bigpicture_io) - BigPicture provides company APIs for data-driven B2B teams.
- - [Bitquery MCP Server](https://mcp.pipedream.com/app/bitquery) - Blockchain API and Crypto Data Products
- - [BuiltWith MCP Server](https://mcp.pipedream.com/app/builtwith) - Find out what websites are Built With.
- - [CDC - National Environmental Public Health Tracking MCP Server](https://mcp.pipedream.com/app/cdc_national_environmental_public_health_tracking) - The National Environmental Public Health Tracking Network (Tracking Network) brings together health data and environmental data from national, state, and city sources and provides supporting information to make the data easier to understand.
- - [Census Bureau MCP Server](https://mcp.pipedream.com/app/census_bureau) - Measuring America's People, Places, and Economy.
- - [ChartMogul MCP Server](https://mcp.pipedream.com/app/chartmogul) - Subscription Analytics and Revenue Reporting
- - [Chat Data MCP Server](https://mcp.pipedream.com/app/chat_data) - Chat Data | 24/7 Custom AI+LiveChat Chatbot
- - [Clearbit MCP Server](https://mcp.pipedream.com/app/clearbit) - B2B Lead Data Enrichment, Qualification & Scoring
- - [College Football Data MCP Server](https://mcp.pipedream.com/app/college_football_data) - CollegeFootballData.com (CFBD) is a sports statistics and analytics website with no direct affiliation to the NCAA, its member conferences, or its member teams.
- - [Confluent MCP Server](https://mcp.pipedream.com/app/confluent) - The platform to set data in motion.
- - [Congress.gov MCP Server](https://mcp.pipedream.com/app/congress_gov) - Congress.gov shares its application programming interface (API) with the public to ingest the Congressional data.
- - [Crawlbase MCP Server](https://mcp.pipedream.com/app/crawlbase) - Proxy. Crawl. Scale. All-In-One data crawling and scraping platform for business developers.
- - [CrimeoMeter MCP Server](https://mcp.pipedream.com/app/crimeometer) - Making crime visible.
- - [Currents API MCP Server](https://mcp.pipedream.com/app/currents_api) - Online news is hard to curate and analyse. Currents API helps you solve this problem by curating the world news and provide them in a parsable way.
- - [Cyfe MCP Server](https://mcp.pipedream.com/app/cyfe) - Custom data visualization dashboard software with a real-time view of your agency’s performance by integrating the key metrics of 60+ services.
- - [DaData.ru MCP Server](https://mcp.pipedream.com/app/dadata_ru) - Automated data cleansing for Russian postal addresses, phones and customer names
- - [Dandelion MCP Server](https://mcp.pipedream.com/app/dandelion) - Semantic Text Analytics as a service
- - [Data.Police.UK MCP Server](https://mcp.pipedream.com/app/data_police_uk) - Open data about crime and policing in England, Wales and Northern Ireland.
- - [Data247 MCP Server](https://mcp.pipedream.com/app/data247) - A Data Management Platform for all of your data needs.
- - [Databox MCP Server](https://mcp.pipedream.com/app/databox) - Connect your data from any tool and track it from any device. No more logging into dozens of different tools to understand performance — now you and your team can easily connect your data, build and share reports, monitor trends, and discover insights.
- - [Databricks MCP Server](https://mcp.pipedream.com/app/databricks) - Databricks is the lakehouse company, helping data teams solve the world’s toughest problems.
- - [Databricks (OAuth - Service Principal) MCP Server](https://mcp.pipedream.com/app/databricks_oauth) - Databricks is the lakehouse company, helping data teams solve the world’s toughest problems.
- - [Datagma MCP Server](https://mcp.pipedream.com/app/datagma) - Enrich your incomplete B2B data with more than 50 exclusive attributes about your prospects and target companies.
- - [DataSet MCP Server](https://mcp.pipedream.com/app/dataset) - Limitless enterprise infrastructure for live data queries, analytics, insights, and retention. No data schema requirements. Index-free. Blazing fast. The technology of choice for engineering, DevOps, IT, and security teams to unlock the power of data.
- - [Datawaves MCP Server](https://mcp.pipedream.com/app/datawaves) - Customer-Facing Analytics
- - [Domo MCP Server](https://mcp.pipedream.com/app/domo) - The AI and Data Products Platform
- - [Dovetail MCP Server](https://mcp.pipedream.com/app/dovetail) - Customer Insights Hub
- - [Dynatrace API MCP Server](https://mcp.pipedream.com/app/dynatrace_api) - Dynatrace combines full-stack observability and runtime application security with advanced AIOps to deliver answers and intelligent automation from data.
- - [Enigma MCP Server](https://mcp.pipedream.com/app/enigma) - Enigma provides fresh, accurate data about the identity and financial health of every small business.
- - [Enrichley MCP Server](https://mcp.pipedream.com/app/enrichley) - Catch-all email validation
- - [Epsy MCP Server](https://mcp.pipedream.com/app/epsy) - The closest thing to online verification
- - [Finage MCP Server](https://mcp.pipedream.com/app/finage) - Finage is a stock, currency, cryptocurrency, Indices, ETFs and fundamental real-time & historical data provider company.
- - [Finnhub MCP Server](https://mcp.pipedream.com/app/finnhub) - Free API for stock, forex and crypto market. Access company fundamentals, reference data and alternative data with API.
- - [Fivetran MCP Server](https://mcp.pipedream.com/app/fivetran) - Fivetran is the leader in modern data movement. Fast-moving startups & the world’s largest companies use Fivetran to improve operations & accelerate analytics.
- - [Fixer MCP Server](https://mcp.pipedream.com/app/fixer_io) - Foreign exchange rates and currency conversion JSON API
- - [Fullstory MCP Server](https://mcp.pipedream.com/app/fullstory) - Customer experience data in one powerful, easy-to-use platform
- - [Geckoboard MCP Server](https://mcp.pipedream.com/app/geckoboard) - Communicate, don't complicate. We help teams & businesses share data, metrics and KPIs in a way anyone can understand.
- - [GenderAPI.io MCP Server](https://mcp.pipedream.com/app/genderapi_io) - Determine the gender from a first name, full name, or email.
- - [GetProspect MCP Server](https://mcp.pipedream.com/app/getprospect) - Find anyone's business email address. GetProspect would provide you with anyone's email from LinkedIn.
- - [Google Address Validation MCP Server](https://mcp.pipedream.com/app/google_address_validation) - Improve checkout and delivery with reliable addresses. Address Validation lets you validate and correct address inputs.
- - [Google Ads MCP Server](https://mcp.pipedream.com/app/google_ads) - Reach customers wherever they are. Show up at the right time and place across the vast Google Ads ecosystem.
- - [Google Analytics MCP Server](https://mcp.pipedream.com/app/google_analytics) - Google Analytics enables you to measure and report on user activity on websites, web and mobile apps, and internet-connected devices.
- - [Google Fit MCP Server](https://mcp.pipedream.com/app/google_fit_developer_app) - Achieve your fitness goals through customized coaching and actionable tips based on your health and activity history.
- - [Grafana MCP Server](https://mcp.pipedream.com/app/grafana) - Open and composable observability platform
- - [Harmonic MCP Server](https://mcp.pipedream.com/app/harmonic) - Harmonic connects entrepreneurs with the resources & capital they need to drive innovation.
- - [Hasura MCP Server](https://mcp.pipedream.com/app/hasura) - Instantly build and ship APIs on all your data.
- - [Have I Been Pwned MCP Server](https://mcp.pipedream.com/app/have_i_been_pwned) - Check if you have an email address or password that has been compromised in a data breach.
- - [Heap MCP Server](https://mcp.pipedream.com/app/heap) - Fuel product growth and team agility. Heap automatically captures web and mobile app behavioral data. Retroactively analyze behavioral data without writing code.
- - [HigherGov MCP Server](https://mcp.pipedream.com/app/highergov) - Market intel and business development tools to find opportunities, build relationships, and win government contracts and grants.
- - [Howuku MCP Server](https://mcp.pipedream.com/app/howuku) - Howuku is an all-in-one UX & CRO platform for startups and SME businesses with tools such as Heatmap, SessionRecording, and ABTesting.
- - [Ideal Postcodes MCP Server](https://mcp.pipedream.com/app/ideal_postcodes) - Address Validation & Postcode Lookup Services | Ideal Postcodes
- - [Implisense API MCP Server](https://mcp.pipedream.com/app/implisense_api) - German company data combined in one API.
- - [Insites MCP Server](https://mcp.pipedream.com/app/insites) - Insites lets you audit any website's online presence in under 60 seconds.
- - [IPinfo.io MCP Server](https://mcp.pipedream.com/app/ipinfo_io) - We're the trusted source for IP address data, handling over 40 billion API requests per month for over 500,000+ companies and developers.
- - [iScraper MCP Server](https://mcp.pipedream.com/app/iscraper) - Harvest LinkedIn public data for regular and company profiles, get employees list and more using our reliable and affordable API.
- - [Itemize MCP Server](https://mcp.pipedream.com/app/itemize) - Invoice Data Extraction, Reconciliation, and Verification
- - [Kadoa MCP Server](https://mcp.pipedream.com/app/kadoa) - AI-powered no-code platform. Empowering data enthusiasts with AI magic! 🚀 No-code platform for effortless data workflows. Extract, transform, and conquer! 🌐🔍 #DataNinja
- - [Kafka MCP Server](https://mcp.pipedream.com/app/kafka) - Apache Kafka is an open-source distributed event streaming platform used by thousands of companies for high-performance data pipelines, streaming analytics, data integration, and mission-critical applications.
- - [Kaggle MCP Server](https://mcp.pipedream.com/app/kaggle) - Your Machine Learning and Data Science Community
- - [Klazify MCP Server](https://mcp.pipedream.com/app/klazify) - The most accurate Content Classification API.
- - [Klipfolio MCP Server](https://mcp.pipedream.com/app/klipfolio) - "Klipfolio is the new way everyday people and their teams make informed decisions, backed by data.
-
-Klipfolio is a data analytics cloud app for building and sharing real-time business dashboards and reports on web browsers, TV monitors and mobile devices. Klipfolio helps you stay in-the-know and in control of your business by giving you visibility into the KPIs and metrics that matter most."
- - [KnowFirst MCP Server](https://mcp.pipedream.com/app/knowfirst) - Boost your business data with instant API enrichment. KnowFirst's SaaS platform provides key Australian business intelligence in one location
- - [Larger.io MCP Server](https://mcp.pipedream.com/app/larger_io) - Uncovers the technologies used on websites
- - [Loggly (Send Data) MCP Server](https://mcp.pipedream.com/app/loggly_send_data) - Loggly integration for sending data (separate credentials are required to read data)
- - [Looker MCP Server](https://mcp.pipedream.com/app/looker) - Business intelligence
- - [Mailboxlayer MCP Server](https://mcp.pipedream.com/app/mailboxlayer) - Free, Powerful Email Validation API
- - [MaxMind minFraud MCP Server](https://mcp.pipedream.com/app/maxmind_minfraud) - minFraud is a data return service that helps businesses prevent online fraud by providing risk scoring and risk data related to online transactions.
- - [Mboum MCP Server](https://mcp.pipedream.com/app/mboum) - Stock Scanner and APIs for intraday and end of day stock data, options and news.
- - [Melissa Data MCP Server](https://mcp.pipedream.com/app/melissa_data) - Melissa specializes in global contact data quality and mailing preparation solutions for both small businesses and large enterprises.
- - [Metabase MCP Server](https://mcp.pipedream.com/app/metabase) - Fast analytics with the friendly UX and integrated tooling to let your company explore data on their own.
- - [Mezmo MCP Server](https://mcp.pipedream.com/app/mezmo) - Our observability pipeline enables you to control, enrich, and correlate data across domains to drive actionability.
- - [Microsoft Dataverse MCP Server](https://mcp.pipedream.com/app/microsoft_dataverse) - Add grounded enterprise data and make your copilots actionable with Microsoft Dataverse, the enterprise data platform for Copilot.
- - [Microsoft Graph API MCP Server](https://mcp.pipedream.com/app/microsoft_graph_api) - RESTful web API that enables you to access Microsoft Cloud service resources
- - [Microsoft Graph API (daemon app) MCP Server](https://mcp.pipedream.com/app/microsoft_graph_api_daemon_app) - RESTful web API that enables you to access Microsoft Cloud service resources. For daemon applications, it uses the standard OAuth 2.0 client credentials grant.
- - [Microsoft Power BI MCP Server](https://mcp.pipedream.com/app/microsoft_power_bi) - Visualize any data and integrate the visuals into the apps you use every day with Power BI, a unified platform for self-service and business intelligence.
- - [Mixpanel MCP Server](https://mcp.pipedream.com/app/mixpanel) - Powerful, self-serve product analytics to help you convert, engage, and retain more users
- - [Mode MCP Server](https://mcp.pipedream.com/app/mode) - Answer any question, fast. Mode brings SQL, Python, Rstats and custom visualizations together in one analytics platform.
- - [MonkeyLearn MCP Server](https://mcp.pipedream.com/app/monkeylearn) - Text Analysis
- - [New Sloth MCP Server](https://mcp.pipedream.com/app/new_sloth) - Simple software for media monitoring, market intelligence, web data extraction and integration. Active knowledge to power decisions!
- - [News API MCP Server](https://mcp.pipedream.com/app/news_api) - Search News and Blog Articles on the Web
- - [Nightfall.ai MCP Server](https://mcp.pipedream.com/app/nightfall_ai) - Discover, classify, and protect your sensitive data wherever it lives.
- - [Ongage MCP Server](https://mcp.pipedream.com/app/ongage) - Email Marketing Platform For Data-Driven Growth
- - [Orca Scan MCP Server](https://mcp.pipedream.com/app/orca_scan) - Build a barcode system without code.
- - [Parsera MCP Server](https://mcp.pipedream.com/app/parsera) - Extract Web Content Instantly: No Coding, Just URL and Columns!
- - [PDF Charts MCP Server](https://mcp.pipedream.com/app/pdf_charts) - Effortlessly design and customize charts with drag-and-drop. Add dynamic data using a simple API call. Download PDFs instantly.
- - [Peaka MCP Server](https://mcp.pipedream.com/app/peaka) - Zero-ETL data integration platform.
- - [People Data Labs MCP Server](https://mcp.pipedream.com/app/people_data_labs) - The source of the truth for person data
- - [Perigon MCP Server](https://mcp.pipedream.com/app/perigon) - "Compare news from all sides, decipher fact from fiction, and transform big media into actionable insights.
-"
- - [Plecto MCP Server](https://mcp.pipedream.com/app/plecto) - #1 Business Performance Platform with real-time data 🚀
- - [PostHog MCP Server](https://mcp.pipedream.com/app/posthog) - Product Analytics? Session Recording? Feature Flags? Experiments? PostHog does that. Open source, backed by @ycombinator
- - [Proxycurl MCP Server](https://mcp.pipedream.com/app/proxycurl) - Pull rich data about people and companies.
- - [Pulsetic MCP Server](https://mcp.pipedream.com/app/pulsetic) - Website uptime monitoring service.
- - [Rapid7 Insight Platform MCP Server](https://mcp.pipedream.com/app/rapid7_insight_platform) - Security analytics platform, gives you the answers needed to find, manage, and reduce risk.
- - [Rat Genome Database MCP Server](https://mcp.pipedream.com/app/rat_genome_database) - The Rat Genome Database (RGD) was established in 1999 and is the premier site for genetic, genomic, phenotype, and disease data generated from rat research
-
- - [Raven Tools MCP Server](https://mcp.pipedream.com/app/raven_tools) - The Raven Tools Link Manager is the tool every whitehat backlink campaign manager needs. Store, organize, and find thousands of link opportunities. Monitor the links you lose and the links you receive.
- - [RedCircle API MCP Server](https://mcp.pipedream.com/app/redcircle_api) - RedCircle API is the real-time Target product data API you've been looking for. No manual rules or web-scraper maintenance required.
- - [RentCast MCP Server](https://mcp.pipedream.com/app/rentcast) - Rental Property Rates and Market Trends.
- - [RocketReach MCP Server](https://mcp.pipedream.com/app/rocketreach) - Accurate, up-to-date contact info
- - [Rosette Text Analytics MCP Server](https://mcp.pipedream.com/app/rosette_text_analytics) - An adaptable text analytics and discovery platform.
- - [RudderStack HTTP MCP Server](https://mcp.pipedream.com/app/rudderstack) - All your customer data pipelines in one platform. Use the Rudderstack HTTP API to send your event data from your sources to the specified destinations.
- - [RudderStack Transformation MCP Server](https://mcp.pipedream.com/app/rudderstack_transformation) - All your customer data pipelines in one platform. Use the Rudderstack Transformation API to manage your RudderStack Transformations and Libraries.
- - [San Francisco Open Data - DataSF MCP Server](https://mcp.pipedream.com/app/san_francisco_open_data_datasf) - Search hundreds of datasets from the City and County of San Francisco
- - [ScrapeGraphAI MCP Server](https://mcp.pipedream.com/app/scrapegraphai) - API Scraper powered by AI
- - [Scrapfly MCP Server](https://mcp.pipedream.com/app/scrapfly) - Scrapfly Web Scraping API for developer
- - [Segment MCP Server](https://mcp.pipedream.com/app/segment) - Customer data platform
- - [SegMetrics MCP Server](https://mcp.pipedream.com/app/segmetrics) - "Get 100% clarity on where your leads come from,
-how they act, and how much your marketing is really worth."
- - [Semrush MCP Server](https://mcp.pipedream.com/app/semrush) - Get measurable results from online marketing. Do SEO, content marketing, competitor research, PPC and social media marketing from just one platform.
- - [Seqera MCP Server](https://mcp.pipedream.com/app/seqera) - One platform for scientific data analysis.
- - [Serply MCP Server](https://mcp.pipedream.com/app/serply) - Get accurate, real-time Google search and SERP results as JSON in seconds. Less bloat than alternatives.
- - [SheetDB MCP Server](https://mcp.pipedream.com/app/sheetdb) - Turn a Google Spreadsheet into a JSON API. Connect Google sheets to CRM, API, Website, WordPress, any application or tool.
- - [Sigma MCP Server](https://mcp.pipedream.com/app/sigma) - Sigma is the only Cloud Analytics solution with a spreadsheet-like UI, enabling anyone to explore data at cloud scale and speed.
- - [Simple Analytics MCP Server](https://mcp.pipedream.com/app/simple_analytics) - Privacy friendly analytics. No cookies. No personal data.
- - [SimpleKPI MCP Server](https://mcp.pipedream.com/app/simplekpi) - Beautifully #simple #KPI software. Create, manage and analyse your Key Performance Indicators from the cloud.
- - [Soax MCP Server](https://mcp.pipedream.com/app/scrapein_) - Effortless data extraction from any website. We manage headless browsers and rotate proxies for you.
- - [Splunk MCP Server](https://mcp.pipedream.com/app/splunk) - Get visibility and insights across your whole organization, powering actions that improve security, reliability and innovation velocity.
- - [StackShare MCP Server](https://mcp.pipedream.com/app/stackshare_api) - StackShare enables you to uncover the tech stacks behind 1.5M companies and counting.
- - [Tableau MCP Server](https://mcp.pipedream.com/app/tableau) - Tableau is a visual analytics platform transforming the way we use data to solve problems—empowering people and organizations to make the most of their data.
- - [Taggun MCP Server](https://mcp.pipedream.com/app/taggun) - Real-time Receipt OCR API for developers.
- - [Tinybird MCP Server](https://mcp.pipedream.com/app/tinybird) - The Way to build Real-time Data Products
- - [Token Metrics MCP Server](https://mcp.pipedream.com/app/token_metrics) - Discover Hidden 100x Cryptocurrencies with Advanced AI Insights.
- - [Trawlingweb MCP Server](https://mcp.pipedream.com/app/trawlingweb) - News & Social Data Collections - We collect all information published on the web and social networks by users.
- - [Twelve Data MCP Server](https://mcp.pipedream.com/app/twelve_data) - Stock, Forex, and Crypto Market Data APIs
- - [Typless MCP Server](https://mcp.pipedream.com/app/typless) - Typless is an easy-to-use invoice OCR REST API powered by AI
- - [U301 MCP Server](https://mcp.pipedream.com/app/u301) - Create short links, QRCodes, with your own domain. Share them anywhere. Track what’s working, and what’s not.
- - [UK gov Vehicle Enquiry API MCP Server](https://mcp.pipedream.com/app/uk_gov_vehecle_enquiry_api) - The DVLA Vehicle Enquiry API is a RESTful service that provides vehicle details of a specified vehicle. It uses the vehicle registration number as input to search and provide details of the vehicle.
- - [Unstructured MCP Server](https://mcp.pipedream.com/app/unstructured) - The Unstructured Data ETL for Your LLM.
- - [WhatConverts MCP Server](https://mcp.pipedream.com/app/whatconverts) - Get marketing clarity with CallTracking and LeadTracking.
- - [Wiza MCP Server](https://mcp.pipedream.com/app/wiza) - Wiza is a tool that helps you find and export accurate contact data for prospects from LinkedIn.
- - [Woopra MCP Server](https://mcp.pipedream.com/app/woopra) - End-to-End Customer Journey Analytics Platform.
- - [World News API MCP Server](https://mcp.pipedream.com/app/world_news_api) - The World News API gives you access to thousands of news sources in over 50 languages from over 150 countries.
- - [ZenRows MCP Server](https://mcp.pipedream.com/app/zenrows) - Web Scraping API & Rotating Proxy Servers. Turn Any Website Into Data with Undetected Scraping Technology 🔥.
- - [Zenscrape MCP Server](https://mcp.pipedream.com/app/zenscrape) - Unlock the power of data at scale without the hassle of getting blocked with zenscrape's web scraping API.
- - [Zenserp MCP Server](https://mcp.pipedream.com/app/zenserp) - Zenserp enables you to scrape search engine result pages in a fast and scalable way. Getting SERPs has never been easier.
- - [Zoho Analytics MCP Server](https://mcp.pipedream.com/app/zoho_analytics) - Self-service BI & Analytics Software
- - [Zyte API MCP Server](https://mcp.pipedream.com/app/zyte_api) - Hi, we’re Zyte, the central point of entry for all your web data needs.
-
-### <a name="databases"></a>Databases
-
- - [Baserow MCP Server](https://mcp.pipedream.com/app/baserow) - Open source online database tool
- - [bit.io MCP Server](https://mcp.pipedream.com/app/bit_io) - The immediately productive, shareable cloud database. Bit.io is a zero-config, scalable cloud database with the social and community features of GitHub.
- - [Database MCP Server](https://mcp.pipedream.com/app/database) - Query a SQL Database with a built-in SQL editor and Schema Explorer
- - [Fauna MCP Server](https://mcp.pipedream.com/app/faunadb) - The distributed serverless database combining the flexibility of NoSQL with the relational querying capabilities of SQL systems.
- - [Microsoft Azure SQL Database MCP Server](https://mcp.pipedream.com/app/azure_sql) - Build apps that scale with managed and intelligent SQL database in the cloud.
- - [Microsoft SQL Server MCP Server](https://mcp.pipedream.com/app/microsoft_sql_server) - Unleash the power of your data—on-premises, in the cloud, or at the edge—and reveal insights to transform your business.
- - [MongoDB MCP Server](https://mcp.pipedream.com/app/mongodb) - MongoDB is an open source NoSQL database management program.
- - [MySQL MCP Server](https://mcp.pipedream.com/app/mysql) - MySQL is an open-source relational database management system.
- - [Nile Database MCP Server](https://mcp.pipedream.com/app/nile_database) - PostgreSQL reengineered for multi-tenant apps
- - [PostgreSQL MCP Server](https://mcp.pipedream.com/app/postgresql) - PostgreSQL is a free and open-source relational database management system emphasizing extensibility and SQL compliance.
- - [Snowflake MCP Server](https://mcp.pipedream.com/app/snowflake) - A data warehouse built for the cloud
- - [Supabase MCP Server](https://mcp.pipedream.com/app/supabase) - Supabase is an open source Firebase alternative.
- - [Supabase Management API MCP Server](https://mcp.pipedream.com/app/supabase_management_api) - Manage your Supabase organizations and projects programmatically.
- - [Upstash Redis MCP Server](https://mcp.pipedream.com/app/upstash_redis) - Upstash Redis database as a service
- - [Weaviate MCP Server](https://mcp.pipedream.com/app/weaviate) - Weaviate is an open-source vector database.
- - [Xata MCP Server](https://mcp.pipedream.com/app/xata) - Think data, not databases. The serverless, branchable, scalable, consistent, highly available, and searchable database service focused on the developer experience.
-
-### <a name="developer-tools"></a>Developer Tools
-
- - [1SaaS MCP Server](https://mcp.pipedream.com/app/onesaas) - 1SaaS brings you the tool platform for all your projects when working with low-code, no-code, APIs and automation. #BreakLimits
- - [Abstract - IP Geolocation API MCP Server](https://mcp.pipedream.com/app/abstract_ip_geo) - Automate anything with Abstract APIs
- - [Adalo MCP Server](https://mcp.pipedream.com/app/adalo) - No code app development platform
- - [Ahrefs MCP Server](https://mcp.pipedream.com/app/ahrefs) - SEO Tools & Resources
- - [Airbrake MCP Server](https://mcp.pipedream.com/app/airbrake) - Airbrake collects errors generated by other applications, and aggregates the results for review.
- - [Alchemy MCP Server](https://mcp.pipedream.com/app/alchemy) - "The web3 dev platform powering millions of users.
-
-Build scalable DApps, faster ⚡"
- - [AnnounceKit MCP Server](https://mcp.pipedream.com/app/announcekit) - AnnounceKit helps companies communicate product updates and news to their customers, increase feature adoption and build customer trust.
- - [Apiary MCP Server](https://mcp.pipedream.com/app/apiary) - Platform for API Design, Development & Documentation
- - [Apify MCP Server](https://mcp.pipedream.com/app/apify) - Apify is the place to find, develop, buy and run cloud programs called actors. Use actors to turn any website into an API.
- - [Backendless MCP Server](https://mcp.pipedream.com/app/backendless) - #NoCode App Builder. The Ultimate Visual App Development Platform (VADP). UI Builder, Real-Time Database, APIs & more
- - [Beaconstac MCP Server](https://mcp.pipedream.com/app/beaconstac) - #1 QR Code Generator
- - [BigML MCP Server](https://mcp.pipedream.com/app/bigml) - Machine Learning made beautifully simple. A company-wide platform that runs in any cloud or on-premises to operationalize Machine Learning in your organization.
- - [BitBucket MCP Server](https://mcp.pipedream.com/app/bitbucket) - Bitbucket Cloud is a Git-based code and CI/CD tool optimized for teams using Jira.
- - [Bouncer MCP Server](https://mcp.pipedream.com/app/bouncer) - Email Validation and Verification Service with cool Tech and truly caring People. The easiest to use, yet the most powerful.
- - [Browse AI MCP Server](https://mcp.pipedream.com/app/browse_ai) - The easiest way to extract structured data from any website with no coding.
- - [Browserless MCP Server](https://mcp.pipedream.com/app/browserless) - Browserless is a service that allows you to run headless Chrome instances in the cloud.
- - [BrowserStack MCP Server](https://mcp.pipedream.com/app/browserstack) - Get instant access to 3,000+ real mobile devices and browsers on our software testing platform that scales as your testing needs grow.
- - [Bubble MCP Server](https://mcp.pipedream.com/app/bubble) - Code-free programming language
- - [BugHerd MCP Server](https://mcp.pipedream.com/app/bugherd) - BugHerd is a visual feedback tool. With the help of the BugHerd browser extension, you can collect website feedback and track bugs directly on a page. It’s like using sticky-notes on a website!
- - [Captain Data MCP Server](https://mcp.pipedream.com/app/captaindata) - Data Extraction & Automation Platform.
- - [Cflow MCP Server](https://mcp.pipedream.com/app/cflow) - Cloud BPM & Workflow Software caters to organizations of all sizes, that wish to automate their daily activities and improve productivity.
- - [Chatsonic MCP Server](https://mcp.pipedream.com/app/chatsonic) - Like ChatGPT but with real-time data, images & voice search.
- - [CIRCL Hash Lookup MCP Server](https://mcp.pipedream.com/app/circl_hash_lookup) - CIRCL hash lookup is a public API to lookup hash values against known database of files.
- - [CircleCI MCP Server](https://mcp.pipedream.com/app/circleci) - Continuous integration and delivery platform
- - [Clearout MCP Server](https://mcp.pipedream.com/app/clearout) - An email verification & email finder tool for bulk and real-time verification & finding emails.
- - [Cloudflare Browser Rendering MCP Server](https://mcp.pipedream.com/app/cloudflare_browser_rendering) - Allows developers to programmatically control and interact with a headless browser instance and create automation flows for their applications and products.
- - [Cloudinary MCP Server](https://mcp.pipedream.com/app/cloudinary) - Create, manage and deliver digital experiences
- - [Cloudmersive MCP Server](https://mcp.pipedream.com/app/cloudmersive) - Highly Scalable Cloud APIs
- - [Code Climate MCP Server](https://mcp.pipedream.com/app/code_climate) - Engineer a transformation. Trusted insights for maximum business impact.
- - [CodeREADr MCP Server](https://mcp.pipedream.com/app/codereadr) - A barcode scanning and data collection workflow app using smartphones, tablets, and rugged mobile computers. Record, validate, and export scans.
- - [CommCare MCP Server](https://mcp.pipedream.com/app/commcare) - Design Powerful Mobile and Web Apps
- - [Confection MCP Server](https://mcp.pipedream.com/app/confection) - Confection collects, stores, and distributes data in a way that's unaffected by client-side disruptions involving cookies, cross-domain scripts, and device IDs. It's also compliant with global privacy laws so it’s good for people too.
- - [Crowdin MCP Server](https://mcp.pipedream.com/app/crowdin) - Agile localization for tech companies. Crowdin is a cloud-based solution that streamlines localization management for your team. It's the perfect place to effectively manage all of your multilingual content.
- - [Datadog MCP Server](https://mcp.pipedream.com/app/datadog) - Cloud monitoring as a service
- - [Diffchecker MCP Server](https://mcp.pipedream.com/app/diffchecker) - The best tools for comparing text, images, files and folders
- - [DigitalOcean Spaces MCP Server](https://mcp.pipedream.com/app/digitalocean_spaces) - Highly scalable and affordable object storage.
- - [Docparser MCP Server](https://mcp.pipedream.com/app/docparser) - Docparser is the most advanced cloud based document parsing and automation tool in the market today.
- - [Dromo MCP Server](https://mcp.pipedream.com/app/dromo) - Dromo is a self-service data file importer that deploys in minutes. Embed in your app or trigger via API to handle csv, xls, xlsx and more.
- - [EasyCSV MCP Server](https://mcp.pipedream.com/app/easycsv) - Add a spreadsheet import to your app in minutes. Send spreadsheet data to a webhook or an App.
- - [elmah.io MCP Server](https://mcp.pipedream.com/app/elmah_io) - elmah.io is the easy error logging and uptime monitoring service for .NET. Take back control of your errors with support for all .NET web and logging frameworks.
- - [Error MCP Server](https://mcp.pipedream.com/app/error) - Quickly an easily throw an error in your workflow so you can quickly catch, debug, and fix any issues.
- - [Fibery MCP Server](https://mcp.pipedream.com/app/fibery) - Connected workspace for teams
- - [FileStack MCP Server](https://mcp.pipedream.com/app/filestack) - The #1 File Handling Service for Developers.
- - [FogBugz MCP Server](https://mcp.pipedream.com/app/fogbugz) - FogBugz project management software helps you spend less time on managing, and more on creating your digital masterpiece. Align your team under a common purpose that allows you to plan, track and release great software.
- - [Freshping MCP Server](https://mcp.pipedream.com/app/freshping) - Free Reliable Website Monitoring software by Freshworks
- - [Freshstatus MCP Server](https://mcp.pipedream.com/app/freshstatus) - Build Branded Public & Private Status Pages
- - [Gitea MCP Server](https://mcp.pipedream.com/app/gitea) - Community managed lightweight code hosting solution written in Go
- - [GitHub MCP Server](https://mcp.pipedream.com/app/github) - Where the world builds software. Millions of developers and companies build, ship, and maintain their software on GitHub—the largest and most advanced development platform in the world.
- - [GitLab MCP Server](https://mcp.pipedream.com/app/gitlab) - GitLab is the most comprehensive AI-powered DevSecOps Platform.
- - [GoDaddy MCP Server](https://mcp.pipedream.com/app/godaddy) - GoDaddy’s here to help you turn your ideas into reality and succeed online.
- - [Google reCAPTCHA MCP Server](https://mcp.pipedream.com/app/google_recaptcha) - Security service that protects your websites from fraud and abuse.
- - [Google Workspace Admin MCP Server](https://mcp.pipedream.com/app/google_workspace) - Business apps & collaboration tools
- - [Grist MCP Server](https://mcp.pipedream.com/app/grist) - The evolution of spreadsheets.
- - [IP2Location MCP Server](https://mcp.pipedream.com/app/ip2location) - Identify Geographical Location and Proxy by IP Address
- - [IP2Proxy MCP Server](https://mcp.pipedream.com/app/ip2proxy) - The IP2Proxy™ Proxy Detection Web Service is a hosted Web Service that allows instant detection of anonymous proxy, VPN, TOR exit nodes, search engine robots (SES) and residential proxies (RES) by IP address. It is a REST API supporting both JSON and XML responses and provides IP location lookup information when a proxy is detected.
- - [Kickbox MCP Server](https://mcp.pipedream.com/app/kickbox) - Discover how you can take the guesswork out of hitting the inbox with the Kickbox Deliverability Suite.
- - [Knack MCP Server](https://mcp.pipedream.com/app/knack) - Business app platform
- - [LaunchDarkly MCP Server](https://mcp.pipedream.com/app/launchdarkly) - Fast and reliable feature management for the modern enterprise.
- - [LaunchDarkly (OAuth) MCP Server](https://mcp.pipedream.com/app/launch_darkly_oauth) - Launch Darkly offers unified feature management and experimentation. Feature flags, context-aware targeting, and experimentation in one powerful software delivery platform.
- - [Levity MCP Server](https://mcp.pipedream.com/app/levity) - Train your own AI on documents, images, or text data to perform daily, repetitive tasks so your team can reach the next level of productivity
- - [Lighthouse MCP Server](https://mcp.pipedream.com/app/lighthouse) - Lighthouse is a beautifully simple issue tracker changing the way thousands manage their issues.
- - [Lob MCP Server](https://mcp.pipedream.com/app/lob) - Direct Mail Automation and Address Verification APIs
- - [Loqate MCP Server](https://mcp.pipedream.com/app/loqate) - Lightweight code hosting solution written in Go. Easy to install and use.
- - [MailboxValidator MCP Server](https://mcp.pipedream.com/app/mailboxvalidator) - Secure and reliable email validation service to check for invalid email addresses. It connects to the mail server and checks whether the mailbox exists or not. It reduces email bounce rate & costs. It increases conversion rate & sender reputation.
- - [Mailcheck MCP Server](https://mcp.pipedream.com/app/mailcheck) - Validate your mailing lists in one click.
- - [MaxMind GeoIP2 MCP Server](https://mcp.pipedream.com/app/maxmind_geoip2) - MaxMind GeoIP2 offerings provide IP geolocation and proxy detection for a wide range of applications including content customization, advertising, digital rights management, compliance, fraud detection, and security.
- - [Minerstat MCP Server](https://mcp.pipedream.com/app/minerstat) - Offers powerful automated tools and valuable analytics to improve your mining operation.
- - [Neverbounce MCP Server](https://mcp.pipedream.com/app/neverbounce) - Bulk Email Verification & List Cleaning Service
- - [New Relic MCP Server](https://mcp.pipedream.com/app/new_relic) - Real-time performance insights into your software, infrastructure & customer experience
- - [ngrok MCP Server](https://mcp.pipedream.com/app/ngrok) - API Gateway, IoT Device Gateway, Secure Tunnels for Containers, Apps & APIs
- - [Ninox MCP Server](https://mcp.pipedream.com/app/ninox) - Ninox is the software with which anyone can develop individual business applications without programming knowledge.
- - [nocodb MCP Server](https://mcp.pipedream.com/app/nocodb) - Free & open source Airtable alternative
- - [Nutrient Document Web Services API MCP Server](https://mcp.pipedream.com/app/nutrient_document_web_services_api) - PDF API Tools: Fast Setup with 25+ PDF Tools
- - [OCRSpace MCP Server](https://mcp.pipedream.com/app/ocrspace) - The OCR.space Online OCR service converts scans or (smartphone) images of text documents into editable files by using Optical Character Recognition (OCR). The OCR software also can get text from PDF . Our Online OCR service is free to use, no registration necessary. Just upload your image files.
- - [OpenGraph.io MCP Server](https://mcp.pipedream.com/app/opengraph_io) - A very simple Open Graph API. Don't waste time and resources scraping sites or trying to unfurl urls.
- - [Opsgenie MCP Server](https://mcp.pipedream.com/app/opsgenie) - Opsgenie is a modern incident management platform for operating always-on services, empowering Dev and Ops teams to plan for service disruptions and stay in control during incidents.
- - [PagerDuty MCP Server](https://mcp.pipedream.com/app/pagerduty) - Real-Time Operations and Incident Response
- - [ParseHub MCP Server](https://mcp.pipedream.com/app/parsehub) - An incredibly powerful web scraper.
- - [Parseur MCP Server](https://mcp.pipedream.com/app/parseur) - Parseur is the most powerful and user-friendly mail parser. A data extraction tool to automatically extract text from your emails, pdfs, and other documents.
- - [Passcreator MCP Server](https://mcp.pipedream.com/app/passcreator) - Passcreator enables businesses to manage successful mobile Wallet campaigns. Store cards, event tickets, coupons and membership cards on your customer's smartphone!
- - [pCloud MCP Server](https://mcp.pipedream.com/app/pcloud) - Secure encrypted cloud storage
- - [Phantombuster MCP Server](https://mcp.pipedream.com/app/phantombuster) - Code-free automations and data extraction. Chain actions and data extraction on the web to generate business leads, marketing audiences and overall growth. Phantombuster gives you the tools and know-how to grow your business faster.
- - [Phrase MCP Server](https://mcp.pipedream.com/app/phrase) - Leanest, Fastest, and Most Reliable Localization Platform
- - [Pingdom MCP Server](https://mcp.pipedream.com/app/pingdom) - SolarWinds Pingdom provides real user, uptime, page speed, and synthetic monitoring of web applications from outside the firewall.
- - [Pipedream MCP Server](https://mcp.pipedream.com/app/pipedream) - Integration platform for developers
- - [Pipedream Connect MCP Server](https://mcp.pipedream.com/app/pipedream_connect) - "Pipedream Connect gives you access to thousands of API integrations in your app or AI agent, all with a single SDK.
-
-Connect provides managed authentication, approved client IDs, durable components, and infrastructure for runnign serverless functions. Delight users, grow product usage, and solve complex use cases in minutes."
- - [PractiTest MCP Server](https://mcp.pipedream.com/app/practitest) - "Empower organizations to create, deploy and run software with confidence.
-"
- - [ProdPad MCP Server](https://mcp.pipedream.com/app/prodpad) - ProdPad focuses on every aspect of a product manager's life, from creating roadmaps, to managing a backlog, communicating and building team transparency, and managing customer feedback.
- - [Pushsafer MCP Server](https://mcp.pipedream.com/app/pushsafer) - Send & receive of Push Notifications
- - [Quickbase MCP Server](https://mcp.pipedream.com/app/quickbase) - Quickbase is the platform that businesses use to quickly turn ideas about better ways to work into apps that make them more efficient, informed and productive.
- - [RapidAPI MCP Server](https://mcp.pipedream.com/app/rapidapi) - The Next Generation API Platform
- - [Readwise MCP Server](https://mcp.pipedream.com/app/readwise) - Readwise makes it easy to revisit and learn from your ebook & article highlights.
- - [RenderForm MCP Server](https://mcp.pipedream.com/app/renderform) - Graphics editor with superpowers. Design templates to automate repetitive image or PDF creation. Get started in minutes with our template editor and no-code tools.
- - [Reverse Contact MCP Server](https://mcp.pipedream.com/app/reversecontact) - Find Linkedin profile from an email
- - [Reward Sciences MCP Server](https://mcp.pipedream.com/app/reward_sciences) - Reward Sciences is an easy-to-use platform that enables organizations to incentivize and reward human behaviors wherever and whenever they benefit the business.
- - [Rollbar MCP Server](https://mcp.pipedream.com/app/rollbar) - Find and fix code errors faster.
- - [Scrape-It.Cloud MCP Server](https://mcp.pipedream.com/app/scrape_it_cloud) - Scrape-It.Cloud is an API for web scraping valuable data in JSON format from any website without needing a proxy.
- - [ScrapeNinja MCP Server](https://mcp.pipedream.com/app/scrapeninja) - Extract Web Data on Scale
- - [ScrapingBee MCP Server](https://mcp.pipedream.com/app/scrapingbee) - We're an API that handles headless browsers and rotates proxies for you.
- - [Sentry MCP Server](https://mcp.pipedream.com/app/sentry) - Sentry offers self-hosted and cloud-based application performance monitoring & error tracking that helps software teams see clearer, solve quicker, & learn continuously.
- - [SFTP (key-based auth) MCP Server](https://mcp.pipedream.com/app/sftp) - Interact with an SFTP (SSH File Transfer Protocol) Server using a private key for auth
- - [Sifter MCP Server](https://mcp.pipedream.com/app/sifter) - Simple and streamlined. Sifter makes issue tracking convenient for even your least technical team members so that everyone can get involved and help find and resolve issues sooner.
- - [Snyk MCP Server](https://mcp.pipedream.com/app/snyk) - Find and automatically fix vulnerabilities in your code, open source dependencies, containers, and infrastructure as code — all powered by Snyk’s industry-leading security intelligence.
-
- - [Softr MCP Server](https://mcp.pipedream.com/app/softr) - The easiest way to build custom apps and portals from Airtable, in minutes. #nocode required.
- - [SonarCloud MCP Server](https://mcp.pipedream.com/app/sonarcloud) - SonarCloud is the leading online service for Code Quality & Security. Free analysis for open-source projects covering 24 languages.
- - [SSH (password-based auth) MCP Server](https://mcp.pipedream.com/app/ssh_password_based_auth) - Use the Secure Shell protocol to execute commands on a remote server using a username and password
- - [Statuscake MCP Server](https://mcp.pipedream.com/app/statuscake) - Own a website? You need StatusCake. Page speed, domain, server, SSL, & uptime monitoring to drive revenue.
- - [Telnyx MCP Server](https://mcp.pipedream.com/app/telnyx) - Connectivity Made Simple
- - [Testmo MCP Server](https://mcp.pipedream.com/app/testmo) - The #1 unified test management tool. All your manual, exploratory & automated tests in one powerful platform. Full integration with Jira, GitHub, GitLab & more.
- - [TestMonitor MCP Server](https://mcp.pipedream.com/app/testmonitor) - TestMonitor, a modern software tool for functional, user- and acceptance tests of software implementations with one goal only: Testing with a smile!
- - [TRIGGERcmd MCP Server](https://mcp.pipedream.com/app/triggercmd) - "TRIGGERcmd is a cloud service that allows you to securely and remotely run commands on your computers.
-Your commands could install updates, open your garage, run a script, or anything else you decide."
- - [WakaTime MCP Server](https://mcp.pipedream.com/app/wakatime) - "Dashboards for developers
-Open source plugins for metrics about your programming"
- - [WhoisFreaks MCP Server](https://mcp.pipedream.com/app/whoisfreaks) - Best Source For Domain WHOIS Database and API.
- - [ZeroBounce MCP Server](https://mcp.pipedream.com/app/zerobounce) - ZeroBounce is an email validation and deliverability platform helping more than 150,000 customers reduce bounces and land their emails in the inbox.
- - [Zoho Creator MCP Server](https://mcp.pipedream.com/app/zoho_creator) - Low-code platform
-
-### <a name="entertainment"></a>Entertainment
-
- - [Action Network MCP Server](https://mcp.pipedream.com/app/action_network) - An intuitive, comprehensive online tool set that empowers progressive campaigns to be stronger & more effective
- - [Adobe Photoshop MCP Server](https://mcp.pipedream.com/app/adobe_photoshop) - Adobe Photoshop APIs save you time so you can focus on creating.
- - [Blizzard Battle.net MCP Server](https://mcp.pipedream.com/app/battle_net) - Blizzard Entertainment
- - [ChatFAI MCP Server](https://mcp.pipedream.com/app/chatfai) - "An AI powered experience that allows you to chat with your favorite characters
-from movies, TV shows, books, history, and more."
- - [ChuckNorris.io MCP Server](https://mcp.pipedream.com/app/chucknorris) - A free JSON API for hand curated Chuck Norris facts. Read more
- - [Cryptowatch MCP Server](https://mcp.pipedream.com/app/cryptowatch) - Bitcoin (BTC) Live Price Charts, Trading, and more
- - [Dacast MCP Server](https://mcp.pipedream.com/app/dacast) - Dacast's Video Streaming Software is the leading Online Video and Hosting Platform. Stream live and on demand video leveraging a video API and 24/7 support.
- - [Drimify MCP Server](https://mcp.pipedream.com/app/drimify) - Drimify empowers you to easily create games and gamification experiences that help you reach your goals. Supercharged games, super-easy creation.
- - [Dungeon Fighter Online MCP Server](https://mcp.pipedream.com/app/dungeon_fighter_online) - Dungeon Fighter Online is a free-to-play online action MMORPG.
- - [Epic Games MCP Server](https://mcp.pipedream.com/app/epic_games) - A curated digital storefront designed with both players and creators in mind.
- - [Gami5d MCP Server](https://mcp.pipedream.com/app/gami5d) - The gamification platform
- - [Goodreads MCP Server](https://mcp.pipedream.com/app/goodreads) - Meet your next favorite book
- - [Hacker News MCP Server](https://mcp.pipedream.com/app/hacker_news) - Social news website
- - [Harry Potter API MCP Server](https://mcp.pipedream.com/app/harry_potter_api) - A RESTful API for Harry Potter data
- - [Invidious MCP Server](https://mcp.pipedream.com/app/invidious) - Invidious is an open source alternative front-end to YouTube.
- - [JW Player MCP Server](https://mcp.pipedream.com/app/jw_player) - The World's Most Powerful & Flexible Video Platform
- - [Listen Notes MCP Server](https://mcp.pipedream.com/app/listen_notes) - Podcast search engine
- - [Memix MCP Server](https://mcp.pipedream.com/app/memix) - Instantly turn your texts into memes! No more googling to find a meme template. No more asking that meme-expert friend to do it for you.
- - [MobyGames MCP Server](https://mcp.pipedream.com/app/mobygames) - Catalogs all relevant information about electronic games (computer, console, and arcade) on a game-by-game basis. Including release info, credits, cover art and much more!
- - [Mux MCP Server](https://mcp.pipedream.com/app/mux) - Build Better Video: Stream beautiful video to any device and monitor your video performance with our APIs.
- - [New York Times MCP Server](https://mcp.pipedream.com/app/new_york_times) - The New York Times is an American daily newspaper which features top articles across many sections, including politics, technology, and opinion.
- - [NewsCatcher MCP Server](https://mcp.pipedream.com/app/newscatcher) - Search multi-language worldwide news articles published online with NewsCatcher's News API.
- - [Newslit MCP Server](https://mcp.pipedream.com/app/newslit) - Next Gen media monitoring for breaking news & interesting content to help you hone in on your industry, competitors & brands
- - [Osu! MCP Server](https://mcp.pipedream.com/app/osu) - Open-source rhythm game that challenges players to keep in time with music tracks.
- - [Path of Exile MCP Server](https://mcp.pipedream.com/app/path_of_exile) - Path of Exile is a free-to-play action role-playing video game developed and published by Grinding Gear Games
- - [Piped MCP Server](https://mcp.pipedream.com/app/piped) - The Privacy-friendly YouTube alternative that's efficient by design
- - [Pocket MCP Server](https://mcp.pipedream.com/app/pocket) - Service for managing a reading list of articles and videos
- - [PokéAPI MCP Server](https://mcp.pipedream.com/app/pokeapi) - The RESTful Pokémon API
- - [Rafflys MCP Server](https://mcp.pipedream.com/app/rafflys) - Instagram Giveaway Picker. Create free Instagram giveaways & sweepstakes for free.
- - [RAWG Video Games Database MCP Server](https://mcp.pipedream.com/app/rawg_video_games_database) - The largest video game database and video game discovery service.
- - [RSS MCP Server](https://mcp.pipedream.com/app/rss) - Real Simple Syndication
- - [Rumble MCP Server](https://mcp.pipedream.com/app/rumble) - Video technology for reaching your maximum earning potential.
- - [Shadertoy MCP Server](https://mcp.pipedream.com/app/shadertoy) - Build and Share your best shaders with the world and get Inspired!
- - [Shutterstock MCP Server](https://mcp.pipedream.com/app/shutterstock) - Stock Images, Photos, Vectors, Video, and Music
- - [SpiritMe MCP Server](https://mcp.pipedream.com/app/spiritme) - AI-video platform for creating personalized videos with digital avatars.
- - [Spoonacular MCP Server](https://mcp.pipedream.com/app/spoonacular) - Free meal planner with nutritional info. Save recipes from any site. All Your Food. One Place
- - [SportsData MCP Server](https://mcp.pipedream.com/app/sportsdata) - Real time data provider syndicating scores, stats, odds, projections, news & images
- - [Spotify MCP Server](https://mcp.pipedream.com/app/spotify) - Spotify is a digital music service that gives you access to millions of songs.
- - [Strava MCP Server](https://mcp.pipedream.com/app/strava) - Designed by athletes, for athletes, Strava's mobile app and website connect millions of runners and cyclists through the sports they love.
- - [StreamWish MCP Server](https://mcp.pipedream.com/app/streamwish) - Upload & share your videos to make money online.
- - [SWAPI - Star Wars MCP Server](https://mcp.pipedream.com/app/swapi) - The Star Wars API
- - [The Odds API MCP Server](https://mcp.pipedream.com/app/the_odds_api) - Sports odds data in a simple API. Covering bookmakers from around the globe for NFL, NBA, EPL and much more.
- - [The Owen Wilson Wow MCP Server](https://mcp.pipedream.com/app/owen_wilson) - The Owen Wilson Wow API
- - [Twitch MCP Server](https://mcp.pipedream.com/app/twitch) - Twitch is an interactive livestreaming service for content spanning gaming, entertainment, sports, music, and more.
- - [Warpcast MCP Server](https://mcp.pipedream.com/app/warpcast) - Warpcast is a client for Farcaster, a new type of social network.
- - [WatchSignals MCP Server](https://mcp.pipedream.com/app/watchsignals) - Luxury Watch Search Engine. Search watches from 1M+ prices. Watch comparison between trusted dealers.
- - [Yahoo! Fantasy Sports MCP Server](https://mcp.pipedream.com/app/yahoo_fantasy_sports) - Create or join a NFL league and manage your team with live scoring, stats, scouting reports, news, and expert advice
- - [YouTube (Analytics API) MCP Server](https://mcp.pipedream.com/app/youtube_analytics_api) - The YouTube Reporting and YouTube Analytics APIs let you retrieve YouTube Analytics data to automate complex reporting tasks, build custom dashboards, and much more.
- - [YouTube (Data API) MCP Server](https://mcp.pipedream.com/app/youtube_data_api) - With the YouTube Data API, you can add a variety of YouTube features to your application. Use the API to upload videos, manage playlists and subscriptions, update channel settings, and more.
-
-### <a name="file-storage"></a>File Storage
-
- - [Adobe PDF Services MCP Server](https://mcp.pipedream.com/app/adobe_pdf_services) - Create, convert, transform, OCR PDFs and more.
- - [Air MCP Server](https://mcp.pipedream.com/app/air) - Creative Operations Platform for Creative Teams
- - [APITemplate.io MCP Server](https://mcp.pipedream.com/app/apitemplate_io) - APITemplate.io allows you to auto-generate images and PDF documents with a simple API
- - [Are.na MCP Server](https://mcp.pipedream.com/app/are_na) - A platform for connecting ideas and building knowledge.
- - [Backblaze MCP Server](https://mcp.pipedream.com/app/backblaze) - Unleash innovation, unburden teams, and unlock budgets with S3-compatible cloud storage at 1/5th the cost.
- - [Bannerbear MCP Server](https://mcp.pipedream.com/app/bannerbear) - API for Automated Image and Video Generation
- - [Bitport MCP Server](https://mcp.pipedream.com/app/bitport) - Download files to a secured cloud. Anonymously. Fast. Online.
- - [Box MCP Server](https://mcp.pipedream.com/app/box) - Platform for secure content management, workflow, and collaboration
- - [Cincopa MCP Server](https://mcp.pipedream.com/app/cincopa) - Cincopa is a photo & video hosting platform, offering various designs for slideshows, photo-galleries, video players, private video hosting solutions and more.
- - [Content Snare MCP Server](https://mcp.pipedream.com/app/content_snare) - Stop chasing clients for information & make it come to you. Content Snare helps digital agencies, accountants & more cut their time spent gathering info by 71%.
- - [Conversion Tools MCP Server](https://mcp.pipedream.com/app/conversion_tools) - Online File Converter for JSON, XML, Excel, HTML, PDF and other file formats.
- - [ConvertAPI MCP Server](https://mcp.pipedream.com/app/convertapi) - ConvertAPI is a high-performance online files conversion and manipulation service for developers. It can be integrated into any application or platform in just a few minutes, scales up to handle any amount of traffic, uses little resources and supports 200+ conversion actions.
- - [Crove MCP Server](https://mcp.pipedream.com/app/crove_app) - Crove.app helps you to automate your repetitive business documents. With Crove you can create your repetitive business documents as intelligent templates that use variables and logical conditions.
- - [Docnify MCP Server](https://mcp.pipedream.com/app/docnify) - Sign documents quickly and easily
- - [DocuGenerate MCP Server](https://mcp.pipedream.com/app/docugenerate) - Easily generate PDF documents like invoices, letters, contracts, agreements, certificates and more with our API and web app.
- - [Documenso MCP Server](https://mcp.pipedream.com/app/documenso) - Documenso aims to be the world's most trusted document-signing tool. Join us in creating the next generation of open trust infrastructure.
- - [Document360 MCP Server](https://mcp.pipedream.com/app/document360) - The Knowledge Base Software that Scales with your Product.
- - [DocumentPro MCP Server](https://mcp.pipedream.com/app/documentpro) - Automate data extraction with AI parsers. Extract Invoices from PDFs and Images to Excel & more using AI.
- - [Docupilot MCP Server](https://mcp.pipedream.com/app/docupilot) - Document automation software
- - [DocuSeal MCP Server](https://mcp.pipedream.com/app/docuseal) - DocuSeal provides a powerful and easy-to-use API to implement eSigning automation workflows for businesses.
- - [Docusign MCP Server](https://mcp.pipedream.com/app/docusign) - Electronic Signature and Agreement Cloud
- - [Dropbox MCP Server](https://mcp.pipedream.com/app/dropbox) - Dropbox gives you secure access to all your files. Collaborate with friends, family, and coworkers from any device.
- - [Dropmark MCP Server](https://mcp.pipedream.com/app/dropmark) - An app to organize all your links, files, and notes into visual collections.
- - [Egnyte MCP Server](https://mcp.pipedream.com/app/egnyte) - Manage, Protect & Govern Organizations Content Powered by AI.
- - [eSignatures.io MCP Server](https://mcp.pipedream.com/app/esignatures_io) - eSignatures.io provides a simple way to collect electronic signatures on any device.
- - [Evernote MCP Server](https://mcp.pipedream.com/app/evernote) - Best Note Taking App: Organize Your Notes with Evernote
- - [Eversign MCP Server](https://mcp.pipedream.com/app/eversign) - Free, Legally Binding Online Signatures
- - [File Store MCP Server](https://mcp.pipedream.com/app/file_store) - Files Stores are simple cloud storage for your Projects to upload, download and retrieve files.
- - [Fileforge MCP Server](https://mcp.pipedream.com/app/fileforge) - API First Document Platform.
- - [Files.com MCP Server](https://mcp.pipedream.com/app/files_com) - Files.com is a SaaS FTP file transfer platform that enables organizations to securely transfer, share, and store files.
- - [Formstack MCP Server](https://mcp.pipedream.com/app/formstack) - Workplace Productivity & Automation Tools
- - [Formstack Documents MCP Server](https://mcp.pipedream.com/app/formstack_documents) - "Automate your document generation.
-Eliminate paperwork and transform data into beautifully designed Formstack documents you can send anywhere."
- - [Frame.io MCP Server](https://mcp.pipedream.com/app/frame) - Video Review and Collaboration Software
- - [Gatekeeper MCP Server](https://mcp.pipedream.com/app/gatekeeper) - Gatekeeper is a next generation contract and supplier management platform that was born in the cloud and works on any device.
- - [Giphy MCP Server](https://mcp.pipedream.com/app/giphy) - GIFs & Animated Stickers online
- - [Google Docs MCP Server](https://mcp.pipedream.com/app/google_docs) - Use Google Docs to create, edit and collaborate on online documents.
- - [Google Drive MCP Server](https://mcp.pipedream.com/app/google_drive) - Google Drive is a file storage and synchronization service which allows you to create and share your work online, and access your documents from anywhere.
- - [Google Photos MCP Server](https://mcp.pipedream.com/app/google_photos) - Google Photos is the home for all your photos and videos
- - [Google Slides MCP Server](https://mcp.pipedream.com/app/google_slides) - Create, edit, and collaborate on presentations with the Google Slides app.
- - [HTML/CSS to Image MCP Server](https://mcp.pipedream.com/app/html_css_to_image) - The API for generating high-quality images from HTML/CSS. No yak shaving required.
- - [imgbb MCP Server](https://mcp.pipedream.com/app/imgbb) - Free image hosting and sharing service
- - [Imgur MCP Server](https://mcp.pipedream.com/app/imgur) - Image hosting
- - [Joplin MCP Server](https://mcp.pipedream.com/app/joplin) - Joplin is an open source note-taking app. Capture your thoughts and securely access them from any device.
- - [Microsoft OneDrive MCP Server](https://mcp.pipedream.com/app/microsoft_onedrive) - Microsoft OneDrive lets you store your personal files in one place, share them with others, and get to them from any device.
- - [MinIO MCP Server](https://mcp.pipedream.com/app/minio) - MinIO is a high-performance, S3 compatible object store. It is built for large scale AI/ML, data lake and database workloads.
- - [Nextcloud MCP Server](https://mcp.pipedream.com/app/nextcloud) - Remote collaboration made easy.
- - [ONLYOFFICE DocSpace MCP Server](https://mcp.pipedream.com/app/onlyoffice_docspace) - ONLYOFFICE DocSpace, customizable rooms for any business purpose.
- - [Outline MCP Server](https://mcp.pipedream.com/app/outline) - Team knowledge base & wiki
- - [PandaDoc MCP Server](https://mcp.pipedream.com/app/pandadoc) - Create, Approve, Track & eSign Docs 40% Faster
- - [PDF-app.net MCP Server](https://mcp.pipedream.com/app/pdf_app_net) - Effortless PDF Management: Your Go-To for Creating and Modifying PDFS.
- - [PDF.co MCP Server](https://mcp.pipedream.com/app/pdf_co) - PDF.co is a API platform for data extraction from PDF, spreadsheets, barcodes. 300+ integrations supported.
- - [pdfFiller MCP Server](https://mcp.pipedream.com/app/pdffiller) - Powerful online PDF tools to make your document workflows easy and secure.
- - [PDFMonkey MCP Server](https://mcp.pipedream.com/app/pdfmonkey) - PDFMonkey is the solution to handle your PDF generation needs.
- - [Pixelbin MCP Server](https://mcp.pipedream.com/app/pixelbin) - Simplifying digital asset management with AI-powered image optimization.
- - [Placid MCP Server](https://mcp.pipedream.com/app/placid) - Placid generates thousands of visuals from custom templates with dynamic elements like text, colors or photos. Use data from any source to create auto-updating creatives with our APIs or nocode integrations.
- - [PrintAutopilot MCP Server](https://mcp.pipedream.com/app/printautopilot) - Connect your printers to any application
- - [PrintNode MCP Server](https://mcp.pipedream.com/app/printnode) - An awesomely fast cloud printing service that supports all printers and USB weighing scales as well as a feature packed JSON API.
- - [Qryptal MCP Server](https://mcp.pipedream.com/app/qryptal) - Qryptal provides innovative & effective mobile enabled products and solutions to large enterprises and small businesses.
- - [Remove.bg MCP Server](https://mcp.pipedream.com/app/remove_bg) - Remove background from image
- - [ScrapingAnt MCP Server](https://mcp.pipedream.com/app/scrapingant) - "The easiest way to scrape websites via #API.
-ScrapingAnt uses the latest Chrome browser and rotates proxies to automate your data mining tasks."
- - [SFTP (password-based auth) MCP Server](https://mcp.pipedream.com/app/sftp_password_based_auth) - Interact with an SFTP (SSH File Transfer Protocol) Server using a username and password for auth
- - [Shotstack MCP Server](https://mcp.pipedream.com/app/shotstack) - Revolutionizing how video is built. Create, edit and distribute thousands of bespoke, data driven videos in minutes with Shotstack.
- - [Signaturit MCP Server](https://mcp.pipedream.com/app/signaturit) - Leading European provider of digital signature, digital transaction management and trust services.
- - [signNow MCP Server](https://mcp.pipedream.com/app/signnow) - Electronic signature that scales with your workflow. Create and scale eSignature workflows with signNow, part of the airSlate Business Cloud. Sign and send documents for signing, generate agreements, negotiate contracts, accept payments, and automate business processes.
- - [SignRequest MCP Server](https://mcp.pipedream.com/app/signrequest) - Boost efficiency with reliable e-signing.
- - [SimpleBackups MCP Server](https://mcp.pipedream.com/app/simplebackups) - All-in-one Website, Database, Storage and Application Backups Automation.
- - [SmugMug MCP Server](https://mcp.pipedream.com/app/smugmug) - Online photo application
- - [Spondyr MCP Server](https://mcp.pipedream.com/app/spondyr) - Spondyr is an API that helps developers quickly integrate correspondence template management and distribution functionality into their applications.
- - [Swiftype MCP Server](https://mcp.pipedream.com/app/swiftype) - The leading platform for Site Search, App Search and Enterprise Search. We power search for thousands of enterprises and websites.
- - [Tettra MCP Server](https://mcp.pipedream.com/app/tettra) - The best way to organize and share knowledge with your teammates.
- - [Tolstoy MCP Server](https://mcp.pipedream.com/app/tolstoy) - Deliver personal conversations, anytime and anywhere with Tolstoy interactive videos.
- - [Transistor.fm MCP Server](https://mcp.pipedream.com/app/transistor_fm) - Create unlimited podcasts for one monthly price. Invite team members, see your podcast's stats, and distribute to Apple Podcasts, Spotify, Google Podcasts. We also offer private podcasting for your company or membership site.
- - [Trint MCP Server](https://mcp.pipedream.com/app/trint) - Trint’s speech-to-text platform makes audio and video searchable, editable and shareable.
- - [Truss MCP Server](https://mcp.pipedream.com/app/truss) - Shockingly simple client requests. Truss is the easiest way for CPAs, EAs and Accountants to securely request and organize client documents.
- - [Unsplash MCP Server](https://mcp.pipedream.com/app/unsplash) - Beautiful Free Images & Pictures
- - [Uploadcare MCP Server](https://mcp.pipedream.com/app/uploadcare) - Uploadcare handles file uploads, storage, processing and delivery for the modern web. Build more, code less. Sign up at uploadcare.com to get your free API key.
- - [Vimeo MCP Server](https://mcp.pipedream.com/app/vimeo) - Vimeo enables you to watch videos in HD with all the video tools you need, and no ads: upload, screen record, live stream, edit, collaborate, share, and manage your videos.
- - [WaiverForever MCP Server](https://mcp.pipedream.com/app/waiverforever) - WaiverForever provides an efficient, secure and unified tool for kiosk businesses to customized electronic waiver for paperless signed and storage.
- - [Wistia MCP Server](https://mcp.pipedream.com/app/wistia) - Software that makes it easy to find, engage, and grow your audience with video.
- - [Yumpu MCP Server](https://mcp.pipedream.com/app/yumpu) - We combine the best of two worlds: digitalpublishing and digitalreading.
- - [Zamzar MCP Server](https://mcp.pipedream.com/app/zamzar) - Online file conversion website.
- - [Zoho Sign MCP Server](https://mcp.pipedream.com/app/zoho_sign) - Sign, Paperless. A complete digital signature app for business signatories.
- - [Zoho WorkDrive MCP Server](https://mcp.pipedream.com/app/zoho_workdrive) - Online file management for teams
-
-### <a name="help-desk-support"></a>Help Desk & Support
-
- - [Bugsnag MCP Server](https://mcp.pipedream.com/app/bugsnag) - Error Monitoring & App Stability Management
- - [CallMiner MCP Server](https://mcp.pipedream.com/app/callminer) - Better intelligence for better experiences. The industry leader in AI-powered conversation intelligence to supercharge your contact center and improve customer experience (CX).
- - [Canny MCP Server](https://mcp.pipedream.com/app/canny) - Canny helps you collect and organize feature requests to better understand customer needs and prioritize your roadmap.
- - [Chaport MCP Server](https://mcp.pipedream.com/app/chaport) - "A better way to talk to your customers
-Add a live chat widget to your website, connect other channels, and automate sales & support with chatbots."
- - [ClickHelp MCP Server](https://mcp.pipedream.com/app/clickhelp) - AI-powered all-in-one documentation tool.
- - [Conveyor MCP Server](https://mcp.pipedream.com/app/conveyor) - Fast, easy, accurate security reviews
- - [Daktela MCP Server](https://mcp.pipedream.com/app/daktela) - Cloud-Based CCaaS Software for Omnichannel Contact Centres.
- - [Delighted MCP Server](https://mcp.pipedream.com/app/delighted) - Delighted uses the Net Promoter System® to gather real feedback from your customers – in minutes, not weeks. No technical knowledge required.
- - [Elevio MCP Server](https://mcp.pipedream.com/app/elevio) - More Customers, Less Support. Reduce Customer Effort with Elevio
- - [eStreamDesk MCP Server](https://mcp.pipedream.com/app/estreamdesk) - If you are looking for an easy to use yet extremely powerful service to help you manage customer requests then eStreamDesk may be just what you are looking for. eStreamDesk is a hosted helpdesk and ticket tracking service that helps you to deliver exception customer service while saving time and cutting support costs.
- - [FaceUp MCP Server](https://mcp.pipedream.com/app/faceup) - Whistleblowing System. For Companies and Schools.
- - [Feedier MCP Server](https://mcp.pipedream.com/app/feedier) - "Listen, analyse and convert feedback data into actionable insights that drive satisfaction, retention and quantifiable business results.
-"
- - [Fluent Support MCP Server](https://mcp.pipedream.com/app/fluent_support) - Powerful Helpdesk Plugin for WordPress. Automate your support ticketing tasks with workflows and super fast shared inbox.
- - [Freshdesk MCP Server](https://mcp.pipedream.com/app/freshdesk) - Customer support software
- - [Freshservice MCP Server](https://mcp.pipedream.com/app/freshservice) - Cloud-based IT Service Management solution
- - [GrooveHQ MCP Server](https://mcp.pipedream.com/app/groovehq) - Manage all your customer support requests in a simple to use platform.
- - [Help Scout MCP Server](https://mcp.pipedream.com/app/help_scout) - Simple Customer Service Software and Education
- - [HelpCrunch MCP Server](https://mcp.pipedream.com/app/helpcrunch) - One-stop platform to build strong customer relationships
- - [HelpDesk MCP Server](https://mcp.pipedream.com/app/helpdesk) - The Best Help Desk Service & Ticketing Software
- - [Helpspace MCP Server](https://mcp.pipedream.com/app/helpspace) - Simplify your customer support! Use Helpspace’s shared inbox to organize all incoming customer messages in one place for efficient teamwork.
- - [HelpSpot MCP Server](https://mcp.pipedream.com/app/helpspot) - Amplify your support with HelpSpot: the streamlined solution for scaling customer service effortlessly.
- - [Honeybadger MCP Server](https://mcp.pipedream.com/app/honeybadger) - Zero-instrumentation, 360 degree coverage of errors, outages and service degradation
- - [IP2WHOIS MCP Server](https://mcp.pipedream.com/app/ip2whois) - IP2WHOIS WHOIS lookup api helps users to obtain domain information, WHOIS record, by using a domain name. The WHOIS API returns a comprehensive WHOIS data such as creation date, updated date, expiration date, domain age, the contact information of the registrant, mailing address, phone number, email address, nameservers the domain is using and much more. IP2WHOIS supports the query for 1113 TLDs and 634 ccTLDs.
- - [Jira Service Desk MCP Server](https://mcp.pipedream.com/app/jira_service_desk) - Work with Jira Service Desk-specific entities, such as requests.
- - [LiveAgent MCP Server](https://mcp.pipedream.com/app/liveagent) - LiveAgent is a web-based live chat and helpdesk software. It covers all support channels: Email, Live Chat, Call Center, Contact forms, Feedback Forms, Knowledge Base, Social networks(Twitter and Facebook) and integrates them into one enviroment.
- - [Mojo Helpdesk MCP Server](https://mcp.pipedream.com/app/mojo_helpdesk) - Mojo Helpdesk is the leader in helpdesk software and ticketing system for schools and organizations of all sizes.
- - [Plain MCP Server](https://mcp.pipedream.com/app/plain) - Customer support for modern tools. Fast, flexible and extendable.
- - [Re:amaze MCP Server](https://mcp.pipedream.com/app/re_amaze) - Re:amaze is a helpdesk and customer communications platform, helping eCommerce businesses deliver better support experiences with tools designed to boost sales and engagement.
- - [RealPhoneValidation MCP Server](https://mcp.pipedream.com/app/realphonevalidation) - RealPhoneValidation.com tells you plain and simple: is the phone line connected or disconnected. For anyone using a phone contact, knowledge of connect/disconnect is invaluable information for lead valuation.
- - [Simplesat MCP Server](https://mcp.pipedream.com/app/simplesat) - Simplesat is a survey tool that makes it easy for any business to collect, analyze and publish customer feedback.
- - [Snappy MCP Server](https://mcp.pipedream.com/app/snappy) - Snappy is a help desk application for managing your email, providing customer self service and efficiently managing all your customer service tickets.
- - [Social Intents MCP Server](https://mcp.pipedream.com/app/social_intents) - Social Intents is a social apps platform that allows live chat with website visitors to offer great customer service and sell more right from MS Teams, Slack, Zoom, or Webex.
- - [SolarWinds Service Desk MCP Server](https://mcp.pipedream.com/app/solarwinds_service_desk) - A modern IT service management (ITSM) solution to eliminate barriers to employee support services.
- - [Supadata MCP Server](https://mcp.pipedream.com/app/supadata) - Supadata is one stop-shop API for makers to read vast web and YouTube content, ready for AI needs.
- - [SupportBee MCP Server](https://mcp.pipedream.com/app/supportbee) - SupportBee is the easiest way to manage your customer support emails. It is a web-based email support tool that helps (small) businesses organize their customer support emails efficiently
- - [Survicate MCP Server](https://mcp.pipedream.com/app/survicate) - Survicate is a powerful survey, NPS and feedback management tool that helps businesses capture more customer feedback.
- - [Trengo MCP Server](https://mcp.pipedream.com/app/trengo) - Customer service software
- - [Unthread MCP Server](https://mcp.pipedream.com/app/unthread) - AI-Powered Ticketing in Slack. Unthread automatically tracks conversations as tickets and uses AI to prioritize, assign, and resolve instantly.
- - [Zendesk MCP Server](https://mcp.pipedream.com/app/zendesk) - Zendesk is award-winning customer service software trusted by 200K+ customers. Make customers happy via text, mobile, phone, email, live chat, social media.
- - [Zonka Feedback MCP Server](https://mcp.pipedream.com/app/zonka_feedback) - Zonka Feedback is a multi-channel feedback system and survey app with actionable insights, real-time reporting and collaborative inbox.
-
-### <a name="human-resources"></a>Human Resources
-
- - [15Five MCP Server](https://mcp.pipedream.com/app/f15five) - 15Five is a human-centered performance management platform that creates effective managers, highly engaged employees, and top-performing organizations.
- - [ADP MCP Server](https://mcp.pipedream.com/app/adp) - Easy & Accurate Payroll. Managing your people has never been easier with ADP's all-in-one, cloud-based platform for payroll, HR, time, talent and benefits.
- - [ApplicantStack MCP Server](https://mcp.pipedream.com/app/applicantstack) - Applicant tracking and recruitment software
- - [Async Interview MCP Server](https://mcp.pipedream.com/app/async_interview) - Async Interview is the world’s most advanced video interviewing platform, offering pre-recorded interviews customized to meet any recruitment scenario.
- - [BambooHR MCP Server](https://mcp.pipedream.com/app/bamboohr) - BambooHR is the #1 online HR Software for small and medium businesses that have outgrown spreadsheets.
- - [Breathe MCP Server](https://mcp.pipedream.com/app/breathe) - HR Software That Puts People First.
- - [Breezy HR MCP Server](https://mcp.pipedream.com/app/breezy_hr) - Breezy is a simple, collaborative recruiting platform designed to help you create, publish and advertise your open jobs, manage and organize your candidates and streamline all of your internal team and external candidate communication.
- - [Brillium MCP Server](https://mcp.pipedream.com/app/brillium) - Brillium Assessment and Talent Screening Software
- - [CATS MCP Server](https://mcp.pipedream.com/app/cats) - CATS Applicant Tracking System (ATS) & Recruiting Software
- - [ChartHop MCP Server](https://mcp.pipedream.com/app/charthop) - Connect & Visualize Your HR Data in One Place.
- - [Convenia MCP Server](https://mcp.pipedream.com/app/convenia) - Convenia is a cloud people management software for small business that increase its efficiency and eliminating operational labor.
- - [Darwinbox MCP Server](https://mcp.pipedream.com/app/darwinbox) - New-Age HR management software
- - [Dropboard MCP Server](https://mcp.pipedream.com/app/dropboard) - The world’s easiest hiring platform.
- - [easyhire MCP Server](https://mcp.pipedream.com/app/easyhire) - Your AI hiring assistant
- - [Envoy MCP Server](https://mcp.pipedream.com/app/envoy) - Join thousands of companies that rely on Envoy to efficiently manage hybrid workplaces, so everyone inside can connect, collaborate, and thrive.
- - [Firefish MCP Server](https://mcp.pipedream.com/app/firefish) - Recruitment CRM software that maximises revenue per recruiter by putting data at the heart of your recruitment agency.
- - [Freelancer MCP Server](https://mcp.pipedream.com/app/freelancer) - Hire freelancers & find freelance jobs online
- - [Gem MCP Server](https://mcp.pipedream.com/app/gem) - The AI-Powered Recruiting Platform TA Teams Love
- - [Greenhouse MCP Server](https://mcp.pipedream.com/app/greenhouse) - Talent Acquisition suite built for structured hiring
- - [Greenhouse Job Board MCP Server](https://mcp.pipedream.com/app/greenhouse_job_board_api) - Build careers pages with a unique look and feel, construct department-level pages and more!
- - [Homerun MCP Server](https://mcp.pipedream.com/app/homerun) - Beautiful ATS & hiring software for SMBs
- - [HR Cloud MCP Server](https://mcp.pipedream.com/app/hr_cloud) - All-in-One HRIS: Employee Onboarding & Engagement
- - [HR Partner MCP Server](https://mcp.pipedream.com/app/hr_partner) - The cloud HR software for busy teams (your HR sidekick). Manage employee onboarding, leave and absences, and integrate with your payroll system.
- - [IntelliHR MCP Server](https://mcp.pipedream.com/app/intellihr) - Intelligent people management and real-time analytics for HR, managers and leaders. Performance, engagement, wellbeing, compliance, automation and more
- - [Interseller MCP Server](https://mcp.pipedream.com/app/interseller) - Outbound automation platform
- - [Kenjo MCP Server](https://mcp.pipedream.com/app/kenjo) - HR Software for Deskless Teams
- - [kiwiHR MCP Server](https://mcp.pipedream.com/app/kiwihr) - Streamline your workforce management with our HR software. Made by Tellent.
- - [KnowBe4 MCP Server](https://mcp.pipedream.com/app/knowbe4) - Integrated platform for security awareness training combined
- - [Lattice MCP Server](https://mcp.pipedream.com/app/lattice) - Lattice is a people management platform that empowers leaders to build engaged, high-performing teams that inspire winning cultures.
- - [Namely MCP Server](https://mcp.pipedream.com/app/namely) - Namely is the only HR, payroll, benefits, and talent management platform your employees will love.
- - [Niceboard MCP Server](https://mcp.pipedream.com/app/niceboard) - Modern and easy-to-use job board software.
- - [Onbee.app MCP Server](https://mcp.pipedream.com/app/onbee_app) - Onbee.app: Onboarding & Offboarding; digital employee card, HRIS
- - [Oyster MCP Server](https://mcp.pipedream.com/app/oyster) - Automated Global Employment Platform
- - [Paylocity MCP Server](https://mcp.pipedream.com/app/paylocity) - Online HR & Payroll Built for Employees
- - [Personio MCP Server](https://mcp.pipedream.com/app/personio) - Europe’s most valuable HR tech company offering an all-in-one HR software for SMEs.
- - [Polymer.co MCP Server](https://mcp.pipedream.com/app/polymer_co) - Polymer gives you a beautiful site to display your job openings and powerful applicant tracking software for candidate relationship management.
- - [Recruitee MCP Server](https://mcp.pipedream.com/app/recruitee) - The #1 easy-to-use collaborative hiring software that helps companies build great teams together. Made by Tellent.
- - [Recruiterflow MCP Server](https://mcp.pipedream.com/app/recruiterflow) - The Best ATS & CRM for Recruiting & Staffing Agencies.
- - [Recruitis MCP Server](https://mcp.pipedream.com/app/recruitis) - Recruiting system provider.
- - [Remote MCP Server](https://mcp.pipedream.com/app/remote) - The easier way to employ internationally 🌍. Remote builds belonging for your distributed workforce with global payroll, benefits and compliance solutions.
- - [SproutGigs MCP Server](https://mcp.pipedream.com/app/sproutgigs) - Where the world works! We're an online marketplace that connects freelancers and business owners around the world.
- - [Taleez MCP Server](https://mcp.pipedream.com/app/taleez) - Speed up your recruitment processes.
- - [Talenox MCP Server](https://mcp.pipedream.com/app/talenox) - Talenox is a cloud-based HR software designed to manage payroll and leave, and store precious employee details from a central location.
- - [TalentHR MCP Server](https://mcp.pipedream.com/app/talenthr) - A simple, all-in-one HR software focused on people.
- - [TalentLMS MCP Server](https://mcp.pipedream.com/app/talentlms) - TalentLMS is the LMS built for training success making it easy to provide the right training for any team and every use, while giving expert guidance and support every step of the way.
- - [Teamioo MCP Server](https://mcp.pipedream.com/app/teamioo) - Intuitive Teamwork. Connect the right people and empower your team and projects with productive superpowers.
- - [Time Tracker by eBillity MCP Server](https://mcp.pipedream.com/app/time_tracker_by_ebillity) - Simple time and billing software.
- - [Traffit MCP Server](https://mcp.pipedream.com/app/traffit) - Trusted ATS system for your recruiting
- - [Trainual MCP Server](https://mcp.pipedream.com/app/trainual) - The training manual for your team. The playbook for your business —SOPs, Onboarding, Training, Process, Knowledge, all-in-one —
- - [Trestle MCP Server](https://mcp.pipedream.com/app/trestle) - Your partner for quality identity data APIs.
- - [WhosOnLocation MCP Server](https://mcp.pipedream.com/app/whosonlocation) - Track and manage onsite employees, visitors, and contractors with touchless workplace sign-in, desk booking, wellness checks, and more.
- - [Workboard MCP Server](https://mcp.pipedream.com/app/workboard) - Enterprise Results Platform
- - [Worksnaps MCP Server](https://mcp.pipedream.com/app/worksnaps) - Time Tracking Tool For Remote Work
-
-### <a name="infrastructure-cloud"></a>Infrastructure & Cloud
-
- - [Abstract - Email Verification API MCP Server](https://mcp.pipedream.com/app/abstract) - Do more, build better, ship faster with Abstract APIs.
- - [AbuselPDB MCP Server](https://mcp.pipedream.com/app/abuselpdb) - AbuseIPDB is a project helping make Web safer by providing a central blacklist for webmasters, system administrators, and other interested parties to report and find IP addresses that have been associated with malicious activity online.
- - [AddressZen MCP Server](https://mcp.pipedream.com/app/addresszen) - Address Autocomplete & Verification
- - [Airbyte MCP Server](https://mcp.pipedream.com/app/https_airbyte_com) - The biggest community of ELT Data Connectors. Move data from any DB/API to any Database/Warehouse!
- - [Alibaba Cloud MCP Server](https://mcp.pipedream.com/app/alibaba_cloud) - Cloud computing solutions provider, also known as Aliyun.
- - [AnonyFlow MCP Server](https://mcp.pipedream.com/app/anonyflow) - Simple and powerful service for encryption-based data anonymization and community sharing, Enabling GDPR, CCPA, and HIPAA data protection compliance
- - [Api Void MCP Server](https://mcp.pipedream.com/app/api_void) - We offer Threat Analysis APIs for Threat Detection & Prevention. IP Reputation API, Domain Reputation API, and more.
- - [Appcircle MCP Server](https://mcp.pipedream.com/app/appcircle) - Enterprise-Grade Fully Automated Mobile DevOps Platform.
- - [Auth0 (Management API) MCP Server](https://mcp.pipedream.com/app/auth0_management_api) - Modern identity platform
- - [AWS MCP Server](https://mcp.pipedream.com/app/aws) - Amazon Web Services (AWS) offers reliable, scalable, and inexpensive cloud computing services.
- - [Azure DevOps MCP Server](https://mcp.pipedream.com/app/azure_devops) - Plan smarter, collaborate better, and ship faster with a set of modern dev services
- - [Azure Storage MCP Server](https://mcp.pipedream.com/app/azure_storage) - Massively scalable and secure object storage for cloud-native workloads, archives, data lakes, HPC, and machine learning.
- - [Bash MCP Server](https://mcp.pipedream.com/app/bash) - Run any Bash in a Pipedream step within your workflow, including making curl requests.
- - [Beaconchain MCP Server](https://mcp.pipedream.com/app/beaconchain) - Open Source Ethereum explorer
- - [BuildKite MCP Server](https://mcp.pipedream.com/app/buildkite) - Run fast, secure, and scalable CI pipelines on your own infrastructure
- - [BunnyCDN MCP Server](https://mcp.pipedream.com/app/bunnycdn) - Simple, fast and powerful CDN‎
- - [ByteNite MCP Server](https://mcp.pipedream.com/app/bytenite) - Fast, distributed computing for high-throughput applications.
- - [Cisco Meraki MCP Server](https://mcp.pipedream.com/app/cisco_meraki) - Our cloud-based platform brings together data-powered products, including wireless, switching, security and SD-WAN, smart cameras, sensors, open APIs, a broad partner ecosystem, and cloud-first operations.
- - [Claris FileMaker Server - Admin API MCP Server](https://mcp.pipedream.com/app/claris_filemaker_server_admin_api) - The FileMaker Admin API is an application programming interface (API) that allows web services to perform administrative tasks on FileMaker Server through scripting instead of using Admin Console.
- - [Cloudflare (API key) MCP Server](https://mcp.pipedream.com/app/cloudflare_api_key) - CDN, DDoS mitigation, Internet security, and DNS services
- - [Cloudflare R2 MCP Server](https://mcp.pipedream.com/app/cloudflare_r2) - R2 gives you the freedom to create the multi-cloud architectures you desire with an S3-compatible object storage.
- - [CloudTables MCP Server](https://mcp.pipedream.com/app/cloudtables) - Database driven applications in a snap. Our no-code / low-code solution provides seamless integration, full customization, auditing, live updating and much more.
- - [CodeScene MCP Server](https://mcp.pipedream.com/app/codescene) - CodeScene is a multi-purpose tool bridging code, business and people.
- - [Concord MCP Server](https://mcp.pipedream.com/app/concord) - Take control of your contract lifecycle management with drafting, approvals, e-signature and storage — all in one place.
- - [Data Stores MCP Server](https://mcp.pipedream.com/app/data_stores) - Use Pipedream Data Stores to manage state throughout your workflows.
- - [dbt Cloud MCP Server](https://mcp.pipedream.com/app/dbt) - dbt is an intuitive, collaborative platform that lets you reliably transform data using SQL and Python code.
- - [Defastra MCP Server](https://mcp.pipedream.com/app/defastra) - Uncover complex fraud patterns by going deeper and enrich data at scale by leveraging OSINT.
- - [DeployHQ MCP Server](https://mcp.pipedream.com/app/deployhq) - Deployment made simple. We make it super easy to automate deploying projects from Git, SVN and Mercurial repositories.
- - [Detectify MCP Server](https://mcp.pipedream.com/app/detectify) - The External Attack Surface Management platform powered by elite ethical hackers.
- - [DigiCert MCP Server](https://mcp.pipedream.com/app/digicert) - DigiCert is a leading global provider of digital certificates.
- - [DigitalOcean MCP Server](https://mcp.pipedream.com/app/digital_ocean) - The developer cloud
- - [Directus MCP Server](https://mcp.pipedream.com/app/directus) - Open Data Platform for Headless Content
- - [DNSFilter MCP Server](https://mcp.pipedream.com/app/dnsfilter) - DNS layer threat protection for IT Professionals and Managed Service Providers driven by machine learning.
- - [Docker Engine MCP Server](https://mcp.pipedream.com/app/docker_engine) - Docker Engine is an open source containerization technology for building and containerizing your applications.
- - [Docker Hub MCP Server](https://mcp.pipedream.com/app/docker_hub) - Docker Hub is the world’s largest container registry.
- - [Doppler MCP Server](https://mcp.pipedream.com/app/doppler_secretops) - Doppler is the multi-cloud SecretOps Platform developers and security teams trust to provide secrets management at enterprise scale. Thousands of companies of all sizes use Doppler to manage and sync secrets and app configuration to every cloud provider and hosting platform, from local development environments to production.
- - [easyDNS MCP Server](https://mcp.pipedream.com/app/easydns) - 
- - [Elastic Cloud MCP Server](https://mcp.pipedream.com/app/elastic_cloud) - Hosted Elasticsearch, Hosted Search
- - [Encodian MCP Server](https://mcp.pipedream.com/app/encodian) - Maximise your Microsoft investment.
- - [Enedis Data-Connect MCP Server](https://mcp.pipedream.com/app/enedis) - Fournisseurs de services énergétiques, nous mettons à votre disposition différents services de données pour vous aider dans votre activité.
- - [Faros MCP Server](https://mcp.pipedream.com/app/faros) - Faros helps DevOps professionals automate tasks with a single API
- - [Firebase Admin SDK MCP Server](https://mcp.pipedream.com/app/firebase_admin_sdk) - Firebase is Google's mobile platform that helps you quickly develop high-quality apps and grow your business.
- - [Fiserv MCP Server](https://mcp.pipedream.com/app/fiserv) - Accept payments anywhere, anytime, any way.
- - [Fly.io MCP Server](https://mcp.pipedream.com/app/fly_io) - Fly.io transforms containers into micro-VMs that run on our hardware in 30+ regions on six continents.
- - [Gender API MCP Server](https://mcp.pipedream.com/app/gender_api) - Keep your registration forms simple. Optimize your conversions and let us determine the gender of your customers.
- - [Geocodio MCP Server](https://mcp.pipedream.com/app/geocodio) - Hassle-free geocoding
- - [Getty Images MCP Server](https://mcp.pipedream.com/app/getty_images) - News, Fashion, and Entertainment imagery
- - [Globalping MCP Server](https://mcp.pipedream.com/app/globalping) - Internet and web infrastructure monitoring and benchmarking
- - [Google MCP Server](https://mcp.pipedream.com/app/google) - Internet-related services and products
- - [Google Cloud MCP Server](https://mcp.pipedream.com/app/google_cloud) - The Google Cloud Platform, including BigQuery
- - [Google Dialogflow MCP Server](https://mcp.pipedream.com/app/google_dialogflow) - Create conversational experiences across devices and platforms.
- - [Google Directory MCP Server](https://mcp.pipedream.com/app/google_directory) - Manage your domain's users, connected devices, and third-party applications
- - [Google Safe Browsing MCP Server](https://mcp.pipedream.com/app/google_safebrowsing) - Safe Browsing is a Google service that lets client applications check URLs against Google's constantly updated lists of unsafe web resources.
- - [GorillaStack MCP Server](https://mcp.pipedream.com/app/gorillastack) - GorillaStack is a public cloud automation rules engine shaped by the operational, cost optimization and backup management needs of devops teams from around the world.
- - [GraphHopper MCP Server](https://mcp.pipedream.com/app/graphhopper) - We provide route planning for your application (SaaS). Including a powerful Route Optimization API.
- - [Helper Functions MCP Server](https://mcp.pipedream.com/app/helper_functions) - Helper functions and functional utilities to use within your Pipedream workflows
- - [Heroku MCP Server](https://mcp.pipedream.com/app/heroku) - Cloud infrastructure
- - [HTTP / Webhook MCP Server](https://mcp.pipedream.com/app/http) - Get a unique URL where you can send HTTP or webhook requests
- - [IBM X-Force Exchange MCP Server](https://mcp.pipedream.com/app/ibm_x_force_exchange) - IBM X-Force Exchange is a threat intelligence sharing platform that you can use to research security threats, to aggregate intelligence, and to collaborate with peers.
- - [InfluxDB Cloud MCP Server](https://mcp.pipedream.com/app/influxdb_cloud) - Focus on building software with an easy-to-use, scalable, serverless time series platform available on AWS, Azure, and Google Cloud.
- - [Interzoid MCP Server](https://mcp.pipedream.com/app/interzoid) - AI & ML-based Data Engineering in the Cloud for better data - Connect to Cloud database tables, CSVs, etc with data workloads running entirely in the Cloud.
- - [ipbase MCP Server](https://mcp.pipedream.com/app/ipbase) - Easy-to-use & feature complete IP Geolocation API with global coverage.
- - [ipdata.co MCP Server](https://mcp.pipedream.com/app/ipdata_co) - Enrich IP Addresses with Location, Company, Carrier & Threat Data
- - [JumpCloud MCP Server](https://mcp.pipedream.com/app/jumpcloud) - Unified Platform for Identity, Access, & Devices
- - [Kaleido MCP Server](https://mcp.pipedream.com/app/kaleido) - Leverage the power of blockchain, digital assets, and NFTs to transform your business. Kaleido makes it easy.
- - [Keycloak MCP Server](https://mcp.pipedream.com/app/keycloak) - Open Source Identity and Access Management.
- - [Koyeb MCP Server](https://mcp.pipedream.com/app/koyeb) - Cloud-based application deployment platform
- - [KVdb MCP Server](https://mcp.pipedream.com/app/kvdb) - KVdb is designed for quick and easy integration into projects that need a globally accessible key-value database. To get started, create at API key at https://kvdb.io/
- - [KVstore.io MCP Server](https://mcp.pipedream.com/app/kvstore_io) - The easiest and quickest way to store data on the Internet.
- - [LinearB MCP Server](https://mcp.pipedream.com/app/linearb) - The Software Delivery Management Platform for engineering leaders to streamline operations and align R&D investments to deliver business results
- - [Mozilla Observatory MCP Server](https://mcp.pipedream.com/app/mozilla_observatory) - Test the state of security for websites on the public internet.
- - [Mx Toolbox MCP Server](https://mcp.pipedream.com/app/mx_toolbox) - We provide free DNS and Email tools in a single place to streamline troubleshooting.
- - [n8n.io MCP Server](https://mcp.pipedream.com/app/n8n_io) - The workflow automation platform that doesn't box you in, that you never outgrow.
- - [Namecheap MCP Server](https://mcp.pipedream.com/app/namecheap) - Powering Internet freedom through domains, hosting, security, and more — everything you need to make more online, for less.
- - [ncScale MCP Server](https://mcp.pipedream.com/app/ncscale) - No-Code Monitoring is a must-have to make your app reliable, secure and crystal clear. Bring back trust in your no-code stack!
- - [Neo4j AuraDB MCP Server](https://mcp.pipedream.com/app/neo4j_auradb) - Fully Managed Graph Database
- - [Neutrino MCP Server](https://mcp.pipedream.com/app/neutrino) - The Neutrino API platform provides a highly available, performant global network that lets developers focus on their product and not on building and maintaining complex in-house tools not relevant to their core business.
- - [NextDNS MCP Server](https://mcp.pipedream.com/app/nextdns) - "The new firewall for the modern Internet.
-NextDNS protects you from all kinds of security threats, blocks ads and trackers on websites and in apps and provides a safe and supervised Internet for kids — on all devices and on all networks."
- - [Northflank MCP Server](https://mcp.pipedream.com/app/northflank) - The self-service developer platform that automates and unifies deployment of any workload, on any cloud, at any scale.
- - [Octopus Deploy MCP Server](https://mcp.pipedream.com/app/octopus_deploy) - Reliable, repeatable, traceable deployments across clouds and on-prem.
- - [OneLogin MCP Server](https://mcp.pipedream.com/app/onelogin) - Market-Leading Identity and Access Management Solutions
- - [OneUptime MCP Server](https://mcp.pipedream.com/app/oneuptime) - One complete SRE and DevOps platform.
- - [Oracle Cloud Infrastructure MCP Server](https://mcp.pipedream.com/app/oracle_cloud_infrastructure) - The next-generation cloud designed to run any application, faster and more securely, for less.
- - [Ory MCP Server](https://mcp.pipedream.com/app/ory) - API-first Identity Management, Authentication and Authorization. For Secure, Global, GDPR-compliant Apps
- - [Outscraper MCP Server](https://mcp.pipedream.com/app/outscraper) - Cutting-edge technologies for data scraping and lead generation.
- - [Oxylabs MCP Server](https://mcp.pipedream.com/app/oxylabs) - Market-leading proxy & web scraping solutions provider.
- - [Papertrail MCP Server](https://mcp.pipedream.com/app/papertrail) - SolarWinds Papertrail provides real-time live tail, search, and troubleshooting for apps, servers, and infrastructure.
- - [Persona MCP Server](https://mcp.pipedream.com/app/persona) - Persona offers identity infrastructure that allows you to craft personalized and automated verification solutions so you can better understand & protect users.
- - [Pilvio MCP Server](https://mcp.pipedream.com/app/pilvio) - Pilvio is a fully automated, API first cloud platform.
- - [PingOne MCP Server](https://mcp.pipedream.com/app/pingone) - Single Sign-On (SSO) Solution
- - [Pipedream Utils MCP Server](https://mcp.pipedream.com/app/pipedream_utils) - Utility functions to use within your Pipedream workflows
- - [Placekey MCP Server](https://mcp.pipedream.com/app/placekey) - Unlock Location Data
- - [PropelAuth MCP Server](https://mcp.pipedream.com/app/propelauth) - Team based authentication for b2b SaaS
- - [Proxy Spider MCP Server](https://mcp.pipedream.com/app/proxy_spider) - Rotating Proxies. Random for every request & Sticky ports. Unlimited bandwidth.
- - [Qdrant MCP Server](https://mcp.pipedream.com/app/qdrant) - Powering the next generation of AI applications with advanced, open-source vector similarity search technology.
- - [QStash MCP Server](https://mcp.pipedream.com/app/qstash) - "QStash is an HTTP based messaging and scheduling solution for the serverless and edge runtimes.
-"
- - [RabbitMQ MCP Server](https://mcp.pipedream.com/app/rabbitmq) - RabbitMQ is a reliable and mature messaging and streaming broker, which is easy to deploy on cloud environments, on-premises, and on your local machine. It is currently used by millions worldwide.
- - [Rapid URL Indexer MCP Server](https://mcp.pipedream.com/app/rapid_url_indexer) - Google Indexing Tool for Links, Websites, & Backlinks: Link Indexing Service
- - [ReisHost MCP Server](https://mcp.pipedream.com/app/reishost) - "Experience the power of our servers equipped with extraordinary Ryzen processors.
-A unique dashboard packed with innovative tools, all designed for a flawless user experience."
- - [Render MCP Server](https://mcp.pipedream.com/app/render) - The modern cloud provider for all your apps and websites.
- - [Replicate MCP Server](https://mcp.pipedream.com/app/replicate) - Run machine learning models in the cloud.
- - [Rocketadmin MCP Server](https://mcp.pipedream.com/app/rocketadmin) - Save months of work developing custom admin panels with our secure solution for your MySQL, PostgreSQL, MSSQL, Oracle DB or MongoDB project.
- - [Rockset MCP Server](https://mcp.pipedream.com/app/rockset) - Rockset is a serverless search and analytics engine that allows you to create live dashboards and real-time data APIs on DynamoDB, Kafka, S3 and more.
- - [SailPoint MCP Server](https://mcp.pipedream.com/app/sailpoint) - Discover the core of Identity Security.
- - [SauceLabs MCP Server](https://mcp.pipedream.com/app/saucelabs) - Sauce Labs helps organizations deliver a trusted digital experience with the most comprehensive and trusted continuous testing cloud in the world.
- - [Scalr MCP Server](https://mcp.pipedream.com/app/scalr) - Scalr is a remote state & operations backend for Terraform with full CLI support & many quality of life features
- - [Security Reporter MCP Server](https://mcp.pipedream.com/app/security_reporter) - Reporting made easy, Pentesting made powerful
- - [SecurityTrails MCP Server](https://mcp.pipedream.com/app/securitytrails) - Data for Security companies, researchers and teams.
- - [ServerAvatar MCP Server](https://mcp.pipedream.com/app/serveravatar) - Server Management System
- - [Smarty MCP Server](https://mcp.pipedream.com/app/smarty) - The leader in location data intelligence. Smarty's easy-to-use APIs verify, validate, enrich, standardize, geocode, and auto-complete addresses at super speeds.
- - [Splunk HTTP Event Collector MCP Server](https://mcp.pipedream.com/app/splunk_http_event_collector) - Splunk HTTP Event Collector (HEC) is a fast and efficient way to send data to Splunk Enterprise and Splunk Cloud. Notably, HEC enables you to send data over HTTP (or HTTPS) directly to Splunk Enterprise or Splunk Cloud from your application.
- - [SSH (key-based auth) MCP Server](https://mcp.pipedream.com/app/ssh) - Use the Secure Shell protocol to execute commands on a remote server using a private key
- - [SSLMate — Cert Spotter API MCP Server](https://mcp.pipedream.com/app/sslmate_cert_spotter_api) - Cert Spotter monitors public Certificate Transparency logs, coalescing all the certificates and precertificates for a particular issuance event into a single issuance object
- - [Statuspage MCP Server](https://mcp.pipedream.com/app/statuspage) - Easily communicate real-time status to your users
- - [Sumo Logic MCP Server](https://mcp.pipedream.com/app/sumo_logic) - Cloud Log Management, Monitoring, SIEM Tools
- - [Svix MCP Server](https://mcp.pipedream.com/app/svix) - The enterprise ready webhooks service
- - [Tailscale MCP Server](https://mcp.pipedream.com/app/tailscale) - Best VPN Service for Secure Networks
- - [Terraform MCP Server](https://mcp.pipedream.com/app/terraform) - Terraform Cloud enables infrastructure automation for provisioning, compliance, and management of any cloud, datacenter, and service.
- - [Turbot Pipes MCP Server](https://mcp.pipedream.com/app/turbot_pipes) - Cloud intelligence & automated security platforms for DevOps teams.
- - [UiPath Automation Hub MCP Server](https://mcp.pipedream.com/app/uipath_automation_hub) - Discover and centrally manage automation opportunities
- - [Updown.io MCP Server](https://mcp.pipedream.com/app/updown_io) - updown.io is a HTTP(S)/TCP/ICMP monitoring service which checks periodically the URL you want and reports back any anomaly, be it downtime, bad response, degraded performance or even broken SSL certificate.
- - [UptimeRobot MCP Server](https://mcp.pipedream.com/app/uptimerobot) - The world's leading uptime monitoring service.
- - [UrlBae MCP Server](https://mcp.pipedream.com/app/urlbae) - Boost your campaigns by creating dynamic Links, QR codes and Bio Pages and get instant analytics.
- - [Vercel MCP Server](https://mcp.pipedream.com/app/vercel_token_auth) - Vercel is the platform for frontend developers, providing the speed and reliability innovators need to create at the moment of inspiration.
- - [Verdict as a Service MCP Server](https://mcp.pipedream.com/app/verdict_as_a_service) - Verdict-as-a-Service (VaaS) is a service that provides a platform for scanning files for malware and other threats. It allows easy integration in your application. With a few lines of code, you can start scanning files for malware.
- - [VirusTotal MCP Server](https://mcp.pipedream.com/app/virustotal) - Crowdsourced security intelligence for everyone
- - [ZeroTier MCP Server](https://mcp.pipedream.com/app/zerotier) - Use the easiest to manage and most widely supported network virtualization platform to connect all your devices, cloud VMs, and apps as if the whole world is one big cloud region!
- - [Zoho Catalyst MCP Server](https://mcp.pipedream.com/app/zoho_catalyst) - Catalyst by Zoho is a highly scalable serverless platform that lets developers build and deploy world-class solutions without managing servers. Even better, you pay nothing till you deploy the project to production. Get a free, full-featured sandbox and up to 125 million free invocations
-
-### <a name="language-tools"></a>Language Tools
-
- - [3Scribe MCP Server](https://mcp.pipedream.com/app/threescribe) - Automated Transcription. Human Accuracy.
- - [Amazon Polly MCP Server](https://mcp.pipedream.com/app/amazon_polly) - Deploy high-quality, natural-sounding human voices in dozens of languages.
- - [Chimp Rewriter MCP Server](https://mcp.pipedream.com/app/chimp_rewriter) - ChimpRewriter is the personal AI Editor to help you rewrite the best essay rewriter software, the best SEO article rewriter content publishing, and the best rewriter tools book publishing.
- - [Codeq Natural Language Processing API MCP Server](https://mcp.pipedream.com/app/codeq_natural_language_processing_api) - Unlock meaning like never before. A robust set of tools for intelligent text understanding.
- - [DeepL MCP Server](https://mcp.pipedream.com/app/deepl) - Integrate the world's best machine translator into your own products and services.
- - [Free Dictionary MCP Server](https://mcp.pipedream.com/app/dictionary_api) - Free dictionary API
- - [Gladia MCP Server](https://mcp.pipedream.com/app/gladia) - Audio Intelligence API for companies.
- - [Google Cloud Translate MCP Server](https://mcp.pipedream.com/app/google_cloud_translate) - Dynamically translate between languages using Google machine learning
- - [Happy Scribe MCP Server](https://mcp.pipedream.com/app/happy_scribe) - 👋 All-in-one platform for subtitles & transcription.
- - [Lettria MCP Server](https://mcp.pipedream.com/app/lettria) - Turn your text data into smarter decisions. End-to-end NLP solution.
- - [Linguapop MCP Server](https://mcp.pipedream.com/app/linguapop) - Linguapop gives you the ability to quickly send branded, CEFR-aligned language skill tests to your candidates anywhere, anytime.
- - [Lokalise MCP Server](https://mcp.pipedream.com/app/lokalise) - A Localization and Translation Software Tool.
- - [Oxford Dictionaries MCP Server](https://mcp.pipedream.com/app/oxford_dictionaries) - Helping the world work, play, and communicate through our world-renowned Oxford Dictionaries data, brought to you by Oxford University Press.
- - [Rev MCP Server](https://mcp.pipedream.com/app/rev) - Affordable, accurate, easy-to-use speech-to-text solutions powered by people and A.I working together. Rev offers transcripts, captions, subtitles, and more.
- - [Sonix MCP Server](https://mcp.pipedream.com/app/sonix) - Automated transcription, translation, and subtitling. Over 40 languages supported. Fast, accurate, and affordable.
- - [Temi MCP Server](https://mcp.pipedream.com/app/temi) - Temi is an audio transcription service that uses computers to transcribe English audio or video into text. We also offer rich editing tools that you can use to annotate and edit your transcripts.
- - [TextRazor MCP Server](https://mcp.pipedream.com/app/textrazor) - The Natural Language Processing API
- - [Transifex MCP Server](https://mcp.pipedream.com/app/transifex) - Grow revenue and take your business global with AI empowered translation and localization.
- - [TXT Werk MCP Server](https://mcp.pipedream.com/app/txt_werk) - Lightweight text analysis framework.
- - [Weglot MCP Server](https://mcp.pipedream.com/app/weglot) - The fastest and easiest way to translate your website and reach a wider audience!
-
-### <a name="learning-education"></a>Learning & Education
-
- - [Accredible MCP Server](https://mcp.pipedream.com/app/accredible) - Accredible is the industry-leading digital credentialing platform. Securely issue, manage, track, and verify your credentials faster and more easily for a fraction of the cost.
- - [Adobe Photoshop Lightroom MCP Server](https://mcp.pipedream.com/app/adobe_photoshop_lightroom) - Powerful photo editing and organization tool
- - [API.Bible MCP Server](https://mcp.pipedream.com/app/api_bible) - With nearly 2500 Bible versions available across over 1600 languages, API.Bible offers the largest collection of Bibles available.
- - [arXiv MCP Server](https://mcp.pipedream.com/app/arxiv) - arXiv is a curated research-sharing platform open to anyone. As a pioneer in digital open access, arXiv.org now hosts more than two million scholarly articles in eight subject areas, curated by our strong community of volunteer moderators.
- - [Autodesk MCP Server](https://mcp.pipedream.com/app/autodesk) - 3D Design, Engineering & Construction Software
- - [Canvas MCP Server](https://mcp.pipedream.com/app/canvas) - Learning management system
- - [Certifier MCP Server](https://mcp.pipedream.com/app/certifier) - Certifier is an award-winning digital credentialing platform trusted by over 1000 companies and organizations. Seamlessly create, issue, manage, and track certificates and badges to enhance participant engagement and recognition across educational programs, events, and training sessions.
- - [ClassMarker MCP Server](https://mcp.pipedream.com/app/classmarker) - Online Testing Free Quiz Maker Create the Best quizzes
- - [Coassemble MCP Server](https://mcp.pipedream.com/app/coassemble) - Coassemble is the first online training platform for SaaS companies looking to deliver genuinely engaging training experiences to your employees.
- - [CoderPad MCP Server](https://mcp.pipedream.com/app/coderpad) - CoderPad is a technical interview platform for leading development teams. It enables a quick, accurate read on a candidate's skills through the hiring process
- - [D2L Brightspace MCP Server](https://mcp.pipedream.com/app/d2l_brightspace) - Packed with powerful tools, customizable content and best-in-class service and support, Brightspace leaves the limitations of a traditional LMS in the dust.
- - [Degreed MCP Server](https://mcp.pipedream.com/app/degreed) - "Changing the World Through Learning
-Empower lifelong learners and career growth to drive innovation at your company."
- - [EdApp MCP Server](https://mcp.pipedream.com/app/edapp) - The free all-in-one training tool built for mobile that your teams love.
- - [EducateMe MCP Server](https://mcp.pipedream.com/app/educateme) - Create and scale collaborative courses in one place.
- - [Edusign MCP Server](https://mcp.pipedream.com/app/edusign) - Automate and digitise your management of document signatures, attendance records and much more, like over 1,500 training organisations that use Edusign.
- - [Exist MCP Server](https://mcp.pipedream.com/app/exist) - Personal life analytics platform
- - [Freshlearn MCP Server](https://mcp.pipedream.com/app/freshlearn) - FreshLearn is an all-in-one creators suite that empowers creators to monetize 'what they know'.
- - [Google Classroom MCP Server](https://mcp.pipedream.com/app/google_classroom) - Google Classroom helps educators create engaging learning experiences they can personalize, manage, and measure.
- - [Graphy MCP Server](https://mcp.pipedream.com/app/graphy) - The next-generation platform for data visualization. Fast. Beautiful. Collaborative.
- - [InfoLobby MCP Server](https://mcp.pipedream.com/app/infolobby) - InfoLobby - Your Database in the Cloud
- - [iSpring Learn MCP Server](https://mcp.pipedream.com/app/ispring_learn) - Reliable LMS to onboard, upskill, and certify your teams.
- - [Knorish MCP Server](https://mcp.pipedream.com/app/knorish) - Launch your online business on Knorish to create, sell and market onlinecourses, memberships & downloads with our all-in-one cloud-enabled onlineplatform.
- - [L2S MCP Server](https://mcp.pipedream.com/app/l2s) - L2S: Your All-in-One Link Management Solution
- - [LearnDash MCP Server](https://mcp.pipedream.com/app/learndash) - Instantly transform your site into a powerful learning management system with the LearnDash LMS plugin.
- - [LearnWorlds MCP Server](https://mcp.pipedream.com/app/learnworlds) - Create and sell online courses from your own website. The best online course platform for creating, selling and promoting your online courses. Start monetizing your skills, experiences and your audience.
- - [LifterLMS MCP Server](https://mcp.pipedream.com/app/lifterlms) - Unlock your WordPress LMS website success with LifterLMS, the best all-in-one platform for courses & memberships.
- - [LightSpeed VT MCP Server](https://mcp.pipedream.com/app/lightspeed_vt) - LightSpeed VT is the most effective web-based training system on Earth. We provide the foundation for creating a training experience like no other.
- - [Membervault MCP Server](https://mcp.pipedream.com/app/membervault) - Creators of the Content Ladder Framework, and content platform, Member Vault. We're big fans of all things automated online engagement.
- - [Miestro MCP Server](https://mcp.pipedream.com/app/miestro) - The ultimate course platform to help you easily your own online courses in just 5 steps.
- - [Nasa MCP Server](https://mcp.pipedream.com/app/nasa) - National Aeronautics and Space Administration
- - [Navigatr MCP Server](https://mcp.pipedream.com/app/navigatr) - Find popular learning activities near you, courses to join, or let yourself be inspired.
- - [neetoKB MCP Server](https://mcp.pipedream.com/app/neetokb) - Simple knowledge base(KB) to reduce support requests
- - [Paradym MCP Server](https://mcp.pipedream.com/app/paradym) - The easiest way to work with verifiable credentials.
- - [ProProfs Quiz Maker MCP Server](https://mcp.pipedream.com/app/proprofs_quiz_maker) - Build assessments & quizzes to improve knowledge & audience engagement.
- - [Rise MCP Server](https://mcp.pipedream.com/app/rise) - Rise is an all-in-one training system that makes training easy to create, enjoyable to take, and simple to manage.
- - [Roam Research MCP Server](https://mcp.pipedream.com/app/roamresearch) - A note-taking tool for networked thought.
- - [SkillzRun MCP Server](https://mcp.pipedream.com/app/skillzrun) - Generate your own mobile learning with LMS SkillzRun!
- - [Speechace MCP Server](https://mcp.pipedream.com/app/speechace) - SpeechAce teaches correct American English pronunciation and eliminates your accent one word at a time.
- - [Stack Exchange (Stack Overflow) MCP Server](https://mcp.pipedream.com/app/stack_exchange) - Community-powered Q&A sites, including Stack Overflow
- - [Teach 'n Go MCP Server](https://mcp.pipedream.com/app/teach_n_go) - Enhance your business with our all-in-one school management software.
- - [Thinkific MCP Server](https://mcp.pipedream.com/app/thinkific) - Create online courses and membership sites with Thinkific and feel confident that you've got the easiest technology and the best support in the industry.
- - [Tutor LMS MCP Server](https://mcp.pipedream.com/app/tutor_lms) - Create, Manage, and Sell eLearning Courses on WordPress
- - [Weworkbook MCP Server](https://mcp.pipedream.com/app/weworkbook) - "Weworkbook is a cloud-based software service that helps training organizations increase enrollments and reduce costs. 
-"
- - [Xperiencify MCP Server](https://mcp.pipedream.com/app/xperiencify) - Xperiencify is the world's first fully gamified online course platform that creates a hyper-engaging "experience" for your students.
- - [Zenler MCP Server](https://mcp.pipedream.com/app/zenler) - All In One Course Creation, Delivery & Marketing Platform
-
-### <a name="marketing"></a>Marketing
-
- - [360NRS MCP Server](https://mcp.pipedream.com/app/_360nrs) - Multichannel markting: SMS marketing, email marketing, WhatsApp and interactive voice.
- - [4Dem MCP Server](https://mcp.pipedream.com/app/_4dem) - Email software marketing for your Smart emails.
- - [Abyssale MCP Server](https://mcp.pipedream.com/app/abyssale) - Generate banners for social media & online advertising in minutes – No design skills required.
- - [Active Trail MCP Server](https://mcp.pipedream.com/app/active_trail) - ActiveTrail is the world's friendliest email marketing platform, newsletter software and marketing automation software.
- - [ActiveCampaign MCP Server](https://mcp.pipedream.com/app/activecampaign) - ActiveCampaign is the email marketing, marketing automation, and CRM suite you need to create incredible customer experiences.
- - [Acumbamail MCP Server](https://mcp.pipedream.com/app/acumbamail) - Email, SMS marketing, subscription forms management and landing page editor to meet all your marketing strategy needs.
- - [AcyMailing MCP Server](https://mcp.pipedream.com/app/acymailing) - AcyMailing is the most complete emailing solution for WordPress and Joomla! Design newsletter or marketing campaigns easily with all our tools.
- - [Adhook MCP Server](https://mcp.pipedream.com/app/adhook) - Google & Social Media Brand Management Software
- - [Adrapid MCP Server](https://mcp.pipedream.com/app/adrapid) - Ads in seconds from T-Rex sizes of Data
- - [AdRoll MCP Server](https://mcp.pipedream.com/app/adroll) - Online advertising
- - [Aimtell MCP Server](https://mcp.pipedream.com/app/aimtell) - A new way to acquire, engage, monetize and retain website visitors and subscribers.
- - [Airship MCP Server](https://mcp.pipedream.com/app/airship) - The Airship App Experience Platform (AXP) is the only enterprise SaaS platform focused 100% on helping brands master the full lifecycle of mobile app experience
- - [Amazon Advertising MCP Server](https://mcp.pipedream.com/app/amazon_advertising) - Ad solutions to help you find, attract, and engage millions of Amazon customers at every stage of their journey
- - [AppsFlyer MCP Server](https://mcp.pipedream.com/app/appsflyer) - Transform insights into growth. Increase app installs and hit your LTV goals with the #1 measurement partner.
- - [Autoklose MCP Server](https://mcp.pipedream.com/app/autoklose) - Autoklose built a well-rounded outbound sales platform. It features automated lead generation software and email drip campaign management tools with CRM integration.
- - [Automizy MCP Server](https://mcp.pipedream.com/app/automizy) - Email Marketing Automation Software
- - [AWeber MCP Server](https://mcp.pipedream.com/app/aweber) - Powerfully-Simple Email Marketing
- - [Beamer MCP Server](https://mcp.pipedream.com/app/beamer) - "Improve user engagement with an easy to use newsfeed and changelog for your website. Announce relevant news and updates with Beamer.
-"
- - [Beehiiv MCP Server](https://mcp.pipedream.com/app/beehiiv) - Create, monetize, grow—a newsletter platform built by newsletter people.
- - [Benchmark Email MCP Server](https://mcp.pipedream.com/app/benchmark_email) - Powerful & Easy Email Marketing Solution To Grow Your Business.
- - [BigMailer MCP Server](https://mcp.pipedream.com/app/bigmailer) - Email Marketing platform for agencies and makers - unlimited brands/users, all email campaign types, support when you need it.
- - [Bitly MCP Server](https://mcp.pipedream.com/app/bitly) - URL shortener
- - [BrandMentions MCP Server](https://mcp.pipedream.com/app/brandmentions) - BrandMentions is the most effective method of monitoring your brand or product on the Internet.
- - [Braze MCP Server](https://mcp.pipedream.com/app/braze) - Customer engagement platform powering customer-centric interactions between consumers and brands in real-time
- - [Builderall Mailingboss MCP Server](https://mcp.pipedream.com/app/builderall_mailingboss) - The Most Powerful and Complete Internet Marketing Platform on the Planet. Construct a simple web page to a complex sales funnel and everything in-between!
- - [BuySellAds MCP Server](https://mcp.pipedream.com/app/buysellads) - Advertising Solutions for Publishers and Marketers
- - [CallPage MCP Server](https://mcp.pipedream.com/app/callpage) - We are the #1 tool to generate more sales calls & leads from your website.
- - [Campaign Monitor MCP Server](https://mcp.pipedream.com/app/campaign_monitor) - Email Marketing Platform & Services
- - [Campayn MCP Server](https://mcp.pipedream.com/app/campayn) - Campayn.com is the easiest way to create, send and track email marketing campaigns.
- - [Chatrace MCP Server](https://mcp.pipedream.com/app/chatrace) - Automate sales, marketing, and customer support across all channels with a chatbot.
- - [ClickFunnels MCP Server](https://mcp.pipedream.com/app/clickfunnels) - Marketing funnels made easy.
- - [Cloud Convert MCP Server](https://mcp.pipedream.com/app/cloud_convert) - File converter service
- - [Cometly MCP Server](https://mcp.pipedream.com/app/cometly) - Revenue Attribution For Marketing Teams
- - [Contentful (API Key) MCP Server](https://mcp.pipedream.com/app/contentful_graphql) - The GraphQL Content API provides a GraphQL interface to the content from Contentful
- - [Contentful (OAuth) MCP Server](https://mcp.pipedream.com/app/contentful) - API-first content platform
- - [ConvertKit MCP Server](https://mcp.pipedream.com/app/convertkit) - Email Marketing for Online Creators
- - [Coupontools MCP Server](https://mcp.pipedream.com/app/coupontools) - The Coupontools software hands Marketers the promotional tools to interact with their audience.
- - [CrowdPower MCP Server](https://mcp.pipedream.com/app/crowdpower) - Lifecycle automations to keep and convert your customers.
- - [CUFinder MCP Server](https://mcp.pipedream.com/app/cufinder) - CUFinder is a B2B Lead Generation platform to drive growth and increase sales.
- - [Curated MCP Server](https://mcp.pipedream.com/app/curated) - Curated is the quickest and easiest way to publish a digest newsletter by email and also on the web. Collect links, pick the best, add your commentary and publish it to your subscribers.
- - [Customer.io MCP Server](https://mcp.pipedream.com/app/customer_io) - Send Automated Messages. Deliver Results.
- - [Cyberimpact MCP Server](https://mcp.pipedream.com/app/cyberimpact) - Cyberimpact is an email marketing solution. Send professional emails in just a few clicks. Simple, affordable and efficient, Cyberimpact will help you increase customer loyalty and drive sales.
- - [Demandbase MCP Server](https://mcp.pipedream.com/app/demandbase) - ABM Platform for B2B Sales & Marketing Success
- - [Demio MCP Server](https://mcp.pipedream.com/app/demio) - Run more effective webinars with less work.
- - [Discourse MCP Server](https://mcp.pipedream.com/app/discourse) - Conversation platform
- - [DocuPost MCP Server](https://mcp.pipedream.com/app/docupost) - Mail letters and postcards online. We’ll print, stamp and send U.S. mail for you, from 95¢. Simple, pay-as-you-go pricing.
- - [Doppler Marketing Automation MCP Server](https://mcp.pipedream.com/app/doppler_marketing_automation) - Email, Automation & Data Marketing Platform
- - [Dribbble MCP Server](https://mcp.pipedream.com/app/dribbble) - Promotion and social networking platform for digital designers and creatives
- - [Drip MCP Server](https://mcp.pipedream.com/app/drip) - Marketing automation
- - [Dripcel MCP Server](https://mcp.pipedream.com/app/dripcel) - Automated SMS Marketing.
- - [Dux Soup MCP Server](https://mcp.pipedream.com/app/dux_soup) - Find, attract and engage with your prospects on LinkedIn. Scale your business with free marketing automation.
- - [DynaPictures MCP Server](https://mcp.pipedream.com/app/dynapictures) - Generate Hundreds of Personalized Images in Minutes. DynaPictures is a cloud-based solution for dynamic image generation. Connect your preferred data source like Google Sheets to create personalized images and display your client names, coupons, or virtually anything else.
- - [E-goi MCP Server](https://mcp.pipedream.com/app/e_goi) - E-goi is a multichannel marketing solution that automates and integrates e-mail, mobile, web, voice and social media campaigns into a single online system, making it a breeze to grow leads and automate customer life cycle!
- - [Easypromos MCP Server](https://mcp.pipedream.com/app/easypromos) - Create Interactive Contests and Promotions
- - [EasySendy MCP Server](https://mcp.pipedream.com/app/easysendy) - Helping 4000+ business to deliver [NO SPAM] drip email campaigns through their website automatically. Deliver drip campaigns through your website automatically.
- - [EchtPost Postcards MCP Server](https://mcp.pipedream.com/app/echtpost_postcards) - Write postcards online and send them by mail. Send individual postcards and postcard mailings quickly and easily for marketing and sales.
- - [Ecologi MCP Server](https://mcp.pipedream.com/app/ecologi) - Ecologi is the platform for collective climate action. 🌱
- - [Elastic Email MCP Server](https://mcp.pipedream.com/app/elastic_email) - All the email marketing and delivery tools you need to communicate with your customers. Most attractive monthly pricing and pay-as-you-go option on the market.
- - [Emailable MCP Server](https://mcp.pipedream.com/app/emailable) - We guarantee your campaigns are emailable.
- - [EmailListVerify MCP Server](https://mcp.pipedream.com/app/emaillistverify) - Email Checker & Bulk Email List Verifier.
- - [Emailoctopus MCP Server](https://mcp.pipedream.com/app/emailoctopus) - EmailOctopus offers email marketing for next to nothing. The platform provides a simple and intuitive user interface which allows marketers to create their own rich HTML emails, and deliver them to subscribers inboxes with only a few clicks.
- - [Emelia MCP Server](https://mcp.pipedream.com/app/emelia) - The only platform dedicated to Growth Marketing teams and B2B automation companies
- - [Endorsal MCP Server](https://mcp.pipedream.com/app/endorsal) - "Customer testimonials, automated. Set up in 10 mins.
-
-Over 5,000 companies trust Endorsal to boost their social proof. Try us out free!"
- - [Engage MCP Server](https://mcp.pipedream.com/app/engage) - Engage turns your customers into fans with personalised messaging; using emails, push and in-app notifications, and SMS.
- - [Enginemailer MCP Server](https://mcp.pipedream.com/app/enginemailer) - Email Marketing Software for Every Business
- - [Enormail MCP Server](https://mcp.pipedream.com/app/enormail) - Enormail is an easy and complete email marketing program that allows you to really grow your business and turnover.
- - [eSputnik MCP Server](https://mcp.pipedream.com/app/esputnik) - Communicate with customers through the most convenient channel for them: email, SMS, Viber, web and mobile push notifications, or combine several channels at once.
- - [Eventbrite MCP Server](https://mcp.pipedream.com/app/eventbrite) - Eventbrite brings people together through live experiences. Discover events that match your passions, or create your own with online ticketing tools.
- - [EverWebinar MCP Server](https://mcp.pipedream.com/app/everwebinar) - Create Pre-Recorded Evergreen Webinars
- - [Facebook Pages MCP Server](https://mcp.pipedream.com/app/facebook_pages) - Social media and social networking service.
- - [FeedBlitz MCP Server](https://mcp.pipedream.com/app/feedblitz) - FeedBlitz is a full service email marketing service provider (ESP) focused on simplifying our clients' business objectives. No limits, no overages, terrific value, outstanding deliverability, and real people on the phone to lend a hand when you need it
- - [Figma MCP Server](https://mcp.pipedream.com/app/figma) - Figma is the leading collaborative design tool for building meaningful products.
- - [Flexmail MCP Server](https://mcp.pipedream.com/app/flexmail) - Create captivating email campaigns with the most complete and reliable platform.
- - [FlippingBook MCP Server](https://mcp.pipedream.com/app/flippingbook) - FlippingBook converts PDFs into digital flipbooks you can share and track.
- - [Fomo MCP Server](https://mcp.pipedream.com/app/fomo) - "Fomo delivers social proof to create website conversion momentum.
-
-The Fomo app does this by enabling online experience that feels like a busy store. When a person converts -- whether buying a new jacket, signing up for a retreat, or anything else -- Fomo shows this activity off to other visitors to drive action."
- - [Freshmarketer MCP Server](https://mcp.pipedream.com/app/freshmarketer) - Freshmarketer is a complete marketing automation suite that helps you manage your contacts and lists, design, and deliver compelling marketing campaigns and automate your email marketing.
- - [Front MCP Server](https://mcp.pipedream.com/app/frontapp) - Customer communication platform
- - [Frontify MCP Server](https://mcp.pipedream.com/app/frontify) - Where Brands Live – Brand Management Software
- - [FullEnrich MCP Server](https://mcp.pipedream.com/app/fullenrich) - B2B Email & Phone Waterfall Enrichment
- - [GetResponse MCP Server](https://mcp.pipedream.com/app/getresponse) - Trusted Inbound Marketing Software
- - [Getswift MCP Server](https://mcp.pipedream.com/app/getswift) - GetSwift is a technology & services co. helping businesses build, manage & optimize their delivery & business systems
- - [Gist MCP Server](https://mcp.pipedream.com/app/gist) - Build personal relationships at scale. Gist offers live chat, email marketing automation, event tracking, and more.
- - [Gitter MCP Server](https://mcp.pipedream.com/app/gitter) - Chat and networking platform
- - [gobio.link MCP Server](https://mcp.pipedream.com/app/gobio_link) - Generate leads wisely with your biolinks, share interesting stuff on your social media, and send your users to your biolink with absolute ease.
- - [Goodbits MCP Server](https://mcp.pipedream.com/app/goodbits) - Build great curated email newsletters in minutes. Collect content from the web and from popular applications such as Slack, Zapier and Buffer.
- - [Google Ad Manager MCP Server](https://mcp.pipedream.com/app/google_ad_manager) - Integrated Advertising Management Platform
- - [GoSquared MCP Server](https://mcp.pipedream.com/app/gosquared) - GoSquared is the modern growth platform – designed to enable sales and marketing teams to collaborate more effectively and turn visitors into successful customers, effortlessly.
- - [GoZen Growth MCP Server](https://mcp.pipedream.com/app/gozen_growth) - Email Marketing & Automation Solution: GoZen's Growth
- - [Grade.us MCP Server](https://mcp.pipedream.com/app/grade_us) - A white label review management solution to help your agency generate, monitor, and market online reviews for your clients.
- - [Growsurf MCP Server](https://mcp.pipedream.com/app/growsurf) - Referral software for B2C, FinTech, and SaaS. Our customers see 312% ROI, 30% new leads, 15% ARR growth from referrals.
- - [HeroBot Chatbot Marketing MCP Server](https://mcp.pipedream.com/app/herobot_chatbot_marketing) - Automate & Combine Instagram Direct Messages, Facebook Messenger, Google Business Messages, WhatsApp, Telegram, Emails, SMS text messages, Voice calls, Viber and Webchat to Generate sales, leads and Grow Your Business on autopilot.
- - [HeySummit MCP Server](https://mcp.pipedream.com/app/heysummit) - HeySummit is the best way to run virtual summits. From online marketers to brands, to think-tanks, HeySummit powers some of the world's most interesting summits.
- - [Hippo Video MCP Server](https://mcp.pipedream.com/app/hippo_video) - The Only Interactive Video CX Platform You Ever Need to Create, Send & Track B2B Videos.
- - [Humanitix MCP Server](https://mcp.pipedream.com/app/humanitix) - Humanitix is the humane choice for tickets. We're the first and only not-for-profit ticketing platform that gives 100% of the profit from booking fees to children's charities to create a fairer and more equitable world.
- - [Hygraph MCP Server](https://mcp.pipedream.com/app/hygraph) - The Federated Content Platform. Unify, structure, enrich and distribute content from anywhere to anywhere.
- - [HypeAuditor MCP Server](https://mcp.pipedream.com/app/hypeauditor) - All-in-one solution to empower your influencer marketing.
- - [Hyperise MCP Server](https://mcp.pipedream.com/app/hyperise) - Hyperise is essentially an image personalisation toolkit. These images can be used in outreach and on your website landing pages. Hyperise integrates with 1000's of MarTech, so whatever your outreach and website builder tools you're using, we most likely integrate with them.
- - [iContact MCP Server](https://mcp.pipedream.com/app/icontact) - Email marketing made easy. Use iContact to grow your business anytime, anywhere.
- - [Impression MCP Server](https://mcp.pipedream.com/app/impression) - Secure eSignatures
- - [Inksprout MCP Server](https://mcp.pipedream.com/app/inksprout) - Inksprout is a Chrome extension that automatically fills your LinkedIn post with a summary when sharing links. You can edit, personalize, and save with 100% full control.
- - [Instabot MCP Server](https://mcp.pipedream.com/app/instabot_chatbot_platform) - Instabot is a chatbot platform that increases conversion where you are already interacting with your users - via your website, mobile app or email. You can build, integrate, and launch Instabot into your campaigns quickly.
- - [Instantly MCP Server](https://mcp.pipedream.com/app/instantly) - Instantly helps you find warm leads, scale email campaigns, reach primary inboxes, engage smarter and win more with AI.
- - [Jellyreach MCP Server](https://mcp.pipedream.com/app/jellyreach) - Deliver automated, relevant, and timely messages aligned with customers preferences.
- - [JVZoo MCP Server](https://mcp.pipedream.com/app/jvzoo) - Instantly connect your business with millions of paying customers and the top performing affiliates.
- - [Kartra MCP Server](https://mcp.pipedream.com/app/kartra) - The all-in-one online business platform that gives you every marketing & sales tool you need to grow your business profitably & more 📈
- - [Keap (Infusionsoft) MCP Server](https://mcp.pipedream.com/app/infusionsoft) - CRM, sales & marketing platform
- - [Klaviyo MCP Server](https://mcp.pipedream.com/app/klaviyo) - Email Marketing and SMS Marketing Platform
- - [Klenty MCP Server](https://mcp.pipedream.com/app/klenty) - The Sales Engagement Platform that can help you send personalized emails and automated follow-ups at scale.
- - [Kyvio MCP Server](https://mcp.pipedream.com/app/kyvio) - Kyvio's mission is to facilitate and accelerate the global society switch from a knowledge economy to an entrepreneurial economy by helping ppl to get started
- - [LaGrowthMachine MCP Server](https://mcp.pipedream.com/app/lagrowthmachine) - Save time, focus on closing deals. Automate manual sales rep. routines and focus on what matters: closing deals.
- - [Lahar MCP Server](https://mcp.pipedream.com/app/lahar) - Increase your sales with marketing automation software that makes your digital strategy simple.
- - [Laposta MCP Server](https://mcp.pipedream.com/app/laposta) - Dutch newsletter app (email marketing) that makes it exceptionally easy to send professional newsletters.
- - [Lawmatics MCP Server](https://mcp.pipedream.com/app/lawmatics) - Law Firm Client Intake CRM
- - [Leadoku MCP Server](https://mcp.pipedream.com/app/leadoku) - The Most Advanced, Secure, and Effective LinkedIn Lead Generation product, by far!
- - [Leadpops MCP Server](https://mcp.pipedream.com/app/leadpops) - leadPops is the easiest way for mortgage pros, real estate agents, and insurance agents to generate more quality leads, no setup required.
- - [Leadzen.ai MCP Server](https://mcp.pipedream.com/app/leadzen_ai) - Empower Your Outreach with AI-Lead Generation.
- - [lemlist MCP Server](https://mcp.pipedream.com/app/lemlist) - Personalize cold emails, automate follow-ups, and engage with leads across all channels
- - [Letterdrop MCP Server](https://mcp.pipedream.com/app/letterdrop) - Let your customers come to you through effective content marketing across SEO, email, and social. YC W20
- - [Leverly MCP Server](https://mcp.pipedream.com/app/leverly) - Get more conversions from your inbound leads with less effort. Extra revenue is waiting. Leverly is formerly Speak2Leads
- - [LinkedIn MCP Server](https://mcp.pipedream.com/app/linkedin) - LinkedIn is a business and employment-focused social media platform. Manage your professional identity. Build and engage with your professional network. Access knowledge, insights and opportunities.
- - [linqs MCP Server](https://mcp.pipedream.com/app/linqs_cc) - Linqs.cc is one of the best option for small businesses, start ups, personal projects and influencers who want to get the most out of their bio link.
- - [listmonk MCP Server](https://mcp.pipedream.com/app/listmonk) - listmonk is a self-hosted, high performance mailing list and newsletter manager. It comes as a standalone binary and the only dependency is a Postgres database.
- - [Loopify MCP Server](https://mcp.pipedream.com/app/loopify) - Marketing automation the fun and easy way. You create the content and Loopify does the rest. It’s so simple that even your boss could do it.
- - [MailBlaze MCP Server](https://mcp.pipedream.com/app/mailblaze) - Email Marketing Platform. Helping clients connect, create and cultivate exceptional email marketing experiences.
- - [Mailbluster MCP Server](https://mcp.pipedream.com/app/mailbluster) - Super cost-effective #Emailmarketing software via AmazonSES.
- - [Mailbox Power MCP Server](https://mcp.pipedream.com/app/mailbox_power) - With Mailbox Power you can leverage the power of personalization to create simple impactful moments to engage, motivate and appreciate your existing customers - or find new ones!
- - [Mailchimp MCP Server](https://mcp.pipedream.com/app/mailchimp) - Mailchimp is a marketing automation and email marketing platform.
- - [Mailcoach MCP Server](https://mcp.pipedream.com/app/mailcoach) - Mailcoach connects your newsletter marketing to a reliable email delivery provider.
- - [Mailercloud MCP Server](https://mcp.pipedream.com/app/mailercloud) - Powerful and simple all-in-one email marketing platform providing effective solutions for rapid business growth.
- - [Mailerlite MCP Server](https://mcp.pipedream.com/app/mailerlite) - Email marketing software
- - [Mailersend MCP Server](https://mcp.pipedream.com/app/mailersend) - Transactional email service that delivers
- - [Mailgun MCP Server](https://mcp.pipedream.com/app/mailgun) - Mailgun is an email automation service built for developers. Powerful transactional email APIs enable you to send, receive, and track emails.
- - [Mailify MCP Server](https://mcp.pipedream.com/app/mailify) - Mailify, emailing and SMS solution for multichannel strategies.
- - [Mailjet MCP Server](https://mcp.pipedream.com/app/mailjet) - Mailjet is an easy-to-use all-in-one e-mail platform. With our transactional and marketing e-mail solution, it’s never been easier to get your emails into the inbox!
- - [Mailmodo MCP Server](https://mcp.pipedream.com/app/mailmodo) - Free Email Marketing Software to create & send email
- - [MailNinja MCP Server](https://mcp.pipedream.com/app/mailninja) - The email marketing platform without the hefty price tag!
- - [Mailsoftly MCP Server](https://mcp.pipedream.com/app/mailsoftly) - Email Marketing & Automation Software
- - [Mailwizz MCP Server](https://mcp.pipedream.com/app/mailwizz) - Full-featured self-hosted email marketing software.
- - [Mandrill MCP Server](https://mcp.pipedream.com/app/mandrill) - Transactional email API for Mailchimp users
- - [Marketing Master IO MCP Server](https://mcp.pipedream.com/app/marketing_master_io) - Essential Digital Marketing Tools - For Less
- - [Marketo MCP Server](https://mcp.pipedream.com/app/marketo) - Adobe Marketo Engage, the world’s largest marketing automation platform, is a singular solution that lets you attract, segment, and nurture customers — from discovery to biggest fan. And each touchpoint is tracked so you know what’s working. No more batch and blast. No more unqualified leads. Just effective engagement.
- - [MarketTime MCP Server](https://mcp.pipedream.com/app/markettime) - Save time, close more deals, grow your share of wallet with existing customers and reach new customers across the globe, all with one integrated sales platform. With MarketTime you are in market all the time.
- - [Mastodon MCP Server](https://mcp.pipedream.com/app/mastodon) - Mastodon is a decentralized social network made up of independent servers organized around specific themes, topics, or interests.
- - [Mautic MCP Server](https://mcp.pipedream.com/app/mautic) - Open Source Marketing Automation
- - [MobileMonkey MCP Server](https://mcp.pipedream.com/app/mobilemonkey) - MobileMonkey Sales Outreach Automation + B2C Prospecting Data Platform helps marketers & sales find their unicorns in a sea of donkeys
- - [MoonMail MCP Server](https://mcp.pipedream.com/app/moonmail) - Simple Email Marketing!
- - [Moosend MCP Server](https://mcp.pipedream.com/app/moosend) - Email marketing & automations platform
- - [Mumara MCP Server](https://mcp.pipedream.com/app/mumara) - Mumara is a web app store with a variety of apps available under its parasol that can help you fuel multi-channel, data driven marketing strategy.
- - [Newsletter MCP Server](https://mcp.pipedream.com/app/newsletter) - Send awesome emails from WordPress.
- - [Newsman MCP Server](https://mcp.pipedream.com/app/newsman) - NewsmanApp is an Smart Email Service Provider. We help our customers create, send and track beautiful emails. We have a technical , yet user friendly approach and we like to automatize a lot (custom editor blocks, custom preferences pages).
- - [Nexweave MCP Server](https://mcp.pipedream.com/app/nexweave) - Helping 1000+ Sales/Marketing teams with hyper-personalized images, gifs & interactive videos for outreach & engagement.
- - [NiftyImages MCP Server](https://mcp.pipedream.com/app/niftyimages) - Allowing marketers to create dynamic and personalized content for your email campaigns.
- - [Noticeable MCP Server](https://mcp.pipedream.com/app/noticeable) - Use Noticeable to announce new features, your latest releases, and relevant news. Improve user engagement with an easy to use newsfeed and changelog.
- - [Ometria MCP Server](https://mcp.pipedream.com/app/ometria) - The customer marketing platform for retail
- - [OneSignal (User Auth) MCP Server](https://mcp.pipedream.com/app/onesignal_user_auth) - Push messaging
- - [Ontraport MCP Server](https://mcp.pipedream.com/app/ontraport) - Ontraport is a unified and all-in-one CRM and marketing automation platform designed to help manage your entire marketing workflow, from bringing in new visitors all the way to making sure they feel welcome as customers.
- - [Orbit MCP Server](https://mcp.pipedream.com/app/orbit) - Community experience platform for developers
- - [Ortto MCP Server](https://mcp.pipedream.com/app/ortto) - The unified customer journey platform for online business. Customer journeys made remarkable.
- - [OtterText MCP Server](https://mcp.pipedream.com/app/ottertext) - Text message marketing (SMS) made easy with Otter Text.
- - [Outreach MCP Server](https://mcp.pipedream.com/app/outreach) - Close Deals Faster in the Remote Sales World
- - [Partnerize MCP Server](https://mcp.pipedream.com/app/partnerize) - Partnerize is the only partnership management solution powering profitable growth for marketers through end-to-end technology & comprehensive service.
- - [PartnerStack (Partner API) MCP Server](https://mcp.pipedream.com/app/partnerstack) - PartnerStack does more than manage your partnerships — it builds new revenue channels by empowering every partner to succeed.
- - [Patreon MCP Server](https://mcp.pipedream.com/app/patreon) - Patreon is the best place for creators to build memberships by providing exclusive access to their work and a deeper connection with their communities.
- - [Paved MCP Server](https://mcp.pipedream.com/app/paved) - All-in-one Platform For Newsletter Sponsorships
- - [Peach MCP Server](https://mcp.pipedream.com/app/peach) - Beautiful, interactive WhatsApp Marketing for all businesses.
- - [PersistIQ MCP Server](https://mcp.pipedream.com/app/persistiq) - PersistIQ is a free email automation platform to send a small batch of personalized emails.
- - [Pitchlane MCP Server](https://mcp.pipedream.com/app/pitchlane) - Video Outreach at Scale
- - [Planly MCP Server](https://mcp.pipedream.com/app/planly) - All-in-one social media management tool.
- - [Platform.ly MCP Server](https://mcp.pipedream.com/app/platform_ly) - The only marketing automation software you will ever need.
- - [Pointagram MCP Server](https://mcp.pipedream.com/app/pointagram) - Pointagram the gamification tool that increases motivation and team achievements. Keep your team goal-oriented and celebrate great performance together.
- - [Poper MCP Server](https://mcp.pipedream.com/app/poper) - Boost your website's user engagement through smart, AI-driven popups.
- - [Postalytics MCP Server](https://mcp.pipedream.com/app/postalytics) - Direct Mail Automation software in the cloud - Deep Integration With CRM & Workflows - Making direct mail look, act and feel like a digital marketing channel
- - [Postmark MCP Server](https://mcp.pipedream.com/app/postmark) - Postmark is a fast and reliable email delivery service that enables you to send transactional and marketing emails and get them to the inbox on time, every time.
- - [Product Hunt MCP Server](https://mcp.pipedream.com/app/product_hunt) - The best new products in tech
- - [Proofly MCP Server](https://mcp.pipedream.com/app/proofly) - Proofly shows user behavior on the site, inspires action, creates rush interest, builds trust and, most importantly, sells.
- - [Purple Sonar MCP Server](https://mcp.pipedream.com/app/sonar) - Monitor your target accounts and identify new opportunities
- - [Rasa MCP Server](https://mcp.pipedream.com/app/rasa) - Get more from your email list
- - [ReachMail MCP Server](https://mcp.pipedream.com/app/reachmail) - ReachMail is a simple, web-based tool to create, deliver and track beautiful HTML email campaigns and newsletters.
- - [Rebrandly MCP Server](https://mcp.pipedream.com/app/rebrandly) - Custom URL Shortener
- - [Reddit MCP Server](https://mcp.pipedream.com/app/reddit) - Reddit is a network of communities based on people's interests. Find communities you're interested in, and become part of an online community!
- - [Referral Rocket MCP Server](https://mcp.pipedream.com/app/referral_rocket) - Referral program management tool
- - [ReferralHero MCP Server](https://mcp.pipedream.com/app/referralhero) - Everything you need to build, manage, and track a referral program‍... that doubles your business.
- - [ReferralRock MCP Server](https://mcp.pipedream.com/app/referralrock) - Influence word of mouth instead of waiting for it to happen.
- - [Referrizer MCP Server](https://mcp.pipedream.com/app/referrizer) - Multi Location Marketing (Done Right). Grow 10's or 1000's of locations with the same effort as promoting one.
- - [RegFox MCP Server](https://mcp.pipedream.com/app/regfox) - "RegFox is powerful event registration platform for conferences, camps, classes, and more.
-It’s easy to use, highly customizable, and unbelievably affordable."
- - [Rejoiner MCP Server](https://mcp.pipedream.com/app/rejoiner) - Retention Marketing Software for Ecommerce
- - [Remarkety MCP Server](https://mcp.pipedream.com/app/remarkety) - Remarkety is eCommerce email marketing - simplified.
- - [Reply MCP Server](https://mcp.pipedream.com/app/reply) - Digital Services, Technology and Consulting
- - [Reply.io MCP Server](https://mcp.pipedream.com/app/reply_io) - Reply is a sales engagement platform that automates email search, LinkedIn outreach, personal emails, SMS and WhatsApp messages, calls, and tasks.
- - [Repuso MCP Server](https://mcp.pipedream.com/app/repuso) - Review management solution that helps businesses monitor feedback received on various social media platforms including Facebook.
- - [Respond.io MCP Server](https://mcp.pipedream.com/app/respond_io) - A business messaging platform that unifies customer communication for tech-savvy orgs that market, sell & support across instant messaging, web chat & email.
- - [Reviews.io MCP Server](https://mcp.pipedream.com/app/reviews_io) - Helping brands build trust one review at a time.
- - [Rewardful MCP Server](https://mcp.pipedream.com/app/rewardful) - Turn your biggest fans into your best marketers! Rewardful is a super easy way to setup affiliate & referral programs for SaaS, memberships, and ecommerce
- - [Ritekit MCP Server](https://mcp.pipedream.com/app/ritekit) - Premier social media toolkit
- - [robly MCP Server](https://mcp.pipedream.com/app/robly) - Email Marketing Software
- - [Salestown MCP Server](https://mcp.pipedream.com/app/salestown) - Our Business is to grow your business. We are 360 degree lead management system company in India
- - [SARE MCP Server](https://mcp.pipedream.com/app/sare) - Omnichannel Marketing, Marketing automation.
- - [SEEN MCP Server](https://mcp.pipedream.com/app/seen) - Communicate with personalised data-driven video
- - [Sender MCP Server](https://mcp.pipedream.com/app/sender) - Email marketing is so simple with http://Sender.net. Create stunning designs, automate your campaigns and track your results. Spend less, do more!
- - [Sendfox (OAuth) MCP Server](https://mcp.pipedream.com/app/sendfox_oauth) - Email marketing service
- - [Sendfox (Personal Access Token) MCP Server](https://mcp.pipedream.com/app/sendfox_personal_access_token) - Email marketing service
- - [Sendicate MCP Server](https://mcp.pipedream.com/app/sendicate) - Simply send beautiful emails to people who matter. Sendicate is the email marketing app for smart businesses.
- - [SendinBlue MCP Server](https://mcp.pipedream.com/app/sendinblue) - Sendinblue powers advanced email marketing and automation
- - [Sendlane MCP Server](https://mcp.pipedream.com/app/sendlane) - Deliver Exceptional eCommerce Customer Experiences with Email and SMS for BigCommerce.
- - [Sendloop MCP Server](https://mcp.pipedream.com/app/sendloop) - Sendloop is a full-featured, easy-to-use email marketing service. You create, send and track your email marketing campaigns without any stress.
- - [Sendoso MCP Server](https://mcp.pipedream.com/app/sendoso) - Sending platform
- - [SendOwl MCP Server](https://mcp.pipedream.com/app/sendowl) - SendOwl is an all-in-one digital sales platform to power up your business
- - [SendPulse MCP Server](https://mcp.pipedream.com/app/sendpulse) - Multi-Channel Marketing Platform
- - [SendX MCP Server](https://mcp.pipedream.com/app/sendx) - Powerful email marketing software to send campaigns, build your list, and automate your marketing.
- - [SERPhouse MCP Server](https://mcp.pipedream.com/app/serphouse) - High Volume API for SEO companies, data mining services, and SEO Tool Suite as a SaaS.
- - [SharpSpring MCP Server](https://mcp.pipedream.com/app/sharpspring) - Simple, Affordable, Powerful Marketing Platform
- - [Short Menu MCP Server](https://mcp.pipedream.com/app/short_menu) - URL Shortener, Branded Links, Analytics
- - [Short.io MCP Server](https://mcp.pipedream.com/app/short) - White label URL Shortener
- - [Showpad MCP Server](https://mcp.pipedream.com/app/showpad) - Sales enablement and marketing platform leader
- - [Simplero MCP Server](https://mcp.pipedream.com/app/simplero) - All-in-one marketing software for course creators, coaches and online marketers.
- - [Simvoly MCP Server](https://mcp.pipedream.com/app/simvoly) - Website Builder
- - [Smaily MCP Server](https://mcp.pipedream.com/app/smaily) - We’ll give you the easiest of tools to send beautiful newsletters. Start your email marketing journey to success!
- - [SmartEngage MCP Server](https://mcp.pipedream.com/app/smartengage) - "SmartEngage is the world's first and only Engagement Service Provider.
-
-Smartest way to get your message in front of more customers and potential customers."
- - [SmartrMail MCP Server](https://mcp.pipedream.com/app/smartrmail) - The smarter email app for ecommerce.
- - [Smiirl MCP Server](https://mcp.pipedream.com/app/smiirl) - Connected Counters for social media and other software
- - [Smoove MCP Server](https://mcp.pipedream.com/app/smoove) - Smoove is a marketing automation platform that will take your business to the next level! Easily create landing pages, manage your leads and send personalized emails. All in one easy to use system that will improve your marketing efforts.
- - [SMS-IT MCP Server](https://mcp.pipedream.com/app/sms_it) - Build sales leads with accuracy, reduce customer attrition, and engage with clients using personalized interactions.
- - [SMTP2GO MCP Server](https://mcp.pipedream.com/app/smtp2go) - Easily send and track all of your emails, and forget headaches with email delivery.
- - [Snapchat Marketing MCP Server](https://mcp.pipedream.com/app/snapchat_marketing) - Snapchat Ads and Public Profiles
- - [SparkPost MCP Server](https://mcp.pipedream.com/app/sparkpost) - The emailgeeks most trusted email optimization platform. We help enterprise senders reliably reach the inbox.
- - [Stannp MCP Server](https://mcp.pipedream.com/app/stannp) - Create and send postal Direct Mail campaigns: letters or postcards.
- - [StealthSeminar MCP Server](https://mcp.pipedream.com/app/stealthseminar) - StealthSeminar is the most profitable and the best automated webinar platform ever. Run pre-recorded webinars as if they are live events to leverage time and generate automated income.
- - [Storyblok MCP Server](https://mcp.pipedream.com/app/storyblok) - Headless & API-based CMS with an opt-in head
- - [Streamlabs MCP Server](https://mcp.pipedream.com/app/streamlabs) - Free live streaming software
- - [Supportivekoala MCP Server](https://mcp.pipedream.com/app/supportivekoala) - Automate your marketing. Supportivekoala allows you to autogenerate images by your input.
- - [Swapcard Exhibitor MCP Server](https://mcp.pipedream.com/app/swapcard_exhibitor) - Tradeshows & Exhibitions | More Revenue Through Highly-Targeted Leads
- - [Systeme.io MCP Server](https://mcp.pipedream.com/app/systeme_io) - The world’s easiest all-in-one marketing platform
- - [Terminus App MCP Server](https://mcp.pipedream.com/app/terminus_app) - Build and Track UTM URLs Consistently and Accurately.
- - [Thanks.io MCP Server](https://mcp.pipedream.com/app/thanks_io) - Direct Mail Sent Digitally
- - [Thankster MCP Server](https://mcp.pipedream.com/app/thankster) - Automatically mail handwritten cards for CRM, marketing automation, etc.
- - [Thrivecart MCP Server](https://mcp.pipedream.com/app/thrivecart) - The number 1 cart platform for marketers
- - [Ticket Tailor MCP Server](https://mcp.pipedream.com/app/ticket_tailor) - Whether it’s your first event ever, or your biggest event yet, we make it simple to sell tickets online.
- - [ToneDen MCP Server](https://mcp.pipedream.com/app/toneden) - A social marketing platform that gives you the power to reach people who matter.
- - [Tumblr MCP Server](https://mcp.pipedream.com/app/tumblr) - Make stuff, look at stuff, talk about stuff, find your people.
- - [Twilio SendGrid MCP Server](https://mcp.pipedream.com/app/sendgrid) - Send marketing and transactional email through the Twilio SendGrid platform with the Email API, proprietary mail transfer agent, and infrastructure for scalable delivery.
-
- - [Unisender MCP Server](https://mcp.pipedream.com/app/unisender) - "UniSender is a simple and easy-to-use service for email marketing.
-"
- - [UpViral MCP Server](https://mcp.pipedream.com/app/upviral) - UpViral is the Ultimate Viral Referral Platform. It allows you to run viral campaigns - such as contests, giveaways and more.
- - [Userlist MCP Server](https://mcp.pipedream.com/app/userlist) - Full-Stack Email Automation for Your SaaS.
- - [VBOUT MCP Server](https://mcp.pipedream.com/app/vbout) - VBOUT offers several marketing tools into one powerful platform: Social media, landing pages, lead management, email marketing, automation and analytics.
- - [Vendasta MCP Server](https://mcp.pipedream.com/app/vendasta) - Vendasta is for companies that sell marketing solutions to small and medium-sized local businesses
- - [VerticalResponse MCP Server](https://mcp.pipedream.com/app/verticalresponse) - Placeholder
- - [Vision6 MCP Server](https://mcp.pipedream.com/app/vision6) - Australia's Most Reliable Email & SMS Marketing Software. Sign Up for a Free Trial Today!
- - [WebinarGeek MCP Server](https://mcp.pipedream.com/app/webinargeek) - The best webinar software. Grow your business, engage with customers and be an expert with professional webinars.
- - [WebinarJam MCP Server](https://mcp.pipedream.com/app/webinarjam) - Cloud-based broadcasting technology
- - [Wishpond MCP Server](https://mcp.pipedream.com/app/wishpond) - "Reach new customers and increase sales, affordably.
-Get the all-in-one marketing platform you need to grow your business and a team of experts doing the work for you."
- - [Woodpecker.co MCP Server](https://mcp.pipedream.com/app/woodpecker_co) - Woodpecker is an intuitive cold email tool for lead gen, sales & recruitment professionals. The tool allows you to automatically connect with your prospective clients or business partners.
- - [WOXO MCP Server](https://mcp.pipedream.com/app/woxo) - WOXO lets your team collaborate to edit and create videos simultaneously in the spreadsheet, transforming them into instant dynamic videos at scale in minutes.
- - [Yelp Fusion MCP Server](https://mcp.pipedream.com/app/yelp) - Connecting people with great local businesses.
- - [Yespo MCP Server](https://mcp.pipedream.com/app/yespo) - Yespo is a Marketing Automation Service made to embody the toughest ideas of enterprise level solutions in very clear and efficient way for everyone.
- - [Yotpo - Loyalty & Referrals MCP Server](https://mcp.pipedream.com/app/yotpo_loyalty_referrals) - Yotpo is an eCommerce marketing platform with the most advanced solutions for customer reviews, visual marketing, loyalty, referrals, and SMS marketing.
- - [Zagomail MCP Server](https://mcp.pipedream.com/app/zagomail) - Powerfull Email Marketing And Automation Platform.
- - [Zest MCP Server](https://mcp.pipedream.com/app/zest) - Zest is the freest, fastest gifting platform for businesses.
- - [Zeta (Boomtrain) MCP Server](https://mcp.pipedream.com/app/boomtrain) - Data-Driven Marketing
-
-### <a name="productivity"></a>Productivity
-
- - [10to8 MCP Server](https://mcp.pipedream.com/app/tento8) - "More Than Just #AppointmentSchedulingSoftware; 10to8 Makes Bookings Happen
-
-Reduce appointment admin from 10 minutes to 8 seconds and get to full capacity."
- - [actiTIME MCP Server](https://mcp.pipedream.com/app/actitime) - Time Tracking Software for Cost-Effective Projects
- - [ActiveCalculator MCP Server](https://mcp.pipedream.com/app/activecalculator) - Create custom calculators for your website.
- - [Acuity Scheduling MCP Server](https://mcp.pipedream.com/app/acuity_scheduling) - Online Appointment Scheduling
- - [Adobe Document Generation API MCP Server](https://mcp.pipedream.com/app/adobe_document_generation_api) - Create business-critical documents like invoices, contracts, sales proposals, and work orders automatically.
- - [Agiled MCP Server](https://mcp.pipedream.com/app/agiled) - All in one business management platform to manage business in one integrated place.
- - [Airtable MCP Server](https://mcp.pipedream.com/app/airtable_oauth) - Airtable is a low-code platform to build next-gen apps. Move beyond rigid tools, operationalize your critical data, and reimagine workflows with AI.
- - [Amara MCP Server](https://mcp.pipedream.com/app/amara) - The Amara Editor is an award-winning caption and subtitle editor that’s free to use! It’s fun and easy to learn, and encourages collaboration.
- - [Amazing Marvin MCP Server](https://mcp.pipedream.com/app/amazing_marvin) - I am a unique and customizable productivity app. Procrastinators and people with ADHD love me a lot.
- - [Amplenote MCP Server](https://mcp.pipedream.com/app/amplenote) - "Write it down. Get it done.
-Take your best ideas from hunch to launch with Amplenote."
- - [Aroflo MCP Server](https://mcp.pipedream.com/app/aroflo) - Field Service Management Software
- - [Asana MCP Server](https://mcp.pipedream.com/app/asana) - Work anytime, anywhere with Asana. Keep remote and distributed teams, and your entire organization, focused on their goals, projects, and tasks with Asana.
- - [Assembla MCP Server](https://mcp.pipedream.com/app/assembla) - Secure Git, software development and source code management
- - [Avaza MCP Server](https://mcp.pipedream.com/app/avaza) - Project Management, Timesheets & Invoices for Teams
- - [awork MCP Server](https://mcp.pipedream.com/app/awork) - Your smart digital assistant
- - [Basecamp MCP Server](https://mcp.pipedream.com/app/basecamp) - Project Management & Team Communication
- - [Beekeeper MCP Server](https://mcp.pipedream.com/app/beekeeper) - Beekeeper’s mobile platform is the single point of contact for your frontline workforce. We bring communications and tools together to increase productivity, agility, and safety.
- - [BippyBox MCP Server](https://mcp.pipedream.com/app/bippybox) - The internet enabled alarm box for the average joe or developers.
- - [BitBadges MCP Server](https://mcp.pipedream.com/app/bitbadges) - BitBadges is a multi-chain platform to create, display, and verify digital blockchain badges.
- - [Bitwarden MCP Server](https://mcp.pipedream.com/app/bitwarden) - Open source password manager
- - [Blogify MCP Server](https://mcp.pipedream.com/app/blogify) - Turn anything into Blog with AI | YouTube Video to Blog AI.
- - [Blue MCP Server](https://mcp.pipedream.com/app/blue) - Teamwork, Made Simple.
- - [Boloforms MCP Server](https://mcp.pipedream.com/app/boloforms) - Take Digital Signatures in PDF & forms | Best Digital software | Affordable Digital Signature Software.
- - [Booqable MCP Server](https://mcp.pipedream.com/app/booqable) - Booqable is the rental software of choice for many of the world's leading rental businesses, providing a modern solution to streamline operations and deliver seamless customer experiences, online and in-store.
- - [Breeze MCP Server](https://mcp.pipedream.com/app/breeze) - Breeze is a simple project management tool that teams use to plan, track, and organize their work.
- - [Bridge MCP Server](https://mcp.pipedream.com/app/bridge) - Accelerate innovation with Open Banking
- - [BunnyDoc MCP Server](https://mcp.pipedream.com/app/bunnydoc) - Legally Binding Electronic Signatures.
- - [Calendly MCP Server](https://mcp.pipedream.com/app/calendly_v2) - Schedule meetings without the hassle. Never get double booked. Calendly works with your calendar to automate appointment scheduling.
- - [CastingWords MCP Server](https://mcp.pipedream.com/app/castingwords) - High quality, easy to use, reliable audio transcription services. Whether you have a couple of 30-second audio clips, hundreds of focus group recordings, or need a transcription API integration, CastingWords has a transcription service that meets your needs.
- - [Celoxis MCP Server](https://mcp.pipedream.com/app/celoxis) - Celoxis is an award-winning all-in-one project management software. Visit celoxis.com for more information.
- - [ChatPDF MCP Server](https://mcp.pipedream.com/app/chatpdf) - ChatPDF Backend API - extract information and chat with PDFs.
- - [Checkvist MCP Server](https://mcp.pipedream.com/app/checkvist) - Task manager and online outliner with outstanding keyboard support, tags, due dates, search/filtering and collaboration.
- - [ChMeetings MCP Server](https://mcp.pipedream.com/app/chmeetings) - The most recommended, user-friendly and affordable church management software.
- - [ClickUp MCP Server](https://mcp.pipedream.com/app/clickup) - ClickUp is an all-in-one productivity platform that works as an ideal place for teams to come together, brainstorm, plan, and collaborate on everything from process docs to product designs.
- - [Clockify MCP Server](https://mcp.pipedream.com/app/clockify) - 100% Free Time Tracking Software
- - [CloudFill MCP Server](https://mcp.pipedream.com/app/cloudfill) - Easily create customized PDFs for your customers and leads! Use simple integrations and easy to use API to create PDF from your templates.
- - [Cloudlayer MCP Server](https://mcp.pipedream.com/app/cloudlayer) - An API to automate your content generation
- - [Coda MCP Server](https://mcp.pipedream.com/app/coda) - Coda is familiar like a doc and engaging like an app, so your team can jump in quickly, collaborate effectively, and make decisions that stick.
- - [Cohere MCP Server](https://mcp.pipedream.com/app/cohere_platform) - Making NLP part of every developer's toolkit. Harness the power of language understanding. Join the developers and businesses who are using Cohere to generate, categorize and organize text at a scale that was previously unimaginable.
- - [CompanyCam MCP Server](https://mcp.pipedream.com/app/companycam) - The photo app every contractor needs
- - [Confluence MCP Server](https://mcp.pipedream.com/app/confluence) - Get, create, update, and delete content, spaces, and more.
- - [Cutt.ly MCP Server](https://mcp.pipedream.com/app/cutt_ly) - Free URL Shortener & Link Management Platform with Custom URL Shortener and branded short links, Link-in-bio and QR Codes generator.
- - [DaySchedule MCP Server](https://mcp.pipedream.com/app/dayschedule) - A single app to create personalized scheduling pages for the public to book a meeting with you.
- - [Decision Journal MCP Server](https://mcp.pipedream.com/app/decision_journal) - Decision Journal is an app for keeping track of and improving your decision making.
- - [Deputy MCP Server](https://mcp.pipedream.com/app/deputy) - Employee scheduling, timesheets, tasking and communication platform
- - [DocsAutomator MCP Server](https://mcp.pipedream.com/app/docsautomator) - Automate your documents using Google Docs in minutes
- - [DocsGenFlow MCP Server](https://mcp.pipedream.com/app/docsgenflow) - Document Generation & Automation Software.
- - [Documint MCP Server](https://mcp.pipedream.com/app/documint) - Generate beautiful PDFs that your users will love.
- - [DoneDone MCP Server](https://mcp.pipedream.com/app/donedone) - The simple task tracker and shared inbox.
- - [Draftable MCP Server](https://mcp.pipedream.com/app/draftable) - Document Comparison Software
- - [Dropbox Sign (HelloSign) MCP Server](https://mcp.pipedream.com/app/hellosign) - Legally Binding Electronic Signatures
- - [Dynalist MCP Server](https://mcp.pipedream.com/app/dynalist) - The best outlining app for your best work.
- - [Easy Project MCP Server](https://mcp.pipedream.com/app/easy_project) - Project management software adapted to your needs Easy Project brings harmony to every work environment.
- - [Easy Projects MCP Server](https://mcp.pipedream.com/app/easy_projects) - A comprehensive project and task management software built for forward-thinking teams.
- - [Everhour MCP Server](https://mcp.pipedream.com/app/everhour) - Everhour is one of the best time tracking tools for teams. See who’s tracking time, who’s overworked and who can handle more. Keep track of all your project budgets, schedule threshold alerts, use forward resource planning. Build any kind of reports and send professional-looking invoices.
- - [ezeep Blue MCP Server](https://mcp.pipedream.com/app/ezeep_blue) - Like printing, just better. Save hundreds of dollars per user every year, ditch print servers and printer drivers while minimizing risk to networks and printers.
- - [Favro MCP Server](https://mcp.pipedream.com/app/favro) - The most agile tool for distributed teams. For every team and any leader.
- - [Feedbin MCP Server](https://mcp.pipedream.com/app/feedbin) - Modern RSS feed reader
- - [Focuster MCP Server](https://mcp.pipedream.com/app/focuster) - Focuster is a web app that helps you manage your focus so you can make consistent progress on your most important goals.
- - [Followup MCP Server](https://mcp.pipedream.com/app/followup) - FollowUp for email is a lightweight productivity suite that keeps your conversations and tasks from slipping through the cracks.
- - [Formatting MCP Server](https://mcp.pipedream.com/app/formatting) - Pre-built actions to make formatting and manipulating data within your workflows easier.
- - [Freedcamp MCP Server](https://mcp.pipedream.com/app/freedcamp) - Effortless Collaboration for Teams
- - [GageList MCP Server](https://mcp.pipedream.com/app/gagelist) - Calibration Software | Free Calibration Management Software
- - [GetScreenshot MCP Server](https://mcp.pipedream.com/app/getscreenshot) - GetScreenshot is a powerful programmable API that allows you to do screenshot operations at scale and for less than the existing solutions.
- - [Gistly MCP Server](https://mcp.pipedream.com/app/gistly) - YouTube AI Summary with ChatGPT.
- - [Gloww MCP Server](https://mcp.pipedream.com/app/gloww) - The #1 Online Interactive Presentation Tool
- - [Google Appsheet MCP Server](https://mcp.pipedream.com/app/google_appsheet) - With Google AppSheet, you can build powerful solutions that simplify work. No coding required.
- - [Google Calendar MCP Server](https://mcp.pipedream.com/app/google_calendar) - With Google Calendar, you can quickly schedule meetings and events and get reminders about upcoming activities, so you always know what’s next.
- - [Google Marketplace MCP Server](https://mcp.pipedream.com/app/google_marketplace) - The Google Workspace Marketplace makes it easy for users and administrators to find and install third-party applications that are integrated with Google Workspace.
- - [Google Search Console MCP Server](https://mcp.pipedream.com/app/google_search_console) - Tools and reports help you measure your site's Search traffic
- - [Google Sheets MCP Server](https://mcp.pipedream.com/app/google_sheets) - Use Google Sheets to create and edit online spreadsheets. Get insights together with secure sharing in real-time and from any device.
- - [Google Tasks MCP Server](https://mcp.pipedream.com/app/google_tasks) - Use Google Tasks to keep track of important to-dos that sync across all your devices.
- - [Grain MCP Server](https://mcp.pipedream.com/app/grain) - Grain joins your calls to take notes, document the next steps, and file automated meeting notes in platforms like Slack, HubSpot, and more.
- - [Guru MCP Server](https://mcp.pipedream.com/app/guru) - Guru is reinventing knowledge sharing, providing verified information from experts on your team: where you work and when you need it most.
- - [Habitica MCP Server](https://mcp.pipedream.com/app/habitica) - Habitica is a free habit and productivity app that treats your real life like a game. Habitica can help you achieve your goals to become healthy and happy.
- - [Habitify MCP Server](https://mcp.pipedream.com/app/habitify) - Wanna build your habit for a better life? Get motivated from Habitify.
- - [Harvest MCP Server](https://mcp.pipedream.com/app/harvest) - Online Time Tracking and Invoicing Software
- - [Helpwise MCP Server](https://mcp.pipedream.com/app/helpwise) - Shared Inbox that allows teams to answer all customer queries across multiple channels from a single place in less time.
- - [Heyzine MCP Server](https://mcp.pipedream.com/app/heyzine) - Flipbook maker to create awesome catalogs, magazines, ebooks and more.
- - [HighLevel (API Key) MCP Server](https://mcp.pipedream.com/app/gohighlevel) - HighLevel is the all-in-one sales & marketing platform that agencies can white-label and resell to their clients.
- - [Hive MCP Server](https://mcp.pipedream.com/app/hive) - An all-in-one solution for software and operations to help you manage your D2C brand throughout fulfillment and beyond.
- - [HUB Planner MCP Server](https://mcp.pipedream.com/app/hub_planner) - A Modern and Smart Resource Management, Planning & Scheduling tool with Time Sheets and Powerful Reporting. Ideal for Managing Global Teams of Resources.
- - [Hubstaff MCP Server](https://mcp.pipedream.com/app/hubstaff) - Time tracking for growing teams.
- - [iCal MCP Server](https://mcp.pipedream.com/app/ical) - iCalendar is an open standard for exchanging calendar and scheduling information between users and computers.
- - [Imejis.io MCP Server](https://mcp.pipedream.com/app/imejis_io) - Make your image creation process effortless, create images using api now.
- - [Instapaper MCP Server](https://mcp.pipedream.com/app/instapaper) - Instapaper saves web pages to read later
- - [Jira MCP Server](https://mcp.pipedream.com/app/jira) - Jira is the #1 agile project management tool used by teams to plan, track, release, and support great software with confidence
- - [Join MCP Server](https://mcp.pipedream.com/app/join) - Join allows you to easily do stuff remotely on your Android and PC devices like SMS, notifications, clipboard, and much more!
- - [Kanban Tool MCP Server](https://mcp.pipedream.com/app/kanban_tool) - Kanban Tool is a visual management solution that helps companies visualize workflow, track project progress, and analyze and significantly improve business processes. Kanban Tool provides powerful online Kanban boards with seamless time tracking.
- - [KanbanFlow MCP Server](https://mcp.pipedream.com/app/kanbanflow) - KanbanFlow is a Lean project management tool allowing real-time collaboration between team members. Supports the Pomodoro technique for time tracking.
- - [Kanbanize MCP Server](https://mcp.pipedream.com/app/kanbanize) - Kanbanize is designed to help advanced product teams apply the principles of Lean and Kanban to their work to maximize results.
- - [Karbon MCP Server](https://mcp.pipedream.com/app/karbon) - Karbon is a collaborative practice management platform for accounting firms to manage workflows, communicate with teams and deliver exceptional client work.
- - [LastPass Enterprise API MCP Server](https://mcp.pipedream.com/app/lastpass) - LastPass manages your passwords and online life, so you don’t have to.
- - [LaunchNotes MCP Server](https://mcp.pipedream.com/app/launchnotes) - Product Communication for the Modern Enterprise.
- - [Lessonspace MCP Server](https://mcp.pipedream.com/app/lessonspace) - The best way to teach online.
- - [Let's Enhance MCP Server](https://mcp.pipedream.com/app/let_s_enhance) - Image enhancement powered by AI
- - [Linear (API key) MCP Server](https://mcp.pipedream.com/app/linear_app) - Linear helps streamline software projects, sprints, tasks, and bug tracking. It's built for high-performance teams.
- - [Linear (OAuth) MCP Server](https://mcp.pipedream.com/app/linear) - Linear helps streamline software projects, sprints, tasks, and bug tracking. It's built for high-performance teams.
- - [Linkish MCP Server](https://mcp.pipedream.com/app/linkish) - All in one bookmarking manager
- - [Logoraisr MCP Server](https://mcp.pipedream.com/app/logoraisr) - Graphic design API
- - [Loomio MCP Server](https://mcp.pipedream.com/app/loomio) - Where collaborative organizations share, discuss and decide. Loomio offers a workspace for conversation, sharing information and opinions, making proposals, deciding actions and achieving outcomes. Loomio is the heartbeat and living record of your organization.
- - [Lucid MCP Server](https://mcp.pipedream.com/app/lucid) - Lucid is the Visual Collaboration Suite for enterprise and hybrid teams of all sizes.
- - [Magnetic MCP Server](https://mcp.pipedream.com/app/magnetic) - Magnetic Software is a single integrated cloud Project Management, Sales CRM & Accounts platform.
- - [mails.so MCP Server](https://mcp.pipedream.com/app/mails_so) - mails.so — Unbeatably simple email validation
- - [MeisterTask MCP Server](https://mcp.pipedream.com/app/meistertask) - Task Management for Teams
- - [Microsoft 365 MCP Server](https://mcp.pipedream.com/app/microsoft_365) - Your productivity cloud across work and life
- - [Microsoft To Do MCP Server](https://mcp.pipedream.com/app/microsofttodo) - Create to do lists, reminders, and notes for any purpose. Sync lists across devices and Microsoft 365 accounts to access daily planner and task manager features anywhere.
- - [MOCO MCP Server](https://mcp.pipedream.com/app/moco) - Business cloud software for agencies & Co. All the functions you need for project business. Focused, Simple, Strong in Integration.
- - [MoDeck MCP Server](https://mcp.pipedream.com/app/modeck) - Create video templates in After Effects, make them editable online by anyone. You control the creative, let your team control the content.
- - [monday.com (API Key) MCP Server](https://mcp.pipedream.com/app/monday) - monday.com is a powerful project management system — a complete Work OS designed to help your team complete projects efficiently, collaborate effectively, and grow online.
- - [Morgen MCP Server](https://mcp.pipedream.com/app/morgen) - Daily planning in your calendars
- - [Mural MCP Server](https://mcp.pipedream.com/app/mural) - Work better together with Mural's visual work platform.
- - [MyOTP.App MCP Server](https://mcp.pipedream.com/app/myotp_app) - Fast, Reliable, and Customizable SMS OTP for Web and Mobile Applications.
- - [Notarize MCP Server](https://mcp.pipedream.com/app/notarize) - Online notary service
- - [Notion MCP Server](https://mcp.pipedream.com/app/notion) - Notion is a new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team.
- - [Nozbe Teams MCP Server](https://mcp.pipedream.com/app/nozbe_teams) - Cloud-based task management tool helping individuals and teams get organized.
- - [Nutrient Workflow Automation MCP Server](https://mcp.pipedream.com/app/nutrient_workflow_automation) - Workflow Automation for Streamlined Processes
- - [OFFLIGHT MCP Server](https://mcp.pipedream.com/app/offlight) - To-dos and Schedules, Time-tracking in one place.
- - [OneDesk MCP Server](https://mcp.pipedream.com/app/onedesk) - OneDesk is powerful helpdesk and project management software in a single application. Support your customers and manage projects in one place.
- - [OnStrategy MCP Server](https://mcp.pipedream.com/app/onstrategy) - From self-guided planning to full-service strategy design, we can help get a strategic plan done that meets your needs and budget.
- - [Papyrs MCP Server](https://mcp.pipedream.com/app/papyrs) - Dream up your own intranet site or internal wiki with simple drag & drop. Easily share and collect information, files, discussions, online forms and much more -- work better together with colleagues and clients.
- - [Paymo MCP Server](https://mcp.pipedream.com/app/paymo) - Work Management Software for Teams
- - [PDF-API.io MCP Server](https://mcp.pipedream.com/app/pdf_api_io) - Dynamic PDF Generation, Simplified.
- - [Pikaso MCP Server](https://mcp.pipedream.com/app/pikaso) - Twitter Screenshot Bot
- - [Pinboard MCP Server](https://mcp.pipedream.com/app/pinboard) - Fast, no-nonsense bookmarking site with no ads and no third-party tracking
- - [Pipefy MCP Server](https://mcp.pipedream.com/app/pipefy) - Process Management, Workflow Management Software
- - [Pipeline MCP Server](https://mcp.pipedream.com/app/pipeline) - Pipeline is the first sales productivity platform to combine sales engagement and Customer Relationship Management (CRM) in one easy-to-use application. We make your sales process as organized and efficient as possible. Email your contacts, qualify leads, and get organized so you can spend more time closing! Over 17,000 salespeople use Pipeline to manage their sales.
- - [Pivotal Tracker MCP Server](https://mcp.pipedream.com/app/pivotal_tracker) - Pivotal Tracker is the agile project management tool of choice for developers around the world for real-time collaboration around a shared, prioritized backlog.
- - [Podio MCP Server](https://mcp.pipedream.com/app/podio) - Platform for creating no code solutions and automate workflows
- - [PostGrid Print & Mail MCP Server](https://mcp.pipedream.com/app/postgrid) - Automate the whole printing and mailing solutions process with a click. Save money, time, and resources.
- - [Power Automate MCP Server](https://mcp.pipedream.com/app/power_automate) - A comprehensive, end-to-end cloud automation platform powered by low code and AI.
- - [Process Street MCP Server](https://mcp.pipedream.com/app/process_street) - Checklist, Workflow and SOP Software
- - [Procore MCP Server](https://mcp.pipedream.com/app/procore) - The all-in-one construction management software built to help you finish quality projects — safely, on time, and within budget.
- - [Productboard MCP Server](https://mcp.pipedream.com/app/productboard) - Productboard is a customer-centric product management platform that helps organizations get the right products to market, faster
- - [Productive.io MCP Server](https://mcp.pipedream.com/app/productive_io) - Productive is an end-to-end tool for agency management.
- - [ProWorkflow MCP Server](https://mcp.pipedream.com/app/proworkflow) - "Leading project, task and time management software!
-
-ProWorkflow is an online project management software that enables you to keep accurate time-keeping records, organize, plan, and delegate jobs and tasks whilst using the timeline to have an overview of company activity."
- - [Raindrop MCP Server](https://mcp.pipedream.com/app/raindrop) - Raindrop.io is the best place to keep all your favorite books, songs, articles or whatever else you come across while browsing.
- - [Range MCP Server](https://mcp.pipedream.com/app/range) - The place for remote & hybrid teams to check in with each other
- - [Redmine MCP Server](https://mcp.pipedream.com/app/redmine) - Free and open-source project management and issue tracking tool.
- - [Reflect MCP Server](https://mcp.pipedream.com/app/reflect) - Our mission is to improve the way people think by making a jolly good note-taking app.
- - [RescueTime MCP Server](https://mcp.pipedream.com/app/rescuetime) - A personal analytics service that shows you how you spend your time and provides tools to help you be more productive.
- - [Roll MCP Server](https://mcp.pipedream.com/app/roll) - Roll is a platform with everything your business needs in one place. Manage projects, track sales, understand and grow your business.
- - [Schedule MCP Server](https://mcp.pipedream.com/app/schedule) - Trigger workflows on an interval or cron schedule.
- - [ScheduleOnce MCP Server](https://mcp.pipedream.com/app/scheduleonce) - Don't keep your leads waiting. Capture, qualify, and engage with inbound leads in minutes, not days.
- - [ScopeMaster MCP Server](https://mcp.pipedream.com/app/scopemaster) - Using AI to improve software requirements and user stories.
- - [Scoro MCP Server](https://mcp.pipedream.com/app/scoro) - The most comprehensive workmanagement solution for professional and creative services.
- - [screenshot.fyi MCP Server](https://mcp.pipedream.com/app/screenshot_fyi) - Take stunning, premium quality screenshots of any website with one API call.
- - [SeaTable MCP Server](https://mcp.pipedream.com/app/seatable) - With SeaTable, teams can easily organize all their tasks, assets, projects and ideas. It looks like a spreadsheet but structures any type of information, in the cloud or on your own server.
- - [Shortcut MCP Server](https://mcp.pipedream.com/app/shortcut) - Project management platform
- - [Shorten.REST MCP Server](https://mcp.pipedream.com/app/shorten_rest) - The Most Flexible, Robust, Scale-able, Transactional, URL Shortening RESTful API.
- - [Signaturely MCP Server](https://mcp.pipedream.com/app/signaturely) - Simple E-Signature software for small businesses.
- - [SignerX MCP Server](https://mcp.pipedream.com/app/signerx) - One easy-to-use platform that turns your boring documents into a jaw-dropping Signer perience™ (SX)™.
- - [Smartsheet MCP Server](https://mcp.pipedream.com/app/smartsheet) - Dynamic work & collaboration software
- - [SmartSuite MCP Server](https://mcp.pipedream.com/app/smartsuite) - Work Management Platform built for businesses, designed for people, and loved by teams. Any company size or industry.
- - [Specific MCP Server](https://mcp.pipedream.com/app/specific) - Sales call analytics to drive revenue.
- - [Spotlightr MCP Server](https://mcp.pipedream.com/app/spotlightr) - Video hosting platform that is designed for course creators and e-learning.
- - [Status Hero MCP Server](https://mcp.pipedream.com/app/status_hero) - Status Hero is a work communication tool that replaces time-consuming meetings, shoulder taps, digging for data, and other interruptions with a tidy report. Use it to get a continuous, clear understanding of accomplishments, intentions, and blockers across your organization. Perfect for remote and/or hybrid teams!
- - [Stormboard MCP Server](https://mcp.pipedream.com/app/stormboard) - An online stickynote whiteboard making meetings, brainstorms, and creative projects more productive and effective.
- - [Supernotes MCP Server](https://mcp.pipedream.com/app/supernotes) - "Supernotes is your new home for ideas, records, tasks, and lists. Enjoy efficient note-taking without the hassle.
-"
- - [SuperSaaS MCP Server](https://mcp.pipedream.com/app/supersaas) - Appointment Scheduling for Every Situation
- - [T2M URL Shortener MCP Server](https://mcp.pipedream.com/app/t2m_url_shortener) - Whether you are a bubbling startup or an established behemoth MNC organisation, T2M is your go to destination for all kinds of URL marketing endeavors.
- - [talkSpirit MCP Server](https://mcp.pipedream.com/app/talkspirit) - Simplify information sharing, boost exchanges and streamline collaborative among your teams.
- - [Teamdeck MCP Server](https://mcp.pipedream.com/app/teamdeck) - Teamdeck is an employee-focused complete resource management solution for agencies and software houses. Schedule your teams, track their time and vacations in one tool
- - [Teamup MCP Server](https://mcp.pipedream.com/app/teamup) - Teamup makes it easy to manage schedules, availability, and events that involve many people and resources. It helps streamline schedule-driven business operations. It’s scalable, customizable, and easy for anyone to use.
- - [Teamwork MCP Server](https://mcp.pipedream.com/app/teamwork) - Project management software
- - [TickTick MCP Server](https://mcp.pipedream.com/app/ticktick) - TickTick is a simple and easy-to-use time management tool. It includes modules for Tasks, Calendar, Eisenhower Matrix, Pomodoro, and Habit Tracker.
- - [timeBuzzer MCP Server](https://mcp.pipedream.com/app/timebuzzer) - The easiest and most accurate way to track your time.
- - [TimeCamp MCP Server](https://mcp.pipedream.com/app/timecamp) - TimeCamp helps you and your team to track time. Automatic time-tracking software that tracks websites and applications usage, projects and helps you understand how your time is spent.
- - [timelink MCP Server](https://mcp.pipedream.com/app/timelink) - Time tracking software that's fun!
- - [Timely Time Tracking MCP Server](https://mcp.pipedream.com/app/timely_time_tracking) - Timely is an award-winning, AI-powered time tracking software that automates company time tracking and timesheet creation.
- - [Timing MCP Server](https://mcp.pipedream.com/app/timing) - The automatic time and productivity tracking app for Mac. Track time without timers!
- - [TinyPNG MCP Server](https://mcp.pipedream.com/app/tinypng) - TinyPNG uses smart lossy compression techniques to reduce the file size of your PNG files. By selectively decreasing the number of colors in the image, fewer bytes are required to store the data. The effect is nearly invisible but it makes a very large difference in file size! Join over 50.000 companies and developers around the world who are using the API.
- - [TinyURL MCP Server](https://mcp.pipedream.com/app/tinyurl) - A full-scale link management platform that gives businesses with big ideas the power of shortened links. With a TinyURL premium account, users can create, manage, track, and grow their brands through link campaigns of all sizes.
- - [TLDR MCP Server](https://mcp.pipedream.com/app/tldr) - Your AI Tool for Effortless Text Summaries
- - [TMetric MCP Server](https://mcp.pipedream.com/app/tmetric) - TMetric is a time tracking app to increase productivity and business efficiency.
- - [Todoist MCP Server](https://mcp.pipedream.com/app/todoist) - Todoist is a delightfully simple yet powerful task planner and to-do list app.
- - [Toggl Track MCP Server](https://mcp.pipedream.com/app/toggl) - Time tracking software
- - [Trello MCP Server](https://mcp.pipedream.com/app/trello) - Trello is the flexible work management tool that empowers all teams to plan, track, and accomplish their work, their way.
- - [TypeflowAI MCP Server](https://mcp.pipedream.com/app/typeflowai) - Build AI Tools in minutes without coding.
- - [UpKeep MCP Server](https://mcp.pipedream.com/app/upkeep) - The #1 Software for Maintenance and Facility Management Teams. UpKeep is the top-rated software designed to revolutionize maintenance and asset management. We provide mobile-first SaaS solutions, Industrial IoT sensors, powerful data analytics, advanced enterprise integrations, and top-notch professional services.
- - [Upwave MCP Server](https://mcp.pipedream.com/app/upwave) - Upwave is a visual platform for collaborating on projects, portfolios, risk management and daily tasks
- - [VivifyScrum MCP Server](https://mcp.pipedream.com/app/vivifyscrum) - Multiplatform Project Management tool for Agile teams. Organize everything you need to manage, track and deliver your projects - Scrum or Kanban
- - [Voice Monkey MCP Server](https://mcp.pipedream.com/app/voice_monkey) - Voice Monkey is a free Skill that allows you to trigger Alexa Routines from external sources such as IFTTT. It also allows you to make dynamic and custom Text to Speech announcements over your Amazon Echo or other Alexa smart speaker.
- - [WebMerge MCP Server](https://mcp.pipedream.com/app/webmerge) - WebMerge is a document generation software solution that is designed to automate all paperwork processes.
- - [Wordpress.com MCP Server](https://mcp.pipedream.com/app/wordpress_com) - Hosted Wordpress
- - [Workast MCP Server](https://mcp.pipedream.com/app/workast) - Task and project management app for teams on Slack
- - [Workstack MCP Server](https://mcp.pipedream.com/app/workstack) - Workstack is an online project management system that makes team scheduling easy. Manage your projects, and stay on top of your task scheduling with the powerful Workstack team calendar.
- - [Wrike MCP Server](https://mcp.pipedream.com/app/wrike) - Online project management software
- - [Yanado MCP Server](https://mcp.pipedream.com/app/yanado) - Yanado brings satisfaction to teams by giving them a project management app that works inside their everyday tools. With Yanado, everyone can manage their project without ever leaving their favorite work tools.
- - [YouCanBook.Me MCP Server](https://mcp.pipedream.com/app/youcanbook_me) - Online scheduling tool for customer bookings. Automatically create unique virtual meeting links for meetings scheduled through YouCanBook.me. Custom availability and control. Set up custom availability, padding between appointments and appointment duration.
- - [Zenkit MCP Server](https://mcp.pipedream.com/app/zenkit) - Productivity and Collaboration Software Suite
- - [Zoho Notebook MCP Server](https://mcp.pipedream.com/app/zoho_notebook) - Zoho Notebook syncs to the cloud and across your devices, is always backed-up, and always up to date.
- - [Zoho Projects MCP Server](https://mcp.pipedream.com/app/zoho_projects) - Online Project Management Software & Tools
- - [Zoho Sheet MCP Server](https://mcp.pipedream.com/app/zoho_sheet) - Create spreadsheets your teams can easily collaborate on for free. Powered with an automated data processor, an AI-assisted data analyst, and 1000+ integration possibilities, Zoho Sheet makes data handling easier and more effective.
- - [Zoho Tables MCP Server](https://mcp.pipedream.com/app/zoho_tables) - Collaborative Work Management Tool
-
-### <a name="security"></a>Security
-
- - [Bitdefender GravityZone MCP Server](https://mcp.pipedream.com/app/bitdefender_gravityzone) - Cyber Security Platform
- - [HackerOne MCP Server](https://mcp.pipedream.com/app/hackerone) - Attack Resistance Platform combines the most creative human intelligence with the latest artificial intelligence to reduce threat exposure at all stages of the software development lifecycle.
-
-### <a name="home-automation"></a>Smart Home Automation
-
- - [Adafruit IO MCP Server](https://mcp.pipedream.com/app/adafruit_io) - Adafruit IO is a platform designed to display, respond, and interact with your project's Internet-of-Things (IoT) data.
- - [Apilio MCP Server](https://mcp.pipedream.com/app/apilio) - Automate actions in your smart home with almost any connected device.
- - [Bolt IoT MCP Server](https://mcp.pipedream.com/app/bolt_iot) - "Bolt IoT platform gives you the capability to control your devices and collect data from IoT devices safely and securely no matter where you are. The Bolt IoT Platform consists of three major components: Bolt WiFi module, Bolt Cloud, Bolt Mobile App.
-"
- - [CarMD MCP Server](https://mcp.pipedream.com/app/carmd) - CarMD is a software service solutions provider with data/products/apps that leverage & empower OBD2 port capabilities to reduce car ownership costs.
- - [DarkSky API MCP Server](https://mcp.pipedream.com/app/darksky_api) - Wweather forecasts and historical weather data
- - [Firmalyzer IoTVAS API MCP Server](https://mcp.pipedream.com/app/firmalyzer_iotvas) - IoT/connected device discovery and vulnerability assessment API
- - [Fitbit MCP Server](https://mcp.pipedream.com/app/fitbit) - Activity Trackers & More
- - [GeoDB Cities MCP Server](https://mcp.pipedream.com/app/geodb_cities) - Find Cities & Towns with GeoDB Cities API.
- - [Govee MCP Server](https://mcp.pipedream.com/app/govee) - Govee is a global leading smart home brand pursuing personalized and fun life experiences through continuous innovations, especially in ambient lighting, home appliance products, and smart IoT systems.
- - [Helium (Console) MCP Server](https://mcp.pipedream.com/app/helium) - Helium Console
- - [Home Assistant MCP Server](https://mcp.pipedream.com/app/home_assistant) - Home assistant software
- - [IQAir AirVisual MCP Server](https://mcp.pipedream.com/app/iqair_airvisual) - "IQAir AirVisual provides worldwide air quality, air pollution, and weather data.
-Real-time data, forecast data, and historical data"
- - [Lifx MCP Server](https://mcp.pipedream.com/app/lifx) - Wi-Fi enabled LED smart lights
- - [Netatmo MCP Server](https://mcp.pipedream.com/app/netatmo) - Manufacturers of smart, functional and innovative products that make the home truly smart.
- - [Philips Hue MCP Server](https://mcp.pipedream.com/app/philips_hue) - Smart light lets you do more. Whether that’s creating the perfect atmosphere for a relaxing night in or bringing the thrill of the theater into your living room, Philips Hue helps you think larger than light.
- - [Pirate Weather MCP Server](https://mcp.pipedream.com/app/pirate_weather) - "A Free, Open, and Documented Forecast API
-A weather forecast API, built as a compatible alternative to the Dark Sky API."
- - [Radar MCP Server](https://mcp.pipedream.com/app/radar) - Radar is the leading geofencing platform. We help you build amazing location-based product and service experiences.
- - [RemoteLock MCP Server](https://mcp.pipedream.com/app/remotelock) - Wifi Smart Locks for Business and Rentals
- - [Samsara MCP Server](https://mcp.pipedream.com/app/samsara) - Pioneering the Connected Operations Cloud to increase the efficiency, safety & sustainability of the operations that power the global economy.
- - [Samsung SmartThings MCP Server](https://mcp.pipedream.com/app/smartthings) - One simple home system. A world of possibilities.
- - [Sensibo MCP Server](https://mcp.pipedream.com/app/sensibo) - Smart air conditioner
- - [Solcast MCP Server](https://mcp.pipedream.com/app/solcast) - Solar resource assessment and forecasting data for irradiance and PV power, globally.
- - [stormglass.io MCP Server](https://mcp.pipedream.com/app/stormglass_io) - Global Weather API
- - [Tuya MCP Server](https://mcp.pipedream.com/app/tuya) - Global AI Cloud Platform Service Provider
- - [Withings MCP Server](https://mcp.pipedream.com/app/withings) - Smart Scales, Watches and Health Monitors
-
-### <a name="social-media"></a>Social Media
-
- - [Bluesky MCP Server](https://mcp.pipedream.com/app/bluesky) - Bluesky is an open network. With one account, you can access both an easy-to-use social network and a shared identity across the entire social internet.
- - [Dev.to MCP Server](https://mcp.pipedream.com/app/dev_to) - Where programmers share ideas and help each other grow.
- - [Mediatoolkit MCP Server](https://mcp.pipedream.com/app/mediatoolkit) - Monitor Online Mentions of your brand in real-time. Know every article, hashtag or comment mentioning your business.
- - [vk MCP Server](https://mcp.pipedream.com/app/vk) - European social network
- - [Wordpress.org MCP Server](https://mcp.pipedream.com/app/wordpress_org) - Self-hosted version of Wordpress, which you can use to easily create a beautiful website, blog, or app.
-
-### <a name="survye-forms"></a>Survey & Forms
-
- - [123FormBuilder MCP Server](https://mcp.pipedream.com/app/a123formbuilder) - 123 Form Builder is a versatile and innovative form builder used by over 2 million individuals and businesses around the world to automate data collection processes and workflows.
- - [Adobe Acrobat Sign MCP Server](https://mcp.pipedream.com/app/adobe_sign) - E-signatures & digital signing software
- - [Aidaform MCP Server](https://mcp.pipedream.com/app/aidaform) - Online Form Creator: Stylish, Innovative, Easy
- - [Airslate MCP Server](https://mcp.pipedream.com/app/airslate) - Work smarter with automation solutions #airSlate, #signNow, #pdfFiller, #USLegalForms, and #DocHub.
- - [Alchemer MCP Server](https://mcp.pipedream.com/app/alchemer) - Enterprise Online Survey Software & Tools
- - [Basin MCP Server](https://mcp.pipedream.com/app/basin) - Deploy a powerful, easy-to-configure form backend without writing a single line of server side code.
- - [ByteForms MCP Server](https://mcp.pipedream.com/app/byteforms) - All-in-one solution for form creation, submission management, and data integration.
- - [CabinPanda MCP Server](https://mcp.pipedream.com/app/cabinpanda) - CabinPanda is a data collection tool aimed at offering the best tools needed to collect any type of online data.
- - [Customer.guru MCP Server](https://mcp.pipedream.com/app/customer_guru) - Customer.guru is an easy-to-setup tool for tracking customer satisfaction using Net Promoter Score. Connect with your customers, in a matter of minutes.
- - [Damstra Forms MCP Server](https://mcp.pipedream.com/app/damstra_forms) - Damstra's Digital Forms replaces paper and manual processes with a convenient paperless app that runs on a smartphone, tablet, or PC for fast, easy data capture.
- - [Device Magic MCP Server](https://mcp.pipedream.com/app/device_magic) - Industrial grade mobile data collection.
- - [FastField Mobile Forms MCP Server](https://mcp.pipedream.com/app/fastfield_mobile_forms) - A complete, fully customizable solution to transform your paper forms into dynamic, mobile forms to save time and money.
- - [Feathery MCP Server](https://mcp.pipedream.com/app/feathery) - Forms as flexible as code. We help product teams build best-in-class forms.
- - [Florm MCP Server](https://mcp.pipedream.com/app/florm) - Create branded, logic-driven forms, surveys and data collection workflows, that connect with the 6,500+ apps you already use.
- - [FluidForms MCP Server](https://mcp.pipedream.com/app/fluidforms) - The fastest and simplest way to create forms for your Canva website.
- - [FormCan MCP Server](https://mcp.pipedream.com/app/formcan) - Form builder, reimagined. Reinventing your form building experience. Your one-stop, pay-as-you-go form builder.
- - [Formcarry MCP Server](https://mcp.pipedream.com/app/formcarry) - "Formcarry allows you to collect submissions from your own HTML form, without any back-end code.
-"
- - [Formdesk MCP Server](https://mcp.pipedream.com/app/formdesk) - Formdesk lets you design your own online forms such as application forms, registration forms, order forms and surveys
- - [FormPress MCP Server](https://mcp.pipedream.com/app/formpress) - Lightning-fast forms with diverse integrations, smart conditionals, and exceptional support.
- - [Forms On Fire MCP Server](https://mcp.pipedream.com/app/forms_on_fire) - "Digitize your forms and workflows using our cloud software, so you can love what you do!
-
-The #1 no code platform for desktop & mobile"
- - [Formsite MCP Server](https://mcp.pipedream.com/app/formsite) - Create awesome, professional online forms using our drag and drop builder. Order forms, surveys, integrations and more.
- - [Formspree MCP Server](https://mcp.pipedream.com/app/formspree) - Online form service
- - [FormTitan MCP Server](https://mcp.pipedream.com/app/formtitan) - Titan is a robust all-in-one platform for Salesforce and other CRMs that lets you build sophisticated products like portals, progressive and dynamic forms, document generation, scheduler, dashboard, and more, all completely code-free.
- - [GatherUp MCP Server](https://mcp.pipedream.com/app/gatherup) - GatherUp™ is a customer experience and online review engine that enables insights, empowers marketing and converts customers.
- - [Getform MCP Server](https://mcp.pipedream.com/app/getform) - Easy form endpoints for your forms
- - [GoCanvas MCP Server](https://mcp.pipedream.com/app/gocanvas) - A simple, drag and drop tool for creating mobile forms.
- - [Google Forms MCP Server](https://mcp.pipedream.com/app/google_forms) - Get insights quickly, with Google Forms. Easily create and share online forms and surveys, and analyze responses in real-time.
- - [Gravity Forms MCP Server](https://mcp.pipedream.com/app/gravity_forms) - Build and manage web forms quickly and easily with Gravity Forms for WordPress.
- - [Iterate MCP Server](https://mcp.pipedream.com/app/iterate) - Iterate creates simple surveys for startups to get feedback needed to build better products and make better decisions.
- - [Jotform MCP Server](https://mcp.pipedream.com/app/jotform) - Jotform enables you to create online forms, collect responses directly in your email, and create fillable PDF forms.
- - [Kizeo Forms MCP Server](https://mcp.pipedream.com/app/kizeo_forms) - Mobile Forms Application
- - [LeadBoxer MCP Server](https://mcp.pipedream.com/app/leadboxer) - Lead generation platform that gives you real-time info about companies and people that visit your website. Turning anonymous web traffic into actionable data.
- - [MeetingPulse MCP Server](https://mcp.pipedream.com/app/meetingpulse) - Drive thousands of human connections, interactions and responses with our one powerful platform for HR, events, online meetings, sales, marketing and more.
- - [Moaform MCP Server](https://mcp.pipedream.com/app/moaform) - Online survey platform with unlimited responses.
- - [Nicereply MCP Server](https://mcp.pipedream.com/app/nicereply) - Nicereply helps our customers tell us whether they’re getting what they need. This creates opportunities to respond to specific feedback in the short-term while developing longer-term solutions in our approach.
- - [Omniconvert MCP Server](https://mcp.pipedream.com/app/omniconvert) - We help data-driven marketers around the world to understand, segment, convert & retain customers.
- - [OpnForm MCP Server](https://mcp.pipedream.com/app/opnform) - Collaborative form-building tool
- - [PaperForm MCP Server](https://mcp.pipedream.com/app/paperform) - Paperform is a flexible online form builder that combines beautiful design with serious digital smarts.
- - [Papersign MCP Server](https://mcp.pipedream.com/app/papersign) - Simplify document signing with Papersign, so you can spend less time in email chains and more time on the important stuff.
- - [PlanSo Forms MCP Server](https://mcp.pipedream.com/app/planso_forms) - It has never been easier to create professional online forms
- - [Pointerpro MCP Server](https://mcp.pipedream.com/app/pointerpro) - Create questionnaires that return personalized advice.
- - [Polly MCP Server](https://mcp.pipedream.com/app/polly) - Capture instant feedback on Slack and Teams with Polly
- - [Qualaroo MCP Server](https://mcp.pipedream.com/app/qualaroo) - Qualaroo makes it easy to survey specific users in context while they are looking at your product, service & brand.
- - [QuestionPro MCP Server](https://mcp.pipedream.com/app/questionpro) - Advancing research for everyone.
- - [Ratecard MCP Server](https://mcp.pipedream.com/app/ratecard) - We help your company to improve every day by collecting feedback and reviews on autopilot via your ATS, CRM or ERP 💪🚀
- - [Refiner MCP Server](https://mcp.pipedream.com/app/refiner) - Customer Feedback Surveys for SaaS & Digital Products
- - [RepliQ MCP Server](https://mcp.pipedream.com/app/repliq) - Effortlessly Personalize and Automate your Outreach with AI Power.
- - [Riddle Quiz Maker MCP Server](https://mcp.pipedream.com/app/riddle_quiz_maker) - Riddle is a beautifully intuitive online quiz maker and marketing platform - allowing publishers, brands and bloggers add quizzes, personality tests, polls and more to their websites.
- - [RiskAdvisor MCP Server](https://mcp.pipedream.com/app/riskadvisor) - RiskAdvisor is the all-new smart-form software for insurance agencies that empowers your producers and virtual assistants, while making your agency more commission, and reducing your E&O exposure.
- - [SatisMeter MCP Server](https://mcp.pipedream.com/app/satismeter) - Customer Feedback Tool | In-app & Email Surveys | Measure NPS | Understand Your Product, Customers, and Business
- - [Signable MCP Server](https://mcp.pipedream.com/app/signable) - Get documents sent and signed securely, stay organised and reduce costs with Signable.
- - [SurveyCTO MCP Server](https://mcp.pipedream.com/app/surveycto) - SurveyCTO is the most reliable, secure, and scalable mobile data collection platform for researchers and professionals working in offline settings.
- - [SurveyMethods MCP Server](https://mcp.pipedream.com/app/surveymethods) - SurveyMethods provides powerful online survey software tool, advanced data analysis, email newsletters, and a comprehensive survey API.
- - [SurveyMonkey MCP Server](https://mcp.pipedream.com/app/survey_monkey) - Online surveys
- - [Survser MCP Server](https://mcp.pipedream.com/app/survser) - Grow your Business with Customer Feedback. Popup-Surveys for E-Commerce and SaaS.
- - [Tally MCP Server](https://mcp.pipedream.com/app/tally) - Tally is the simplest way to create beautiful forms & surveys, for free.
- - [Tapform MCP Server](https://mcp.pipedream.com/app/tapform) - Turn your website into a lead generating machine with forms.
- - [TransForm MCP Server](https://mcp.pipedream.com/app/transform) - Alpha TransForm is a mobile app development and deployment platform that allows developers and individuals to build and deploy mobile apps that can be integrated into enterprise workflows. Businesses can use Alpha TransForm to digitize inspection and incident reports, compliance and audit reports, safety checklists, customer records and inventory tracking.
- - [Trust MCP Server](https://mcp.pipedream.com/app/trust) - Trust streamlines testimonials, saving time and money. Easily create video testimonials and integrate reviews on your website in minutes, no developer or hosting needed.
- - [Typebot MCP Server](https://mcp.pipedream.com/app/typebot) - Typebot gives you powerful blocks to create unique chat experiences. Embed them anywhere on your web/mobile apps and start collecting results like magic.
- - [Typeform MCP Server](https://mcp.pipedream.com/app/typeform) - Typeform lets you build no-code forms, quizzes, and surveys - and get more responses.
- - [WaiverFile MCP Server](https://mcp.pipedream.com/app/waiverfile) - WaiverFile lets your customers sign their release waivers from a computer, tablet or mobile device. From your website or at a kiosk, completing the forms is quick and easy.
- - [WisePops MCP Server](https://mcp.pipedream.com/app/wisepops) - WisePops is a web application that helps you design smart pop-ups for your website, and increase sign ups and conversions
- - [WPForms MCP Server](https://mcp.pipedream.com/app/wpforms) - WPForms is the best WordPress forms plugin, trusted by over 6,000,000+ users. Create powerful WordPress forms in minutes with our drag & drop form builder!
- - [Zoho Forms MCP Server](https://mcp.pipedream.com/app/zoho_forms) - Build powerful forms for free, share them online, receive instant alerts, and efficiently manage your data with our integrated apps. Focus on your business while Zoho Forms handles the data collection process for you!
- - [Zoho Survey MCP Server](https://mcp.pipedream.com/app/zoho_survey) - Easily create online surveys and questionnaires for free. Use Zoho Survey to collect data for customer satisfaction, feedback, business, research, and more.
-
-### <a name="travel"></a>Travel
-
- - [AirNow MCP Server](https://mcp.pipedream.com/app/airnow) - Providing the public national air quality information and real-time AQI conditions for over 400 cities across the US.
- - [Ambient Weather MCP Server](https://mcp.pipedream.com/app/ambient_weather) - Ambient Weather is the market leader in weather station and environmental monitoring instruments and the cloud. Ambient Weather is a Nielsen-Kellerman Company.
- - [BART MCP Server](https://mcp.pipedream.com/app/bart) - BART (Bay Area Rapid Transit) provides train service throughout the San Francisco Bay Area.
- - [Bookingmood MCP Server](https://mcp.pipedream.com/app/bookingmood) - Commission free booking platform.
- - [Cartes MCP Server](https://mcp.pipedream.com/app/cartes) - Maps for everyone and everything
- - [DeTrack MCP Server](https://mcp.pipedream.com/app/detrack) - Detrack is a real-time vehicle tracking & electronic proof of delivery solution that works anywhere in the world.
- - [ExpoFP MCP Server](https://mcp.pipedream.com/app/expofp) - Create interactive Expo floor plans
- - [Foursquare MCP Server](https://mcp.pipedream.com/app/foursquare) - Independent location data platform
- - [Google Maps (Places API) MCP Server](https://mcp.pipedream.com/app/google_maps_platform) - Find what you need by getting the latest information on businesses, including grocery stores, pharmacies and other important places with Google Maps.
-
- - [HERE MCP Server](https://mcp.pipedream.com/app/here) - Build location-aware apps and services using the world’s #1 location platform
- - [Mapbox MCP Server](https://mcp.pipedream.com/app/mapbox) - Mapbox powers navigation for people, packages, and vehicles everywhere.
- - [Meetup MCP Server](https://mcp.pipedream.com/app/meetup) - Whatever you're looking to do this year, Meetup can help
- - [OpenCage MCP Server](https://mcp.pipedream.com/app/opencage) - Reverse geocoding API
- - [OpenWeather API MCP Server](https://mcp.pipedream.com/app/openweather_api) - OpenWeather provides comprehensive weather data services, including current, forecast, and historical weather information.
- - [Recreation.gov MCP Server](https://mcp.pipedream.com/app/recreation_gov) - The Recreation Information Database (RIDB) provides data resources to citizens, offering a single point of access to information about recreational opportunities nationwide.
- - [Sendle MCP Server](https://mcp.pipedream.com/app/sendle) - We are a 100% carbon neutral shipping service, designed for small businesses. Simple, reliable, and affordable.
- - [TomTom MCP Server](https://mcp.pipedream.com/app/tomtom) - Mapping and location technology that helps people find their way in the world.
- - [Tripadvisor (Content API) MCP Server](https://mcp.pipedream.com/app/tripadvisor_content_api) - Grow your brand with powerful, trusted content from Tripadvisor.
- - [WuBook RateChecker MCP Server](https://mcp.pipedream.com/app/wubook_ratechecker) - Compare prices and keep on eye on the availability of your competitor hotels.
- - [Yr MCP Server](https://mcp.pipedream.com/app/yr) - Make something useful with data from the Norwegian Meteorological Institute
-
-### <a name="web-app-development"></a>Web & App Development
-
- - [0codekit MCP Server](https://mcp.pipedream.com/app/_0codekit) - 0CodeKit (formerly 1SaaS.co) brings you the missing building block for all your projects when working with low-code, no-code, APIs and automation.
- - [2markdown MCP Server](https://mcp.pipedream.com/app/_2markdown) - Transform Websites into Clean Markdown. Supercharge your AI models with access to comprehensive website content.
- - [46elks MCP Server](https://mcp.pipedream.com/app/_46elks) - Integrate the 46elks' API for SMS, MMS and phone calls into your applications with just a few lines of code. Transparent pricing, no startup fees, no minimum monthly costs.
- - [Ably MCP Server](https://mcp.pipedream.com/app/ably) - Pub/sub messaging platform
- - [Acronis Cyber Protect Cloud MCP Server](https://mcp.pipedream.com/app/acronis_cyber_protect_cloud) - Acronis Cyber Protect Cloud unites backup and next-generation, AI-based anti-malware, antivirus, and endpoint protection management in one solution.
- - [AerisWeather MCP Server](https://mcp.pipedream.com/app/aerisweather) - AerisWeather provides a powerful weather API, mapping platform, and developer toolkits that allow weather-sensitive businesses worldwide to operate more efficiently, safely, and profitably.
- - [Agility CMS MCP Server](https://mcp.pipedream.com/app/agility_cms) - The Headless CMS With Layouts
- - [Algorand Developer Portal MCP Server](https://mcp.pipedream.com/app/algorand_developer_portal) - All the tools you need to build, test, and deploy on Algorand (the high performance Layer-1 blockchain), now available in a single, simple portal.
- - [Alpaca MCP Server](https://mcp.pipedream.com/app/alpaca) - Commission-Free API First Stock Brokerage
- - [Amazon Alexa MCP Server](https://mcp.pipedream.com/app/amazon_alexa) - Alexa is Amazon’s cloud-based voice service available on hundreds of millions of devices from Amazon and third-party device manufacturers. With Alexa, you can build natural voice experiences
- - [AMQP MCP Server](https://mcp.pipedream.com/app/amqp) - AMQP (Advanced Message Queuing Protocol) Standard is a commonly used messaging protocol used in the open-source application development process.
- - [API Ninjas MCP Server](https://mcp.pipedream.com/app/api_ninjas) - Dozens of real data APIs in one place - build your next project with API Ninjas today!
- - [Api2pdf MCP Server](https://mcp.pipedream.com/app/api2pdf) - We make the experience of generating PDFs for application developers not completely miserable.
- - [ApiFlash MCP Server](https://mcp.pipedream.com/app/apiflash) - Website screenshot API
- - [AppDrag MCP Server](https://mcp.pipedream.com/app/appdrag) - AppDrag is a serverless development platform made for enterprises.
- - [AppVeyor MCP Server](https://mcp.pipedream.com/app/appveyor) - CI/CD service for Windows, Linux and macOS. Build, test, deploy your apps faster, on any platform.
- - [Appwrite MCP Server](https://mcp.pipedream.com/app/appwrite) - Build your entire backend within minutes and scale effortlessly using Appwrite's open-source platform. Add Authentication, Databases, Functions, Storage, and Messaging to your projects using the frameworks and languages of your choice.
- - [Autom MCP Server](https://mcp.pipedream.com/app/autom) - Service that delivers lightning-fast Google search results. Experience unparalleled speed with our industry-leading SERP API.
- - [Ayrshare MCP Server](https://mcp.pipedream.com/app/ayrshare) - Social Media APIs. Powerful APIs that enable you to send social media posts effortlessly.
- - [Better Stack MCP Server](https://mcp.pipedream.com/app/better_stack) - Better Stack lets you see inside any stack, debug any issue, and resolve any incident.
- - [Bitbucket Data Center MCP Server](https://mcp.pipedream.com/app/bitbucket_data_center) - Bitbucket Data Center is a self-managed solution that provides source code collaboration for professional teams of any size, across any distance.
- - [Blazemeter MCP Server](https://mcp.pipedream.com/app/blazemeter) - We help DevOps run open source based perf testing on any website, app or API at massive scale to validate performance
- - [Blogger MCP Server](https://mcp.pipedream.com/app/blogger) - Blogging platform by Google
- - [Botpress MCP Server](https://mcp.pipedream.com/app/botpress) - Automate complex conversations, tasks, and workflows — reliably.
- - [Brilliant Directories MCP Server](https://mcp.pipedream.com/app/brilliant_directories) - Brilliant Directories is software to manage business directories & membership websites.
- - [Browserhub MCP Server](https://mcp.pipedream.com/app/browserhub) - Easy to use no-code web scraping and data extraction software.
- - [BugBug MCP Server](https://mcp.pipedream.com/app/bugbug) - Test automation made simple and cost-effective
- - [BuildChatbot MCP Server](https://mcp.pipedream.com/app/buildchatbot) - No-code chatbot that empowers businesses to build conversational experiences using private data.
- - [Builder.io MCP Server](https://mcp.pipedream.com/app/builder_io) - Visually build on your tech stack. Drag and drop to build pages and sections within your framework, using your components.
- - [Buy Me a Coffee MCP Server](https://mcp.pipedream.com/app/buy_me_a_coffee) - A supporter is worth a thousand followers. Accept donations. Start a membership. Sell anything you like. It’s easier than you think.
- - [Carbone MCP Server](https://mcp.pipedream.com/app/carbone) - The most efficient report generator. Turn your JSON into PDF, DOCX, XLSX, PPTX, ODS and many more.
- - [change.photos MCP Server](https://mcp.pipedream.com/app/change_photos) - The Photo API for developers: Resize, compress, sharpen, blur and transform photos at scale.
- - [Claris FileMaker Server Data API MCP Server](https://mcp.pipedream.com/app/claris_filemaker_server_data_api) - The FileMaker Data API is an application programming interface (API) that allows web services to access databases hosted by FileMaker Server.
- - [Claris Filemaker Server OData API MCP Server](https://mcp.pipedream.com/app/claris_filemaker_server_odata_api) - Open Data Protocol (OData) is an industry-standard API implementation that provides a standard method for querying and updating data, allowing to access FileMaker data.
- - [Clearly Defined MCP Server](https://mcp.pipedream.com/app/clearly_defined) - Helping FOSS projects be more successful through clearly defined project data.
- - [CloudBees MCP Server](https://mcp.pipedream.com/app/cloudbees) - Every business is a software business, and is under pressure to innovate constantly. This increased velocity introduces new business risks. CloudBees (www.cloudbees.com) is building the world’s first end-to-end automated software delivery system, enabling companies to balance governance and developer freedom.
- - [Codacy MCP Server](https://mcp.pipedream.com/app/codacy) - The DevOps Intelligence Platform.
- - [Codemagic MCP Server](https://mcp.pipedream.com/app/codemagic) - A mobile-first CI/CD.
- - [Contentstack MCP Server](https://mcp.pipedream.com/app/contentstack) - The industry's most advanced AI-powered enterprise headless CMS.
- - [CraftMyPDF MCP Server](https://mcp.pipedream.com/app/craftmypdf) - Auto-Generate PDF documents from reusable templates with a drag-and-drop editor and a simple API.
- - [Cronfree MCP Server](https://mcp.pipedream.com/app/cronfree) - Cronfree Time Scheduler creates multiple reoccurring tasks with no-code automation.
- - [Daily MCP Server](https://mcp.pipedream.com/app/daily) - WebRTC video and audio APIs for developers. Add live video and audio experiences to any product.
- - [Dart MCP Server](https://mcp.pipedream.com/app/dart) - The ultimate AI project management tool.
- - [DataTrails (formerly RKVST) MCP Server](https://mcp.pipedream.com/app/rkvst) - DataTrails (formerly RKVST is an API-first platform to add provenance and verify the authenticity of any digital content.)
- - [Diffbot MCP Server](https://mcp.pipedream.com/app/diffbot) - Never write another web scraper. Diffbot structures information from the web, so you don't have to.
- - [Diffy MCP Server](https://mcp.pipedream.com/app/diffy) - Screenshots based tool to ensure your design stays consistent during code changes.
- - [Docmosis MCP Server](https://mcp.pipedream.com/app/docmosis) - "Fast, Reliable, Scalable Document Generation. A smart template-based approach to
-generating custom PDF and Word documents."
- - [DocRaptor MCP Server](https://mcp.pipedream.com/app/docraptor) - The best and easiest HTML-to-PDF API
- - [Dokan MCP Server](https://mcp.pipedream.com/app/dokan) - Start creating your dream marketplace with the ultimate multivendor marketplace solution.
- - [DotSimple MCP Server](https://mcp.pipedream.com/app/dotsimple) - DotSimple is the all-in-one solution for your social media management.
- - [Dreamhost MCP Server](https://mcp.pipedream.com/app/dreamhost) - We make sure your website is fast, secure & always up - so your visitors & search engines trust you.
- - [DropInBlog MCP Server](https://mcp.pipedream.com/app/dropinblog) - Embed a Blog into Your Website in 3 Minutes - DropInBlog
- - [Fillout MCP Server](https://mcp.pipedream.com/app/fillout) - Create powerful forms, surveys and quizzes your audience will answer.
- - [FireCrawl MCP Server](https://mcp.pipedream.com/app/firecrawl) - Power your AI apps with clean data crawled from any website. It's also open-source.
- - [FlexiSign MCP Server](https://mcp.pipedream.com/app/flexisign) - Create an e-Signature with FlexiSign
- - [Fluxguard MCP Server](https://mcp.pipedream.com/app/fluxguard) - Automate Web Change Detection with AI-Powered Web Surveillance.
- - [Form.io MCP Server](https://mcp.pipedream.com/app/form_io) - Form.io is a platform that enables you to build web and mobile applications. Create both the forms and the RESTful API's all in one easy step!
- - [Formbricks MCP Server](https://mcp.pipedream.com/app/formbricks) - "Open-source Experience Management. Understand what customers think & feel about your product.
-Natively integrate user research with minimal dev attention, privacy-first."
- - [Formidable Forms MCP Server](https://mcp.pipedream.com/app/formidable_forms) - The Most Advanced WordPress Forms Plugin.
- - [Frappe MCP Server](https://mcp.pipedream.com/app/frappe) - Excellence driven software products + services
- - [Frontegg MCP Server](https://mcp.pipedream.com/app/frontegg) - Elegant User Management platform for B2B SaaS.
- - [Function MCP Server](https://mcp.pipedream.com/app/function) - Run Python compute workloads anywhere, with only a predict function.
- - [Geoapify MCP Server](https://mcp.pipedream.com/app/geoapify) - We offer maps, API, and tools to build a custom map for your website. Create an attractive and interactive map for your business!
- - [Geokeo MCP Server](https://mcp.pipedream.com/app/geokeo) - Geocoding Api for forward and reverse search.
- - [Ghost.org (Admin API) MCP Server](https://mcp.pipedream.com/app/ghost_org_admin_api) - Open source publishing platform
- - [Ghost.org (Content API) MCP Server](https://mcp.pipedream.com/app/ghost_org_content_api) - Open source publishing platform
- - [Glide MCP Server](https://mcp.pipedream.com/app/glide) - Create the app your business needs — without coding, overpaying, or waiting.
- - [Go MCP Server](https://mcp.pipedream.com/app/go) - Anything you can do in Go, you can do in a Pipedream Workflow. You can use any of Go packages available with a simple import.
- - [Google Play MCP Server](https://mcp.pipedream.com/app/google_play) - For Android application developers. Access your Google Play accounts.
- - [Google Postmaster Tools MCP Server](https://mcp.pipedream.com/app/google_postmaster_tools_api) - Use Postmaster Tools to analyze your email performance, and help Gmail route your messages to the right place
- - [Google Tag Manager MCP Server](https://mcp.pipedream.com/app/google_tag_manager) - Google Tag Manager is a tool that enables you to install, store, and manage tags.
- - [Grafbase MCP Server](https://mcp.pipedream.com/app/grafbase) - Grafbase is the easiest way to build and deploy GraphQL backends.
- - [Greptile MCP Server](https://mcp.pipedream.com/app/greptile) - Chat with your repos or use our API to build your own AI dev tools.
- - [GTmetrix MCP Server](https://mcp.pipedream.com/app/gtmetrix) - Performance testing and monitoring tool.
- - [Headless Testing MCP Server](https://mcp.pipedream.com/app/headless_testing) - Headless Testing with Puppeteer and Playwright in the Cloud
- - [HTML 2 PDF MCP Server](https://mcp.pipedream.com/app/html_2_pdf) - Convert HTML to PDF without effort.
- - [HTML to Image MCP Server](https://mcp.pipedream.com/app/html_to_image) - Flexible & Easy to use API to take Website Screenshots or to Convert HTML/CSS to Image or PDF.
- - [Icypeas MCP Server](https://mcp.pipedream.com/app/icypeas) - Icypeas helps businesses find contact data.
- - [IgniSign MCP Server](https://mcp.pipedream.com/app/ignisign) - E-Signatures for Every App: IgniSign offers effortless integration and advanced security for e-signatures.
- - [Ikigai MCP Server](https://mcp.pipedream.com/app/ikigai) - Generative AI for your enterprise data.
- - [Imagior MCP Server](https://mcp.pipedream.com/app/imagior) - Automated Image Generation Software
- - [imgix MCP Server](https://mcp.pipedream.com/app/imgix) - imgix is the leading platform for end-to-end visual media processing. imgix reduces development hassles, saves storage costs, and improves web performance.
- - [Instant MCP Server](https://mcp.pipedream.com/app/instant) - Instant is a modern Firebase. We make you productive by giving your frontend a real-time database.
- - [Jenkins MCP Server](https://mcp.pipedream.com/app/jenkins) - The leading open source automation server, Jenkins provides hundreds of plugins to support building, deploying and automating any project.
- - [Joomla! MCP Server](https://mcp.pipedream.com/app/joomla) - "Joomla! is a free and open-source content management system (CMS) for publishing web content. It is built on a model–view–controller web application framework that can be used independently of the CMS that allows you to build powerful online applications.
-"
- - [Kraken.io MCP Server](https://mcp.pipedream.com/app/kraken_io) - Robust, ultra-fast image optimizer and compressor with best-in-class algorithms.
- - [LambdaTest MCP Server](https://mcp.pipedream.com/app/lambdatest) - LambdaTest is a leading AI-augmented unified test orchestration and execution cloud that enables developers & testers to ship code faster.
- - [Linkly MCP Server](https://mcp.pipedream.com/app/linkly) - Easily create tracking links, add retargeting tags, do smart redirects and more.
- - [LlamaIndex MCP Server](https://mcp.pipedream.com/app/llamaindex) - LlamaIndex, Data Framework for LLM Applications.
- - [Lnk.Bio MCP Server](https://mcp.pipedream.com/app/lnk_bio) - Offer multiple choices to your followers when they click on your Bio link, Link in Bio.
- - [Logo.dev MCP Server](https://mcp.pipedream.com/app/logo_dev) - Logo API
- - [LogSnag MCP Server](https://mcp.pipedream.com/app/logsnag) - Event tracking made easy!
- - [MainWP MCP Server](https://mcp.pipedream.com/app/mainwp) - Free, Self-hosted, Open Source WordPress Management Plugin
- - [Meteomatics Weather API MCP Server](https://mcp.pipedream.com/app/meteomatics_weather_api) - Use weather and climate data from a collection of over 1800 parameters.
- - [Miro Developer App MCP Server](https://mcp.pipedream.com/app/miro_custom_app) - The Visual Collaboration Platform for Every Team.
- - [Mitra MCP Server](https://mcp.pipedream.com/app/mitra) - The fastest way to create software. Create, connect and bid with NO CODE, SQL and AI.
- - [Modelry MCP Server](https://mcp.pipedream.com/app/modelry) - Modelry takes the hassle out of 3D modeling. Order, review, and publish from one simple platform.
- - [Netlify MCP Server](https://mcp.pipedream.com/app/netlify) - All-in-one platform for automating modern web projects
- - [NinjaOne MCP Server](https://mcp.pipedream.com/app/ninjaone) - All-in-one IT Platform — NinjaOne gives you all the tools you need to support users & manage effectively, instantly.
- - [Node MCP Server](https://mcp.pipedream.com/app/node) - Anything you can do with Node.js, you can do in a Pipedream workflow. This includes using most of npm's 400,000+ packages.
- - [npm MCP Server](https://mcp.pipedream.com/app/npm) - Node package manager
- - [Octoparse MCP Server](https://mcp.pipedream.com/app/octoparse) - Easy Web Scraping for Anyone. No code is the best code. Octoparse allows everyone to build reliable web scrapers they need - no coding needed.
- - [Okta MCP Server](https://mcp.pipedream.com/app/okta) - Okta is a cloud-based identity and access management (IAM) company that provides single sign-on (SSO) and multi-factor authentication (MFA) services. Okta's platform allows users to securely access applications from any device, at any time, and from anywhere.
- - [Overledger MCP Server](https://mcp.pipedream.com/app/overledger) - Overledger Platform. The enterprise standard for building on blockchain.
- - [Owl Protocol MCP Server](https://mcp.pipedream.com/app/owl_protocol) - Full-Stack Web3 Development with Smart Wallets, REST APIs, and Integrated Workflows
- - [Parser Expert MCP Server](https://mcp.pipedream.com/app/parser_expert) - Extract Specific Data from Documents & Webpages Precisely with AI.
- - [Parsio.io MCP Server](https://mcp.pipedream.com/app/parsio_io) - No-code email parser. Extract & export the valuable data from your emails, PDFs and any documents 🤖
- - [PDF Toolkit by CustomJS MCP Server](https://mcp.pipedream.com/app/customjs) - Integrate custom logic with JavaScript into any software
- - [Piloterr MCP Server](https://mcp.pipedream.com/app/piloterr) - Web scraping, made easy.
- - [PixieBrix MCP Server](https://mcp.pipedream.com/app/pixiebrix) - The AI Engagement Platform
- - [Plasmic MCP Server](https://mcp.pipedream.com/app/plasmic) - Visually build pages and content on any tech stack. Empower the whole team to ship incredibly fast
- - [Polygon MCP Server](https://mcp.pipedream.com/app/polygon) - Stock Market Data APIs
- - [Postman MCP Server](https://mcp.pipedream.com/app/postman) - Postman is the world's leading API platform.
- - [Prerender.io MCP Server](https://mcp.pipedream.com/app/prerender) - Prerender.io is a Google-recommended dynamic rendering solution that enables Angular, React, Vue, or JavaScript sites to be crawled perfectly by search engines.
- - [Prismic MCP Server](https://mcp.pipedream.com/app/prismic) - Empower marketers to release on-brand pages fast while using your tech stack. Prismic is the headless page builder for Next.js, Nuxt, and SvelteKit sites.
- - [ProcFu MCP Server](https://mcp.pipedream.com/app/procfu) - ProcFu (like Kung Fu but for Processes), is an add-on for Citrix Podio that greatly enhances the abilities of your Podio Workflow Automations and the functionality and utility of your Citrix Podio account.
- - [Product Fruits MCP Server](https://mcp.pipedream.com/app/product_fruits) - User onboarding platform that brings results
- - [Productlane MCP Server](https://mcp.pipedream.com/app/productlane) - The future of Product Discovery. Exclusively for Linear.
- - [Push by Techulus MCP Server](https://mcp.pipedream.com/app/push_by_techulus) - Push offers a cross-platform solution for sending push notifications via code and no-code to deliver transactional information in real-time. Get Started for free.
- - [Pusher MCP Server](https://mcp.pipedream.com/app/pusher) - Hosted APIs that are flexible,  scalable, and easy to integrate
- - [Python MCP Server](https://mcp.pipedream.com/app/python) - Anything you can do in Python can be done in a Pipedream Workflow. This includes using any of the 350,000+ PyPi packages available in your Python powered workflows.
- - [Qntrl MCP Server](https://mcp.pipedream.com/app/qntrl) - Gain visibility, control and automation with an all-in-one Workflow Orchestration Software
- - [Ragic MCP Server](https://mcp.pipedream.com/app/ragic) - "Be your own data expert!
-Visit www.ragic.com to get started with your free database!"
- - [Relink - URL Shortener MCP Server](https://mcp.pipedream.com/app/relink_url_shortener) - URL shortener
- - [Robocorp MCP Server](https://mcp.pipedream.com/app/robocorp) - Open-source, Python based stack for simplifying #automation and making genai work for any business. Build locally, operate from the cloud, run anywhere.
- - [ScrapingBot MCP Server](https://mcp.pipedream.com/app/scrapingbot) - Best web scraping APIs to extract HTML content without getting blocked.
- - [Scraptio MCP Server](https://mcp.pipedream.com/app/scraptio) - Scrape made easy
- - [SelectPdf MCP Server](https://mcp.pipedream.com/app/selectpdf) - Online Html to Pdf Converter and REST API.
- - [Semgrep MCP Server](https://mcp.pipedream.com/app/semgrep) - A fast, open-source, static analysis tool for profoundly improving software security and reliability.
- - [SerpApi MCP Server](https://mcp.pipedream.com/app/serpapi) - Scrape Google and other search engines from our fast, easy, and complete API.
- - [Serpdog MCP Server](https://mcp.pipedream.com/app/serpdog) - Google Search API that allows you to access Google Search Results in real time. It solves the problem of proxies and captchas for a smooth scraping journey.
- - [ShortPixel MCP Server](https://mcp.pipedream.com/app/shortpixel) - ShortPixel is an image optimizer that improves website performance by resizing, compressing and serving images from CDN. Optimized images are smaller and visually similar with the original images.
- - [SignPath MCP Server](https://mcp.pipedream.com/app/signpath) - Code Signing Simple and Secure.
- - [Similarweb DigitalRank API MCP Server](https://mcp.pipedream.com/app/similarweb_digitalrank_api) - Gain access to global website ranking data for your website and your competitor's websites using Similarweb's free DigitalRank API.
- - [Sitecreator.io MCP Server](https://mcp.pipedream.com/app/sitecreator_io) - Sitecreator.io is an easy-to-use platform that allows you to quickly create a professional looking website.
- - [Siteleaf MCP Server](https://mcp.pipedream.com/app/siteleaf) - A friendly CMS for static sites. Powered by Jekyll, with GitHub sync, and a complete API.
- - [SkyCiv MCP Server](https://mcp.pipedream.com/app/skyciv) - Powerful, intuitive, and cloud-based structural engineering software & API technology. Designed to streamline your design workflow and maximize efficiency.
- - [Smartproxy MCP Server](https://mcp.pipedream.com/app/smartproxy) - Effortlessly Scrape the Web Data You Need. Quality data collection infrastructure for virtually every use case.
- - [Splynx MCP Server](https://mcp.pipedream.com/app/splynx) - Industry-leading ISP management software.
- - [Squarespace MCP Server](https://mcp.pipedream.com/app/squarespace) - Website Builder
- - [StoryScale MCP Server](https://mcp.pipedream.com/app/storyscale) - Create shareable product tours and demos in minutes.
- - [Stripo MCP Server](https://mcp.pipedream.com/app/stripo) - Stripo is an email design platform. We help you build high-quality emails of any complexity, including ones with AMP, real-time, and interactive content.
- - [Summit MCP Server](https://mcp.pipedream.com/app/summit) - Summit gives you the triggers, actions, and models to extend what's possible inside your favorite platforms.
- - [SwaggerHub MCP Server](https://mcp.pipedream.com/app/swaggerhub) - Accelerating API delivery and quality through standards and collaboration, built on OpenAPI.
- - [Templated MCP Server](https://mcp.pipedream.com/app/templated) - Generate social media visuals, banners, PDFs and more with our API and no-code integrations.
- - [Thoughtly MCP Server](https://mcp.pipedream.com/app/thoughtly) - The easiest way to build AI voice agents.
- - [Tilda MCP Server](https://mcp.pipedream.com/app/tilda) - Website Builder
- - [Travis CI MCP Server](https://mcp.pipedream.com/app/travis_ci) - The simplest way to test and deploy your projects. Easily sync your projects with Travis CI and you'll be testing your code in minutes.
- - [Tricentis qTest MCP Server](https://mcp.pipedream.com/app/tricentis_qtest) - Scalable test management, operations, and analytics to centralize testing and orchestrate quality at speed, with visibility throughout the software development lifecycle.
- - [Triggre MCP Server](https://mcp.pipedream.com/app/triggre) - Replace outdated software, increase efficiency and boost business growth with Triggre, the complete no-code platform to create custom business applications.
- - [Turso MCP Server](https://mcp.pipedream.com/app/turso) - SQLite for Production. Powered by libSQL.
- - [twocaptcha MCP Server](https://mcp.pipedream.com/app/_twocaptcha) - Captcha Solving Service. 2captcha is a service for solving CAPTCHA. We solve all types of.
- - [Unity Cloud Build MCP Server](https://mcp.pipedream.com/app/unity_cloud_build) - Build Games Faster
- - [Urlbox.io MCP Server](https://mcp.pipedream.com/app/urlbox_io) - The Screenshot API You Can Depend On. Since 2012, Urlbox has replaced unreliable, inaccurate and inconsistent screenshot APIs for developers like you.
- - [Userflow MCP Server](https://mcp.pipedream.com/app/userflow) - User onboarding software. Build product tours, checklists and more. No coding needed.
- - [Venly (NFT API) MCP Server](https://mcp.pipedream.com/app/venly) - Web3 SaaS - Onboarding web2 businesses and users to web3 with secure and easy-to-use software products.
- - [VisualPing MCP Server](https://mcp.pipedream.com/app/visualping) - Website change detection, monitoring and alerting
- - [Vybit MCP Server](https://mcp.pipedream.com/app/vybit) - Sends notifications with personalized sounds to your under-utilized ears so that your over-worked eyes can get a break!
- - [Wachete MCP Server](https://mcp.pipedream.com/app/wachete) - Track and monitor any changes on the web.
- - [Waitlist MCP Server](https://mcp.pipedream.com/app/waitlist) - Create viral loops for your product launch with our waitlists: built-in referral and email marketing, analytics, leaderboards, captcha and more.
- - [Wappalyzer MCP Server](https://mcp.pipedream.com/app/wappalyzer) - Identify technologies on websites.
- - [Webflow MCP Server](https://mcp.pipedream.com/app/webflow) - Webflow is the leading visual development platform for building powerful websites without writing code.
- - [WebScraper.IO MCP Server](https://mcp.pipedream.com/app/webscraper_io) - Making web data extraction easy and accessible for everyone.
- - [Webvizio MCP Server](https://mcp.pipedream.com/app/webvizio) - Webvizio is a free website feedback tool & website review software designed for managers & teams to easily collaborate on website revisions in real time.
- - [WP Maps MCP Server](https://mcp.pipedream.com/app/wp_maps) - Install WP Maps and gain the ability to highlight your products and stores to increase brand awareness.
- - [Xverify MCP Server](https://mcp.pipedream.com/app/xverify) - Real Time Email and Data Verification Platform
- - [Yoast SEO MCP Server](https://mcp.pipedream.com/app/yoast_seo) - Yoast is your go-to resource for everything SEO 🎯 We help you rank your WordPress website
- - [Zip Archive API MCP Server](https://mcp.pipedream.com/app/zip_archive_api) - Compress your files with the ZIP Archive API.
-
-### <a name="other"></a>Other
-
- - [Acelle Mail MCP Server](https://mcp.pipedream.com/app/acelle_mail) - Acelle Mail is a self-hosted, full-featured, easy to use Email Marketing Web Application
- - [Affinda MCP Server](https://mcp.pipedream.com/app/affinda) - Use AI to do your document processing, and free your team to do the real work
- - [Airmeet MCP Server](https://mcp.pipedream.com/app/airmeet) - Virtual and hybrid event experiences with a real human connection.
- - [Airplane MCP Server](https://mcp.pipedream.com/app/airplane) - Code to internal apps in minutes. Turn APIs, SQL queries, and scripts into apps for the entire team.
- - [AiVOOV MCP Server](https://mcp.pipedream.com/app/aivoov) - Convert your text to Speech using AI Voices. AiVOOV is a hassle-free online tool that converts user input text into voice.
- - [AskNicely MCP Server](https://mcp.pipedream.com/app/asknicely) - The #1 Rated Customer Experience Platform for Frontline Teams.
- - [AskYourPDF MCP Server](https://mcp.pipedream.com/app/askyourpdf) - Your gateway to dynamic, interactive, and intelligent conversations with any document. 💬📚
- - [AssemblyAI MCP Server](https://mcp.pipedream.com/app/assemblyai) - Access powerful AI models to transcribe and understand speech via a simple API.
- - [Axis LMS MCP Server](https://mcp.pipedream.com/app/axis_lms) - Enhance & Streamline Your Training!
- - [Azure API for FHIR MCP Server](https://mcp.pipedream.com/app/azure_api_for_fhir) - Managed, standards-based, and healthcare data platform
- - [Azure OpenAI Service MCP Server](https://mcp.pipedream.com/app/azure_openai_service) - Apply large language models and generative AI to a variety of use cases
- - [Bloom Growth MCP Server](https://mcp.pipedream.com/app/bloom_growth) - An ecosystem for the growth of your entire team 🌱
- - [BotConversa MCP Server](https://mcp.pipedream.com/app/botconversa) - The easiest tool to create chatbots without code from Brazil. Automate your marketing, lead generation, fulfillment, and more with a bot.
- - [CallRail MCP Server](https://mcp.pipedream.com/app/callrail) - CallRail’s lead intelligence platform helps businesses market with confidence.
- - [Campaign Cleaner MCP Server](https://mcp.pipedream.com/app/campaign_cleaner) - The Ultimate Tool for Optimized, High-Performance Email Campaigns
- - [CampaignHQ MCP Server](https://mcp.pipedream.com/app/campaignhq) - CampaignHQ is an affordable yet powerful email marketing platform.
- - [Cardly MCP Server](https://mcp.pipedream.com/app/cardly) - Send as many personal, handwritten cards as you like – without lifting a pen.
- - [Caspio MCP Server](https://mcp.pipedream.com/app/caspio) - Caspio is the world's leading cloud platform for building online database applications without coding.
- - [Chatwork MCP Server](https://mcp.pipedream.com/app/chatwork) - Group chat for global teams. Secure messaging, video chat, task management & file sharing platform. Teamwork without the drama.
- - [CiviCRM MCP Server](https://mcp.pipedream.com/app/civicrm) - CiviCRM is web-based, open source, Constituent Relationship Management (CRM) software geared toward meeting the needs of non-profit and other civic-sector organizations.
- - [Clerk MCP Server](https://mcp.pipedream.com/app/clerk) - Drop-in authentication for React and React Native.
- - [CleverReach MCP Server](https://mcp.pipedream.com/app/cleverreach) - Create and send professional newsletters with the CleverReach email marketing tool – incredibly fast, incredibly easy.
- - [CleverTap MCP Server](https://mcp.pipedream.com/app/clevertap) - CleverTap is the all-in-one engagement platform that helps brands unlock limitless customer lifetime value
- - [Clientify MCP Server](https://mcp.pipedream.com/app/clientify) - Clientify is a CRM tool that allows you to automate digital sales processes both by profiling customers as well as actions and tasks for users.
- - [Constant Contact MCP Server](https://mcp.pipedream.com/app/constant_contact) - We deliver for small businesses and nonprofits with the right tools to simplify and amplify your digital marketing and generate powerful results.
- - [Copperx MCP Server](https://mcp.pipedream.com/app/copperx) - Payment APIs for Web3 businesses. Start accepting crypto and fiat payments with a single API via Recurring billing, Checkout and Invoicing.
- - [Credit Repair Cloud MCP Server](https://mcp.pipedream.com/app/credit_repair_cloud) - The industry leader in Credit Repair software. A remote-first company dedicated to empowerment & entrepreneurship.
- - [Customer Fields MCP Server](https://mcp.pipedream.com/app/customer_fields) - Create customer sign-up forms as unique as your business, and save custom data to customer accounts.
- - [Daffy MCP Server](https://mcp.pipedream.com/app/daffy) - A modern platform & community for charitable giving. Contribute cash, stock/ETFs, or crypto, watch it grow tax-free, and donate to nearly any U.S. charity.
- - [DealMachine MCP Server](https://mcp.pipedream.com/app/dealmachine) - We help single family real estate investors find more deals for less money with our suite of direct-to-seller marketing tools.
- - [DevRev MCP Server](https://mcp.pipedream.com/app/devrev) - DevRev is a platform for managing developer-customer relationships that allow developers to build, support, and grow their businesses.
- - [Dext MCP Server](https://mcp.pipedream.com/app/dext) - Cloud accounting platform that provides you with real-time data and accurate insights.
- - [Diabatix ColdStream MCP Server](https://mcp.pipedream.com/app/diabatix_coldstream) - New generation of generative design software for thermal & flow topology optimization for optimal heat sink design
- - [Digistore24 MCP Server](https://mcp.pipedream.com/app/digistore24) - Digistore24 is a full-service online sales platform with one of the world’s largest affiliate marketplaces that helps you grow & scale your business.
- - [DocsBot AI MCP Server](https://mcp.pipedream.com/app/docsbot_ai) - ChatGPT for your docs. Get instant answers for you, your customers, or your team with AI powered chatbots trained with your content and documentation.
- - [Docsumo MCP Server](https://mcp.pipedream.com/app/docsumo) - Make fast & accurate decisions from unstructured documents. Document AI software that converts unstructured documents to actionable data.
- - [DreamStudio (Stable Diffusion) MCP Server](https://mcp.pipedream.com/app/dreamstudio) - DreamStudio is an easy-to-use interface for creating images using the latest version of the Stable Diffusion image generation model
- - [Dropcontact MCP Server](https://mcp.pipedream.com/app/dropcontact) - The SaaS solution that enriches, cleans and corrects your contact data directly in your CRM, without any human intervention.
- - [Dub MCP Server](https://mcp.pipedream.com/app/dub) - Open-source link management infrastructure
- - [Eden AI MCP Server](https://mcp.pipedream.com/app/eden_ai) - AI made easy for Developers | The best AI engines in one API
- - [ElevenLabs MCP Server](https://mcp.pipedream.com/app/elevenlabs) - Research lab exploring new frontiers of Voice AI. Deploying tools for prime long-form synthetic speech, voice cloning and automatic dubbing.
- - [Encharge MCP Server](https://mcp.pipedream.com/app/encharge) - Marketing automation platform built for B2B SaaS
- - [Exa (Formerly Metaphor) MCP Server](https://mcp.pipedream.com/app/metaphor) - Search Rebuilt for AI. The Exa API retrieves the best content on the web using embeddings-based search.
- - [EZ Texting MCP Server](https://mcp.pipedream.com/app/ez_texting) - EZ Texting is the #1 text marketing software. We deliver the smartest, fastest, easiest, and most reliable ways to connect with your mobile audience.
- - [Firmao MCP Server](https://mcp.pipedream.com/app/firmao) - CRM - customer relationship management. Managing sales opportunities from various sources (Mailing, Cold Calling, Live Chat, Google Ads, FB, Callback) in one place.
- - [Formaloo MCP Server](https://mcp.pipedream.com/app/formaloo) - Formaloo is a powerful no-code collaboration platform that enables you to build custom business applications, internal tools and customer engagement tools fast & code-free!
- - [FTrack MCP Server](https://mcp.pipedream.com/app/ftrack) - ftrack, a Backlight business, is the creator of Emmy and Academy Award-winning team collaboration and media review platforms for the creative industries.
- - [FunnelCockpit MCP Server](https://mcp.pipedream.com/app/funnelcockpit) - FunnelCockpit is an all-in-one platform for online marketing. It offers all the necessary functions and tools to build your own online business.
- - [GetAccept MCP Server](https://mcp.pipedream.com/app/getaccept) - Our digital sales room empowers revenue teams to increase win rates by engaging and understanding buyers from opportunity to signed deal.
- - [GetEmails MCP Server](https://mcp.pipedream.com/app/getemails) - GetEmail.io is the easiest way to find email addresses from anywhere on the web, with just one click.
- - [GiantCampaign MCP Server](https://mcp.pipedream.com/app/giantcampaign) - Improve your sales by turning an email campaign into real sales.
- - [Gigasheet MCP Server](https://mcp.pipedream.com/app/gigasheet) - The big data spreadsheet that combines database power with cloud scale.
- - [Goody MCP Server](https://mcp.pipedream.com/app/goody) - A new way to send effortless, unforgettable gifts 🎁
- - [Google PaLM MCP Server](https://mcp.pipedream.com/app/google_palm_api) - Build generative AI applications with Google's PaLM 2 model.
- - [GoTo Webinar MCP Server](https://mcp.pipedream.com/app/gotowebinar) - "Your all-in-one virtual event platform.
-With customizable modes, interactive features, insightful analytics, powerful integrations, and flexible pricing, our intuitive webinar platform has everything you need to host virtual events of all sizes."
- - [Gryd MCP Server](https://mcp.pipedream.com/app/gryd) - Unleash the Power of Real-Time Vehicle Data: Accelerate Your Applications and Drive Innovation with our Seamless Integration and Developer-first Platform.
- - [Handwrytten MCP Server](https://mcp.pipedream.com/app/handwrytten) - Automate your handwritten correspondence. Send real notes w/ your message written in pen by robots.
- - [HighLevel (OAuth) MCP Server](https://mcp.pipedream.com/app/highlevel_oauth) - HighLevel is a subscription-based all-in-one marketing and customer relationship management solution for agencies and professionals.
- - [Hookdeck MCP Server](https://mcp.pipedream.com/app/hookdeck) - Never miss a webhook again. Our reliable webhook infrastructure gives you full visibility over your webhooks.
- - [Hootsuite MCP Server](https://mcp.pipedream.com/app/hootsuite) - Social media management platform.
- - [Hostaway MCP Server](https://mcp.pipedream.com/app/hostaway) - More bookings, more revenue, less hassle for your rentals with Hostaway.
- - [Hotjar MCP Server](https://mcp.pipedream.com/app/hotjar) - Product Experience Insights that show how your users behave and what they feel strongly about, so you can deliver real value.
- - [Hotmart MCP Server](https://mcp.pipedream.com/app/hotmart) - Hotmart, Where Creativity Meets Business.
- - [httpSMS MCP Server](https://mcp.pipedream.com/app/httpsms) - Convert your android phone into an SMS gateway.
- - [Hyros MCP Server](https://mcp.pipedream.com/app/hyros) - Advertising Sales & AI Sales Attribution
- - [iAuditor by SafetyCulture MCP Server](https://mcp.pipedream.com/app/iauditor_by_safetyculture) - SafetyCulture (iAuditor) is an inspection, issue capture and corrective action platform for teams that’s used over 50,000 times a day in over 85 countries.
- - [iLovePDF MCP Server](https://mcp.pipedream.com/app/ilovepdf) - iLovePDF is an online service to work with PDF files completely free and easy to use. Merge PDF, split PDF, compress PDF, office to PDF, and more.
- - [ImageKit.io MCP Server](https://mcp.pipedream.com/app/imagekit_io) - Media management, optimization, and delivery solution for a seamless visual experience on websites and apps.
- - [Infinity MCP Server](https://mcp.pipedream.com/app/infinity) - One Tool to Organize All Your Work, Your Way. Work together with your team, store everything in one place, and organize projects the way you want.
- - [Inoreader MCP Server](https://mcp.pipedream.com/app/inoreader) - Build your own newsfeed
- - [IP2Location.io MCP Server](https://mcp.pipedream.com/app/ip2location_io) - Pinpoint your location of IP address.
- - [JeffreyAI MCP Server](https://mcp.pipedream.com/app/jeffreyai) - The one - stop solution for all your business needs. A Sales and Marketing Automation tool designed with you in mind.
- - [Jibble MCP Server](https://mcp.pipedream.com/app/jibble) - 100% FREE time tracking software
- - [Judge.me MCP Server](https://mcp.pipedream.com/app/judge_me) - Judge.me is the gold standard of product reviews and store reviews on Shopify.
- - [JustCall MCP Server](https://mcp.pipedream.com/app/justcall) - JustCall by SaaS Labs is a cloud-based phone and SMS system that enables businesses of all sizes to make and receive phone calls/texts from anywhere.
- - [KickoffLabs MCP Server](https://mcp.pipedream.com/app/kickofflabs) - Quickly and easily setup refer a friend style giveaways, sweepstakes, and product launches!
- - [KingSumo MCP Server](https://mcp.pipedream.com/app/kingsumo) - Run viral giveaways that drive more leads, reward brand engagement, and grow your audience.
- - [Kintone MCP Server](https://mcp.pipedream.com/app/kintone) - Love your data again with custom, easy-to-build business apps for your team.
- - [Kite Suite MCP Server](https://mcp.pipedream.com/app/kite_suite) - Master Your Projects with Our Innovative Project Management Software.
- - [Klaxoon MCP Server](https://mcp.pipedream.com/app/klaxoon) - Think, talk, chat, videoconference, make plans, challenge, brainstorm, (co-)create... Teamwork redefined. #TheMeetingRevolution
- - [Kontent.ai MCP Server](https://mcp.pipedream.com/app/kontent_ai) - Complete control over your content. Kontent AI is the headless CMS that enables organizations to govern all things content to deliver standout experiences.
- - [Libraria MCP Server](https://mcp.pipedream.com/app/libraria) - Create and embed custom chat gpt assistants from your own data in seconds.
- - [Liondesk MCP Server](https://mcp.pipedream.com/app/liondesk) - LionDesk is a comprehensive customer relationship management (CRM) platform designed specifically for real estate professionals, offering tools for managing leads, contacts, transactions, and communications in one centralized system.
- - [Listclean MCP Server](https://mcp.pipedream.com/app/listclean) - AI-Driven Email Verification Service with 98% Accuracy
- - [Livestorm MCP Server](https://mcp.pipedream.com/app/livestorm) - Powerful, end-to-end video engagement software for today's teams.
- - [LoopMessage MCP Server](https://mcp.pipedream.com/app/loopmessage) - iMessage API for two-way communication
- - [Loops.so MCP Server](https://mcp.pipedream.com/app/loops_so) - The email platform for modern SaaS. A better way to send product, marketing, and transactional email.
- - [Mapulus MCP Server](https://mcp.pipedream.com/app/mapulus) - Unlock the power of location-based insights with Mapulus. Uncover opportunities, track service delivery, pin locations, and overlay insights.
- - [Melo MCP Server](https://mcp.pipedream.com/app/melo) - Power your business with comprehensive property data delivered via the most reactive real estate API
- - [Memberful MCP Server](https://mcp.pipedream.com/app/memberful) - Best-in-class membership software for independent creators, publishers, educators, podcasters, and more.
- - [Memberspot.io MCP Server](https://mcp.pipedream.com/app/memberspot) - Achieve every goal with the perfect e-learning platform for employees and customers
- - [Microsoft 365 People MCP Server](https://mcp.pipedream.com/app/microsoft_365_people) - Create, view, and edit contacts, contact lists, and groups in your Microsoft 365 account.
- - [Microsoft 365 Planner MCP Server](https://mcp.pipedream.com/app/microsoft_365_planner) - A simple, visual way to organize teamwork.
- - [Microsoft Entra ID MCP Server](https://mcp.pipedream.com/app/microsoft_entra_id) - Safeguard your organization with a cloud identity and access management solution that connects employees, customers, and partners to their apps, devices, and data.
- - [Microsoft Excel MCP Server](https://mcp.pipedream.com/app/microsoft_excel) - You can use Microsoft Graph to allow web and mobile applications to read and modify Excel workbooks stored in OneDrive for Business, SharePoint site or Group drive.
- - [Microsoft OneNote MCP Server](https://mcp.pipedream.com/app/onenote) - One cross-functional notebook for all your notetaking needs.
- - [Microsoft Outlook Calendar MCP Server](https://mcp.pipedream.com/app/microsoft_outlook_calendar) - The calendar and scheduling component of Outlook that is fully integrated with email, contacts, and other features
- - [Microsoft Sharepoint Online MCP Server](https://mcp.pipedream.com/app/sharepoint) - Share and manage content, knowledge, and applications to empower teamwork, quickly find information, and seamlessly collaborate across the organization.
- - [Missive MCP Server](https://mcp.pipedream.com/app/missive) - Shared inbox & team chat solution used by thousands of businesses all over the globe.
- - [Motion MCP Server](https://mcp.pipedream.com/app/motion) - Manage calendars, meetings, projects & tasks in one tool
- - [Moxie MCP Server](https://mcp.pipedream.com/app/moxie) - Moxie is a set of stupid-good tools work for you. Features Client management Invoices Project management Time tracking Accounting Collaborators Proposals & more.
- - [Nango MCP Server](https://mcp.pipedream.com/app/nango) - The open-source unified API.
- - [NationBuilder MCP Server](https://mcp.pipedream.com/app/nationbuilder) - "Human-centric technology for your nonprofit, cause, campaign and movement.
-"
- - [Neon (API Keys) MCP Server](https://mcp.pipedream.com/app/neon_api_keys) - Open-source Serverless Postgres in the Cloud ⭐️
- - [Nextdoor Ads MCP Server](https://mcp.pipedream.com/app/nextdoor) - Nextdoor is an app for neighborhoods where you can get local tips, buy and sell items, and more.
- - [NiftyKit MCP Server](https://mcp.pipedream.com/app/niftykit) - NiftyKit is the tool to build, collaborate, and launch projects — without coding.
- - [Nudgify MCP Server](https://mcp.pipedream.com/app/nudgify) - Nudgify is the Social Proof, FOMO and UX app that adds real-world context to your website in realtime.
- - [Omnivore MCP Server](https://mcp.pipedream.com/app/omnivore) - A free and open source read-it-later app for serious readers. Save any web article, subscribe to newsletters, read distraction free, add highlights and notes.
- - [One AI MCP Server](https://mcp.pipedream.com/app/one_ai) - APIs that make your app understand language. Summarize conversations, categorize articles, and more.
- - [Open Exchange Rates MCP Server](https://mcp.pipedream.com/app/open_exchange_rates) - Consistent, reliable exchange rate data and currency conversion for your business.
- - [Outseta MCP Server](https://mcp.pipedream.com/app/outseta) - A better way to launch your SaaS start-up, membership site, or online community.
- - [Payhip MCP Server](https://mcp.pipedream.com/app/payhip) - Payhip is an e-commerce platform that enables anyone to sell digital products, courses and memberships directly to their fans and followers.
- - [Pdfless MCP Server](https://mcp.pipedream.com/app/pdfless) - Pdfless is a SaaS to generate PDF using Html templating
- - [Pendo MCP Server](https://mcp.pipedream.com/app/pendo) - Pendo’s product experience platform allows companies to make product intelligence actionable with speed and scale, giving rise to a new generation of companies that put product at the center of everything.
- - [PhoneBurner MCP Server](https://mcp.pipedream.com/app/phoneburner) - Our powerful outbound dialer is built to boost your contact rates & increase sales.
- - [Piggy MCP Server](https://mcp.pipedream.com/app/piggy) - The world’s smartest loyalty engine 🚀 Changing the way businesses and people connect.
- - [PingBell MCP Server](https://mcp.pipedream.com/app/pingbell) - Instantly notify your entire team each time a conversion happens on your website or app
- - [Placetel MCP Server](https://mcp.pipedream.com/app/placetel) - Modern business telephony for the cloud
- - [Playwright MCP Server](https://mcp.pipedream.com/app/playwright) - Playwright enables reliable end-to-end testing for modern web apps.
- - [Popupsmart MCP Server](https://mcp.pipedream.com/app/popupsmart) - A no-code tool to increase e-commerce sales, build email lists, and engage with your visitors in just 5 minutes.
- - [PreciseFP MCP Server](https://mcp.pipedream.com/app/precisefp) - PreciseFP is an automated data management platform that enables you to gather, store and securely distribute client information online.
- - [Procore Sandbox MCP Server](https://mcp.pipedream.com/app/procore_sandbox) - Use the Procore Sandbox for testing and development.
- - [Project Broadcast MCP Server](https://mcp.pipedream.com/app/project_broadcast) - Helping you build relations through business communications.
- - [Puppeteer MCP Server](https://mcp.pipedream.com/app/puppeteer) - Puppeteer is a Node.js library which provides a high-level API to control Chrome/Chromium over the DevTools Protocol.
- - [Pushcut MCP Server](https://mcp.pipedream.com/app/pushcut) - Automate Smart Home Workflow
- - [QuickMail.io MCP Server](https://mcp.pipedream.com/app/quickmail_io) - Cold Email software focused on deliverability with free auto warmup.
- - [Raisely MCP Server](https://mcp.pipedream.com/app/raisely) - Simple online fundraising for the worlds’ most ambitious campaigns 💜
- - [Recruit CRM MCP Server](https://mcp.pipedream.com/app/recruit_crm) - Trusted by Recruitment Agencies in 100+ countries. Recruit CRM builds cloud-based software for the global Recruitment & Staffing industry.
- - [Retable MCP Server](https://mcp.pipedream.com/app/retable) - Turn complex spreadsheets into smart databases
- - [Retently MCP Server](https://mcp.pipedream.com/app/retently) - Send a Net Promoter Score® survey to your clients and start gathering, analyzing and acting on the received customer feedback.
- - [Retool MCP Server](https://mcp.pipedream.com/app/retool) - Build internal tools, remarkably fast.
- - [Retriever MCP Server](https://mcp.pipedream.com/app/retriever) - Easy laptop and monitor returns for employee offboarding, upgrades, and repairs.
- - [Rex MCP Server](https://mcp.pipedream.com/app/rex) - The real estate software platform built for all your agency needs.
- - [Ringover MCP Server](https://mcp.pipedream.com/app/ringover) - Transform your communications into powerful engines of growth.
- - [Roboflow MCP Server](https://mcp.pipedream.com/app/roboflow) - Build & use computer vision models fast✨
- - [RunSignup MCP Server](https://mcp.pipedream.com/app/runsignup) - Best in class technology for endurance events.
- - [Sakari SMS MCP Server](https://mcp.pipedream.com/app/sakari_sms) - Sakari is a cloud-based SaaS company providing text messaging for business teams around the world. Integrate SMS with your favorite systems today.
- - [SalesLens MCP Server](https://mcp.pipedream.com/app/saleslens) - Optimize Call Center Performance with AI-Driven Quality Monitoring
- - [Scale AI MCP Server](https://mcp.pipedream.com/app/scale_ai) - Make the best models with the best data. Scale Data Engine leverages your enterprise data, and with Scale Generative AI Platform, safely unlocks the value of AI.
- - [Screendesk MCP Server](https://mcp.pipedream.com/app/screendesk) - Making customer support teams more productive.
- - [ScreenshotOne MCP Server](https://mcp.pipedream.com/app/screenshotone) - Fast and reliable screenshot API built to handle millions of screenshots a month.
- - [Search API MCP Server](https://mcp.pipedream.com/app/search_api) - Your real-time SERP API solution. Mastering proxy management, CAPTCHAs, and JSON parsing for seamless web data extraction.
- - [Sellercloud MCP Server](https://mcp.pipedream.com/app/sellercloud) - E-commerce platform dedicated to helping online retailers meet the challenges of omnichannel selling.
- - [Senta MCP Server](https://mcp.pipedream.com/app/senta) - Practice management software for accountants and bookkeepers from £29 per user, per month. Officially the friendliest software of the year.
- - [Setmore MCP Server](https://mcp.pipedream.com/app/setmoreappointments) - Setmore offers a free, online scheduling platform for you to connect with your customers.
- - [Seven MCP Server](https://mcp.pipedream.com/app/seven) - Professional solutions for your SMS sending and receiving. Online, via API, by email or directly in your app.
- - [Sierra Interactive MCP Server](https://mcp.pipedream.com/app/sierra_interactive) - The proven lead generation and management solutions that top real estate teams prefer.
- - [Slottable MCP Server](https://mcp.pipedream.com/app/slottable) - Slottable makes it easy to share, book and deliver anything in your business that has limited “seats” or “tickets” or “spots" or as we like to call them: Slots
- - [Slybroadcast MCP Server](https://mcp.pipedream.com/app/slybroadcast) - With Slybroadcast's patented voicemail delivery technology, send a voice mail directly to the voice-mailboxes of mobile phones.
- - [Small Improvements MCP Server](https://mcp.pipedream.com/app/small_improvements) - Simple and intuitive performance feedback.
- - [SMSAPI MCP Server](https://mcp.pipedream.com/app/smsapi) - SMSAPI is a worldwide SMS provider of reliable mobile marketing solutions for companies
- - [Sourceforge MCP Server](https://mcp.pipedream.com/app/sourceforge) - Your Trusted Source for Software.
- - [Spydra MCP Server](https://mcp.pipedream.com/app/spydra) - The Ultimate Asset Tokenization Platform, for Businesses
- - [Starloop MCP Server](https://mcp.pipedream.com/app/starloop) - Get more online reviews with Starloop. Automated software that helps you get more reviews.
- - [Starton MCP Server](https://mcp.pipedream.com/app/starton) - Build Blockchain apps in Days, not months
- - [Streamtime MCP Server](https://mcp.pipedream.com/app/streamtime) - A project management tool fit for the way we work today. Task management for workers. Team management for leaders. Painless time tracking for everyone
- - [SugarCRM MCP Server](https://mcp.pipedream.com/app/sugarcrm_) - SugarCRM is the CRM platform that makes the hard things easier. With Sugar, you let the platform do the work—no blind spots, no busy work, and no roadblocks.
- - [SuiteDash MCP Server](https://mcp.pipedream.com/app/suitedash) - Manage your business like a PRO with SuiteDash, the All-in-One Business Software that empowers collaboration with your Team and your Clients
- - [SuperPhone MCP Server](https://mcp.pipedream.com/app/superphone) - SuperPhone® for Coaches & Creators
- - [Survey2Connect MCP Server](https://mcp.pipedream.com/app/survey2connect) - Your Gateway to Stellar Customer Experience.
- - [SurveySparrow MCP Server](https://mcp.pipedream.com/app/surveysparrow) - An end-to-end Conversational Experience Management Platform that helps get 40% better response rate.
- - [Talend MCP Server](https://mcp.pipedream.com/app/talend) - We are a leader in #DataIntegration and #DataManagement – taking the work out of working with data.
- - [Tave MCP Server](https://mcp.pipedream.com/app/tave) - Táve is the best Studio Management Application for Photographers.
- - [Teachable MCP Server](https://mcp.pipedream.com/app/teachable) - Create an online course or digital products with us & start sharing your knowledge with others.
- - [TeamGantt MCP Server](https://mcp.pipedream.com/app/teamgantt) - Software that helps teams work together, without losing sight of the big picture.
- - [Teamleader Focus MCP Server](https://mcp.pipedream.com/app/teamleader_focus) - Customer management, project management and invoicing in one handy tool.
- - [Teamwork Desk MCP Server](https://mcp.pipedream.com/app/teamwork_desk) - Ticketing system designed to easily manage customer queries, saving you time and money.
- - [TextCortex MCP Server](https://mcp.pipedream.com/app/textcortex) - Powerful AI Assistant To 12x Your Productivity 🚀
- - [Tidy MCP Server](https://mcp.pipedream.com/app/tidy) - TIDY helps to maintain a clean house. A rental. Your employee's workspace. Your home. All automated through TIDY.
- - [TidyCal MCP Server](https://mcp.pipedream.com/app/tidycal) - World's simplest, most affordable scheduling tool (alternative to Calendly).
- - [Timeular MCP Server](https://mcp.pipedream.com/app/timeular) - Effortless time tracking to help you lead a more rewarding work-life.
- - [TrackingTime MCP Server](https://mcp.pipedream.com/app/trackingtime) - The best TimeTracking app for productive freelancers and teams. Bring your Productivity to the next level!
- - [Trakt MCP Server](https://mcp.pipedream.com/app/trakt) - Trakt is a service that integrates with your media center to better keep track of the TV shows and movies that you've watched.
- - [Translate.com MCP Server](https://mcp.pipedream.com/app/translate_com) - Translate.com is an innovative translation platform that provides machine and human translations
- - [Trustpilot (Customer) MCP Server](https://mcp.pipedream.com/app/trustpilot) - "Read reviews. Write reviews.
-Find companies you can trust."
- - [Unbounce MCP Server](https://mcp.pipedream.com/app/unbounce) - Unbounce landing pages have helped businesses turn billions of visitors into leads, sales, and signups. (Literally.) Combining that data with AI, Unbounce lets you create custom landing pages twice as fast as old-school builders.
- - [Uplisting MCP Server](https://mcp.pipedream.com/app/uplisting) - Confidently grow your STR business & earn more on Uplisting. Preferred+ AirBnB software partner.
- - [Uscreen MCP Server](https://mcp.pipedream.com/app/uscreen) - Uscreen is an all-in-one membership platform designed for video creators.⚡ Follow us for the best free video streaming tips!
- - [Vero MCP Server](https://mcp.pipedream.com/app/vero) - Game-changing multi-channel messaging tools for the next generation of marketers.
- - [VIES API MCP Server](https://mcp.pipedream.com/app/vies_api) - VAT Information and Exchange System
- - [Viral Loops MCP Server](https://mcp.pipedream.com/app/viral_loops) - Viral Loops gives you referral program templates inspired by billion-dollar brands to increase and track customer referrals.
- - [Vitally MCP Server](https://mcp.pipedream.com/app/vitally) - Modern #CustomerSuccess for B2B SaaS. 🚀 Unify your data, understand it deeply, and build powerful automation to drive a world-class customer experience.
- - [Vitel Phone MCP Server](https://mcp.pipedream.com/app/vitel_phone) - Vitel Global is a cloud-based business phone system provider exclusively for organizations that require professional communication features.
- - [WATI MCP Server](https://mcp.pipedream.com/app/wati) - #1 Platform For Marketing & Customer Engagement On WhatsApp
- - [Wave MCP Server](https://mcp.pipedream.com/app/wave) - One-stop money management software for your small business.
- - [WebinarKit MCP Server](https://mcp.pipedream.com/app/webinarkit) - Create automated, like-live, and just-in-time webinar funnels in minutes on the same platform trusted by over 12,000 businesses.
- - [Wicked Reports MCP Server](https://mcp.pipedream.com/app/wicked_reports) - Wicked Reports is the world's 1st advanced sales attribution and done-for-you analytics platform for online small and medium businesses.
- - [Wix MCP Server](https://mcp.pipedream.com/app/wix_api_key) - Wix is an online platform that allows users to create and manage professional websites through drag-and-drop tools without needing to know how to code.
- - [Workiz MCP Server](https://mcp.pipedream.com/app/workiz) - Workiz is the #1 all-in-one management platform for fieldservice businesses, including hvac, plumbing, garagedoor, electrcialcontracting, and more.
- - [Wufoo MCP Server](https://mcp.pipedream.com/app/wufoo) - Wufoo's online form builder helps you create custom forms in minutes. Use Wufoo to create registration forms, application forms, surveys, contact forms,
- - [YoPlanning MCP Server](https://mcp.pipedream.com/app/yoplanning) - Yoplanning automates your processes and helps you streamline your activity thanks to powerful decision-making algorithms based on artificial intelligence.
- - [Zoho Assist MCP Server](https://mcp.pipedream.com/app/zoho_assist) - Enterprise-grade remote support software. Secure Unattended remote access software.
- - [Zoho Bigin MCP Server](https://mcp.pipedream.com/app/zoho_bigin) - The easiest CRM to manage your customers.
- - [Zoho Billing MCP Server](https://mcp.pipedream.com/app/zoho_subscriptions) - Subscription billing software, crafted for growing businesses.
- - [Zoho Bookings MCP Server](https://mcp.pipedream.com/app/zoho_bookings) - Zoho Bookings is a free appointment scheduling software for professional consultants and service providers to let clients find the perfect time to meet with them. Sync calendars, get bookings 24/7 Online scheduler for offering the best consultations
- - [Zoho BugTracker MCP Server](https://mcp.pipedream.com/app/zoho_bugtracker) - Zoho BugTracker is an online bug tracker and issue tracking software that helps you to track and fix bugs quickly.
- - [Zoho Calendar MCP Server](https://mcp.pipedream.com/app/zoho_calendar) - Zoho Calendar is an online business calendar that makes scheduling easy for you.
- - [Zoho Campaigns MCP Server](https://mcp.pipedream.com/app/zoho_campaigns) - Marketing platform built exclusively for email marketing—you bring in and manage the email database of your leads and contacts and send marketing emails to them.
- - [Zoho Commerce MCP Server](https://mcp.pipedream.com/app/zoho_commerce) - Zoho Commerce contains all the tools you need to build a website, accept orders, track inventory, process payments, manage shipping, market your brand, and analyze your data.
- - [Zoho Expense MCP Server](https://mcp.pipedream.com/app/zoho_expense) - Zoho Expense enables you to make online travel bookings and manage offline travel as well.
- - [Zoho Invoice MCP Server](https://mcp.pipedream.com/app/zoho_invoice) - Zoho Invoice is an online invoicing software designed to help freelancers and small businesses with invoicing and payment collection.
- - [Zoho Meeting MCP Server](https://mcp.pipedream.com/app/zoho_meeting) - Zoho Meeting is a secure online meeting platform and webinar solution that helps people find new ways to collaborate and work remotely with efficacy.
- - [Zoho People MCP Server](https://mcp.pipedream.com/app/zoho_people) - Zoho People is a cloud-based HR software crafted to nurture employees, quickly adapt to changes, and make HR management agile and effective.
- - [Zoho Recruit MCP Server](https://mcp.pipedream.com/app/zoho_recruit) - Zoho Recruit is a cloud-based hiring platform that gives HR teams and recruitment agencies the digital tools needed to fill roles quickly and efficiently.
- - [Zoho Sprints MCP Server](https://mcp.pipedream.com/app/zoho_sprints) - Zoho Sprints provides a feature-rich agile project management tool with Scrum Board, agile reports, backlog, timesheets, meetings and dashboard.
-
+# Awesome MCP
+
+![Awesome](https://raw.githubusercontent.com/abordage/schemas/main/badges/awesome.svg)
+[![Last update](https://img.shields.io/github/last-commit/abordage/awesome-mcp?label=last%20update)](README.md)
+![Repositories](https://img.shields.io/badge/repositories-1,271-06b6d4)
+![Total Stars](https://img.shields.io/badge/total%20stars-915,318-gold)
+[![License](https://img.shields.io/github/license/abordage/awesome-mcp)](LICENSE)
+
+**Automated. Curated. Ranked.**
+
+[Model Context Protocol (MCP)](https://modelcontextprotocol.io/) servers, clients, and frameworks — the open standard for connecting AI assistants to external data sources and tools. This awesome list is automatically maintained with daily GitHub API updates. Projects are re-ranked daily based on current activity metrics.
+
+**Daily process:** Merge community PRs → Scan repos → Filter stale projects → Recalculate scores → Rebuild list
+
+- [AI Agents](#ai-agents)
+  - [Code Assistants](#code-assistants)
+  - [Human-in-the-Loop](#human-in-the-loop)
+  - [Multi-Agent](#multi-agent)
+  - [Reasoning & Prompts](#reasoning--prompts)
+- [AI Memory & RAG](#ai-memory--rag)
+  - [Memory](#memory)
+  - [RAG](#rag)
+- [AI Platforms](#ai-platforms)
+- [Aggregators & Gateways](#aggregators--gateways)
+  - [Aggregators](#aggregators)
+  - [Gateways & Proxies](#gateways--proxies)
+  - [Platforms & Registries](#platforms--registries)
+- [Browser Automation](#browser-automation)
+  - [AI Automation](#ai-automation)
+  - [Browser Tools](#browser-tools)
+  - [Cloud Services](#cloud-services)
+  - [DevTools](#devtools)
+  - [Playwright](#playwright)
+- [CLI Tools](#cli-tools)
+- [CRM & ERP](#crm--erp)
+- [Cloud & Infrastructure](#cloud--infrastructure)
+  - [AWS](#aws)
+  - [Cloud Platforms](#cloud-platforms)
+  - [Kubernetes](#kubernetes)
+  - [Virtualization & IaC](#virtualization--iac)
+- [Communication & Messaging](#communication--messaging)
+  - [Apple Messages](#apple-messages)
+  - [Email](#email)
+  - [Messengers](#messengers)
+  - [Notifications](#notifications)
+  - [Team Chat](#team-chat)
+  - [Voice & Telephony](#voice--telephony)
+- [Data & Analytics](#data--analytics)
+  - [AI/ML Platforms](#aiml-platforms)
+  - [Data APIs](#data-apis)
+  - [Data Exploration](#data-exploration)
+  - [Data Platforms](#data-platforms)
+  - [Jupyter & Notebooks](#jupyter--notebooks)
+  - [Visualization](#visualization)
+- [Databases](#databases)
+  - [Analytics & Warehouses](#analytics--warehouses)
+  - [Cache & Key-Value](#cache--key-value)
+  - [Cloud Platforms](#cloud-platforms)
+  - [Graph Databases](#graph-databases)
+  - [Multi-Database Tools](#multi-database-tools)
+  - [NoSQL & Document](#nosql--document)
+  - [SQL Databases](#sql-databases)
+  - [Search Engines](#search-engines)
+  - [Spreadsheets & No-Code](#spreadsheets--no-code)
+  - [Streaming & Messaging](#streaming--messaging)
+  - [Time-Series & Metrics](#time-series--metrics)
+  - [Vector Databases](#vector-databases)
+- [Developer Tools](#developer-tools)
+  - [API Tools](#api-tools)
+  - [CI/CD & DevOps](#cicd--devops)
+  - [Code Analysis](#code-analysis)
+  - [Debuggers](#debuggers)
+  - [Design & UI](#design--ui)
+  - [Diagrams](#diagrams)
+  - [Documentation](#documentation)
+  - [IDE & Editors](#ide--editors)
+  - [MCP SDKs](#mcp-sdks)
+  - [Mobile Development](#mobile-development)
+  - [OpenAPI](#openapi)
+  - [Package Managers](#package-managers)
+  - [Robotics & Automation](#robotics--automation)
+  - [Task Management](#task-management)
+  - [Testing & QA](#testing--qa)
+  - [Utilities](#utilities)
+  - [Version Control](#version-control)
+- [Embedded & IoT](#embedded--iot)
+- [File Systems & Storage](#file-systems--storage)
+- [Finance](#finance)
+  - [Accounting & Budgeting](#accounting--budgeting)
+  - [Crypto & Blockchain](#crypto--blockchain)
+  - [Payments & Banking](#payments--banking)
+  - [Stock Data & Analytics](#stock-data--analytics)
+  - [Trading & Exchanges](#trading--exchanges)
+- [Frameworks & SDKs](#frameworks--sdks)
+- [Gaming](#gaming)
+- [Healthcare & Bioinformatics](#healthcare--bioinformatics)
+- [LLM Bridges](#llm-bridges)
+- [Location & Maps](#location--maps)
+  - [GIS](#gis)
+  - [IP Geolocation](#ip-geolocation)
+  - [Maps & Navigation](#maps--navigation)
+  - [Weather](#weather)
+- [MCP Clients](#mcp-clients)
+- [Marketing & Analytics](#marketing--analytics)
+- [Media Processing](#media-processing)
+  - [3D & Animation](#3d--animation)
+  - [Audio & Music](#audio--music)
+  - [Image Generation](#image-generation)
+  - [Image Processing](#image-processing)
+  - [Video](#video)
+- [Monitoring & Observability](#monitoring--observability)
+- [Productivity](#productivity)
+  - [Atlassian](#atlassian)
+  - [Collaboration](#collaboration)
+  - [Documents](#documents)
+  - [Google Workspace](#google-workspace)
+  - [Helpdesk & Support](#helpdesk--support)
+  - [Learning & Flashcards](#learning--flashcards)
+  - [Microsoft 365](#microsoft-365)
+  - [Note-taking & Docs](#note-taking--docs)
+  - [Notion](#notion)
+  - [Obsidian](#obsidian)
+  - [Project Management](#project-management)
+  - [Tasks & Calendar](#tasks--calendar)
+  - [Wiki & Collaboration](#wiki--collaboration)
+- [Research & Science](#research--science)
+- [Sandboxing & Execution](#sandboxing--execution)
+- [Search & Extraction](#search--extraction)
+  - [Academic Research](#academic-research)
+  - [Data APIs](#data-apis)
+  - [News & Content](#news--content)
+  - [Web Search Engines](#web-search-engines)
+- [Security](#security)
+  - [Identity & Access](#identity--access)
+  - [MCP Security](#mcp-security)
+  - [Network & Firewall](#network--firewall)
+  - [Pentesting & OSINT](#pentesting--osint)
+  - [Reverse Engineering](#reverse-engineering)
+  - [SIEM & SecOps](#siem--secops)
+- [Social Media](#social-media)
+- [Sports](#sports)
+- [Text-to-Speech](#text-to-speech)
+- [Translation](#translation)
+- [Travel & Transport](#travel--transport)
+- [Web Scraping](#web-scraping)
+
+
+## AI Agents
+
+### Code Assistants
+
+- [oraios/serena](https://github.com/oraios/serena) — Semantic code retrieval and editing toolkit ☆`23,007`
+- [zilliztech/claude-context](https://github.com/zilliztech/claude-context) — Code search for Claude Code agents ☆`5,939`
+- [CodeGraphContext/CodeGraphContext](https://github.com/CodeGraphContext/CodeGraphContext) — Code graph indexing for AI context ☆`2,970`
+- [ezyang/codemcp](https://github.com/ezyang/codemcp) — Coding assistant MCP for Claude Desktop ☆`1,615`
+- [ref-tools/ref-tools-mcp](https://github.com/ref-tools/ref-tools-mcp) — Reference tools for coding agents ☆`1,079`
+- [SDGLBL/mcp-claude-code](https://github.com/SDGLBL/mcp-claude-code) — MCP implementation of Claude Code capabilities and more ☆`298`
+- [stippi/code-assistant](https://github.com/stippi/code-assistant) — LLM-powered autonomous coding assistant ☆`160`
+- [lamemind/mcp-server-multiverse](https://github.com/lamemind/mcp-server-multiverse) — MCP server for multiverse context management ☆`76`
+- [wende/cicada](https://github.com/wende/cicada) — AI Coders search blindly. Be their guide. ☆`35`
+- [gabrielmaialva33/winx-code-agent](https://github.com/gabrielmaialva33/winx-code-agent) — MCP-powered code agent for development ☆`26`
+- [x51xxx/codex-mcp-tool](https://github.com/x51xxx/codex-mcp-tool) — Claude/Cursor to Codex CLI bridge with multi-turn sessions ☆`21`
+- [VertexStudio/developer](https://github.com/VertexStudio/developer) — File editing, shell execution, screen capture ☆`19`
+### Human-in-the-Loop
+
+- [ttommyth/interactive-mcp](https://github.com/ttommyth/interactive-mcp) — Interactive MCP server for human-in-the-loop AI ☆`342`
+- [RapidataAI/human-use](https://github.com/RapidataAI/human-use) — Enable AI to ask anyone anything ☆`72`
+- [gotohuman/gotohuman-mcp-server](https://github.com/gotohuman/gotohuman-mcp-server) — Human approvals for AI agentic workflows ☆`54`
+- [nazar256/user-prompt-mcp](https://github.com/nazar256/user-prompt-mcp) — User input requests for Cursor ☆`21`
+### Multi-Agent
+
+- [rinadelph/Agent-MCP](https://github.com/rinadelph/Agent-MCP) — Multi-agent AI collaboration framework ☆`1,219`
+- [roboticforce/sugar](https://github.com/roboticforce/sugar) — Persistent memory for AI coding agents. Cross-session context, global knowledge, and autonomous task execution. ☆`70`
+### Reasoning & Prompts
+
+- [PV-Bhat/vibe-check-mcp-server](https://github.com/PV-Bhat/vibe-check-mcp-server) — Mentor-like feedback tool preventing AI over-engineering ☆`481`
+- [Rai220/think-mcp](https://github.com/Rai220/think-mcp) — MCP Server for reasoning ☆`99`
+- [hyperb1iss/lucidity-mcp](https://github.com/hyperb1iss/lucidity-mcp) — MCP server for enhanced AI clarity and reasoning ☆`84`
+- [YuChenSSR/multi-ai-advisor-mcp](https://github.com/YuChenSSR/multi-ai-advisor-mcp) — council of models for decision ☆`78`
+- [nikkoxgonzales/crash-mcp](https://github.com/nikkoxgonzales/crash-mcp) — Structured reasoning with step validation ☆`68`
+- [ooples/token-optimizer-mcp](https://github.com/ooples/token-optimizer-mcp) — Token optimization with caching and compression ☆`48`
+- [gwbischof/free-will-mcp](https://github.com/gwbischof/free-will-mcp) — Experimental AI self-prompting MCP server ☆`36`
+- [vasayxtx/mcp-prompt-engine](https://github.com/vasayxtx/mcp-prompt-engine) — MCP Prompt Engine ☆`16`
+- [aquarius-wing/actor-critic-thinking-mcp](https://github.com/aquarius-wing/actor-critic-thinking-mcp) — Dual-perspective thinking analysis server ☆`32`
+- [abhinav-mangla/inner-monologue-mcp](https://github.com/abhinav-mangla/inner-monologue-mcp) — Inner Monologue MCP Server ☆`17`
+## AI Memory & RAG
+
+### Memory
+
+- [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) — Hindsight: Agent Memory That Learns ☆`9,337`
+- [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) — AI conversations that remember context ☆`2,870`
+- [gannonh/memento-mcp](https://github.com/gannonh/memento-mcp) — Memento MCP: A Knowledge Graph Memory System for LLMs ☆`413`
+- [agentic-box/memora](https://github.com/agentic-box/memora) — Persistent shared memories in SQLite ☆`391`
+- [CheMiguel23/MemoryMesh](https://github.com/CheMiguel23/MemoryMesh) — MCP server for knowledge graph memory ☆`339`
+- [jean-technologies/jean-memory](https://github.com/jean-technologies/jean-memory) — AI memory with mem0 and graphiti ☆`169`
+- [pi22by7/In-Memoria](https://github.com/pi22by7/In-Memoria) — Persistent Intelligence Infrastructure for AI Agents ☆`165`
+- [redleaves/context-keeper](https://github.com/redleaves/context-keeper) — Intelligent memory and context for AI agents ☆`143`
+- [knowall-ai/mcp-neo4j-agent-memory](https://github.com/knowall-ai/mcp-neo4j-agent-memory) — Memory management using Neo4j graphs ☆`67`
+- [peless/claude-thread-continuity](https://github.com/peless/claude-thread-continuity) — Save and restore project context ☆`66`
+- [hungryrobot1/MCP-PIF](https://github.com/hungryrobot1/MCP-PIF) — Personal intelligence framework in Haskell ☆`57`
+- [ukkit/memcord](https://github.com/ukkit/memcord) — MCP server for memory and context management ☆`41`
+- [Yuchen20/Memory-Plus](https://github.com/Yuchen20/Memory-Plus) — Enhanced persistent memory management ☆`56`
+- [skydeckai/mcp-server-rememberizer](https://github.com/skydeckai/mcp-server-rememberizer) — An MCP Server to enable global access to Rememberizer ☆`35`
+- [JamesANZ/memory-mcp](https://github.com/JamesANZ/memory-mcp) — A simple MCP server that stores and retrieves memories from multiple LLMs. ☆`16`
+- [hubertciebiada/context-crystallizer](https://github.com/hubertciebiada/context-crystallizer) — Large repos into AI-consumable knowledge for agents ☆`17`
+- [ssmirnovpro/extended-memory-mcp](https://github.com/ssmirnovpro/extended-memory-mcp) — Cross-session persistent memory for Claude Desktop ☆`19`
+- [unibaseio/membase-mcp](https://github.com/unibaseio/membase-mcp) — Decentralized memory layer for AI agents ☆`17`
+### RAG
+
+- [apecloud/ApeRAG](https://github.com/apecloud/ApeRAG) — Production GraphRAG with multi-modal ☆`1,144`
+- [dmayboroda/minima](https://github.com/dmayboroda/minima) — On-premises conversational RAG with configurable containers ☆`1,041`
+- [GreatScottyMac/context-portal](https://github.com/GreatScottyMac/context-portal) — Memory bank MCP with knowledge graph ☆`761`
+- [graphlit/graphlit-mcp-server](https://github.com/graphlit/graphlit-mcp-server) — Model Context Protocol (MCP) Server for Graphlit Platform ☆`374`
+- [hannesrudolph/mcp-ragdocs](https://github.com/hannesrudolph/mcp-ragdocs) — MCP server for RAG document retrieval ☆`257`
+- [shinpr/mcp-local-rag](https://github.com/shinpr/mcp-local-rag) — MCP server for local RAG operations ☆`222`
+- [ragieai/ragie-mcp-server](https://github.com/ragieai/ragie-mcp-server) — Ragie Model Context Protocol Server ☆`87`
+- [needle-ai/needle-mcp](https://github.com/needle-ai/needle-mcp) — Needle MCP Server for easy RAG.Long-term memory for LLMs. ☆`97`
+- [run-llama/mcp-server-llamacloud](https://github.com/run-llama/mcp-server-llamacloud) — LlamaCloud managed indexes connection ☆`86`
+- [nonatofabio/local_faiss_mcp](https://github.com/nonatofabio/local_faiss_mcp) — Local FAISS MCP - semantic search for Claude/Copilot ☆`27`
+- [pinecone-io/assistant-mcp](https://github.com/pinecone-io/assistant-mcp) — Pinecone Assistant MCP server ☆`41`
+- [vectara/vectara-mcp](https://github.com/vectara/vectara-mcp) — Open source MCP server for Vectara ☆`27`
+- [agentset-ai/mcp-server](https://github.com/agentset-ai/mcp-server) — Agentset MCP Server - Build RAG with Agentic superpowers ☆`26`
+- [renl/mcp-rag-local](https://github.com/renl/mcp-rag-local) — Local RAG with Ollama embeddings and ChromaDB ☆`18`
+## AI Platforms
+
+- [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) — Build AI systems with Evals, RAG, Agents, fine-tuning ☆`4,753`
+- [paiml/paiml-mcp-agent-toolkit](https://github.com/paiml/paiml-mcp-agent-toolkit) — Pragmatic AI Labs toolkit for deterministic agents ☆`148`
+- [IBM/wxflows](https://github.com/IBM/wxflows) — watsonx.ai Flows AI app tutorials ☆`117`
+- [TheRaLabs/legion-mcp](https://github.com/TheRaLabs/legion-mcp) — MCP server for Legion AI platform ☆`88`
+- [ai-1st/deepview-mcp](https://github.com/ai-1st/deepview-mcp) — MCP server for DeepView AI analysis ☆`67`
+- [PromptExecution/just-mcp](https://github.com/PromptExecution/just-mcp) — mcp server for just ☆`48`
+- [atlanhq/agent-toolkit](https://github.com/atlanhq/agent-toolkit) — Atlan AI Agent Toolkit ☆`29`
+- [OctoMind-dev/octomind-mcp](https://github.com/OctoMind-dev/octomind-mcp) — An MCP server for octomind tools, resources and prompts ☆`22`
+- [StitchAI/stitch-ai-mcp](https://github.com/StitchAI/stitch-ai-mcp) — Decentralized Knowledge Hub for AI ☆`37`
+- [DumplingAI/mcp-server-dumplingai](https://github.com/DumplingAI/mcp-server-dumplingai) — MCP (Model Context Protocol) server for Dumpling AI ☆`29`
+- [sequa-ai/sequa-mcp](https://github.com/sequa-ai/sequa-mcp) — MCP server for Sequa AI platform ☆`21`
+- [PV-Bhat/gemsuite-mcp](https://github.com/PV-Bhat/gemsuite-mcp) — MCP server for GemSuite tools ☆`29`
+- [iflytek/ifly-workflow-mcp-server](https://github.com/iflytek/ifly-workflow-mcp-server) — MCP server for iFlytek workflows ☆`27`
+## Aggregators & Gateways
+
+### Aggregators
+
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) — Query Engine for AI Analytics - self-reasoning agents on live data ☆`38,988`
+- [metatool-ai/metamcp](https://github.com/metatool-ai/metamcp) — MCP Aggregator, Orchestrator, Middleware, Gateway in one docker ☆`2,216`
+- [mcpjungle/MCPJungle](https://github.com/mcpjungle/MCPJungle) — Self-hosted MCP Gateway for AI agents ☆`963`
+- [1mcp-app/agent](https://github.com/1mcp-app/agent) — Unified MCP server aggregator ☆`413`
+- [K-Dense-AI/claude-skills-mcp](https://github.com/K-Dense-AI/claude-skills-mcp) — Claude Agent Skills vector search ☆`375`
+- [Intelligent-Internet/gemini-cli-mcp-openai-bridge](https://github.com/Intelligent-Internet/gemini-cli-mcp-openai-bridge) — Gemini CLI to MCP/OpenAI bridge ☆`137`
+- [sitbon/magg](https://github.com/sitbon/magg) — Magg: The MCP Aggregator ☆`133`
+- [wanaku-ai/wanaku](https://github.com/wanaku-ai/wanaku) — Wanaku MCP Router ☆`109`
+- [badkk/awesome-crypto-mcp-servers](https://github.com/badkk/awesome-crypto-mcp-servers) — A collection of crypto MCP servers. ☆`131`
+- [portel-dev/ncp](https://github.com/portel-dev/ncp) — Natural Context Provider with smart MCP tool loading ☆`81`
+- [askbudi/roundtable](https://github.com/askbudi/roundtable) — Zero-config MCP unifying multiple AI coding assistants ☆`99`
+- [nguyenvanduocit/all-in-one-model-context-protocol](https://github.com/nguyenvanduocit/all-in-one-model-context-protocol) — GitLab, Jira, Confluence, YouTube ☆`103`
+- [VeriTeknik/pluggedin-mcp](https://github.com/VeriTeknik/pluggedin-mcp) — Plugged.in MCP Server manages all your other MCPs in one MCP. ☆`50`
+- [hamidra/yamcp](https://github.com/hamidra/yamcp) — Local MCP workspace organization ☆`65`
+- [membranehq/mcp-server](https://github.com/membranehq/mcp-server) — MCP Server for Membrane ☆`35`
+- [gotoolkits/mcp-difyworkflow-server](https://github.com/gotoolkits/mcp-difyworkflow-server) — MCP server for Dify workflow invocation ☆`59`
+- [bh-rat/context-awesome](https://github.com/bh-rat/context-awesome) — awesome-lists now available as MCP server for you agent. ☆`47`
+- [waystation-ai/mcp](https://github.com/waystation-ai/mcp) — No-code secure MCP integration hub ☆`45`
+- [wojtyniak/mcp-mcp](https://github.com/wojtyniak/mcp-mcp) — Meta-MCP for tool discovery and provisioning ☆`22`
+- [nazar256/combine-mcp](https://github.com/nazar256/combine-mcp) — MCP aggregator combining multiple servers into one interface ☆`32`
+- [glenngillen/mcpmcp-server](https://github.com/glenngillen/mcpmcp-server) — MCP server aggregator and router ☆`31`
+- [agree-able/room-mcp](https://github.com/agree-able/room-mcp) — Coordinate agents using rooms ☆`22`
+### Gateways & Proxies
+
+- [apache/apisix](https://github.com/apache/apisix) — The Cloud-Native API Gateway and AI Gateway ☆`16,453`
+- [sparfenyuk/mcp-proxy](https://github.com/sparfenyuk/mcp-proxy) — A bridge between Streamable HTTP and stdio MCP transports ☆`2,426`
+- [stacklok/toolhive](https://github.com/stacklok/toolhive) — Runtime and gateway for deploying MCP servers in containers ☆`1,716`
+- [tbxark/mcp-proxy](https://github.com/tbxark/mcp-proxy) — Aggregate multiple MCP servers via HTTP ☆`677`
+- [smart-mcp-proxy/mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) — Supercharge AI Agents, Safely ☆`187`
+- [ssut/Remote-MCP](https://github.com/ssut/Remote-MCP) — Type-safe solution for remote MCP communication ☆`205`
+- [sxhxliang/mcp-access-point](https://github.com/sxhxliang/mcp-access-point) — Convert any web server to MCP instantly ☆`169`
+- [toolprint/hypertool-mcp](https://github.com/toolprint/hypertool-mcp) — Expose tools based on Agent Persona ☆`151`
+- [VeriTeknik/pluggedin-mcp-proxy](https://github.com/VeriTeknik/pluggedin-mcp-proxy) — Unified MCP proxy managing multiple MCPs ☆`127`
+- [tigranbs/mcgravity](https://github.com/tigranbs/mcgravity) — Proxy for composing multiple MCP servers into one endpoint ☆`93`
+- [universal-mcp/universal-mcp](https://github.com/universal-mcp/universal-mcp) — Middleware for API applications ☆`25`
+- [pyroprompts/mcp-stdio-to-streamable-http-adapter](https://github.com/pyroprompts/mcp-stdio-to-streamable-http-adapter) — STDIO to Streamable HTTP proxy ☆`26`
+- [webrix-ai/secure-mcp-gateway](https://github.com/webrix-ai/secure-mcp-gateway) — Secure OAuth gateway for MCP authentication ☆`18`
+- [nick1udwig/ws-mcp](https://github.com/nick1udwig/ws-mcp) — MCP server with WebSocket transport ☆`19`
+### Platforms & Registries
+
+- [archestra-ai/archestra](https://github.com/archestra-ai/archestra) — Enterprise AI Platform with guardrails, MCP registry, gateway & orchestrator ☆`3,564`
+- [metorial/metorial](https://github.com/metorial/metorial) — Connect any AI model to 600+ integrations; powered by MCP ☆`3,248`
+- [chatmcp/mcpso](https://github.com/chatmcp/mcpso) — directory for Awesome MCP Servers ☆`1,993`
+- [julien040/anyquery](https://github.com/julien040/anyquery) — SQL queries for GitHub, Notion, +40 more ☆`1,664`
+- [jaw9c/awesome-remote-mcp-servers](https://github.com/jaw9c/awesome-remote-mcp-servers) — Remote MCP Servers ☆`1,042`
+- [boltmcp/boltmcp](https://github.com/boltmcp/boltmcp) — Open standard and registry for converting web APIs into MCP servers ☆`343`
+- [milisp/mcp-linker](https://github.com/milisp/mcp-linker) — Sync MCP configs across clients ☆`304`
+- [liuyoshio/mcp-compass](https://github.com/liuyoshio/mcp-compass) — MCP discovery and recommendation ☆`229`
+- [integromat/make-mcp-server](https://github.com/integromat/make-mcp-server) — Make MCP Server ☆`154`
+- [Jeamee/MCPHub-Desktop](https://github.com/Jeamee/MCPHub-Desktop) — Desktop APP for Discover and Install MCP Servers ☆`148`
+- [juspay/neurolink](https://github.com/juspay/neurolink) — Universal AI platform with MCP and multi-provider support ☆`79`
+- [matthewdcage/cursor-mcp-installer](https://github.com/matthewdcage/cursor-mcp-installer) — Install MCPs in Cursor from git URL ☆`75`
+- [rust-mcp-stack/mcp-discovery](https://github.com/rust-mcp-stack/mcp-discovery) — CLI for discovering MCP server capabilities ☆`82`
+- [useparagon/paragon-mcp](https://github.com/useparagon/paragon-mcp) — Access 130+ SaaS integrations via ActionKit ☆`46`
+- [VeyraX/veyrax-mcp](https://github.com/VeyraX/veyrax-mcp) — VeyraX unified tool access via single MCP ☆`49`
+## Browser Automation
+
+### AI Automation
+
+- [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) — Automate browser based workflows with AI ☆`21,161`
+- [nottelabs/notte](https://github.com/nottelabs/notte) — Framework to build web agents ☆`1,932`
+- [imprvhub/mcp-browser-agent](https://github.com/imprvhub/mcp-browser-agent) — MCP server for autonomous browser automation with Claude ☆`37`
+- [getrupt/ashra-mcp](https://github.com/getrupt/ashra-mcp) — A Model Context Protocol server for Ashra ☆`60`
+- [desplega-ai/qa-use](https://github.com/desplega-ai/qa-use) — Agent-first E2E testing CLI ☆`20`
+### Browser Tools
+
+- [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp) — Browser control for AI applications ☆`6,350`
+- [kontext-security/browser-use-mcp-server](https://github.com/kontext-security/browser-use-mcp-server) — Browse the web, directly from Cursor etc. ☆`818`
+- [ndthanhdev/mcp-browser-kit](https://github.com/ndthanhdev/mcp-browser-kit) — AI assistants interact with local browser ☆`51`
+- [onllm-dev/onUI](https://github.com/onllm-dev/onUI) — Browser extension and MCP server for annotation-first UI pair programming with AI agents ☆`43`
+- [BB-fat/browser-use-rs](https://github.com/BB-fat/browser-use-rs) — Rust-based browser automation MCP server ☆`34`
+### Cloud Services
+
+- [browserbase/mcp-server-browserbase](https://github.com/browserbase/mcp-server-browserbase) — Browser control with Browserbase ☆`3,258`
+- [hyperbrowserai/mcp](https://github.com/hyperbrowserai/mcp) — A MCP server implementation for hyperbrowser ☆`755`
+- [browserstack/mcp-server](https://github.com/browserstack/mcp-server) — BrowserStack's Official MCP Server ☆`136`
+- [kernel/kernel-mcp-server](https://github.com/kernel/kernel-mcp-server) — Secure cloud-browser automation on Kernel ☆`28`
+### DevTools
+
+- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) — Chrome DevTools for coding agents ☆`35,330`
+- [eyalzh/browser-control-mcp](https://github.com/eyalzh/browser-control-mcp) — Browser control via extension for AI agents ☆`268`
+- [mozilla/firefox-devtools-mcp](https://github.com/mozilla/firefox-devtools-mcp) — MCP server for Firefox DevTools integration ☆`114`
+### Playwright
+
+- [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) — Playwright MCP server ☆`30,917`
+- [executeautomation/mcp-playwright](https://github.com/executeautomation/mcp-playwright) — MCP server for Playwright browser testing ☆`5,436`
+- [VikashLoomba/MCP-Server-Playwright](https://github.com/VikashLoomba/MCP-Server-Playwright) — MCP server for browser automation using Playwright ☆`284`
+- [blackwhite084/playwright-plus-python-mcp](https://github.com/blackwhite084/playwright-plus-python-mcp) — Enhanced Playwright browser automation ☆`183`
+- [kimtth/mcp-aoai-web-browsing](https://github.com/kimtth/mcp-aoai-web-browsing) — Azure OpenAI with Playwright browser control ☆`32`
+## CLI Tools
+
+- [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) — Terminal control, file search, diff editing ☆`5,901`
+- [IBM/mcp-cli](https://github.com/IBM/mcp-cli) — Feature-rich CLI for interacting with MCP servers ☆`1,945`
+- [rusiaaman/wcgw](https://github.com/rusiaaman/wcgw) — Shell and coding agent on mcp clients ☆`655`
+- [ferrislucas/iterm-mcp](https://github.com/ferrislucas/iterm-mcp) — iTerm command execution for REPL/CLI ☆`549`
+- [baryhuang/mcp-remote-macos-use](https://github.com/baryhuang/mcp-remote-macos-use) — AI agent for full Mac control ☆`473`
+- [peakmojo/applescript-mcp](https://github.com/peakmojo/applescript-mcp) — Execute AppleScript for Mac control ☆`448`
+- [wong2/mcp-cli](https://github.com/wong2/mcp-cli) — A CLI inspector for the Model Context Protocol ☆`429`
+- [tufantunc/ssh-mcp](https://github.com/tufantunc/ssh-mcp) — SSH control for Linux servers ☆`386`
+- [classfang/ssh-mcp-server](https://github.com/classfang/ssh-mcp-server) — SSH MCP server included in official repo ☆`324`
+- [claude-did-this/MCPControl](https://github.com/claude-did-this/MCPControl) — MCP server for Windows OS automation ☆`313`
+- [nickgnd/tmux-mcp](https://github.com/nickgnd/tmux-mcp) — A MCP server for our beloved terminal multiplexer tmux. ☆`259`
+- [g0t4/mcp-server-commands](https://github.com/g0t4/mcp-server-commands) — MCP server to run commands (runProcess tool) ☆`224`
+- [domdomegg/computer-use-mcp](https://github.com/domdomegg/computer-use-mcp) — Full computer control for AI models ☆`213`
+- [dvcrn/mcp-server-siri-shortcuts](https://github.com/dvcrn/mcp-server-siri-shortcuts) — MCP for calling Siri Shorcuts from LLMs ☆`183`
+- [tumf/mcp-shell-server](https://github.com/tumf/mcp-shell-server) — Shell execution with whitelisted commands ☆`173`
+- [MladenSU/cli-mcp-server](https://github.com/MladenSU/cli-mcp-server) — CLI with secure execution and custom policies ☆`168`
+- [AB498/computer-control-mcp](https://github.com/AB498/computer-control-mcp) — Mouse, keyboard, OCR via PyAutoGUI ☆`136`
+- [automateyournetwork/pyATS_MCP](https://github.com/automateyournetwork/pyATS_MCP) — An MCP Server for pyATS (experimental) ☆`70`
+- [sonirico/mcp-shell](https://github.com/sonirico/mcp-shell) — Secure, auditable shell commands for AI ☆`71`
+- [inercia/MCPShell](https://github.com/inercia/MCPShell) — Use shell scripts as MCP tools ☆`62`
+- [NakaokaRei/swift-mcp-gui](https://github.com/NakaokaRei/swift-mcp-gui) — Keyboard and mouse control on macOS ☆`57`
+- [nihalxkumar/arch-mcp](https://github.com/nihalxkumar/arch-mcp) — Arch Linux MCP (Model Context Protocol) Server ☆`36`
+- [ooples/mcp-console-automation](https://github.com/ooples/mcp-console-automation) — MCP for AI-driven console automation and monitoring ☆`28`
+- [maxim-saplin/mcp_safe_local_python_executor](https://github.com/maxim-saplin/mcp_safe_local_python_executor) — Safe Python executor from smolagents ☆`44`
+- [InsForge/insforge-mcp](https://github.com/InsForge/insforge-mcp) — MCP server for InsForge - full-stack builders for coding agents ☆`23`
+- [PhialsBasement/CMD-MCP-Server](https://github.com/PhialsBasement/CMD-MCP-Server) — CMD command execution for Claude agents ☆`24`
+- [Beer-Bears/scaffold](https://github.com/Beer-Bears/scaffold) — Structural RAG system for large codebases ☆`16`
+- [erniebrodeur/mcp-grep](https://github.com/erniebrodeur/mcp-grep) — simple mcp server to wrap the local instance of grep. ☆`24`
+- [JoshuaRileyDev/mac-apps-launcher](https://github.com/JoshuaRileyDev/mac-apps-launcher) — Launch and manage macOS applications ☆`18`
+## CRM & ERP
+
+- [ivnvxd/mcp-server-odoo](https://github.com/ivnvxd/mcp-server-odoo) — MCP server for Odoo ERP integration ☆`244`
+- [GeLi2001/shopify-mcp](https://github.com/GeLi2001/shopify-mcp) — Shopify API for Claude and Cursor ☆`194`
+- [smn2gnt/MCP-Salesforce](https://github.com/smn2gnt/MCP-Salesforce) — MCP Salesforce connector ☆`173`
+- [tsmztech/mcp-server-salesforce](https://github.com/tsmztech/mcp-server-salesforce) — Salesforce MCP Server ☆`152`
+- [augmnt/augments-mcp-server](https://github.com/augmnt/augments-mcp-server) — MCP server for Augments AI platform ☆`120`
+- [baryhuang/mcp-hubspot](https://github.com/baryhuang/mcp-hubspot) — HubSpot CRM integration for AI assistants ☆`121`
+- [tomaspavlin/rohlik-mcp](https://github.com/tomaspavlin/rohlik-mcp) — Shop groceries on Rohlik Group platforms ☆`106`
+- [mafzaal/d365fo-client](https://github.com/mafzaal/d365fo-client) — Client for Microsoft Dynamics 365 F&O ☆`27`
+- [AiondaDotCom/mcp-salesforce](https://github.com/AiondaDotCom/mcp-salesforce) — Complete MCP (Model Context Protocol) server for Salesforce integration with Claude Desktop. Provides seamless OAuth authentication, universal CRUD operations on any Salesforce object. ☆`16`
+## Cloud & Infrastructure
+
+### AWS
+
+- [awslabs/mcp](https://github.com/awslabs/mcp) — AWS MCP servers for AI assistants ☆`8,782`
+- [alexei-led/aws-mcp-server](https://github.com/alexei-led/aws-mcp-server) — AWS CLI in containerized environment ☆`181`
+- [aarora79/aws-cost-explorer-mcp-server](https://github.com/aarora79/aws-cost-explorer-mcp-server) — MCP server for understanding AWS spend ☆`126`
+- [rishikavikondala/mcp-server-aws](https://github.com/rishikavikondala/mcp-server-aws) — MCP server for AWS resource operations ☆`127`
+- [aws-samples/sample-mcp-server-s3](https://github.com/aws-samples/sample-mcp-server-s3) — Retrieve PDFs and data from AWS S3 ☆`78`
+- [aws-powertools/powertools-mcp](https://github.com/aws-powertools/powertools-mcp) — Powertools for AWS's official MCP Server ☆`43`
+- [localstack/localstack-mcp-server](https://github.com/localstack/localstack-mcp-server) — LocalStack AWS emulation ☆`23`
+- [baryhuang/mcp-server-aws-resources-python](https://github.com/baryhuang/mcp-server-aws-resources-python) — Run boto3 code to manage AWS resources ☆`24`
+- [trilogy-group/aws-pricing-mcp](https://github.com/trilogy-group/aws-pricing-mcp) — AWS EC2 pricing search by CPU, RAM, network ☆`20`
+### Cloud Platforms
+
+- [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) — Cloudflare services management ☆`3,612`
+- [microsoft/azure-devops-mcp](https://github.com/microsoft/azure-devops-mcp) — Azure DevOps integration for AI agents ☆`1,571`
+- [TencentCloudBase/CloudBase-MCP](https://github.com/TencentCloudBase/CloudBase-MCP) — Connect CloudBase to AI agents ☆`991`
+- [GoogleCloudPlatform/cloud-run-mcp](https://github.com/GoogleCloudPlatform/cloud-run-mcp) — MCP server to deploy apps to Cloud Run ☆`591`
+- [babelcloud/gbox](https://github.com/babelcloud/gbox) — AI control for Android, browser, desktop ☆`172`
+- [aliyun/alibaba-cloud-ops-mcp-server](https://github.com/aliyun/alibaba-cloud-ops-mcp-server) — AlibabaCloud CloudOps MCP Server ☆`109`
+- [aliyun/alibabacloud-devops-mcp-server](https://github.com/aliyun/alibabacloud-devops-mcp-server) — MCP server for Alibaba Yunxiao DevOps platform ☆`93`
+- [heroku/heroku-mcp-server](https://github.com/heroku/heroku-mcp-server) — Heroku Platform MCP Server using the Heroku CLI ☆`77`
+- [vantage-sh/vantage-mcp-server](https://github.com/vantage-sh/vantage-mcp-server) — Fetch costs and usage from Vantage ☆`79`
+- [dkruyt/mcp-hetzner](https://github.com/dkruyt/mcp-hetzner) — Hetzner Cloud management ☆`95`
+- [aliyun/alibabacloud-dataworks-mcp-server](https://github.com/aliyun/alibabacloud-dataworks-mcp-server) — Alibaba Cloud DataWorks API integration ☆`35`
+- [aliyun/alibabacloud-hologres-mcp-server](https://github.com/aliyun/alibabacloud-hologres-mcp-server) — MCP server for Alibaba Hologres data warehouse ☆`32`
+- [aantti/mcp-netbird](https://github.com/aantti/mcp-netbird) — Netbird network management ☆`45`
+- [kestra-io/mcp-server-python](https://github.com/kestra-io/mcp-server-python) — Python MCP for Kestra AI Agents ☆`24`
+- [call518/MCP-OpenStack-Ops](https://github.com/call518/MCP-OpenStack-Ops) — MCP server providing OpenStack project management ☆`23`
+- [redis/mcp-redis-cloud](https://github.com/redis/mcp-redis-cloud) — MCP server for Redis Cloud database operations ☆`39`
+- [qiniu/qiniu-mcp-server](https://github.com/qiniu/qiniu-mcp-server) — Qiniu Cloud storage, CDN, and media processing ☆`35`
+- [api7/apisix-mcp](https://github.com/api7/apisix-mcp) — APISIX gateway for LLM integration ☆`36`
+- [Azure-Samples/mcp](https://github.com/Azure-Samples/mcp) — Samples and resources for Azure MCP ☆`40`
+- [pibblokto/cert-manager-mcp-server](https://github.com/pibblokto/cert-manager-mcp-server) — MCP Server for cert-manager ☆`23`
+- [hardik-id/azure-resource-graph-mcp-server](https://github.com/hardik-id/azure-resource-graph-mcp-server) — Azure Resource Graph query interface ☆`17`
+- [higress-group/higress-ops-mcp-server](https://github.com/higress-group/higress-ops-mcp-server) — Higress API gateway configuration management ☆`22`
+- [kocierik/consul-mcp-server](https://github.com/kocierik/consul-mcp-server) — A consul MCP Server (modelcontextprotocol) ☆`16`
+### Kubernetes
+
+- [containers/kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server) — Kubernetes and OpenShift management ☆`1,445`
+- [Flux159/mcp-server-kubernetes](https://github.com/Flux159/mcp-server-kubernetes) — MCP Server for kubernetes management commands ☆`1,377`
+- [rohitg00/kubectl-mcp-server](https://github.com/rohitg00/kubectl-mcp-server) — Kubernetes cluster chat with Claude/Cursor ☆`869`
+- [weibaohui/k8m](https://github.com/weibaohui/k8m) — Mini Kubernetes AI Dashboard ☆`806`
+- [strowk/mcp-k8s-go](https://github.com/strowk/mcp-k8s-go) — Go-based Kubernetes connection ☆`379`
+- [vfarcic/dot-ai](https://github.com/vfarcic/dot-ai) — Deploy apps to any Kubernetes cluster ☆`311`
+- [alexei-led/k8s-mcp-server](https://github.com/alexei-led/k8s-mcp-server) — Kubernetes cluster management ☆`207`
+- [reza-gholizade/k8s-mcp-server](https://github.com/reza-gholizade/k8s-mcp-server) — Kubernetes cluster management ☆`153`
+- [weibaohui/kom](https://github.com/weibaohui/kom) — Kubernetes SDK wrapping kubectl ☆`148`
+- [silenceper/mcp-k8s](https://github.com/silenceper/mcp-k8s) — Kubernetes cluster interaction ☆`143`
+- [portainer/portainer-mcp](https://github.com/portainer/portainer-mcp) — Portainer container management ☆`138`
+- [StacklokLabs/mkp](https://github.com/StacklokLabs/mkp) — MKP Kubernetes MCP server ☆`57`
+- [cyclops-ui/mcp-cyclops](https://github.com/cyclops-ui/mcp-cyclops) — Cyclops Kubernetes management ☆`30`
+- [wenhuwang/mcp-k8s-eye](https://github.com/wenhuwang/mcp-k8s-eye) — Kubernetes diagnosis and management ☆`28`
+### Virtualization & IaC
+
+- [hashicorp/terraform-mcp-server](https://github.com/hashicorp/terraform-mcp-server) — Terraform ecosystem integration for AI ☆`1,327`
+- [nwiizo/tfmcp](https://github.com/nwiizo/tfmcp) — Terraform AI-assisted infrastructure ☆`362`
+- [1Panel-dev/mcp-1panel](https://github.com/1Panel-dev/mcp-1panel) — MCP server for 1Panel management ☆`146`
+- [kocierik/mcp-nomad](https://github.com/kocierik/mcp-nomad) — A nomad MCP Server (modelcontextprotocol) ☆`47`
+- [bright8192/esxi-mcp-server](https://github.com/bright8192/esxi-mcp-server) — MCP server for VMware ESXi management ☆`57`
+- [jokemanfire/mcp-containerd](https://github.com/jokemanfire/mcp-containerd) — Use mcp to manage containerd(developing) ☆`53`
+- [openstack-kr/python-openstackmcp-server](https://github.com/openstack-kr/python-openstackmcp-server) — openstack mcp server ☆`18`
+- [severity1/terraform-cloud-mcp](https://github.com/severity1/terraform-cloud-mcp) — Terraform Cloud API integration ☆`23`
+## Communication & Messaging
+
+### Apple Messages
+
+- [mattt/iMCP](https://github.com/mattt/iMCP) — Access Messages, Contacts, Reminders on Mac ☆`1,371`
+- [carterlasalle/mac_messages_mcp](https://github.com/carterlasalle/mac_messages_mcp) — MCP server for secure iMessage database access on macOS ☆`269`
+- [hannesrudolph/imessage-query-fastmcp-mcp-server](https://github.com/hannesrudolph/imessage-query-fastmcp-mcp-server) — Safe iMessage database queries ☆`77`
+- [wyattjoh/imessage-mcp](https://github.com/wyattjoh/imessage-mcp) — iMessage data reading from macOS ☆`24`
+### Email
+
+- [elie222/inbox-zero](https://github.com/elie222/inbox-zero) — AI email assistant for inbox zero ☆`10,458`
+- [MadLlama25/fastmail-mcp](https://github.com/MadLlama25/fastmail-mcp) — Access to Fastmail API for AI assistants ☆`106`
+- [ZilongXue/claude-post](https://github.com/ZilongXue/claude-post) — Email management via natural language ☆`112`
+- [mailtrap/mailtrap-mcp](https://github.com/mailtrap/mailtrap-mcp) — Official mailtrap.io MCP server ☆`58`
+- [Shy2593666979/mcp-server-email](https://github.com/Shy2593666979/mcp-server-email) — Email with attachments for Gmail, Outlook, QQ ☆`74`
+- [mailgun/mailgun-mcp-server](https://github.com/mailgun/mailgun-mcp-server) — Mailgun API integration ☆`52`
+- [egyptianego17/email-mcp-server](https://github.com/egyptianego17/email-mcp-server) — Send emails with attachments via SMTP ☆`27`
+### Messengers
+
+- [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp) — WhatsApp MCP server ☆`5,510`
+- [chigwell/telegram-mcp](https://github.com/chigwell/telegram-mcp) — MCP server for Telegram messaging ☆`934`
+- [line/line-bot-mcp-server](https://github.com/line/line-bot-mcp-server) — LINE Messaging API for AI agents ☆`574`
+- [chaindead/telegram-mcp](https://github.com/chaindead/telegram-mcp) — Telegram dialogs, messages, drafts, statuses ☆`317`
+- [ztxtxwd/open-feishu-mcp-server](https://github.com/ztxtxwd/open-feishu-mcp-server) — Feishu/Lark OAuth and document management ☆`85`
+- [areweai/tsgram-mcp](https://github.com/areweai/tsgram-mcp) — Telegram for local Claude Code debug ☆`88`
+- [pubnub/pubnub-mcp-server](https://github.com/pubnub/pubnub-mcp-server) — PubNub Model Context Protocol Server ☆`30`
+- [mjknowles/matrix-mcp-server](https://github.com/mjknowles/matrix-mcp-server) — Matrix server integration and chat ☆`39`
+- [DLHellMe/telegram-mcp-server](https://github.com/DLHellMe/telegram-mcp-server) — Scrape and analyze Telegram content ☆`30`
+### Notifications
+
+- [gitmotion/ntfy-me-mcp](https://github.com/gitmotion/ntfy-me-mcp) — MCP server for ntfy push notifications ☆`56`
+- [Cactusinhand/mcp_server_notify](https://github.com/Cactusinhand/mcp_server_notify) — Send system notification when Agent task is done. ☆`51`
+- [aahl/mcp-notify](https://github.com/aahl/mcp-notify) — Notify to Weixin, Telegram, Bark, Lark, DingTalk ☆`31`
+- [infobip/mcp](https://github.com/infobip/mcp) — Infobip Remote MCP Servers Documentation ☆`29`
+- [teddyzxcv/ntfy-mcp](https://github.com/teddyzxcv/ntfy-mcp) — MCP server for ntfy push notifications ☆`44`
+- [AshikNesin/pushover-mcp](https://github.com/AshikNesin/pushover-mcp) — A MCP implementation for sending notifications via Pushover ☆`34`
+### Team Chat
+
+- [korotovsky/slack-mcp-server](https://github.com/korotovsky/slack-mcp-server) — MCP server for Slack workspace integration ☆`1,535`
+- [chatmcp/mcp-server-chatsum](https://github.com/chatmcp/mcp-server-chatsum) — Query and Summarize your chat messages. ☆`1,034`
+- [joinly-ai/joinly](https://github.com/joinly-ai/joinly) — Make your meetings accessible to AI Agents ☆`492`
+- [SaseQ/discord-mcp](https://github.com/SaseQ/discord-mcp) — MCP server for Discord integration ☆`263`
+- [v-3/discordmcp](https://github.com/v-3/discordmcp) — Discord MCP Server for Claude Integration ☆`196`
+- [discourse/discourse-mcp](https://github.com/discourse/discourse-mcp) — MCP client for Discourse sites ☆`52`
+- [zencoderai/slack-mcp-server](https://github.com/zencoderai/slack-mcp-server) — Slack workspace interaction and messaging ☆`66`
+- [jagan-shanmugam/mattermost-mcp-host](https://github.com/jagan-shanmugam/mattermost-mcp-host) — Mattermost integration with LangGraph agent ☆`31`
+### Voice & Telephony
+
+- [gerkensm/callcenter.js-mcp](https://github.com/gerkensm/callcenter.js-mcp) — Callcenter.JS AI Voice Agent VOIP Connector, MCP + CLI ☆`18`
+## Data & Analytics
+
+### AI/ML Platforms
+
+- [MigoXLab/dingo](https://github.com/MigoXLab/dingo) — AI data, model, app quality evaluation ☆`677`
+- [evalstate/mcp-hfspace](https://github.com/evalstate/mcp-hfspace) — HuggingFace Spaces integration ☆`385`
+- [YanxingLiu/dify-mcp-server](https://github.com/YanxingLiu/dify-mcp-server) — Model Context Protocol (MCP) Server for dify workflows ☆`275`
+- [0xshellming/mcp-summarizer](https://github.com/0xshellming/mcp-summarizer) — MCP Server for AI Summarization ☆`159`
+- [ChronulusAI/chronulus-mcp](https://github.com/ChronulusAI/chronulus-mcp) — Chronulus AI forecasting and prediction agents ☆`108`
+- [optuna/optuna-mcp](https://github.com/optuna/optuna-mcp) — Optuna hyperparameter optimization ☆`73`
+- [zenml-io/mcp-zenml](https://github.com/zenml-io/mcp-zenml) — ZenML MLOps platform connection ☆`44`
+- [arrismo/kaggle-mcp](https://github.com/arrismo/kaggle-mcp) — MCP server for Kaggle ☆`35`
+- [kumo-ai/kumo-rfm-mcp](https://github.com/kumo-ai/kumo-rfm-mcp) — MCP server to query KumoRFM in your agentic flows ☆`31`
+- [privetin/dataset-viewer](https://github.com/privetin/dataset-viewer) — MCP server for Hugging Face dataset viewer ☆`30`
+- [HumanSignal/label-studio-mcp-server](https://github.com/HumanSignal/label-studio-mcp-server) — MCP server for Label Studio data labeling ☆`30`
+### Data APIs
+
+- [YangLiangwei/PersonalizationMCP](https://github.com/YangLiangwei/PersonalizationMCP) — Personal data hub for AI from Steam, YouTube, Bilibili ☆`51`
+- [anshumax/world_bank_mcp_server](https://github.com/anshumax/world_bank_mcp_server) — World Bank open data API ☆`46`
+- [explorium-ai/mcp-explorium](https://github.com/explorium-ai/mcp-explorium) — Explorium B2B Data - MCP Server ☆`21`
+### Data Exploration
+
+- [reading-plus-ai/mcp-server-data-exploration](https://github.com/reading-plus-ai/mcp-server-data-exploration) — Interactive CSV data exploration ☆`532`
+- [kdqed/zaturn](https://github.com/kdqed/zaturn) — Data Analysis With Vibes ☆`73`
+- [brightlikethelight/networkx-mcp-server](https://github.com/brightlikethelight/networkx-mcp-server) — First NetworkX MCP server for graph analysis in AI conversations | Community & Enterprise editions | Graph algorithms • Network analysis • MCP integration ☆`16`
+- [santoshray02/csv-editor](https://github.com/santoshray02/csv-editor) — AI-powered CSV data manipulation and analysis ☆`22`
+### Data Platforms
+
+- [dbt-labs/dbt-mcp](https://github.com/dbt-labs/dbt-mcp) — A MCP (Model Context Protocol) server for interacting with dbt. ☆`538`
+- [kubeflow/mcp-apache-spark-history-server](https://github.com/kubeflow/mcp-apache-spark-history-server) — Apache Spark History Server bridge ☆`150`
+- [microsoft/fabric-rti-mcp](https://github.com/microsoft/fabric-rti-mcp) — Fabric Real-Time Intelligence server ☆`109`
+- [keboola/mcp-server](https://github.com/keboola/mcp-server) — Model Context Protocol (MCP) Server for the Keboola Platform ☆`84`
+- [acryldata/mcp-server-datahub](https://github.com/acryldata/mcp-server-datahub) — Official MCP server for DataHub ☆`72`
+- [RafaelCartenet/mcp-databricks-server](https://github.com/RafaelCartenet/mcp-databricks-server) — AI agents interact with Databricks ☆`40`
+- [JordiNeil/mcp-databricks-server](https://github.com/JordiNeil/mcp-databricks-server) — MCP Server for Databricks ☆`47`
+- [thoughtspot/mcp-server](https://github.com/thoughtspot/mcp-server) — The ThoughtSpot MCP Server ☆`30`
+- [aywengo/kafka-schema-reg-mcp](https://github.com/aywengo/kafka-schema-reg-mcp) — Kafka Schema Registry management ☆`30`
+- [growthbook/growthbook-mcp](https://github.com/growthbook/growthbook-mcp) — GrowthBook flags and experiments ☆`22`
+- [syucream/lightdash-mcp-server](https://github.com/syucream/lightdash-mcp-server) — Access to Lightdash analytics ☆`25`
+- [yangkyeongmo/mcp-server-openmetadata](https://github.com/yangkyeongmo/mcp-server-openmetadata) — OpenMetadata integration for data catalog ☆`23`
+- [mattijsdp/dbt-docs-mcp](https://github.com/mattijsdp/dbt-docs-mcp) — dbt documentation interaction ☆`23`
+- [datumnova/ms-fabric-mcp](https://github.com/datumnova/ms-fabric-mcp) —  ☆`16`
+- [ognis1205/mcp-server-unitycatalog](https://github.com/ognis1205/mcp-server-unitycatalog) — Unity Catalog AI Model Context Protocol Server ☆`16`
+### Jupyter & Notebooks
+
+- [datalayer/jupyter-mcp-server](https://github.com/datalayer/jupyter-mcp-server) — Model Context Protocol (MCP) Server for Jupyter. ☆`1,017`
+- [jjsantos01/jupyter-notebook-mcp](https://github.com/jjsantos01/jupyter-notebook-mcp) — A Model Context Protocol (MCP) for Jupyter Notebook ☆`126`
+- [phisanti/MCPR](https://github.com/phisanti/MCPR) — AI agents in interactive R sessions ☆`24`
+### Visualization
+
+- [antvis/mcp-server-chart](https://github.com/antvis/mcp-server-chart) — 25+ visual charts using @antvis for data analysis ☆`3,966`
+- [hustcc/mcp-echarts](https://github.com/hustcc/mcp-echarts) — ECharts visual charts with AI ☆`223`
+- [isaacwasserman/mcp-vegalite-server](https://github.com/isaacwasserman/mcp-vegalite-server) — MCP server for Vega-Lite data visualization ☆`96`
+- [palewire/datawrapper-mcp](https://github.com/palewire/datawrapper-mcp) — Create Datawrapper charts with AI ☆`34`
+## Databases
+
+### Analytics & Warehouses
+
+- [ClickHouse/mcp-clickhouse](https://github.com/ClickHouse/mcp-clickhouse) — Connect ClickHouse to your AI assistants. ☆`753`
+- [motherduckdb/mcp-server-motherduck](https://github.com/motherduckdb/mcp-server-motherduck) — Local MCP server for DuckDB and MotherDuck ☆`464`
+- [Snowflake-Labs/mcp](https://github.com/Snowflake-Labs/mcp) — Snowflake Cortex AI and SQL orchestration ☆`274`
+- [isaacwasserman/mcp-snowflake-server](https://github.com/isaacwasserman/mcp-snowflake-server) — MCP server for Snowflake database queries ☆`180`
+- [ktanaka101/mcp-server-duckdb](https://github.com/ktanaka101/mcp-server-duckdb) — DuckDB database interaction ☆`172`
+- [ergut/mcp-bigquery-server](https://github.com/ergut/mcp-bigquery-server) — MCP server for Google BigQuery integration ☆`137`
+- [LucasHild/mcp-server-bigquery](https://github.com/LucasHild/mcp-server-bigquery) — Google BigQuery database access ☆`125`
+- [pab1it0/adx-mcp-server](https://github.com/pab1it0/adx-mcp-server) — MCP server for Azure Data Explorer ☆`54`
+- [aliyun/alibabacloud-adb-mysql-mcp-server](https://github.com/aliyun/alibabacloud-adb-mysql-mcp-server) — AnalyticDB for MySQL MCP Server ☆`31`
+- [lishenxydlgzs/aws-athena-mcp](https://github.com/lishenxydlgzs/aws-athena-mcp) — MCP server to run AWS Athena queries ☆`40`
+### Cache & Key-Value
+
+- [redis/mcp-redis](https://github.com/redis/mcp-redis) — MCP server for Redis database operations ☆`484`
+- [aliyun/alibabacloud-tablestore-mcp-server](https://github.com/aliyun/alibabacloud-tablestore-mcp-server) — MCP server for Alibaba Tablestore NoSQL ☆`155`
+- [upstash/mcp-server](https://github.com/upstash/mcp-server) — Upstash Model Context Server ☆`53`
+### Cloud Platforms
+
+- [instantdb/instant](https://github.com/instantdb/instant) — Modern Firebase with real-time database ☆`10,106`
+- [supabase-community/supabase-mcp](https://github.com/supabase-community/supabase-mcp) — Connect Supabase to your AI assistants ☆`2,612`
+- [alexander-zuev/supabase-mcp-server](https://github.com/alexander-zuev/supabase-mcp-server) — MCP server for Supabase database and auth ☆`817`
+- [neondatabase/mcp-server-neon](https://github.com/neondatabase/mcp-server-neon) — Neon Management API and databases ☆`580`
+- [gannonh/firebase-mcp](https://github.com/gannonh/firebase-mcp) — Model Context Protocol (MCP) server for Firebase. ☆`244`
+- [JoshuaRileyDev/supabase-mcp-server](https://github.com/JoshuaRileyDev/supabase-mcp-server) — MCP server for Supabase database operations ☆`50`
+- [Aiven-Open/mcp-aiven](https://github.com/Aiven-Open/mcp-aiven) — Model Context Protocol server for Aiven ☆`16`
+- [niledatabase/nile-mcp-server](https://github.com/niledatabase/nile-mcp-server) — Nile Database tenants, users, auth for LLMs ☆`17`
+### Graph Databases
+
+- [neo4j-contrib/mcp-neo4j](https://github.com/neo4j-contrib/mcp-neo4j) — Neo4j Labs Model Context Protocol servers ☆`935`
+- [neo4j-contrib/gds-agent](https://github.com/neo4j-contrib/gds-agent) — Neo4j Graph Data Science tools ☆`78`
+- [da-okazaki/mcp-neo4j-server](https://github.com/da-okazaki/mcp-neo4j-server) — mcp-neo4j-server ☆`58`
+- [FalkorDB/FalkorDB-MCPServer](https://github.com/FalkorDB/FalkorDB-MCPServer) — Connect LLMs to FalkorDB ☆`34`
+- [ravenwits/mcp-server-arangodb](https://github.com/ravenwits/mcp-server-arangodb) — ArangoDB database interaction ☆`46`
+### Multi-Database Tools
+
+- [googleapis/mcp-toolbox](https://github.com/googleapis/mcp-toolbox) — Open source database MCP toolbox ☆`14,601`
+- [bytebase/dbhub](https://github.com/bytebase/dbhub) — Token-efficient multi-database MCP ☆`2,580`
+- [damms005/devdb-vscode](https://github.com/damms005/devdb-vscode) — Zero-config VS Code database extension ☆`1,363`
+- [Canner/wren-engine](https://github.com/Canner/wren-engine) — Semantic engine for MCP clients and AI ☆`646`
+- [centralmind/gateway](https://github.com/centralmind/gateway) — Universal database MCP for LLMs ☆`523`
+- [runekaagaard/mcp-alchemy](https://github.com/runekaagaard/mcp-alchemy) — MCP server for SQLAlchemy database operations ☆`400`
+- [FreePeak/db-mcp-server](https://github.com/FreePeak/db-mcp-server) — MCP server for database operations ☆`365`
+- [executeautomation/mcp-database-server](https://github.com/executeautomation/mcp-database-server) — Connect to SQLite, SQL Server, PostgreSQL ☆`340`
+- [XGenerationLab/xiyan_mcp_server](https://github.com/XGenerationLab/xiyan_mcp_server) — Natural language database queries ☆`232`
+- [s2-streamstore/s2-sdk-typescript](https://github.com/s2-streamstore/s2-sdk-typescript) — TypeScript SDK for S2, the durable streams API ☆`28`
+- [schemacrawler/SchemaCrawler-AI-MCP-Server-Usage](https://github.com/schemacrawler/SchemaCrawler-AI-MCP-Server-Usage) — How to use SchemaCrawler AI MCP Server ☆`23`
+- [prisma/mcp](https://github.com/prisma/mcp) — Prisma database workflows ☆`41`
+- [fireproof-storage/mcp-database-server](https://github.com/fireproof-storage/mcp-database-server) — Store and load JSON documents from LLM tool use ☆`32`
+- [datastrato/mcp-server-gravitino](https://github.com/datastrato/mcp-server-gravitino) — MCP server for Apache Gravitino ☆`21`
+### NoSQL & Document
+
+- [mongodb-js/mongodb-mcp-server](https://github.com/mongodb-js/mongodb-mcp-server) — Connect to MongoDB and Atlas clusters ☆`1,003`
+- [kiliczsh/mcp-mongo-server](https://github.com/kiliczsh/mcp-mongo-server) — A Model Context Protocol Server for MongoDB ☆`277`
+- [furey/mongodb-lens](https://github.com/furey/mongodb-lens) — MongoDB Lens: Full Featured MCP Server for MongoDB Databases ☆`201`
+- [QuantGeekDev/mongo-mcp](https://github.com/QuantGeekDev/mongo-mcp) — A mongo db server for the model context protocol (MCP) ☆`174`
+- [datastax/astra-db-mcp](https://github.com/datastax/astra-db-mcp) — An MCP server for Astra DB workloads ☆`39`
+- [Couchbase-Ecosystem/mcp-server-couchbase](https://github.com/Couchbase-Ecosystem/mcp-server-couchbase) — Couchbase database cluster integration ☆`31`
+### SQL Databases
+
+- [crystaldba/postgres-mcp](https://github.com/crystaldba/postgres-mcp) — Postgres with read/write access and performance ☆`2,542`
+- [benborla/mcp-server-mysql](https://github.com/benborla/mcp-server-mysql) — MCP server for MySQL database operations ☆`1,541`
+- [designcomputer/mysql_mcp_server](https://github.com/designcomputer/mysql_mcp_server) — Secure MySQL database interaction ☆`1,218`
+- [subnetmarco/pgmcp](https://github.com/subnetmarco/pgmcp) — An MCP server to query any Postgres database in natural language. ☆`528`
+- [apache/doris-mcp-server](https://github.com/apache/doris-mcp-server) — Apache Doris MCP Server ☆`280`
+- [wenb1n-dev/mysql_mcp_server_pro](https://github.com/wenb1n-dev/mysql_mcp_server_pro) — Enhanced MySQL with anomaly analysis ☆`252`
+- [StarRocks/mcp-server-starrocks](https://github.com/StarRocks/mcp-server-starrocks) — StarRocks MCP (Model Context Protocol) Server ☆`166`
+- [MariaDB/mcp](https://github.com/MariaDB/mcp) — MariaDB MCP (Model Context Protocol) server implementation ☆`163`
+- [call518/MCP-PostgreSQL-Ops](https://github.com/call518/MCP-PostgreSQL-Ops) — PostgreSQL operations and monitoring ☆`147`
+- [f4ww4z/mcp-mysql-server](https://github.com/f4ww4z/mcp-mysql-server) — A Model Context Protocol server for MySQL database operations ☆`159`
+- [tuannvm/mcp-trino](https://github.com/tuannvm/mcp-trino) — High-performance Trino MCP in Go ☆`102`
+- [oceanbase/awesome-oceanbase-mcp](https://github.com/oceanbase/awesome-oceanbase-mcp) — MCP Server for OceanBase database and its tools ☆`101`
+- [jparkerweb/mcp-sqlite](https://github.com/jparkerweb/mcp-sqlite) — Comprehensive SQLite interaction ☆`97`
+- [hannesrudolph/sqlite-explorer-fastmcp-mcp-server](https://github.com/hannesrudolph/sqlite-explorer-fastmcp-mcp-server) — Read-only SQLite database access ☆`104`
+- [wenb1n-dev/SmartDB_MCP](https://github.com/wenb1n-dev/SmartDB_MCP) — Universal database MCP for MySQL, PostgreSQL, Oracle and more ☆`93`
+- [donghao1393/mcp-dbutils](https://github.com/donghao1393/mcp-dbutils) — Multi-database connector for SQLite, MySQL, PostgreSQL ☆`87`
+- [Teradata/teradata-mcp-server](https://github.com/Teradata/teradata-mcp-server) — Teradata database integration ☆`46`
+- [aliyun/alibabacloud-rds-openapi-mcp-server](https://github.com/aliyun/alibabacloud-rds-openapi-mcp-server) — MCP server for RDS Services via OPENAPI. ☆`52`
+- [Zhwt/go-mcp-mysql](https://github.com/Zhwt/go-mcp-mysql) — Go-based MCP server for MySQL ☆`51`
+- [pingcap/pytidb](https://github.com/pingcap/pytidb) — TiDB AI SDK for apps and agents ☆`32`
+- [singlestore-labs/mcp-server-singlestore](https://github.com/singlestore-labs/mcp-server-singlestore) — SingleStore database management API ☆`31`
+- [ydb-platform/ydb-mcp](https://github.com/ydb-platform/ydb-mcp) — MCP server for YDB distributed database ☆`25`
+- [isdaniel/pgtuner_mcp](https://github.com/isdaniel/pgtuner_mcp) — provides AI-powered PostgreSQL performance tuning capabilities. ☆`22`
+- [panasenco/mcp-sqlite](https://github.com/panasenco/mcp-sqlite) — SQLite with Datasette metadata support ☆`18`
+- [ahmedmustahid/postgres-mcp-server](https://github.com/ahmedmustahid/postgres-mcp-server) — MCP server for PostgreSQL ☆`31`
+- [OpenLinkSoftware/mcp-sqlalchemy-server](https://github.com/OpenLinkSoftware/mcp-sqlalchemy-server) — ODBC server with FastAPI and SQLAlchemy ☆`23`
+- [Xexr/mcp-libsql](https://github.com/Xexr/mcp-libsql) — MCP server for libSQL database ☆`20`
+- [Dataring-engineering/mcp-server-trino](https://github.com/Dataring-engineering/mcp-server-trino) — MCP Server for Trino ☆`18`
+- [c4pt0r/mcp-server-tidb](https://github.com/c4pt0r/mcp-server-tidb) — mcp server for tidb ☆`23`
+- [abel9851/mcp-server-mariadb](https://github.com/abel9851/mcp-server-mariadb) — An mcp server that provides read-only access to MariaDB. ☆`19`
+### Search Engines
+
+- [elastic/mcp-server-elasticsearch](https://github.com/elastic/mcp-server-elasticsearch) — Elasticsearch queries and index management ☆`643`
+- [cr7258/elasticsearch-mcp-server](https://github.com/cr7258/elasticsearch-mcp-server) — Elasticsearch and OpenSearch interaction ☆`266`
+- [meilisearch/meilisearch-mcp](https://github.com/meilisearch/meilisearch-mcp) — Meilisearch interaction via LLM interfaces ☆`185`
+- [opensearch-project/opensearch-mcp-server-py](https://github.com/opensearch-project/opensearch-mcp-server-py) — OpenSearch cluster interaction for AI ☆`120`
+- [vectorize-io/vectorize-mcp-server](https://github.com/vectorize-io/vectorize-mcp-server) — Official Vectorize MCP Server ☆`105`
+- [algolia/mcp](https://github.com/algolia/mcp) — MCP servers for interacting with Algolia ☆`28`
+- [suhail-ak-2/mcp-typesense-server](https://github.com/suhail-ak-2/mcp-typesense-server) — Typesense search for AI assistants ☆`19`
+### Spreadsheets & No-Code
+
+- [baserow/baserow](https://github.com/baserow/baserow) — No-code database, apps, agents with AI ☆`4,647`
+- [xing5/mcp-google-sheets](https://github.com/xing5/mcp-google-sheets) — Google Drive and Sheets integration ☆`807`
+- [domdomegg/airtable-mcp-server](https://github.com/domdomegg/airtable-mcp-server) — Airtable bases integration for AI systems ☆`436`
+- [rashidazarang/airtable-mcp](https://github.com/rashidazarang/airtable-mcp) — Airtable integration for AI applications ☆`77`
+- [edwinbernadus/nocodb-mcp-server](https://github.com/edwinbernadus/nocodb-mcp-server) — nocodb mcp server ☆`66`
+- [freema/mcp-gsheets](https://github.com/freema/mcp-gsheets) — Google Sheets read, write, manipulate ☆`52`
+- [felores/airtable-mcp](https://github.com/felores/airtable-mcp) — Manage Airtable bases and records ☆`73`
+### Streaming & Messaging
+
+- [confluentinc/mcp-confluent](https://github.com/confluentinc/mcp-confluent) — MCP server for Confluent Kafka platform ☆`149`
+- [tuannvm/kafka-mcp-server](https://github.com/tuannvm/kafka-mcp-server) — Apache Kafka server in Go ☆`48`
+- [kenliao94/mcp-server-rabbitmq](https://github.com/kenliao94/mcp-server-rabbitmq) — MCP server for interacting with RabbitMQ ☆`37`
+### Time-Series & Metrics
+
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) — Unified observability DB for metrics, logs, traces ☆`6,162`
+- [pab1it0/prometheus-mcp-server](https://github.com/pab1it0/prometheus-mcp-server) — MCP server for Prometheus metrics ☆`412`
+- [VictoriaMetrics/mcp-victorialogs](https://github.com/VictoriaMetrics/mcp-victorialogs) — VictoriaLogs log management integration ☆`65`
+- [influxdata/influxdb3_mcp_server](https://github.com/influxdata/influxdb3_mcp_server) — MCP Server for InfluxDB 3 ☆`29`
+- [GreptimeTeam/greptimedb-mcp-server](https://github.com/GreptimeTeam/greptimedb-mcp-server) — A Model Context Protocol (MCP) server for GreptimeDB ☆`27`
+- [apache/iotdb-mcp-server](https://github.com/apache/iotdb-mcp-server) — Apache IoTDB MCP Server ☆`36`
+- [idoru/influxdb-mcp-server](https://github.com/idoru/influxdb-mcp-server) — An MCP Server for querying InfluxDB ☆`35`
+### Vector Databases
+
+- [qdrant/mcp-server-qdrant](https://github.com/qdrant/mcp-server-qdrant) — Official Qdrant vector database MCP ☆`1,345`
+- [chroma-core/chroma-mcp](https://github.com/chroma-core/chroma-mcp) — Chroma vector database capabilities ☆`534`
+- [zilliztech/mcp-server-milvus](https://github.com/zilliztech/mcp-server-milvus) — Model Context Protocol Servers for Milvus ☆`226`
+- [weaviate/mcp-server-weaviate](https://github.com/weaviate/mcp-server-weaviate) — MCP (Model Context Protocol) server for Weaviate ☆`161`
+- [pinecone-io/pinecone-mcp](https://github.com/pinecone-io/pinecone-mcp) — Connect Pinecone to AI assistants ☆`64`
+- [privetin/chroma](https://github.com/privetin/chroma) — MCP server for Chroma ☆`41`
+## Developer Tools
+
+### API Tools
+
+- [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) — Expose FastAPI endpoints as MCP tools ☆`11,806`
+- [WordPress/mcp-adapter](https://github.com/WordPress/mcp-adapter) — Bridge Abilities API to MCP ☆`887`
+- [zcaceres/fetch-mcp](https://github.com/zcaceres/fetch-mcp) — A flexible HTTP fetching Model Context Protocol server. ☆`739`
+- [automation-ai-labs/mcp-link](https://github.com/automation-ai-labs/mcp-link) — Convert Any OpenAPI V3 API to MCP Server ☆`602`
+- [blurrah/mcp-graphql](https://github.com/blurrah/mcp-graphql) — Model Context Protocol server for GraphQL ☆`380`
+- [apollographql/apollo-mcp-server](https://github.com/apollographql/apollo-mcp-server) — Apollo MCP Server ☆`277`
+- [postmanlabs/postman-mcp-server](https://github.com/postmanlabs/postman-mcp-server) — Connect your AI to your APIs on Postman ☆`214`
+- [MFYDev/ghost-mcp](https://github.com/MFYDev/ghost-mcp) — Interact with Ghost CMS via LLM ☆`168`
+- [delano/postman-mcp-server](https://github.com/delano/postman-mcp-server) — An MCP server that provides access to Postman. ☆`147`
+- [webflow/mcp-server](https://github.com/webflow/mcp-server) — Model Context Protocol (MCP) server for the Webflow Data API. ☆`123`
+- [hostinger/api-mcp-server](https://github.com/hostinger/api-mcp-server) — MCP server for Hostinger API integration ☆`83`
+- [ivo-toby/contentful-mcp](https://github.com/ivo-toby/contentful-mcp) — Contentful CMS Management API ☆`61`
+- [shannonlal/mcp-postman](https://github.com/shannonlal/mcp-postman) — MCP Server for running Postman Collections with Newman ☆`83`
+- [shanejonas/openrpc-mcp-server](https://github.com/shanejonas/openrpc-mcp-server) — JSON-RPC via OpenRPC ☆`43`
+- [Kong/mcp-konnect](https://github.com/Kong/mcp-konnect) — Interact with Kong Konnect APIs ☆`40`
+- [Omedia/mcp-server-drupal](https://github.com/Omedia/mcp-server-drupal) — Drupal MCP module companion ☆`50`
+- [hannesj/mcp-graphql-schema](https://github.com/hannesj/mcp-graphql-schema) — GraphQL Schema Model Context Protocol Server ☆`45`
+- [Arize-ai/text-to-graphql-mcp](https://github.com/Arize-ai/text-to-graphql-mcp) — MCP server for text-to-GraphQL conversion ☆`23`
+- [xxxbrian/mcp-rquest](https://github.com/xxxbrian/mcp-rquest) — Browser-like HTTP with TLS fingerprinting ☆`44`
+- [hijaz/postmancer](https://github.com/hijaz/postmancer) — REST client replacing Postman/Insomnia ☆`28`
+- [Jktfe/serveMyAPI](https://github.com/Jktfe/serveMyAPI) — MCP server for custom API serving ☆`24`
+- [fotoetienne/gqai](https://github.com/fotoetienne/gqai) — Turn any GraphQL endpoint into a set of MCP tools ☆`22`
+- [drestrepom/mcp_graphql](https://github.com/drestrepom/mcp_graphql) — Interact with GraphQL APIs via MCP tools ☆`20`
+### CI/CD & DevOps
+
+- [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) — Build n8n workflows with AI assistants ☆`18,216`
+- [leonardsellem/n8n-mcp-server](https://github.com/leonardsellem/n8n-mcp-server) — Tools for interacting with n8n API ☆`1,601`
+- [ckreiling/mcp-server-docker](https://github.com/ckreiling/mcp-server-docker) — MCP server for Docker ☆`699`
+- [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) — MCP-NixOS - Model Context Protocol Server for NixOS resources ☆`572`
+- [QuantGeekDev/docker-mcp](https://github.com/QuantGeekDev/docker-mcp) — A docker MCP Server (modelcontextprotocol) ☆`469`
+- [TencentEdgeOne/edgeone-pages-mcp](https://github.com/TencentEdgeOne/edgeone-pages-mcp) — Deploy HTML to EdgeOne Pages with public URL ☆`409`
+- [jamsocket/forevervm](https://github.com/jamsocket/forevervm) — Stateful AI code sandboxes ☆`228`
+- [yangkyeongmo/mcp-server-apache-airflow](https://github.com/yangkyeongmo/mcp-server-apache-airflow) — MCP server for Apache Airflow workflows ☆`158`
+- [nacos-group/nacos-mcp-router](https://github.com/nacos-group/nacos-mcp-router) — MCP server discovery, install, and proxy ☆`176`
+- [DefangLabs/defang](https://github.com/DefangLabs/defang) — MCP server for Defang cloud deployment ☆`151`
+- [docker/hub-mcp](https://github.com/docker/hub-mcp) — Docker Hub MCP Server ☆`135`
+- [jfrog/mcp-jfrog](https://github.com/jfrog/mcp-jfrog) — JFrog Platform repository management ☆`115`
+- [OctopusDeploy/mcp-server](https://github.com/OctopusDeploy/mcp-server) — Octopus Deploy Official MCP Server ☆`95`
+- [CircleCI-Public/mcp-server-circleci](https://github.com/CircleCI-Public/mcp-server-circleci) — MCP server for CircleCI CI/CD pipeline integration ☆`83`
+- [Vortiago/mcp-azure-devops](https://github.com/Vortiago/mcp-azure-devops) — AI assistants with Azure DevOps ☆`79`
+- [buildkite/buildkite-mcp-server](https://github.com/buildkite/buildkite-mcp-server) — Official MCP Server for Buildkite. ☆`50`
+- [harness/mcp-server](https://github.com/harness/mcp-server) — This is the official repo for the Harness MCP server ☆`44`
+- [call518/MCP-Airflow-API](https://github.com/call518/MCP-Airflow-API) — Apache Airflow API integration ☆`43`
+- [bitrise-io/bitrise-mcp](https://github.com/bitrise-io/bitrise-mcp) — Bitrise CI/CD app and build management ☆`37`
+- [IvanAmador/vercel-ai-docs-mcp](https://github.com/IvanAmador/vercel-ai-docs-mcp) — Vercel AI SDK documentation search ☆`48`
+- [launchdarkly/mcp-server](https://github.com/launchdarkly/mcp-server) — LaunchDarkly's Model Context Protocol (MCP) Server ☆`20`
+- [endorhq/cli](https://github.com/endorhq/cli) — Sandboxed environments for favorite services via MCP ☆`26`
+- [leosepulveda/mcp-n8n](https://github.com/leosepulveda/mcp-n8n) — Complete n8n API integration for Claude Desktop and Cursor - 100 workflow templates with intelligent matching ☆`20`
+- [axliupore/mcp-code-runner](https://github.com/axliupore/mcp-code-runner) — MCP server for executing code in Docker containers ☆`17`
+### Code Analysis
+
+- [bgauryy/octocode-mcp](https://github.com/bgauryy/octocode-mcp) — MCP server for semantic code search and context generation ☆`789`
+- [SonarSource/sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server) — SonarQube MCP Server ☆`536`
+- [admica/FileScopeMCP](https://github.com/admica/FileScopeMCP) — Codebase dependency diagrams ☆`288`
+- [janreges/ai-distiller](https://github.com/janreges/ai-distiller) — Fast tool for extracting essential public information from code ☆`149`
+- [st3v3nmw/sourcerer-mcp](https://github.com/st3v3nmw/sourcerer-mcp) — Semantic code search reducing token waste ☆`111`
+- [micl2e2/code-to-tree](https://github.com/micl2e2/code-to-tree) — Source code to AST tree conversion ☆`82`
+- [codacy/codacy-mcp-server](https://github.com/codacy/codacy-mcp-server) — Codacy's MCP Server implementation ☆`56`
+- [CodeLogicIncEngineering/codelogic-mcp-server](https://github.com/CodeLogicIncEngineering/codelogic-mcp-server) — Codelogic software dependency analysis ☆`36`
+- [azer/react-analyzer-mcp](https://github.com/azer/react-analyzer-mcp) — React code analysis and docs generation ☆`57`
+- [cqfn/aibolit-mcp-server](https://github.com/cqfn/aibolit-mcp-server) — Aibolit Java static analyzer for AI agents ☆`25`
+- [PromptExecution/rust-cargo-docs-rag-mcp](https://github.com/PromptExecution/rust-cargo-docs-rag-mcp) — MCP tools for Rust Context Engineering (rustdocs, rust analyzer) ☆`17`
+- [vezlo/src-to-kb](https://github.com/vezlo/src-to-kb) — Convert source code to LLM ready knowledge base ☆`30`
+- [j4c0bs/mcp-server-sql-analyzer](https://github.com/j4c0bs/mcp-server-sql-analyzer) — MCP server for SQL static analysis. ☆`30`
+- [kandrwmrtn/cplusplus_mcp](https://github.com/kandrwmrtn/cplusplus_mcp) — MCP server for C++ codebase analysis using libclang ☆`27`
+- [kuberstar/qartez-mcp](https://github.com/kuberstar/qartez-mcp) — Semantic code intelligence MCP server with 27 tools for project maps, symbol search, impact analysis, call hierarchies, architecture boundaries, and safe refactoring. Built in Rust. ([Website](https://qartez.dev))
+### Debuggers
+
+- [jasonjmcghee/claude-debugs-for-you](https://github.com/jasonjmcghee/claude-debugs-for-you) — Interactive debugging via MCP and VS Code ☆`507`
+- [cameroncooke/reloaderoo](https://github.com/cameroncooke/reloaderoo) — Powerful MCP debugging proxy and CLI inspection tool. ☆`119`
+- [stass/lldb-mcp](https://github.com/stass/lldb-mcp) — LLDB MCP server ☆`92`
+- [pansila/mcp_server_gdb](https://github.com/pansila/mcp_server_gdb) — MCP Server to expose the GDB debugging capabilities ☆`63`
+### Design & UI
+
+- [GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) — Figma layout info for AI coding agents ☆`14,374`
+- [grab/cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp) — Cursor and Figma communication ☆`6,656`
+- [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp) — Frontend development with AI like Magic ☆`4,721`
+- [Jpisnice/shadcn-ui-mcp-server](https://github.com/Jpisnice/shadcn-ui-mcp-server) — MCP server for shadcn/ui component library ☆`2,746`
+- [hustcc/mcp-mermaid](https://github.com/hustcc/mcp-mermaid) — Generate mermaid diagram and chart with AI MCP dynamically. ☆`525`
+- [public-ui/kolibri](https://github.com/public-ui/kolibri) — The accessible HTML-Standard ☆`254`
+- [mastergo-design/mastergo-magic-mcp](https://github.com/mastergo-design/mastergo-magic-mcp) — Connect MasterGo to AI assistants ☆`242`
+- [storybookjs/mcp](https://github.com/storybookjs/mcp) — MCP server for Storybook UI component library ☆`227`
+- [YuChenSSR/mindmap-mcp-server](https://github.com/YuChenSSR/mindmap-mcp-server) — mindmap, mcp server, artifact ☆`227`
+- [freema/mcp-design-system-extractor](https://github.com/freema/mcp-design-system-extractor) — MCP server for extracting design system components ☆`60`
+- [starwind-ui/starwind-ui-mcp](https://github.com/starwind-ui/starwind-ui-mcp) — Starwind UI for Cursor and Windsurf ☆`34`
+- [modao-dev/modao-proto-mcp](https://github.com/modao-dev/modao-proto-mcp) — Connect Modao Proto to AI clients ☆`51`
+- [themesberg/flowbite-mcp](https://github.com/themesberg/flowbite-mcp) — Figma to code with Flowbite ☆`33`
+- [themeselection/flyonui-mcp](https://github.com/themeselection/flyonui-mcp) — MCP server for flyonUI ☆`30`
+- [heilgar/shadcn-ui-mcp-server](https://github.com/heilgar/shadcn-ui-mcp-server) — MCP server for shadcn/ui component library ☆`23`
+- [kapilduraphe/webflow-mcp-server](https://github.com/kapilduraphe/webflow-mcp-server) — Webflow MCP server ☆`21`
+### Diagrams
+
+- [jinzcdev/markmap-mcp-server](https://github.com/jinzcdev/markmap-mcp-server) — Markdown to interactive mind maps ☆`196`
+- [veelenga/claude-mermaid](https://github.com/veelenga/claude-mermaid) — MCP Server to previewing mermaid diagrams with live reload ☆`127`
+- [apeyroux/mcp-xmind](https://github.com/apeyroux/mcp-xmind) — Analyze and query XMind mind maps ☆`67`
+- [Narasimhaponnada/mermaid-mcp](https://github.com/Narasimhaponnada/mermaid-mcp) — MCP server for Mermaid diagram generation ☆`42`
+### Documentation
+
+- [upstash/context7](https://github.com/upstash/context7) — Up-to-date code docs for LLMs ☆`52,822`
+- [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev) — MCP server for Lingo localization platform ☆`5,402`
+- [MicrosoftDocs/mcp](https://github.com/MicrosoftDocs/mcp) — Microsoft Learn MCP for LLMs ☆`1,553`
+- [kimsungwhee/apple-docs-mcp](https://github.com/kimsungwhee/apple-docs-mcp) — Apple Developer Documentation search ☆`1,225`
+- [andrea9293/mcp-documentation-server](https://github.com/andrea9293/mcp-documentation-server) — Document management with Gemini ☆`305`
+- [szeider/consult7](https://github.com/szeider/consult7) — MCP server to consult a language model with large context size ☆`293`
+- [Govcraft/rust-docs-mcp-server](https://github.com/Govcraft/rust-docs-mcp-server) — Rust documentation lookup ☆`270`
+- [khromov/svelte-llm-mcp](https://github.com/khromov/svelte-llm-mcp) — Svelte developer documentation as an MCP and in llms.txt format ☆`159`
+- [mrjoshuak/godoc-mcp](https://github.com/mrjoshuak/godoc-mcp) — go doc mcp server ☆`114`
+- [yikakia/godoc-mcp-server](https://github.com/yikakia/godoc-mcp-server) — Go package docs from pkg.go.dev ☆`35`
+- [tosin2013/mcp-adr-analysis-server](https://github.com/tosin2013/mcp-adr-analysis-server) — AI-powered ADR and architecture analysis ☆`25`
+- [V0v1kkk/DotNetMetadataMcpServer](https://github.com/V0v1kkk/DotNetMetadataMcpServer) — .NET type metadata for AI coding agents ☆`25`
+- [yWorks/mcp-typescribe](https://github.com/yWorks/mcp-typescribe) — TypeScript library support for LLMs ☆`44`
+- [inkeep/mcp-server-python](https://github.com/inkeep/mcp-server-python) — Inkeep MCP Server ☆`25`
+- [Excoriate/mcp-terragrunt-docs](https://github.com/Excoriate/mcp-terragrunt-docs) — Terragrunt documentation context ☆`21`
+- [oborchers/mcp-server-docy](https://github.com/oborchers/mcp-server-docy) — Documentation access capabilities ☆`19`
+- [augmentedivan/fabric-mcp-server](https://github.com/augmentedivan/fabric-mcp-server) — Fabric patterns with AI agents ☆`19`
+- [idachev/mcp-javadc](https://github.com/idachev/mcp-javadc) — MCP server for decompiling Java .class files to source ☆`16`
+### IDE & Editors
+
+- [getsentry/XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP) — MCP server for Xcode build operations ☆`5,216`
+- [isaacphi/mcp-language-server](https://github.com/isaacphi/mcp-language-server) — MCP server implementing Language Server Protocol ☆`1,511`
+- [JetBrains/mcp-jetbrains](https://github.com/JetBrains/mcp-jetbrains) — MCP server for JetBrains IDE integration ☆`947`
+- [r-huijts/xcode-mcp-server](https://github.com/r-huijts/xcode-mcp-server) — Xcode project management ☆`371`
+- [juehang/vscode-mcp-server](https://github.com/juehang/vscode-mcp-server) — VS Code editing features for LLM coding ☆`347`
+- [bigcodegen/mcp-neovim-server](https://github.com/bigcodegen/mcp-neovim-server) — Control Neovim via MCP ☆`305`
+- [biegehydra/BifrostMCP](https://github.com/biegehydra/BifrostMCP) — VS Code semantic tools via MCP ☆`208`
+- [tumf/mcp-text-editor](https://github.com/tumf/mcp-text-editor) — Line-oriented text editing for LLM tools ☆`185`
+- [hechtcarmel/jetbrains-index-mcp-plugin](https://github.com/hechtcarmel/jetbrains-index-mcp-plugin) — JetBrains plugin for MCP index integration ☆`158`
+- [Tritlo/lsp-mcp](https://github.com/Tritlo/lsp-mcp) — An MCP server that lets you interact with LSP servers ☆`122`
+- [marimo-team/codemirror-mcp](https://github.com/marimo-team/codemirror-mcp) — CodeMirror MCP extension ☆`79`
+- [hloiseau/mcp-gopls](https://github.com/hloiseau/mcp-gopls) — Go LSP server via gopls ☆`77`
+- [ShenghaiWang/xcodebuild](https://github.com/ShenghaiWang/xcodebuild) — Xcode iOS build with error feedback ☆`83`
+- [hechtcarmel/jetbrains-debugger-mcp-plugin](https://github.com/hechtcarmel/jetbrains-debugger-mcp-plugin) — JetBrains debugger control via MCP ☆`57`
+- [linw1995/nvim-mcp](https://github.com/linw1995/nvim-mcp) — MCP server for Neovim integration ☆`49`
+- [laurynas-biveinis/elisp-dev-mcp](https://github.com/laurynas-biveinis/elisp-dev-mcp) — Emacs Elisp development tools for LLMs ☆`39`
+- [AB498/code-context-provider-mcp](https://github.com/AB498/code-context-provider-mcp) — Code context and analysis for AI ☆`22`
+### MCP SDKs
+
+- [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) — Python framework for building MCP servers and clients ☆`24,564`
+- [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) — Go implementation of MCP ☆`8,591`
+- [QuantGeekDev/mcp-framework](https://github.com/QuantGeekDev/mcp-framework) — TypeScript framework with auto-discovery ☆`907`
+- [bhauman/clojure-mcp](https://github.com/bhauman/clojure-mcp) — Clojure MCP ☆`731`
+- [php-mcp/laravel](https://github.com/php-mcp/laravel) — Laravel SDK for building MCP servers ☆`471`
+- [opgginc/laravel-mcp-server](https://github.com/opgginc/laravel-mcp-server) — Laravel package for MCP servers ☆`332`
+- [Epistates/turbomcp](https://github.com/Epistates/turbomcp) — High-performance MCP framework ☆`77`
+- [oatpp/oatpp-mcp](https://github.com/oatpp/oatpp-mcp) — C++ MCP implementation for Oat++ framework ☆`49`
+- [reflagcom/javascript](https://github.com/reflagcom/javascript) — JS/TS SDKs for Reflag ☆`22`
+- [Super-I-Tech/mcp_plexus](https://github.com/Super-I-Tech/mcp_plexus) — Multi-tenant MCP framework built on FastMCP ☆`29`
+- [stephencme/create-mcp-ts](https://github.com/stephencme/create-mcp-ts) — TypeScript MCP server template ☆`21`
+### Mobile Development
+
+- [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp) — Mobile automation for iOS, Android, emulators ☆`4,553`
+- [joshuayoes/ios-simulator-mcp](https://github.com/joshuayoes/ios-simulator-mcp) — MCP server for interacting with the iOS simulator ☆`1,874`
+- [minhalvp/android-mcp-server](https://github.com/minhalvp/android-mcp-server) — Android device control via adb ☆`727`
+- [hyperb1iss/droidmind](https://github.com/hyperb1iss/droidmind) — Control your Android devices with AI using Model Context Protocol ☆`384`
+- [InditexTech/mcp-server-simulator-ios-idb](https://github.com/InditexTech/mcp-server-simulator-ios-idb) — MCP server for iOS simulator via IDB ☆`302`
+- [mhmzdev/figma-flutter-mcp](https://github.com/mhmzdev/figma-flutter-mcp) — Figma design tokens for Flutter code agents ☆`229`
+- [zillow/auto-mobile](https://github.com/zillow/auto-mobile) — Mobile automation tools with MCP ☆`79`
+- [JoshuaRileyDev/simulator-mcp-server](https://github.com/JoshuaRileyDev/simulator-mcp-server) — MCP server for iOS Simulator control ☆`52`
+- [Tommertom/awesome-ionic-mcp](https://github.com/Tommertom/awesome-ionic-mcp) — Ionic and Capacitor mobile app development ☆`37`
+- [XixianLiang/HarmonyOS-mcp-server](https://github.com/XixianLiang/HarmonyOS-mcp-server) — MCP server for manipulating HarmonyOS next devices. ☆`33`
+- [ambar/simctl-mcp](https://github.com/ambar/simctl-mcp) — MCP server for iOS Simulator control ☆`19`
+### OpenAPI
+
+- [janwilmake/openapi-mcp-server](https://github.com/janwilmake/openapi-mcp-server) — Complex OpenAPI exploration with plain language ☆`887`
+- [ckanthony/openapi-mcp](https://github.com/ckanthony/openapi-mcp) — Dockerized OpenAPI to MCP conversion ☆`182`
+- [twilio-labs/mcp](https://github.com/twilio-labs/mcp) — OpenAPI to MCP tools and Twilio APIs ☆`102`
+- [kadykov/mcp-openapi-schema-explorer](https://github.com/kadykov/mcp-openapi-schema-explorer) — Token-efficient OpenAPI/Swagger exploration ☆`71`
+- [zaizaizhao/mcp-swagger-server](https://github.com/zaizaizhao/mcp-swagger-server) — OpenAPI/Swagger to MCP conversion ☆`63`
+- [ReAPI-com/mcp-openapi](https://github.com/ReAPI-com/mcp-openapi) — OpenAPI specification MCP server. ☆`84`
+- [baryhuang/mcp-server-any-openapi](https://github.com/baryhuang/mcp-server-any-openapi) — Call APIs via semantic search ☆`82`
+- [hannesj/mcp-openapi-schema](https://github.com/hannesj/mcp-openapi-schema) — OpenAPI Schema Model Context Protocol Server ☆`47`
+- [criteo/openapi-to-mcp](https://github.com/criteo/openapi-to-mcp) — An MCP server for your API ☆`30`
+### Package Managers
+
+- [Artmann/package-registry-mcp](https://github.com/Artmann/package-registry-mcp) — NPM, Cargo, PyPi, NuGet package search ☆`37`
+- [arvindand/maven-tools-mcp](https://github.com/arvindand/maven-tools-mcp) — Maven Central dependency intelligence for JVM build tools ☆`19`
+- [Bigsy/maven-mcp-server](https://github.com/Bigsy/maven-mcp-server) — Maven build and dependency tools ☆`32`
+- [jeannier/homebrew-mcp](https://github.com/jeannier/homebrew-mcp) — Homebrew package management ☆`28`
+- [subelsky/bundler_mcp](https://github.com/subelsky/bundler_mcp) — MCP server for Ruby Bundler integration ☆`19`
+### Robotics & Automation
+
+- [trycua/cua](https://github.com/trycua/cua) — MCP server for CUA platform ☆`13,483`
+- [robotmcp/ros-mcp-server](https://github.com/robotmcp/ros-mcp-server) — ROS robot control with Claude and GPT ☆`1,163`
+- [omni-mcp/isaac-sim-mcp](https://github.com/omni-mcp/isaac-sim-mcp) — Isaac Simulation MCP Extension and Server ☆`148`
+- [wise-vision/ros2_mcp](https://github.com/wise-vision/ros2_mcp) — ROS 2 robotics AI bridge ☆`72`
+- [abrinsmead/mindpilot-mcp](https://github.com/abrinsmead/mindpilot-mcp) — Visualize code and architect new systems ☆`85`
+- [lpigeon/unitree-go2-mcp-server](https://github.com/lpigeon/unitree-go2-mcp-server) — MCP server for Unitree Go2 robot control ☆`77`
+- [Yutarop/ros-mcp](https://github.com/Yutarop/ros-mcp) — MCP server for ROS to control robots via topics, services, and actions. ☆`31`
+### Task Management
+
+- [cjo4m06/mcp-shrimp-task-manager](https://github.com/cjo4m06/mcp-shrimp-task-manager) — Task manager with chain-of-thought and reflection ☆`2,082`
+- [amxv/mcp-manager](https://github.com/amxv/mcp-manager) — Web UI to manage MCP servers in Claude ☆`286`
+### Testing & QA
+
+- [refreshdotdev/web-eval-agent](https://github.com/refreshdotdev/web-eval-agent) — Autonomous web application evaluation ☆`1,236`
+- [debugg-ai/debugg-ai-mcp](https://github.com/debugg-ai/debugg-ai-mcp) — AI-managed end-to-end testing ☆`59`
+- [QAInsights/jmeter-mcp-server](https://github.com/QAInsights/jmeter-mcp-server) — JMeter AI workflow integration ☆`63`
+- [SmartBear/smartbear-mcp](https://github.com/SmartBear/smartbear-mcp) — SmartBear's official MCP Server ☆`28`
+- [mrexodia/user-feedback-mcp](https://github.com/mrexodia/user-feedback-mcp) — Human-in-the-loop workflow for Cursor ☆`52`
+- [reportportal/reportportal-mcp-server](https://github.com/reportportal/reportportal-mcp-server) — MCP server for ReportPortal ☆`20`
+- [hungthai1401/bruno-mcp](https://github.com/hungthai1401/bruno-mcp) — MCP Server for running Bruno Collections ☆`41`
+- [Hypersequent/qasphere-mcp](https://github.com/Hypersequent/qasphere-mcp) — MCP Server for QA Sphere TMS ☆`21`
+- [QAInsights/k6-mcp-server](https://github.com/QAInsights/k6-mcp-server) — k6 MCP server ☆`24`
+### Utilities
+
+- [anaisbetts/mcp-installer](https://github.com/anaisbetts/mcp-installer) — An MCP server that installs other MCP servers for you ☆`1,519`
+- [githejie/mcp-server-calculator](https://github.com/githejie/mcp-server-calculator) — A Model Context Protocol server for calculating. ☆`148`
+- [jsdelivr/globalping-mcp-server](https://github.com/jsdelivr/globalping-mcp-server) — Remote network commands for LLMs ☆`53`
+- [zazencodes/random-number-mcp](https://github.com/zazencodes/random-number-mcp) — MCP server for random number generation ☆`48`
+- [NON906/omniparser-autogui-mcp](https://github.com/NON906/omniparser-autogui-mcp) — Automatic operation of on-screen GUI. ☆`67`
+- [Mtehabsim/ScreenPilot](https://github.com/Mtehabsim/ScreenPilot) — AI device control like a human ☆`53`
+- [newtype-01/prompthouse-mcp](https://github.com/newtype-01/prompthouse-mcp) — Personal prompt library manager ☆`52`
+- [andybrandt/mcp-simple-timeserver](https://github.com/andybrandt/mcp-simple-timeserver) — Current time check for Claude via MCP ☆`28`
+- [bharathvaj-ganesan/whois-mcp](https://github.com/bharathvaj-ganesan/whois-mcp) — MCP Server for whois lookups. ☆`52`
+- [wrenchpilot/it-tools-mcp](https://github.com/wrenchpilot/it-tools-mcp) — 121+ IT tools for developers and sysadmins ☆`20`
+- [SecretiveShell/MCP-timeserver](https://github.com/SecretiveShell/MCP-timeserver) — Datetime info for agentic systems ☆`41`
+- [ofek/pycli-mcp](https://github.com/ofek/pycli-mcp) — MCP server for any Python command line application ☆`22`
+- [FelixFoster/mcp-enhance-prompt](https://github.com/FelixFoster/mcp-enhance-prompt) — AI-powered prompt enhancement and generation ☆`24`
+- [ZeparHyfar/mcp-datetime](https://github.com/ZeparHyfar/mcp-datetime) — A MCP server for datetime formatting and file name generation. ☆`27`
+### Version Control
+
+- [github/github-mcp-server](https://github.com/github/github-mcp-server) — GitHub's official MCP Server ☆`28,889`
+- [idosal/git-mcp](https://github.com/idosal/git-mcp) — Free remote MCP for any GitHub project ☆`7,925`
+- [gitkraken/gk-cli](https://github.com/gitkraken/gk-cli) — GitKraken CLI Releases and Documentation ☆`397`
+- [Tiberriver256/mcp-server-azure-devops](https://github.com/Tiberriver256/mcp-server-azure-devops) — An MCP server for Azure DevOps ☆`362`
+- [adhikasp/mcp-git-ingest](https://github.com/adhikasp/mcp-git-ingest) — GitHub repository content reading ☆`303`
+- [puravparab/Gitingest-MCP](https://github.com/puravparab/Gitingest-MCP) — mcp server for gitingest ☆`137`
+- [kopfrechner/gitlab-mr-mcp](https://github.com/kopfrechner/gitlab-mr-mcp) — MCP server for GitLab merge requests and issues ☆`87`
+- [oschina/mcp-gitee](https://github.com/oschina/mcp-gitee) — MCP server for Gitee repositories ☆`55`
+- [ddukbg/github-enterprise-mcp](https://github.com/ddukbg/github-enterprise-mcp) — github-enterprise-mcp ☆`30`
+- [Ryan0204/github-repo-mcp](https://github.com/Ryan0204/github-repo-mcp) — GitHub repository reading ☆`25`
+- [kurdin/github-repos-manager-mcp](https://github.com/kurdin/github-repos-manager-mcp) — GitHub Repos Manager MCP Server for MCP clients ☆`20`
+## Embedded & IoT
+
+- [tevonsb/homeassistant-mcp](https://github.com/tevonsb/homeassistant-mcp) — A MCP server for Home Assistant ☆`566`
+- [lamaalrajih/kicad-mcp](https://github.com/lamaalrajih/kicad-mcp) — KiCad integration for Mac, Windows, Linux ☆`428`
+- [Extelligence-ai/bagel](https://github.com/Extelligence-ai/bagel) — Chat with robotics, drone, IoT data ☆`378`
+- [recursechat/mcp-server-apple-shortcuts](https://github.com/recursechat/mcp-server-apple-shortcuts) — Apple Shortcuts automation on macOS ☆`313`
+- [voska/hass-mcp](https://github.com/voska/hass-mcp) — Home Assistant MCP Server ☆`286`
+- [hao-cyber/phone-mcp](https://github.com/hao-cyber/phone-mcp) — Control Android phone via ADB ☆`224`
+- [jeff-nasseri/mikrotik-mcp](https://github.com/jeff-nasseri/mikrotik-mcp) — MCP server for Mikrotik ☆`151`
+- [horw/esp-mcp](https://github.com/horw/esp-mcp) — ESP32 commands and getting started ☆`147`
+- [thingsboard/thingsboard-mcp](https://github.com/thingsboard/thingsboard-mcp) — MCP server for ThingsBoard IoT platform interaction ☆`95`
+- [FradSer/mcp-server-apple-events](https://github.com/FradSer/mcp-server-apple-events) — Native integration with Apple Reminders and Calendar ☆`85`
+- [vishalmysore/choturobo](https://github.com/vishalmysore/choturobo) — Arduino robotics with AI integration ☆`78`
+- [yoelbassin/gr-mcp](https://github.com/yoelbassin/gr-mcp) — MCP server for GNU Radio ☆`38`
+- [yiwenlu66/PiloTY](https://github.com/yiwenlu66/PiloTY) — AI pilot for PTY operations - control terminals via MCP ☆`33`
+- [LGDiMaggio/predictive-maintenance-mcp](https://github.com/LGDiMaggio/predictive-maintenance-mcp) — AI predictive maintenance and fault diagnosis via MCP ☆`25`
+- [chrisgleissner/c64bridge](https://github.com/chrisgleissner/c64bridge) — MCP server to control and program the Commodore 64 Ultimate or VICE. ☆`24`
+- [johannesPettersson80/codesys-mcp-toolkit](https://github.com/johannesPettersson80/codesys-mcp-toolkit) — CODESYS industrial automation platform ☆`42`
+- [OctoEverywhere/mcp](https://github.com/OctoEverywhere/mcp) — 3D printing live status and control ☆`33`
+- [aqara/aqara-mcp-server](https://github.com/aqara/aqara-mcp-server) — Aqara's official MCP Server ☆`32`
+- [kukapay/opcua-mcp](https://github.com/kukapay/opcua-mcp) — An MCP server that connects to OPC UA-enabled industrial systems. ☆`26`
+- [MiddlePoint-Solutions/mcp-on-android-tv](https://github.com/MiddlePoint-Solutions/mcp-on-android-tv) — MCP server on Android TV with ADB ☆`22`
+- [kukapay/modbus-mcp](https://github.com/kukapay/modbus-mcp) — Industrial Modbus data for AI ☆`23`
+- [thinq-connect/thinqconnect-mcp](https://github.com/thinq-connect/thinqconnect-mcp) — ThinQ Connect MCP Server ☆`23`
+- [Hypijump31/bluetooth-mcp-server](https://github.com/Hypijump31/bluetooth-mcp-server) — bluetooth-mcp-server for Claude AI ☆`21`
+## File Systems & Storage
+
+- [mark3labs/mcp-filesystem-server](https://github.com/mark3labs/mcp-filesystem-server) — Go filesystem operations via MCP ☆`630`
+- [cyberchitta/llm-context.py](https://github.com/cyberchitta/llm-context.py) — Python library for LLM context management ☆`298`
+- [isaacphi/mcp-gdrive](https://github.com/isaacphi/mcp-gdrive) — Google Drive file reading ☆`272`
+- [8b-is/smart-tree](https://github.com/8b-is/smart-tree) — Context-aware AI-crafted replacement for tree command ☆`233`
+- [rust-mcp-stack/rust-mcp-filesystem](https://github.com/rust-mcp-stack/rust-mcp-filesystem) — Fast async filesystem operations ☆`144`
+- [efforthye/fast-filesystem-mcp](https://github.com/efforthye/fast-filesystem-mcp) — High-performance MCP server for file operations ☆`48`
+- [vespo92/TrueNasCoreMCP](https://github.com/vespo92/TrueNasCoreMCP) — A working TrueNAS Core MCP Server ☆`23`
+- [Tencent/cos-mcp](https://github.com/Tencent/cos-mcp) — Tencent Cloud COS storage integration ☆`32`
+- [Xuanwo/mcp-server-opendal](https://github.com/Xuanwo/mcp-server-opendal) — Model Context Protocol Server for Apache OpenDAL ☆`34`
+- [exoticknight/mcp-file-merger](https://github.com/exoticknight/mcp-file-merger) — MCP server for merging multiple files into one ☆`26`
+## Finance
+
+### Accounting & Budgeting
+
+- [XeroAPI/xero-mcp-server](https://github.com/XeroAPI/xero-mcp-server) — Xero accounting API integration ☆`245`
+- [akutishevsky/lunchmoney-mcp](https://github.com/akutishevsky/lunchmoney-mcp) — MCP server for Lunch Money budgeting app ☆`58`
+- [iiAtlas/hledger-mcp](https://github.com/iiAtlas/hledger-mcp) — A local MCP server for interacting with the HLedger cli ☆`54`
+- [minhyeoky/mcp-server-ledger](https://github.com/minhyeoky/mcp-server-ledger) — MCP server for Ledger CLI double-entry accounting ☆`47`
+- [openMF/mcp-mifosx](https://github.com/openMF/mcp-mifosx) — Model Context Protocol - MCP for Mifos X ☆`21`
+- [john-zhang-dev/xero-mcp](https://github.com/john-zhang-dev/xero-mcp) — Interact with Xero accounting ☆`18`
+### Crypto & Blockchain
+
+- [mcpdotdirect/evm-mcp-server](https://github.com/mcpdotdirect/evm-mcp-server) — EVM network interaction for LLMs ☆`373`
+- [base/base-mcp](https://github.com/base/base-mcp) — MCP server for Base blockchain integration ☆`344`
+- [armorwallet/armor-crypto-mcp](https://github.com/armorwallet/armor-crypto-mcp) — Blockchain swaps and strategic planning ☆`184`
+- [aaronjmars/web3-research-mcp](https://github.com/aaronjmars/web3-research-mcp) — Deep Research for crypto - free & fully local ☆`147`
+- [kukapay/crypto-indicators-mcp](https://github.com/kukapay/crypto-indicators-mcp) — Cryptocurrency technical analysis indicators ☆`122`
+- [alchemyplatform/alchemy-mcp-server](https://github.com/alchemyplatform/alchemy-mcp-server) — Alchemy blockchain API for AI agents ☆`81`
+- [Bankless/onchain-mcp](https://github.com/Bankless/onchain-mcp) — Bringing the bankless onchain API to MCP ☆`77`
+- [QuantGeekDev/coincap-mcp](https://github.com/QuantGeekDev/coincap-mcp) — A coincap mcp server to access crypto data from coincap API ☆`91`
+- [getAlby/mcp](https://github.com/getAlby/mcp) — Bitcoin Lightning wallet via Nostr ☆`64`
+- [heurist-network/heurist-mesh-mcp-server](https://github.com/heurist-network/heurist-mesh-mcp-server) — Blockchain and web3 via Heurist Mesh ☆`64`
+- [bnb-chain/bnbchain-mcp](https://github.com/bnb-chain/bnbchain-mcp) — BNB Chain, BSC, opBNB, Greenfield ☆`58`
+- [kukapay/cryptopanic-mcp-server](https://github.com/kukapay/cryptopanic-mcp-server) — Provide latest cryptocurrency news to AI agents. ☆`69`
+- [AbdelStark/bitcoin-mcp](https://github.com/AbdelStark/bitcoin-mcp) — Bitcoin & Lightning Network MCP Server. ☆`73`
+- [twelvedata/mcp](https://github.com/twelvedata/mcp) — MCP server for real-time financial market data access ☆`64`
+- [GoPlausible/algorand-mcp](https://github.com/GoPlausible/algorand-mcp) — Algorand Local Model Context Protocol (Server & Client) ☆`44`
+- [coinpaprika/dexpaprika-mcp](https://github.com/coinpaprika/dexpaprika-mcp) — MCP server for DEX trading data and crypto token analytics ☆`41`
+- [norman-finance/norman-mcp-server](https://github.com/norman-finance/norman-mcp-server) — AI-powered bookkeeping and tax automation via MCP ☆`39`
+- [shinzo-labs/coinmarketcap-mcp](https://github.com/shinzo-labs/coinmarketcap-mcp) — MCP Implementation for CoinMarketCap ☆`51`
+- [kukapay/crypto-feargreed-mcp](https://github.com/kukapay/crypto-feargreed-mcp) — Crypto Fear & Greed Index data ☆`53`
+- [kukapay/whale-tracker-mcp](https://github.com/kukapay/whale-tracker-mcp) — A mcp server for tracking cryptocurrency whale transactions. ☆`52`
+- [anjor/coinmarket-mcp-server](https://github.com/anjor/coinmarket-mcp-server) — MCP server for CoinMarketCap cryptocurrency data ☆`47`
+- [kukapay/crypto-sentiment-mcp](https://github.com/kukapay/crypto-sentiment-mcp) — Cryptocurrency sentiment analysis ☆`47`
+- [wowinter13/solscan-mcp](https://github.com/wowinter13/solscan-mcp) — Solana transaction queries ☆`40`
+- [maestro-org/maestro-mcp-server](https://github.com/maestro-org/maestro-mcp-server) — Maestro MCP Server for Bitcoin ☆`22`
+- [noditlabs/nodit-mcp-server](https://github.com/noditlabs/nodit-mcp-server) — Blockchain data via Nodit Web3 API ☆`21`
+- [kukapay/dune-analytics-mcp](https://github.com/kukapay/dune-analytics-mcp) — A mcp server that bridges Dune Analytics data to AI agents. ☆`40`
+- [ahnlabio/bicscan-mcp](https://github.com/ahnlabio/bicscan-mcp) — BICScan MCP Server ☆`16`
+- [kukapay/uniswap-trader-mcp](https://github.com/kukapay/uniswap-trader-mcp) — Uniswap token swaps for AI agents ☆`35`
+- [hive-intel/hive-crypto-mcp](https://github.com/hive-intel/hive-crypto-mcp) — Hive Intelligence Crypto MCP | The Ultimate Cryptocurrency MCP for AI Assistants - Unified access to crypto, DeFi, and Web3 analytics ☆`17`
+- [longmans/coin_api_mcp](https://github.com/longmans/coin_api_mcp) — CoinMarketCap cryptocurrency data ☆`37`
+- [kukapay/hyperliquid-info-mcp](https://github.com/kukapay/hyperliquid-info-mcp) — MCP server for Hyperliquid DEX data ☆`27`
+- [kukapay/jupiter-mcp](https://github.com/kukapay/jupiter-mcp) — Jupiter DEX token swaps on Solana ☆`26`
+- [kukapay/kukapay-mcp-servers](https://github.com/kukapay/kukapay-mcp-servers) — Suite of MCP servers from Kukapay ☆`22`
+- [devonmojito/ton-blockchain-mcp](https://github.com/devonmojito/ton-blockchain-mcp) — TON blockchain interaction ☆`26`
+- [pwh-pwh/coin-mcp-server](https://github.com/pwh-pwh/coin-mcp-server) — Cryptocurrency info via Bitget API ☆`28`
+- [thirdweb-dev/ai](https://github.com/thirdweb-dev/ai) — Blockchain data, wallet, and smart contracts ☆`20`
+- [kukapay/rug-check-mcp](https://github.com/kukapay/rug-check-mcp) — An MCP server that detects potential risks in Solana meme tokens. ☆`19`
+- [kukapay/token-minter-mcp](https://github.com/kukapay/token-minter-mcp) — ERC-20 token minting for AI agents ☆`18`
+- [Codex-Data/codex-mcp](https://github.com/Codex-Data/codex-mcp) — A Model Context Protocol server for the Codex API ☆`23`
+- [syronlabs/stellar-mcp](https://github.com/syronlabs/stellar-mcp) — A Stellar MCP to interact with Horizon API and Soroban ☆`18`
+- [kukapay/crypto-orderbook-mcp](https://github.com/kukapay/crypto-orderbook-mcp) — An MCP server that analyzes order book depth and imbalance across major crypto exchanges. ☆`16`
+- [magnetai/mcp-free-usdc-transfer](https://github.com/magnetai/mcp-free-usdc-transfer) — Free USDC transfer via Coinbase CDP ☆`20`
+- [janswist/mcp-dexscreener](https://github.com/janswist/mcp-dexscreener) — Dexscreener on-chain price checking ☆`17`
+### Payments & Banking
+
+- [stripe/ai](https://github.com/stripe/ai) — One-stop shop for building AI-powered products and businesses with Stripe. ☆`1,472`
+- [razorpay/razorpay-mcp-server](https://github.com/razorpay/razorpay-mcp-server) — Razorpay's Official MCP Server ☆`218`
+- [paypal/agent-toolkit](https://github.com/paypal/agent-toolkit) — PayPal Agent ☆`185`
+- [square/square-mcp-server](https://github.com/square/square-mcp-server) — A Model Context Protocol (MCP) server for square ☆`99`
+- [PaddleHQ/paddle-mcp-server](https://github.com/PaddleHQ/paddle-mcp-server) — Interact with Paddle API ☆`46`
+- [atharvagupta2003/mcp-stripe](https://github.com/atharvagupta2003/mcp-stripe) — Stripe payments, customers, and refunds ☆`44`
+- [ramp-public/ramp_mcp](https://github.com/ramp-public/ramp_mcp) — ramp_mcp ☆`32`
+- [qonto/qonto-mcp-server](https://github.com/qonto/qonto-mcp-server) — Qonto MCP Server ☆`26`
+- [Fewsats/fewsats-mcp](https://github.com/Fewsats/fewsats-mcp) — Fewsats MCP server ☆`22`
+### Stock Data & Analytics
+
+- [financial-datasets/mcp-server](https://github.com/financial-datasets/mcp-server) — Financial Datasets stock market API ☆`1,961`
+- [massive-com/mcp_massive](https://github.com/massive-com/mcp_massive) — An MCP server for Massive.com Financial Market Data ☆`299`
+- [stefanoamorelli/sec-edgar-mcp](https://github.com/stefanoamorelli/sec-edgar-mcp) — A SEC EDGAR MCP (Model Context Protocol) Server ☆`251`
+- [narumiruna/yfinance-mcp](https://github.com/narumiruna/yfinance-mcp) — MCP server for Yahoo Finance stock data and news ☆`121`
+- [jjlabsio/korea-stock-mcp](https://github.com/jjlabsio/korea-stock-mcp) — MCP Server for Korean stock analysis ☆`116`
+- [OctagonAI/octagon-mcp-server](https://github.com/OctagonAI/octagon-mcp-server) — Public filings, earnings, financial analysis ☆`115`
+- [HuggingAGI/mcp-baostock-server](https://github.com/HuggingAGI/mcp-baostock-server) — MCP server for BaoStock Chinese stock market data ☆`95`
+- [berlinbra/alpha-vantage-mcp](https://github.com/berlinbra/alpha-vantage-mcp) — MCP Server for Alpha Advantage API ☆`95`
+- [Adity-star/mcp-yfinance-server](https://github.com/Adity-star/mcp-yfinance-server) — Real-time stock data with yfinance ☆`50`
+- [AgentX-ai/yahoo-finance-server](https://github.com/AgentX-ai/yahoo-finance-server) — Yahoo Finance stock data and news ☆`44`
+- [zlinzzzz/finData-mcp-server](https://github.com/zlinzzzz/finData-mcp-server) — Financial data from Tushare, Wind, DataYes ☆`56`
+- [JamesANZ/prediction-market-mcp](https://github.com/JamesANZ/prediction-market-mcp) — Polymarket, PredictIt, Kalshi data ☆`33`
+- [OctagonAI/octagon-vc-agents](https://github.com/OctagonAI/octagon-vc-agents) — AI-driven venture capitalist agents ☆`23`
+### Trading & Exchanges
+
+- [alpacahq/alpaca-mcp-server](https://github.com/alpacahq/alpaca-mcp-server) — Trade stocks, ETFs, crypto, options ☆`649`
+- [ferdousbhai/investor-agent](https://github.com/ferdousbhai/investor-agent) — Investor agent building via MCP ☆`322`
+- [ariadng/metatrader-mcp-server](https://github.com/ariadng/metatrader-mcp-server) — MetaTrader trading platform for AI LLMs ☆`212`
+- [doggybee/mcp-server-ccxt](https://github.com/doggybee/mcp-server-ccxt) — Cryptocurrency exchange integration via CCXT ☆`133`
+- [kukapay/freqtrade-mcp](https://github.com/kukapay/freqtrade-mcp) — Freqtrade crypto trading bot ☆`114`
+- [taylorwilsdon/quantconnect-mcp](https://github.com/taylorwilsdon/quantconnect-mcp) — QuantConnect trading orchestration ☆`93`
+- [ferdousbhai/tasty-agent](https://github.com/ferdousbhai/tasty-agent) — Let Claude manage your tastytrade portfolio. ☆`61`
+- [QuantConnect/mcp-server](https://github.com/QuantConnect/mcp-server) — QuantConnect algo trading interaction ☆`69`
+- [trade-it-inc/trade-it-mcp](https://github.com/trade-it-inc/trade-it-mcp) — Trade It stocks and crypto trading ☆`49`
+- [ozgureyilmaz/polymarket-mcp](https://github.com/ozgureyilmaz/polymarket-mcp) — Polymarket prediction markets data ☆`48`
+- [ethancod1ng/binance-mcp-server](https://github.com/ethancod1ng/binance-mcp-server) — Binance exchange API integration ☆`30`
+- [mektigboy/server-hyperliquid](https://github.com/mektigboy/server-hyperliquid) — Hyperliquid DEX trading integration ☆`44`
+- [laukikk/alpaca-mcp](https://github.com/laukikk/alpaca-mcp) — Alpaca stock and crypto trading ☆`32`
+- [ferdousbhai/wsb-analyst-mcp](https://github.com/ferdousbhai/wsb-analyst-mcp) — MCP server for analyzing WallStreetBets ☆`24`
+- [paperinvest/mcp-server](https://github.com/paperinvest/mcp-server) — Paper trading platform integration ☆`22`
+- [solangii/upbit-mcp-server](https://github.com/solangii/upbit-mcp-server) — MCP(Model Context Protocol) server for Upbit ☆`18`
+## Frameworks & SDKs
+
+- [mastra-ai/mastra](https://github.com/mastra-ai/mastra) — TypeScript AI agent framework with RAG ☆`23,041`
+- [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) — Build agents with MCP and workflow patterns ☆`8,268`
+- [quarkiverse/quarkus-mcp-servers](https://github.com/quarkiverse/quarkus-mcp-servers) — Model Context Protocol Servers in Quarkus ☆`186`
+- [posit-dev/mcptools](https://github.com/posit-dev/mcptools) — Model Context Protocol For R ☆`167`
+- [agentrpc/agentrpc](https://github.com/agentrpc/agentrpc) — Universal RPC layer for AI agents ☆`130`
+- [vishalmysore/a2ajava](https://github.com/vishalmysore/a2ajava) — Google A2A protocol for Spring Boot ☆`101`
+- [strowk/foxy-contexts](https://github.com/strowk/foxy-contexts) — Library for MCP context servers ☆`114`
+- [tesla0225/mcp-create](https://github.com/tesla0225/mcp-create) — Dynamic MCP server creation and management ☆`97`
+- [mcpdotdirect/template-mcp-server](https://github.com/mcpdotdirect/template-mcp-server) — Template to quickly set up your own MCP server ☆`73`
+- [abap-ai/mcp](https://github.com/abap-ai/mcp) — ABAP MCP - Model Context Protocol - Server SDK ☆`62`
+- [domdomegg/programmatic-mcp-prototype](https://github.com/domdomegg/programmatic-mcp-prototype) — Programmatic MCP tool composition ☆`41`
+- [particlefuture/1mcpserver](https://github.com/particlefuture/1mcpserver) — Auto-discover and configure MCP servers ☆`44`
+- [mcpx-dev/mcp-badges](https://github.com/mcpx-dev/mcp-badges) — Get your projects MCP (Model Context Protocol) badges ☆`29`
+- [boost-community/boost-mcp](https://github.com/boost-community/boost-mcp) — Supply chain security for AI dependencies ☆`16`
+## Gaming
+
+- [Coding-Solo/godot-mcp](https://github.com/Coding-Solo/godot-mcp) — MCP server for Godot game engine ☆`3,082`
+- [IvanMurzak/Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) — AI-powered bridge connecting LLMs to Unity Editor ☆`2,158`
+- [CoderGamester/mcp-unity](https://github.com/CoderGamester/mcp-unity) — MCP server for Unity game engine integration ☆`1,594`
+- [quazaai/UnityMCPIntegration](https://github.com/quazaai/UnityMCPIntegration) — Enable AI Agents to Control Unity ☆`149`
+- [playcanvas/editor-mcp-server](https://github.com/playcanvas/editor-mcp-server) — MCP Server for AI automation of the PlayCanvas Editor ☆`105`
+- [codemaestroai/advanced-unity-mcp](https://github.com/codemaestroai/advanced-unity-mcp) — Advanced Unity game engine integration ☆`89`
+- [opgginc/opgg-mcp](https://github.com/opgginc/opgg-mcp) — MCP server for OP.GG game data (LoL, TFT, Valorant) ☆`88`
+- [pab1it0/chess-mcp](https://github.com/pab1it0/chess-mcp) — MCP server for Chess.com player data, games and statistics ☆`69`
+- [sawa-zen/vrchat-mcp](https://github.com/sawa-zen/vrchat-mcp) — VRChat API interaction ☆`55`
+- [kkjdaniel/bgg-mcp](https://github.com/kkjdaniel/bgg-mcp) — MCP server for BoardGameGeek data ☆`34`
+- [jalpp/chessagine-mcp](https://github.com/jalpp/chessagine-mcp) — Advanced chess analysis capabilities ☆`24`
+- [jiayao/mcp-chess](https://github.com/jiayao/mcp-chess) — MCP server for playing chess against AI ☆`22`
+- [jifrozen0110/mcp-riot](https://github.com/jifrozen0110/mcp-riot) — League of Legends MCP Server ☆`21`
+## Healthcare & Bioinformatics
+
+- [genomoncology/biomcp](https://github.com/genomoncology/biomcp) — BioMCP: Biomedical Model Context Protocol ☆`490`
+- [the-momentum/apple-health-mcp-server](https://github.com/the-momentum/apple-health-mcp-server) — Apple Health data queries with DuckDB ☆`156`
+- [wso2/fhir-mcp-server](https://github.com/wso2/fhir-mcp-server) — FHIR healthcare API integration ☆`110`
+- [JamesANZ/medical-mcp](https://github.com/JamesANZ/medical-mcp) — MCP server for medical data processing ☆`85`
+- [ChristianHinge/dicom-mcp](https://github.com/ChristianHinge/dicom-mcp) — DICOM server (PACS) interaction ☆`90`
+- [the-momentum/fhir-mcp-server](https://github.com/the-momentum/fhir-mcp-server) — FHIR MCP Server for handling medical data standard. ☆`74`
+- [OHNLP/omop_mcp](https://github.com/OHNLP/omop_mcp) — MCP server for OMOP medical data standard ☆`34`
+- [srijanshukla18/xray](https://github.com/srijanshukla18/xray) — MCP server for X-ray analysis ☆`48`
+- [cafferychen777/ChatSpatial](https://github.com/cafferychen777/ChatSpatial) — Spatial transcriptomics via natural language (Python/R) ☆`30`
+- [longevity-genie/biothings-mcp](https://github.com/longevity-genie/biothings-mcp) — MCP (Model Context Protocol) server for biothings ☆`31`
+- [akutishevsky/withings-mcp](https://github.com/akutishevsky/withings-mcp) — MCP server for Withings health data integration ☆`17`
+- [tomekkorbak/oura-mcp-server](https://github.com/tomekkorbak/oura-mcp-server) — MCP server for Oura API integration ☆`38`
+- [longevity-genie/gget-mcp](https://github.com/longevity-genie/gget-mcp) — Bioinformatic gget functions ☆`27`
+- [longevity-genie/opengenes-mcp](https://github.com/longevity-genie/opengenes-mcp) — MCP for the open-genes ☆`17`
+## LLM Bridges
+
+- [jamubc/gemini-mcp-tool](https://github.com/jamubc/gemini-mcp-tool) — MCP server for Gemini CLI with large file analysis ☆`2,163`
+- [perplexityai/modelcontextprotocol](https://github.com/perplexityai/modelcontextprotocol) — Official Perplexity API MCP server ☆`2,089`
+- [DMontgomery40/deepseek-mcp-server](https://github.com/DMontgomery40/deepseek-mcp-server) — MCP server for DeepSeek language models ☆`316`
+- [nesquikm/mcp-rubber-duck](https://github.com/nesquikm/mcp-rubber-duck) — MCP bridge to query multiple OpenAI-compatible LLMs ☆`155`
+- [pyroprompts/any-chat-completions-mcp](https://github.com/pyroprompts/any-chat-completions-mcp) — MCP Server for using any LLM as a Tool ☆`151`
+- [choplin/mcp-gemini-cli](https://github.com/choplin/mcp-gemini-cli) — MCP server for Gemini CLI integration ☆`101`
+- [deepfates/mcp-replicate](https://github.com/deepfates/mcp-replicate) — Model Context Protocol server for Replicate's API ☆`94`
+- [eLyiN/gemini-bridge](https://github.com/eLyiN/gemini-bridge) — Bridge AI agents to Google Gemini via CLI ☆`90`
+- [pierrebrunelle/mcp-server-openai](https://github.com/pierrebrunelle/mcp-server-openai) — Query OpenAI models from Claude via MCP ☆`80`
+- [kamelirzouni/MCP-server-Deepseek_R1](https://github.com/kamelirzouni/MCP-server-Deepseek_R1) — Connect Claude Desktop with DeepSeek ☆`70`
+- [mzxrai/mcp-openai](https://github.com/mzxrai/mcp-openai) — Chat with OpenAI models from Claude Desktop ☆`71`
+- [ruixingshi/deepseek-thinker-mcp](https://github.com/ruixingshi/deepseek-thinker-mcp) — DeepSeek reasoning for MCP-enabled clients ☆`68`
+- [amidabuddha/unichat-mcp-server](https://github.com/amidabuddha/unichat-mcp-server) — Unified chat across multiple LLM providers ☆`37`
+- [merterbak/Grok-MCP](https://github.com/merterbak/Grok-MCP) — MCP server for xAI Grok API with tool calling and vision ☆`24`
+- [andybrandt/mcp-simple-openai-assistant](https://github.com/andybrandt/mcp-simple-openai-assistant) — Use OpenAI GPTs assistants from Claude ☆`37`
+- [kamelirzouni/MCP-server-Qwen_Max](https://github.com/kamelirzouni/MCP-server-Qwen_Max) — MCP server for Qwen Max model ☆`24`
+- [HyperbolicLabs/hyperbolic-mcp](https://github.com/HyperbolicLabs/hyperbolic-mcp) — MCP Server for Claude ☆`19`
+- [billster45/mcp-chatgpt-responses](https://github.com/billster45/mcp-chatgpt-responses) — MCP server for OpenAI ChatGPT API with Responses API ☆`16`
+## Location & Maps
+
+### GIS
+
+- [jjsantos01/qgis_mcp](https://github.com/jjsantos01/qgis_mcp) — Model Context Protocol (MCP) that allows LLMs to use QGIS Desktop ☆`903`
+- [mahdin75/gis-mcp](https://github.com/mahdin75/gis-mcp) — MCP server connecting LLMs to GIS capabilities ☆`134`
+- [JordanGunn/gdal-mcp](https://github.com/JordanGunn/gdal-mcp) — Geospatial analysis with epistemic reasoning ☆`64`
+- [mahdin75/geoserver-mcp](https://github.com/mahdin75/geoserver-mcp) — GeoServer geospatial integration ☆`69`
+- [webcoderz/MCP-Geo](https://github.com/webcoderz/MCP-Geo) — Geocoding MCP server with GeoPY! ☆`32`
+### IP Geolocation
+
+- [briandconnelly/mcp-server-ipinfo](https://github.com/briandconnelly/mcp-server-ipinfo) — IP Geolocation Server for MCP ☆`43`
+- [iplocate/mcp-server-iplocate](https://github.com/iplocate/mcp-server-iplocate) — IP geolocation, proxy detection via IPLocate.io API ☆`17`
+### Maps & Navigation
+
+- [baidu-maps/mcp](https://github.com/baidu-maps/mcp) — Baidu Map MCP Server ☆`421`
+- [mapbox/mcp-server](https://github.com/mapbox/mcp-server) — Mapbox Model Context Protocol (MCP) server ☆`331`
+- [jagan-shanmugam/open-streetmap-mcp](https://github.com/jagan-shanmugam/open-streetmap-mcp) — MCP server for OpenStreetMap data ☆`182`
+- [tomtom-international/tomtom-mcp](https://github.com/tomtom-international/tomtom-mcp) — TomTom location, search, routing ☆`45`
+- [PinMeTo/pinmeto-location-mcp](https://github.com/PinMeTo/pinmeto-location-mcp) — PinMeTo MCP server that enables users with authorized credentials to unlock their data ☆`16`
+- [stadiamaps/stadiamaps-mcp-server-ts](https://github.com/stadiamaps/stadiamaps-mcp-server-ts) — Stadia Maps API integration in TypeScript ☆`21`
+- [kukapay/nearby-search-mcp](https://github.com/kukapay/nearby-search-mcp) — Nearby place search with IP-based location ☆`22`
+### Weather
+
+- [isdaniel/mcp_weather_server](https://github.com/isdaniel/mcp_weather_server) — Weather info via Open-Meteo API ☆`47`
+- [TimLukaHorstmann/mcp-weather](https://github.com/TimLukaHorstmann/mcp-weather) — AccuWeather hourly and daily forecasts ☆`31`
+- [sjanaX01/weather-mcp-server](https://github.com/sjanaX01/weather-mcp-server) — A simple minimal weather mcp server :) ☆`21`
+- [mschneider82/mcp-openweather](https://github.com/mschneider82/mcp-openweather) — mcp server for openweather free api ☆`16`
+## MCP Clients
+
+- [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) — Build autonomous AI agents in Python. ☆`7,825`
+- [genkit-ai/genkit](https://github.com/genkit-ai/genkit) — AI app framework for JavaScript and Go ☆`5,793`
+- [ravitemer/mcphub.nvim](https://github.com/ravitemer/mcphub.nvim) — MCP client for Neovim with intuitive server management ☆`1,760`
+- [SecretiveShell/MCP-Bridge](https://github.com/SecretiveShell/MCP-Bridge) — OpenAI-compatible endpoint calling MCP tools ☆`922`
+- [Lucassssss/eechat](https://github.com/Lucassssss/eechat) — Local AI chat application ☆`337`
+- [EvalsOne/MCP-connect](https://github.com/EvalsOne/MCP-connect) — Cloud AI access to local Stdio MCP servers ☆`236`
+- [AI-QL/chat-mcp](https://github.com/AI-QL/chat-mcp) — Desktop chat app with MCP support ☆`244`
+- [3choff/mcp-chatbot](https://github.com/3choff/mcp-chatbot) — CLI chatbot with MCP integration demo ☆`248`
+- [johannesbrandenburger/typst-mcp](https://github.com/johannesbrandenburger/typst-mcp) — MCP server for Typst markup-based typesetting system ☆`142`
+- [tanaikech/ToolsForMCPServer](https://github.com/tanaikech/ToolsForMCPServer) — MCP server built with Google Apps Script for Gemini CLI ☆`100`
+- [xzq-xu/jvm-mcp-server](https://github.com/xzq-xu/jvm-mcp-server) — JVM-based MCP server implementation ☆`82`
+- [ckanthony/gin-mcp](https://github.com/ckanthony/gin-mcp) — Enable MCP features for any Gin API with a line of code ☆`73`
+- [php-mcp/client](https://github.com/php-mcp/client) — Core PHP implementation for the Model Context Protocol (MCP) Client ☆`55`
+- [zacharypodbela/django-rest-framework-mcp](https://github.com/zacharypodbela/django-rest-framework-mcp) — MCP server for Django REST Framework ☆`43`
+- [rakesh-eltropy/mcp-client](https://github.com/rakesh-eltropy/mcp-client) — REST API and CLI client for MCP with LangChain ☆`50`
+## Marketing & Analytics
+
+- [pipeboard-co/meta-ads-mcp](https://github.com/pipeboard-co/meta-ads-mcp) — MCP server to manage Facebook and Instagram Ads (Meta Ads) ☆`779`
+- [gomarble-ai/facebook-ads-mcp-server](https://github.com/gomarble-ai/facebook-ads-mcp-server) — Facebook and Instagram Ads management ☆`268`
+- [open-strategy-partners/osp_marketing_tools](https://github.com/open-strategy-partners/osp_marketing_tools) — MCP server for marketing automation tools ☆`265`
+- [cnych/seo-mcp](https://github.com/cnych/seo-mcp) — SEO tool based on Ahrefs data ☆`238`
+- [proxy-intell/facebook-ads-library-mcp](https://github.com/proxy-intell/facebook-ads-library-mcp) — Facebook Ads Library search and access ☆`203`
+- [surendranb/google-analytics-mcp](https://github.com/surendranb/google-analytics-mcp) — Google Analytics 4 data access ☆`199`
+- [stape-io/google-tag-manager-mcp-server](https://github.com/stape-io/google-tag-manager-mcp-server) — MCP server for Google Tag Manager ☆`135`
+- [gomarble-ai/google-ads-mcp-server](https://github.com/gomarble-ai/google-ads-mcp-server) — Google Ads performance data analysis ☆`114`
+- [microsoft/clarity-mcp-server](https://github.com/microsoft/clarity-mcp-server) — Microsoft Clarity integration ☆`77`
+- [builtwith/builtwith-mcp](https://github.com/builtwith/builtwith-mcp) — BuiltWith MCP Server ☆`40`
+- [amekala/ads-mcp](https://github.com/amekala/ads-mcp) — MCP server for managing ad campaigns across Google Ads, Meta Ads, LinkedIn Ads, and TikTok Ads. 100+ tools for campaign creation, performance analysis, keyword research, and budget optimization. Works with ChatGPT, Claude, Gemini CLI, Cursor, Codex, and Windsurf. ☆`31`
+- [rafaelstz/adobe-commerce-dev-mcp](https://github.com/rafaelstz/adobe-commerce-dev-mcp) — Adobe Commerce Dev MCP Server ☆`26`
+- [Kiran1689/storyblok-mcp-server](https://github.com/Kiran1689/storyblok-mcp-server) — MCP server for Storyblok CMS management ☆`40`
+- [metricool/mcp-metricool](https://github.com/metricool/mcp-metricool) — Metricool API integration ☆`35`
+- [AdsMCP/tiktok-ads-mcp-server](https://github.com/AdsMCP/tiktok-ads-mcp-server) — TikTok Ads Marketing API integration via MCP ☆`26`
+- [gvaibhav/TAM-MCP-Server](https://github.com/gvaibhav/TAM-MCP-Server) — Market sizing and TAM/SAM analysis ☆`29`
+- [MarketplaceAdPros/amazon-ads-mcp-server](https://github.com/MarketplaceAdPros/amazon-ads-mcp-server) — MCP Server to interact with Amazon Ads ☆`20`
+- [jonathan-politzki/smartlead-mcp-server](https://github.com/jonathan-politzki/smartlead-mcp-server) — Smartlead MCP deployment ☆`17`
+## Media Processing
+
+### 3D & Animation
+
+- [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) — Blender 3D modeling with Claude AI ☆`19,820`
+- [AIDC-AI/Pixelle-MCP](https://github.com/AIDC-AI/Pixelle-MCP) — Multimodal AIGC with ComfyUI + MCP ☆`952`
+- [samuelgursky/davinci-resolve-mcp](https://github.com/samuelgursky/davinci-resolve-mcp) — MCP server integration for DaVinci Resolve ☆`811`
+- [abhiemj/manim-mcp-server](https://github.com/abhiemj/manim-mcp-server) — Manim animation code execution ☆`581`
+- [8beeeaaat/touchdesigner-mcp](https://github.com/8beeeaaat/touchdesigner-mcp) — MCP server for TouchDesigner ☆`275`
+- [diivi/aseprite-mcp](https://github.com/diivi/aseprite-mcp) — MCP server for interacting with the Aseprite API ☆`143`
+- [pranav-deshmukh/blender-mcp](https://github.com/pranav-deshmukh/blender-mcp) — Blender 3D modeling integration ☆`96`
+- [PatrickPalmer/MayaMCP](https://github.com/PatrickPalmer/MayaMCP) — Autodesk Maya 3D integration ☆`67`
+- [wilsonchenghy/ShaderToy-MCP](https://github.com/wilsonchenghy/ShaderToy-MCP) — Create and explore GLSL shaders on ShaderToy ☆`43`
+### Audio & Music
+
+- [elevenlabs/elevenlabs-mcp](https://github.com/elevenlabs/elevenlabs-mcp) — The official ElevenLabs MCP server ☆`1,309`
+- [varunneal/spotify-mcp](https://github.com/varunneal/spotify-mcp) — MCP to connect your LLM with Spotify. ☆`595`
+- [Simon-Kansara/ableton-live-mcp-server](https://github.com/Simon-Kansara/ableton-live-mcp-server) — Ableton Live OSC control ☆`375`
+- [marcelmarais/spotify-mcp-server](https://github.com/marcelmarais/spotify-mcp-server) — Lightweight MCP server for Spotify ☆`294`
+- [tiianhk/MaxMSP-MCP-Server](https://github.com/tiianhk/MaxMSP-MCP-Server) — MCP (Model Context Protocol) Server for Max (Max/MSP/Jitter) ☆`202`
+- [adamjmurray/producer-pal](https://github.com/adamjmurray/producer-pal) — AI music production assistant for Ableton Live ☆`124`
+- [dschuler36/reaper-mcp-server](https://github.com/dschuler36/reaper-mcp-server) — An MCP Server for interacting with Reaper projects. ☆`93`
+- [SkyworkAI/Mureka-mcp](https://github.com/SkyworkAI/Mureka-mcp) — AI lyrics, song, and music generation ☆`88`
+- [imprvhub/mcp-claude-spotify](https://github.com/imprvhub/mcp-claude-spotify) — Spotify interaction for Claude Desktop ☆`32`
+- [TwelveTake-Studios/reaper-mcp](https://github.com/TwelveTake-Studios/reaper-mcp) —  ☆`16`
+- [vsaez/mcp-spotify-player](https://github.com/vsaez/mcp-spotify-player) — MCP server to manage Spotify from MCP clients ☆`18`
+### Image Generation
+
+- [shinpr/mcp-image](https://github.com/shinpr/mcp-image) — AI image generation with Gemini 3 ☆`98`
+- [SureScaleAI/openai-gpt-image-mcp](https://github.com/SureScaleAI/openai-gpt-image-mcp) — OpenAI GPT-4o image generation and editing ☆`100`
+- [awkoy/replicate-flux-mcp](https://github.com/awkoy/replicate-flux-mcp) — MCP server for Replicate Flux image and SVG generation ☆`98`
+- [Flyworks-AI/flyworks-mcp](https://github.com/Flyworks-AI/flyworks-mcp) — Fast and free zeroshot lipsync MCP server ☆`94`
+- [GenWaveLLC/svgmaker-mcp](https://github.com/GenWaveLLC/svgmaker-mcp) — MCP server for SVG generation ☆`62`
+- [apinetwork/piapi-mcp-server](https://github.com/apinetwork/piapi-mcp-server) — PiAPI media: Midjourney, Flux, Kling ☆`69`
+- [hamflx/imagen3-mcp](https://github.com/hamflx/imagen3-mcp) — MCP server for Google Imagen 3 image generation ☆`61`
+- [recraft-ai/mcp-recraft-server](https://github.com/recraft-ai/mcp-recraft-server) — Recraft API integration ☆`53`
+- [InhiblabCore/mcp-image-compression](https://github.com/InhiblabCore/mcp-image-compression) — High-performance image compression service ☆`31`
+- [WaveSpeedAI/mcp-server](https://github.com/WaveSpeedAI/mcp-server) — Image and video generation with WaveSpeed AI ☆`26`
+- [zxkane/mcp-server-amazon-bedrock](https://github.com/zxkane/mcp-server-amazon-bedrock) — Amazon Bedrock Nova Canvas image generation ☆`24`
+### Image Processing
+
+- [steipete/Peekaboo](https://github.com/steipete/Peekaboo) — macOS screenshot and window capture MCP server ☆`3,124`
+- [sunriseapps/imagesorcery-mcp](https://github.com/sunriseapps/imagesorcery-mcp) — Image processing operations ☆`303`
+- [IDEA-Research/DINO-X-MCP](https://github.com/IDEA-Research/DINO-X-MCP) — MCP server for DINO-X vision model ☆`118`
+- [groundlight/mcp-vision](https://github.com/groundlight/mcp-vision) — Computer vision models as MCP servers ☆`54`
+- [MoussaabBadla/code-screenshot-mcp](https://github.com/MoussaabBadla/code-screenshot-mcp) — Generate code screenshots ☆`43`
+- [nota/gyazo-mcp-server](https://github.com/nota/gyazo-mcp-server) — Official Model Context Protocol server for Gyazo ☆`25`
+- [stass/exif-mcp](https://github.com/stass/exif-mcp) — MCP server to extract image metadata (EXIF, XMP, etc) ☆`36`
+- [screenshotone/mcp](https://github.com/screenshotone/mcp) — A simple implementation of an MCP server for the ScreenshotOne API ☆`36`
+- [upnorthmedia/ScreenshotMCP](https://github.com/upnorthmedia/ScreenshotMCP) — Website screenshot capture and optimization ☆`28`
+- [magarcia/mcp-server-giphy](https://github.com/magarcia/mcp-server-giphy) — Giphy GIF integration ☆`28`
+- [flowy11/imagician](https://github.com/flowy11/imagician) — A MCP server for image edition ☆`18`
+### Video
+
+- [kimtaeyoon83/mcp-server-youtube-transcript](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript) — YouTube video transcript downloader ☆`521`
+- [ZubeidHendricks/youtube-mcp-server](https://github.com/ZubeidHendricks/youtube-mcp-server) — YouTube API and video management ☆`494`
+- [anaisbetts/mcp-youtube](https://github.com/anaisbetts/mcp-youtube) — A Model-Context Protocol Server for YouTube ☆`515`
+- [eat-pray-ai/yutu](https://github.com/eat-pray-ai/yutu) — The AI-powered toolkit that grows your YouTube channel on autopilot. ☆`440`
+- [burningion/video-editing-mcp](https://github.com/burningion/video-editing-mcp) — MCP Interface for Video Jungle ☆`260`
+- [muxinc/mux-node-sdk](https://github.com/muxinc/mux-node-sdk) — Mux Video and Data API wrapper ☆`178`
+- [Laksh-star/mcp-server-tmdb](https://github.com/Laksh-star/mcp-server-tmdb) — MCP Server with TMDB ☆`66`
+- [nabid-pf/youtube-video-summarizer-mcp](https://github.com/nabid-pf/youtube-video-summarizer-mcp) — YouTube video captions and summarization ☆`58`
+- [video-db/agent-toolkit](https://github.com/video-db/agent-toolkit) — MCP toolkit for video database operations ☆`49`
+- [tan-yong-sheng/ai-vision-mcp](https://github.com/tan-yong-sheng/ai-vision-mcp) — Image and video analysis capabilities ☆`47`
+- [raveenb/fal-mcp-server](https://github.com/raveenb/fal-mcp-server) — Fal.ai image, video, music generation ☆`42`
+- [marcindulak/stt-mcp-server-linux](https://github.com/marcindulak/stt-mcp-server-linux) — Local speech-to-text for Tmux on Linux ☆`22`
+- [omergocmen/json2video-mcp-server](https://github.com/omergocmen/json2video-mcp-server) — json2video API integration ☆`25`
+- [sinjab/mcp_youtube_extract](https://github.com/sinjab/mcp_youtube_extract) — YouTube clip information extraction ☆`19`
+- [TSavo/creatify-mcp](https://github.com/TSavo/creatify-mcp) — MCP server for AI video generation ☆`21`
+- [13rac1/videocapture-mcp](https://github.com/13rac1/videocapture-mcp) — MCP server to capture images from webcam or video source ☆`17`
+## Monitoring & Observability
+
+- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) — MCP server for Grafana ☆`2,824`
+- [getsentry/sentry-mcp](https://github.com/getsentry/sentry-mcp) — An MCP server for interacting with Sentry via LLMs. ☆`636`
+- [mpeirone/zabbix-mcp-server](https://github.com/mpeirone/zabbix-mcp-server) — MCP server for Zabbix monitoring with 40+ tools ☆`196`
+- [comet-ml/opik-mcp](https://github.com/comet-ml/opik-mcp) — MCP server for Opik LLM evaluation platform ☆`203`
+- [VictoriaMetrics/mcp-victoriametrics](https://github.com/VictoriaMetrics/mcp-victoriametrics) — VictoriaMetrics monitoring integration ☆`150`
+- [langfuse/mcp-server-langfuse](https://github.com/langfuse/mcp-server-langfuse) — MCP server for Langfuse LLM observability ☆`160`
+- [grafana/loki-mcp](https://github.com/grafana/loki-mcp) — An MCP ( Model Context Protocol ) Server for Grafana Loki ☆`119`
+- [dynatrace-oss/dynatrace-mcp](https://github.com/dynatrace-oss/dynatrace-mcp) — MCP server for Dynatrace Observability ☆`106`
+- [PagerDuty/pagerduty-mcp-server](https://github.com/PagerDuty/pagerduty-mcp-server) — PagerDuty official MCP server ☆`62`
+- [seekrays/mcp-monitor](https://github.com/seekrays/mcp-monitor) — MCP server monitoring tool ☆`80`
+- [last9/last9-mcp-server](https://github.com/last9/last9-mcp-server) — Last9 MCP Server ☆`54`
+- [GeLi2001/datadog-mcp-server](https://github.com/GeLi2001/datadog-mcp-server) — MCP server interacts with the official Datadog API ☆`66`
+- [metoro-io/metoro-mcp-server](https://github.com/metoro-io/metoro-mcp-server) — Metoro MCP Server ☆`49`
+- [tjhop/prometheus-mcp-server](https://github.com/tjhop/prometheus-mcp-server) — MCP server for LLMs to interact with Prometheus ☆`44`
+- [Rootly-AI-Labs/rootly-mcp-server](https://github.com/Rootly-AI-Labs/rootly-mcp-server) — Rootly MCP server ☆`41`
+- [mcpcap/mcpcap](https://github.com/mcpcap/mcpcap) — Network analysis for the AI age ☆`34`
+- [inspektor-gadget/ig-mcp-server](https://github.com/inspektor-gadget/ig-mcp-server) — Container and Kubernetes debugging with AI ☆`24`
+- [RedHatInsights/insights-mcp](https://github.com/RedHatInsights/insights-mcp) — Red Hat Insights AI connection ☆`18`
+- [MindscapeHQ/mcp-server-raygun](https://github.com/MindscapeHQ/mcp-server-raygun) — Raygun error investigation for AI ☆`20`
+- [mhajder/librenms-mcp](https://github.com/mhajder/librenms-mcp) — MCP server for LibreNMS management ☆`21`
+- [tgeselle/bugsnag-mcp](https://github.com/tgeselle/bugsnag-mcp) — MCP server for Bugsnag error monitoring ☆`20`
+- [Pratyay/mac-monitor-mcp](https://github.com/Pratyay/mac-monitor-mcp) — MCP server for macOS system monitoring ☆`20`
+- [ntk148v/alertmanager-mcp-server](https://github.com/ntk148v/alertmanager-mcp-server) — MCP server for Prometheus Alertmanager integration ☆`17`
+- [tumf/grafana-loki-mcp](https://github.com/tumf/grafana-loki-mcp) — Grafana Loki MCP Repository ☆`24`
+- [emicklei/mcp-log-proxy](https://github.com/emicklei/mcp-log-proxy) — a web logging proxy for MCP client-server communication ☆`28`
+## Productivity
+
+### Atlassian
+
+- [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) — MCP server for Atlassian tools (Confluence, Jira) ☆`4,942`
+- [aashari/mcp-server-atlassian-bitbucket](https://github.com/aashari/mcp-server-atlassian-bitbucket) — Atlassian Bitbucket repositories and PRs ☆`140`
+- [nguyenvanduocit/jira-mcp](https://github.com/nguyenvanduocit/jira-mcp) — Jira issues and sprints via Go MCP ☆`86`
+- [aashari/mcp-server-atlassian-jira](https://github.com/aashari/mcp-server-atlassian-jira) — Atlassian Jira projects, issues and sprints ☆`64`
+- [aashari/mcp-server-atlassian-confluence](https://github.com/aashari/mcp-server-atlassian-confluence) — Atlassian Confluence spaces and pages ☆`50`
+- [phuc-nt/mcp-atlassian-server](https://github.com/phuc-nt/mcp-atlassian-server) — Jira and Confluence integration ☆`51`
+- [KS-GEN-AI/jira-mcp-server](https://github.com/KS-GEN-AI/jira-mcp-server) — A test of jira mcp server ☆`25`
+- [rahulthedevil/Jira-Context-MCP](https://github.com/rahulthedevil/Jira-Context-MCP) — Jira tickets info for AI coding agents ☆`25`
+### Collaboration
+
+- [evalstate/mcp-miro](https://github.com/evalstate/mcp-miro) — MCP server for Miro whiteboard manipulation and sticky creation ☆`109`
+- [orellazri/coda-mcp](https://github.com/orellazri/coda-mcp) — MCP Server for Coda ☆`56`
+- [hiromitsusasaki/raindrop-io-mcp-server](https://github.com/hiromitsusasaki/raindrop-io-mcp-server) — Raindrop.io bookmark management ☆`72`
+- [k-jarzyna/mcp-miro](https://github.com/k-jarzyna/mcp-miro) — Miro integration for Model Context Protocol ☆`62`
+- [kintone/mcp-server](https://github.com/kintone/mcp-server) — kintone official MCP server ☆`42`
+- [Fibery-inc/fibery-mcp-server](https://github.com/Fibery-inc/fibery-mcp-server) — MCP server for Fibery workspace integration ☆`30`
+### Documents
+
+- [zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) — Convert almost anything to Markdown ☆`2,590`
+- [vivekVells/mcp-pandoc](https://github.com/vivekVells/mcp-pandoc) — MCP server for document format conversion using pandoc. ☆`527`
+- [onebirdrocks/ebook-mcp](https://github.com/onebirdrocks/ebook-mcp) — MCP server for ebook processing ☆`358`
+- [baruchiro/paperless-mcp](https://github.com/baruchiro/paperless-mcp) — MCP server for Paperless-NGX document management ☆`88`
+- [PSPDFKit/nutrient-dws-mcp-server](https://github.com/PSPDFKit/nutrient-dws-mcp-server) — Nutrient Document Web Services ☆`63`
+- [Unstructured-IO/UNS-MCP](https://github.com/Unstructured-IO/UNS-MCP) — MCP server for Unstructured document processing ☆`43`
+- [vgnshiyer/apple-books-mcp](https://github.com/vgnshiyer/apple-books-mcp) — Apple Books MCP Server ☆`45`
+- [esignaturescom/mcp-server-esignatures](https://github.com/esignaturescom/mcp-server-esignatures) — eSignatures.com document signing ☆`36`
+- [danielkennedy1/pdf-tools-mcp](https://github.com/danielkennedy1/pdf-tools-mcp) — MCP server for PDF manipulation (merge, extract, snippets) ☆`31`
+- [gpetraroli/mcp_pdf_reader](https://github.com/gpetraroli/mcp_pdf_reader) — An MCP server to extraxt/search text from pdf ☆`31`
+- [thechandanbhagat/cv-forge](https://github.com/thechandanbhagat/cv-forge) — MCP to tailored CV based on job description ☆`25`
+- [intsig-textin/textin-mcp](https://github.com/intsig-textin/textin-mcp) — OCR and document-to-Markdown conversion ☆`28`
+### Google Workspace
+
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) — MCP server for Google Workspace integration ☆`2,123`
+- [MarkusPfundstein/mcp-gsuite](https://github.com/MarkusPfundstein/mcp-gsuite) — MCP Server to interact with Google Gsuite prodcuts ☆`486`
+- [v-3/google-calendar](https://github.com/v-3/google-calendar) — Google Calendar events and scheduling ☆`70`
+- [baryhuang/mcp-headless-gmail](https://github.com/baryhuang/mcp-headless-gmail) — Gmail without local credentials ☆`56`
+- [giuseppe-coco/Google-Workspace-MCP-Server](https://github.com/giuseppe-coco/Google-Workspace-MCP-Server) — Gmail, Calendar, and Drive integration ☆`28`
+### Helpdesk & Support
+
+- [echelon-ai-labs/servicenow-mcp](https://github.com/echelon-ai-labs/servicenow-mcp) — MCP Server for ServiceNow ☆`241`
+- [effytech/freshdesk_mcp](https://github.com/effytech/freshdesk_mcp) — Freshdesk support ticket integration ☆`57`
+- [modesty/fluent-mcp](https://github.com/modesty/fluent-mcp) — MCP server for Fluent (ServiceNow SDK) ☆`24`
+- [quickchatai/quickchat-ai-mcp](https://github.com/quickchatai/quickchat-ai-mcp) — The Quickchat AI MCP server ☆`23`
+### Learning & Flashcards
+
+- [ankimcp/anki-mcp-server](https://github.com/ankimcp/anki-mcp-server) — MCP server for Anki spaced repetition flashcards ☆`225`
+- [scorzeth/anki-mcp-server](https://github.com/scorzeth/anki-mcp-server) — An MCP server for Anki ☆`179`
+- [jinzcdev/leetcode-mcp-server](https://github.com/jinzcdev/leetcode-mcp-server) — MCP server for LeetCode problems and solutions ☆`107`
+- [rember/rember-mcp](https://github.com/rember/rember-mcp) — A Model Context Protocol (MCP) server for Rember. ☆`63`
+- [nietus/anki-mcp](https://github.com/nietus/anki-mcp) — MCP server for anki ☆`39`
+- [doggybee/mcp-server-leetcode](https://github.com/doggybee/mcp-server-leetcode) — MCP server for LeetCode coding challenges ☆`40`
+- [spacholski1225/anki-connect-mcp](https://github.com/spacholski1225/anki-connect-mcp) — MCP implementation for Anki Web ☆`18`
+### Microsoft 365
+
+- [haris-musa/excel-mcp-server](https://github.com/haris-musa/excel-mcp-server) — Excel file manipulation ☆`3,699`
+- [Softeria/ms-365-mcp-server](https://github.com/Softeria/ms-365-mcp-server) — Microsoft 365 and Office via Graph API ☆`622`
+- [InditexTech/mcp-teams-server](https://github.com/InditexTech/mcp-teams-server) — MCP server for Microsoft Teams integration ☆`368`
+- [merill/lokka](https://github.com/merill/lokka) — MCP for Microsoft 365 and Graph ☆`235`
+- [sbroenne/mcp-server-excel](https://github.com/sbroenne/mcp-server-excel) — Excel MCP Server - 23 tools for AI-powered automation ☆`119`
+- [pnp/cli-microsoft365-mcp-server](https://github.com/pnp/cli-microsoft365-mcp-server) — Manage Microsoft 365 using MCP server ☆`98`
+- [Norcim133/OutlookMCPServer](https://github.com/Norcim133/OutlookMCPServer) — MCP Server for msgraph - mail, calendar, files ☆`17`
+### Note-taking & Docs
+
+- [RafalWilinski/mcp-apple-notes](https://github.com/RafalWilinski/mcp-apple-notes) — RAG over Apple Notes for Claude ☆`377`
+- [lostintangent/gistpad-mcp](https://github.com/lostintangent/gistpad-mcp) — Personal knowledge and daily notes management ☆`189`
+- [Vortiago/mcp-outline](https://github.com/Vortiago/mcp-outline) — AI assistants with Outline docs ☆`137`
+- [entanglr/zettelkasten-mcp](https://github.com/entanglr/zettelkasten-mcp) — MCP server implementing Zettelkasten knowledge management ☆`148`
+- [gornskew/lisply-mcp](https://github.com/gornskew/lisply-mcp) — Manage Lisply lisp-speaking backends ☆`48`
+- [2slides/mcp-2slides](https://github.com/2slides/mcp-2slides) — MCP Server for 2slides - AI agent for PPT generation ☆`28`
+- [akseyh/bear-mcp-server](https://github.com/akseyh/bear-mcp-server) — MCP Server integration for Bear note app ☆`44`
+- [Harry-027/JotDown](https://github.com/Harry-027/JotDown) — An MCP Server in Rust for creating Notion pages & mdBooks with LLMs ☆`21`
+- [Piotr1215/mcp-obsidian](https://github.com/Piotr1215/mcp-obsidian) — simple mcp server for interacting with local obsidian notes ☆`21`
+- [ONLYOFFICE/docspace-mcp](https://github.com/ONLYOFFICE/docspace-mcp) — DocSpace MCP Server ☆`20`
+- [danield137/mcp-workflowy](https://github.com/danield137/mcp-workflowy) — An MCP server for workflowy ☆`27`
+- [joshylchen/zettelkasten](https://github.com/joshylchen/zettelkasten) — Comprehensive AI-powered knowledge management system implementing the Zettelkasten method. Features atomic note creation, full-text search, AI-powered CEQRC workflows (Capture→Explain→Question→Refine→Connect), intelligent link discovery, and multi-interface access (CLI, API, Web UI, MCP). Perfect for researchers, students, and knowledge workers. ☆`23`
+### Notion
+
+- [makenotion/notion-mcp-server](https://github.com/makenotion/notion-mcp-server) — Official Notion MCP Server ☆`4,219`
+- [suekou/mcp-notion-server](https://github.com/suekou/mcp-notion-server) — MCP server for Notion API with Markdown conversion ☆`879`
+- [danhilse/notion_mcp](https://github.com/danhilse/notion_mcp) — Notion integration with advanced formatting ☆`207`
+- [Badhansen/notion-mcp](https://github.com/Badhansen/notion-mcp) — Notion workspace management ☆`29`
+### Obsidian
+
+- [MarkusPfundstein/mcp-obsidian](https://github.com/MarkusPfundstein/mcp-obsidian) — Obsidian integration via REST API plugin ☆`3,376`
+- [bitbonsai/mcpvault](https://github.com/bitbonsai/mcpvault) — Lightweight Obsidian vault access ☆`1,086`
+- [StevenStavrakis/obsidian-mcp](https://github.com/StevenStavrakis/obsidian-mcp) — A simple MCP server for Obsidian ☆`678`
+### Project Management
+
+- [mondaycom/mcp](https://github.com/mondaycom/mcp) — AI agents with secure data access ☆`395`
+- [jerhadf/linear-mcp-server](https://github.com/jerhadf/linear-mcp-server) — MCP server for Linear issue tracking ☆`344`
+- [makeplane/plane-mcp-server](https://github.com/makeplane/plane-mcp-server) — Plane's Official Model Context Protocol Server ☆`193`
+- [roychri/mcp-server-asana](https://github.com/roychri/mcp-server-asana) — MCP server for Asana task and project management ☆`137`
+- [its-dart/dart-mcp-server](https://github.com/its-dart/dart-mcp-server) — Dart AI Model Context Protocol (MCP) server ☆`127`
+- [taskade/mcp](https://github.com/taskade/mcp) — MCP server for Taskade project management ☆`120`
+- [tacticlaunch/mcp-linear](https://github.com/tacticlaunch/mcp-linear) — MCP server for Linear project management ☆`133`
+- [useshortcut/mcp-server-shortcut](https://github.com/useshortcut/mcp-server-shortcut) — The MCP server for Shortcut ☆`97`
+- [tonyzorin/youtrack-mcp](https://github.com/tonyzorin/youtrack-mcp) — YouTrack server, ARM64 and AMD64 ☆`84`
+- [georgeantonopoulos/Basecamp-MCP-Server](https://github.com/georgeantonopoulos/Basecamp-MCP-Server) — Basecamp 3+ project management ☆`82`
+- [feuerdev/keep-mcp](https://github.com/feuerdev/keep-mcp) — MCP server for Google Keep ☆`71`
+- [aikts/yandex-tracker-mcp](https://github.com/aikts/yandex-tracker-mcp) — Yandex Tracker MCP Server with OAuth2 support ☆`62`
+- [m0xai/trello-mcp-server](https://github.com/m0xai/trello-mcp-server) — A simple yet powerful MCP server for Trello. ☆`52`
+- [taazkareem/clickup-mcp-server](https://github.com/taazkareem/clickup-mcp-server) — ClickUp MCP Server - project management with AI ☆`29`
+- [EduBase/MCP](https://github.com/EduBase/MCP) — MCP server for EduBase e-learning platform ☆`25`
+- [kelvin6365/plane-mcp-server](https://github.com/kelvin6365/plane-mcp-server) — MCP server for Plane.so project management ☆`38`
+- [kocakli/Trello-Desktop-MCP](https://github.com/kocakli/Trello-Desktop-MCP) — Trello integration for Claude Desktop via MCP ☆`23`
+- [Teamwork/mcp](https://github.com/Teamwork/mcp) — Teamwork.com MCP server ☆`17`
+- [Prat011/mcp-server-monday](https://github.com/Prat011/mcp-server-monday) — MCP Server to interact with Monday.com boards and items ☆`34`
+- [bivex/kanboard-mcp](https://github.com/bivex/kanboard-mcp) — MCP server for Kanboard project management integration ☆`21`
+### Tasks & Calendar
+
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) — AI app store with 24/7 desktop history ☆`18,214`
+- [nspady/google-calendar-mcp](https://github.com/nspady/google-calendar-mcp) — MCP integration for Google Calendar to manage events. ☆`1,093`
+- [Doist/todoist-ai](https://github.com/Doist/todoist-ai) — Todoist tools for AI agents ☆`448`
+- [abhiz123/todoist-mcp-server](https://github.com/abhiz123/todoist-mcp-server) — Todoist natural language task management ☆`386`
+- [Omar-V2/mcp-ical](https://github.com/Omar-V2/mcp-ical) — Interact with MacOS Calendar ☆`299`
+- [zcaceres/gtasks-mcp](https://github.com/zcaceres/gtasks-mcp) — A Google Tasks Model Context Protocol Server for Claude ☆`124`
+- [alexarevalo9/ticktick-mcp-server](https://github.com/alexarevalo9/ticktick-mcp-server) — TickTick task management ☆`70`
+- [dominik1001/caldav-mcp](https://github.com/dominik1001/caldav-mcp) — CalDAV calendar sync ☆`62`
+- [stanislavlysenko0912/todoist-mcp-server](https://github.com/stanislavlysenko0912/todoist-mcp-server) — Todoist Rest API and Sync API ☆`60`
+- [jen6/ticktick-mcp](https://github.com/jen6/ticktick-mcp) — TickTick task management with filtering ☆`65`
+- [awwaiid/mcp-server-taskwarrior](https://github.com/awwaiid/mcp-server-taskwarrior) — MCP Server for TaskWarrior! ☆`46`
+- [takumi0706/google-calendar-mcp](https://github.com/takumi0706/google-calendar-mcp) — Google Calendar for Claude Desktop ☆`56`
+- [arpitbatra123/mcp-googletasks](https://github.com/arpitbatra123/mcp-googletasks) — MCP server for Google Tasks management ☆`35`
+- [urbanogardun/things3-mcp](https://github.com/urbanogardun/things3-mcp) — MCP server for Things3 integration on macOS ☆`21`
+- [flesler/mcp-tasks](https://github.com/flesler/mcp-tasks) — Efficient task management with views ☆`41`
+- [jbrinkman/valkey-ai-tasks](https://github.com/jbrinkman/valkey-ai-tasks) — MCP server for task management with Valkey persistence ☆`25`
+- [hichana/goalstory-mcp](https://github.com/hichana/goalstory-mcp) — Goal tracking with AI-powered storytelling ☆`18`
+- [Danielpeter-99/calcom-mcp](https://github.com/Danielpeter-99/calcom-mcp) — A FastMCP server for interacting with the Cal.com API. This enables LLMs to manage event types, create bookings, and access Cal.com scheduling data programmatically. ☆`16`
+### Wiki & Collaboration
+
+- [anyproto/anytype-mcp](https://github.com/anyproto/anytype-mcp) — AI with Anytype encrypted local data ☆`379`
+- [ProfessionalWiki/MediaWiki-MCP-Server](https://github.com/ProfessionalWiki/MediaWiki-MCP-Server) — Connect AI with any MediaWiki ☆`75`
+- [HenryHaoson/Yuque-MCP-Server](https://github.com/HenryHaoson/Yuque-MCP-Server) — Yuque mcp server ☆`59`
+- [yuna0x0/hackmd-mcp](https://github.com/yuna0x0/hackmd-mcp) — HackMD note-taking integration ☆`55`
+## Research & Science
+
+- [oOo0oOo/lean-lsp-mcp](https://github.com/oOo0oOo/lean-lsp-mcp) — Lean Theorem Prover MCP ☆`360`
+- [szeider/mcp-solver](https://github.com/szeider/mcp-solver) — Constraint optimization and solving ☆`160`
+- [NellyW8/MCP4EDA](https://github.com/NellyW8/MCP4EDA) — RTL-to-GDSII automation with LLM ☆`83`
+- [SecretiveShell/MCP-wolfram-alpha](https://github.com/SecretiveShell/MCP-wolfram-alpha) — Wolfram Alpha computational intelligence ☆`74`
+- [Pantheon-Security/notebooklm-mcp-secure](https://github.com/Pantheon-Security/notebooklm-mcp-secure) — Secure NotebookLM MCP with 14 security layers ☆`53`
+- [neuromechanist/matlab-mcp-tools](https://github.com/neuromechanist/matlab-mcp-tools) —  ☆`17`
+- [IO-Aerospace-software-engineering/mcp-server](https://github.com/IO-Aerospace-software-engineering/mcp-server) — An aerospace server who implements model context protocol ☆`16`
+## Sandboxing & Execution
+
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) — secure, local, cross-platform and programmable sandboxes for AI agents ☆`5,407`
+- [dagger/container-use](https://github.com/dagger/container-use) — MCP server for container orchestration ☆`3,725`
+- [e2b-dev/mcp-server](https://github.com/e2b-dev/mcp-server) — E2B code execution for Claude ☆`389`
+- [Automata-Labs-team/code-sandbox-mcp](https://github.com/Automata-Labs-team/code-sandbox-mcp) — Secure code sandbox in Docker ☆`319`
+- [bazinga012/mcp_code_executor](https://github.com/bazinga012/mcp_code_executor) — Execute Python in Conda environment ☆`214`
+- [hopx-ai/mcp](https://github.com/hopx-ai/mcp) — Execute code in isolated cloud containers ☆`162`
+- [alfonsograziano/node-code-sandbox-mcp](https://github.com/alfonsograziano/node-code-sandbox-mcp) — MCP server for Node.js code sandbox execution ☆`152`
+- [gradion-ai/ipybox](https://github.com/gradion-ai/ipybox) — Python code execution sandbox with MCP tool calling ☆`74`
+- [yepcode/mcp-server-js](https://github.com/yepcode/mcp-server-js) — JavaScript MCP server framework by YepCode ☆`43`
+- [r33drichards/mcp-js](https://github.com/r33drichards/mcp-js) — MCP server exposing V8 JavaScript runtime for AI agents ☆`43`
+- [hileamlakB/Python-Runtime-Interpreter-MCP-Server](https://github.com/hileamlakB/Python-Runtime-Interpreter-MCP-Server) — Safe Python runtime interpreter ☆`27`
+- [gwbischof/outsource-mcp](https://github.com/gwbischof/outsource-mcp) — Give your AI assistant its own AI assistants. ☆`28`
+## Search & Extraction
+
+### Academic Research
+
+- [blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) — arXiv paper search and analysis ☆`2,539`
+- [JackKuo666/Google-Scholar-MCP-Server](https://github.com/JackKuo666/Google-Scholar-MCP-Server) — Search Google Scholar papers ☆`286`
+- [andybrandt/mcp-simple-arxiv](https://github.com/andybrandt/mcp-simple-arxiv) — arXiv paper search and reading ☆`189`
+- [reading-plus-ai/mcp-server-deep-research](https://github.com/reading-plus-ai/mcp-server-deep-research) — Comprehensive research with reports ☆`209`
+- [andybrandt/mcp-simple-pubmed](https://github.com/andybrandt/mcp-simple-pubmed) — PubMed medical research search ☆`163`
+- [adityak74/mcp-scholarly](https://github.com/adityak74/mcp-scholarly) — A MCP server to search for accurate academic articles. ☆`178`
+- [kaliaboi/mcp-zotero](https://github.com/kaliaboi/mcp-zotero) — Zotero collections for Claude Desktop ☆`158`
+- [takashiishida/arxiv-latex-mcp](https://github.com/takashiishida/arxiv-latex-mcp) — MCP server for arXiv LaTeX paper retrieval ☆`123`
+- [JackKuo666/PubMed-MCP-Server](https://github.com/JackKuo666/PubMed-MCP-Server) — Search and analyze PubMed articles ☆`107`
+- [OctagonAI/octagon-deep-research-mcp](https://github.com/OctagonAI/octagon-deep-research-mcp) — AI-powered comprehensive research and analysis ☆`87`
+- [akalaric/mcp-wolframalpha](https://github.com/akalaric/mcp-wolframalpha) — Wolfram Alpha integration for Python ☆`78`
+- [HzaCode/OneCite](https://github.com/HzaCode/OneCite) — Parse and format academic references ☆`56`
+- [szeider/mcp-dblp](https://github.com/szeider/mcp-dblp) — Access DBLP computer science bibliography ☆`32`
+- [prashalruchiranga/arxiv-mcp-server](https://github.com/prashalruchiranga/arxiv-mcp-server) — arXiv API via natural language ☆`40`
+- [drAbreu/alex-mcp](https://github.com/drAbreu/alex-mcp) — MCP server for OpenAlex ☆`39`
+- [hbg/mcp-paperswithcode](https://github.com/hbg/mcp-paperswithcode) — MCP interface for PapersWithCode API ☆`21`
+- [mochow13/google-scholar-mcp](https://github.com/mochow13/google-scholar-mcp) — MCP server for Google Scholar written in TypeScript ☆`20`
+- [JackKuo666/bioRxiv-MCP-Server](https://github.com/JackKuo666/bioRxiv-MCP-Server) — Access bioRxiv papers ☆`22`
+### Data APIs
+
+- [cantian-ai/bazi-mcp](https://github.com/cantian-ai/bazi-mcp) — Bazi Chinese astrology information ☆`356`
+- [Rudra-ravi/wikipedia-mcp](https://github.com/Rudra-ravi/wikipedia-mcp) — Retrieve Wikipedia information ☆`231`
+- [ahonn/mcp-server-gsc](https://github.com/ahonn/mcp-server-gsc) — Google Search Console data access ☆`204`
+- [hellokaton/unsplash-mcp-server](https://github.com/hellokaton/unsplash-mcp-server) — A MCP server for Unsplash image search. ☆`214`
+- [deadletterq/mcp-opennutrition](https://github.com/deadletterq/mcp-opennutrition) — MCP server for nutrition data and analysis ☆`175`
+- [OpenDataMCP/OpenDataMCP](https://github.com/OpenDataMCP/OpenDataMCP) — Connect any Open Data to any LLM with Model Context Protocol. ☆`148`
+- [cswkim/discogs-mcp-server](https://github.com/cswkim/discogs-mcp-server) — MCP Server for Discogs ☆`94`
+- [damionrashford/RivalSearchMCP](https://github.com/damionrashford/RivalSearchMCP) — MCP server for competitive search analysis ☆`71`
+- [8enSmith/mcp-open-library](https://github.com/8enSmith/mcp-open-library) — MCP server for Open Library book and author search ☆`67`
+- [yuna0x0/anilist-mcp](https://github.com/yuna0x0/anilist-mcp) — AniList MCP server for accessing anime and manga data ☆`72`
+- [zoomeye-ai/mcp_zoomeye](https://github.com/zoomeye-ai/mcp_zoomeye) — MCP server for ZoomEye network asset information ☆`70`
+- [riemannzeta/patent_mcp_server](https://github.com/riemannzeta/patent_mcp_server) — FastMCP Server for USPTO data ☆`52`
+- [cameronrye/openzim-mcp](https://github.com/cameronrye/openzim-mcp) — MCP server for OpenZIM archive access ☆`54`
+- [anysiteio/anysite-mcp-server](https://github.com/anysiteio/anysite-mcp-server) — LinkedIn data access ☆`60`
+- [Linked-API/linkedapi-mcp](https://github.com/Linked-API/linkedapi-mcp) — LinkedIn account control and data retrieval ☆`46`
+- [zzaebok/mcp-wikidata](https://github.com/zzaebok/mcp-wikidata) — Wikidata API implementation ☆`42`
+- [djalal/quran-mcp-server](https://github.com/djalal/quran-mcp-server) — Quran.com verses, translations, tafsir ☆`62`
+- [r-huijts/rijksmuseum-mcp](https://github.com/r-huijts/rijksmuseum-mcp) — Rijksmuseum artwork exploration ☆`66`
+- [0xDAEF0F/job-searchoor](https://github.com/0xDAEF0F/job-searchoor) — A simple MCP server that delivers you jobs based on your needs ☆`60`
+- [yamanoku/baseline-mcp-server](https://github.com/yamanoku/baseline-mcp-server) — Web API Baseline status information ☆`36`
+- [imprvhub/mcp-domain-availability](https://github.com/imprvhub/mcp-domain-availability) — MCP server to check domain availability ☆`44`
+- [amurshak/congressMCP](https://github.com/amurshak/congressMCP) — US Congress data for AI agents ☆`28`
+- [mikechao/metmuseum-mcp](https://github.com/mikechao/metmuseum-mcp) — Met Museum art collection discovery ☆`26`
+- [kehvinbehvin/json-mcp-filter](https://github.com/kehvinbehvin/json-mcp-filter) — JSON MCP server to filter only relevant data for your LLM ☆`23`
+- [DappierAI/dappier-mcp](https://github.com/DappierAI/dappier-mcp) — MCP server for Dappier AI integration ☆`39`
+- [adawalli/nexus](https://github.com/adawalli/nexus) — MCP Server to make searching openrouter easy ☆`19`
+- [Himalayas-App/himalayas-mcp](https://github.com/Himalayas-App/himalayas-mcp) — A Model Context Protocol (MCP) server that provides access to remote job listings and company information from Himalayas.app. ☆`16`
+- [JamesANZ/us-legal-mcp](https://github.com/JamesANZ/us-legal-mcp) — An MCP server that provides comprehensive US legislation. ☆`22`
+- [delorenj/mcp-server-ticketmaster](https://github.com/delorenj/mcp-server-ticketmaster) — Ticketmaster Discovery API ☆`24`
+- [r-huijts/opentk-mcp](https://github.com/r-huijts/opentk-mcp) — MCP server for Dutch parliamentary data via OpenTK ☆`20`
+- [joelio/stocky](https://github.com/joelio/stocky) — An MCP server for searching and downloading stock photography. ☆`18`
+- [siva010928/multi-chat-mcp-server](https://github.com/siva010928/multi-chat-mcp-server) — MCP server for multi-chat capabilities ☆`21`
+- [AshwinSundar/congress_gov_mcp](https://github.com/AshwinSundar/congress_gov_mcp) — Query US Congress.gov API ☆`19`
+- [angheljf/nyt](https://github.com/angheljf/nyt) — MCP server for New York Times article search ☆`18`
+### News & Content
+
+- [lfnovo/content-core](https://github.com/lfnovo/content-core) — Extract what matters from any media source ☆`147`
+- [erithwik/mcp-hn](https://github.com/erithwik/mcp-hn) — MCP Server for Hackernews ☆`71`
+- [imprvhub/mcp-rss-aggregator](https://github.com/imprvhub/mcp-rss-aggregator) — RSS feed aggregation for Claude Desktop ☆`24`
+- [pskill9/hn-server](https://github.com/pskill9/hn-server) — Hacker news MCP server ☆`38`
+- [format37/youtube_mcp](https://github.com/format37/youtube_mcp) — youtube transcriber mcp server ☆`30`
+- [the0807/GeekNews-MCP-Server](https://github.com/the0807/GeekNews-MCP-Server) — GeekNews MCP Server ☆`16`
+### Web Search Engines
+
+- [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) — Exa MCP for web search and web crawling! ☆`4,251`
+- [tavily-ai/tavily-mcp](https://github.com/tavily-ai/tavily-mcp) — Real-time search, extract, map and crawl ☆`1,763`
+- [nickclyde/duckduckgo-mcp-server](https://github.com/nickclyde/duckduckgo-mcp-server) — MCP server for DuckDuckGo search ☆`988`
+- [Aas-ee/open-webSearch](https://github.com/Aas-ee/open-webSearch) — MCP server for open web search ☆`992`
+- [brave/brave-search-mcp-server](https://github.com/brave/brave-search-mcp-server) — Brave Search with AI summarization ☆`902`
+- [mrkrsl/web-search-mcp](https://github.com/mrkrsl/web-search-mcp) — Local web search for Claude Desktop ☆`768`
+- [ihor-sokoliuk/mcp-searxng](https://github.com/ihor-sokoliuk/mcp-searxng) — MCP Server for SearXNG ☆`643`
+- [pskill9/web-search](https://github.com/pskill9/web-search) — Web search using free google search (NO API KEYS REQUIRED) ☆`442`
+- [kagisearch/kagimcp](https://github.com/kagisearch/kagimcp) — Official Kagi search MCP server ☆`361`
+- [jae-jae/g-search-mcp](https://github.com/jae-jae/g-search-mcp) — Parallel Google search with summaries ☆`260`
+- [fatwang2/search1api-mcp](https://github.com/fatwang2/search1api-mcp) — MCP server for web search and crawl via Search1API ☆`172`
+- [serpapi/serpapi-mcp](https://github.com/serpapi/serpapi-mcp) — SerpApi MCP Server for Google and other search engine results ☆`125`
+- [nkapila6/mcp-local-rag](https://github.com/nkapila6/mcp-local-rag) — RAG-like web search via MCP ☆`122`
+- [ChanMeng666/server-google-news](https://github.com/ChanMeng666/server-google-news) — MCP server for Google News integration ☆`121`
+- [mikechao/brave-search-mcp](https://github.com/mikechao/brave-search-mcp) — MCP server for Brave Search with filtering options ☆`114`
+- [SecretiveShell/MCP-searxng](https://github.com/SecretiveShell/MCP-searxng) — SearXNG search for agentic systems ☆`116`
+- [tanigami/mcp-server-perplexity](https://github.com/tanigami/mcp-server-perplexity) — Perplexity API chat with citations ☆`91`
+- [ConechoAI/openai-websearch-mcp](https://github.com/ConechoAI/openai-websearch-mcp) — openai websearch tool as mcp server ☆`87`
+- [gleanwork/mcp-server](https://github.com/gleanwork/mcp-server) — MCP server for Glean API integration ☆`56`
+- [leehanchung/bing-search-mcp](https://github.com/leehanchung/bing-search-mcp) — MCP Server for Bing Search API ☆`79`
+- [zhsama/duckduckgo-mcp-server](https://github.com/zhsama/duckduckgo-mcp-server) — MCP server for DuckDuckGo web search ☆`74`
+- [isnow890/naver-search-mcp](https://github.com/isnow890/naver-search-mcp) — MCP server for Naver search integration ☆`60`
+- [pwilkin/mcp-searxng-public](https://github.com/pwilkin/mcp-searxng-public) — Query public SearXNG instances ☆`41`
+- [OvertliDS/mcp-searxng-enhanced](https://github.com/OvertliDS/mcp-searxng-enhanced) — SearXNG web search with category awareness ☆`36`
+- [ubie-oss/mcp-vertexai-search](https://github.com/ubie-oss/mcp-vertexai-search) — A MCP server for Vertex AI Search ☆`35`
+- [Tomatio13/mcp-server-tavily](https://github.com/Tomatio13/mcp-server-tavily) — MCP Server for Tavily API integration ☆`48`
+- [ac3xx/mcp-servers-kagi](https://github.com/ac3xx/mcp-servers-kagi) — A Model Context Protocol server implementation for Kagi's API ☆`44`
+- [garylab/serper-mcp-server](https://github.com/garylab/serper-mcp-server) — A Serper MCP Server ☆`32`
+- [mnhlt/WebSearch-MCP](https://github.com/mnhlt/WebSearch-MCP) — MCP server for web search integration ☆`32`
+- [parallel-web/search-mcp](https://github.com/parallel-web/search-mcp) —  ☆`16`
+## Security
+
+### Identity & Access
+
+- [auth0/auth0-mcp-server](https://github.com/auth0/auth0-mcp-server) — Auth0 tenant management via natural language ☆`100`
+- [box-community/mcp-server-box](https://github.com/box-community/mcp-server-box) — Enterprise content access in Box ☆`99`
+- [firstorderai/authenticator_mcp](https://github.com/firstorderai/authenticator_mcp) — Authenticator App for AI agents ☆`36`
+- [atomicchonk/roadrecon_mcp_server](https://github.com/atomicchonk/roadrecon_mcp_server) — Azure AD ROADrecon analysis for Claude ☆`50`
+- [sshaaf/keycloak-mcp-server](https://github.com/sshaaf/keycloak-mcp-server) — MCP server for Keycloak identity and access management ☆`40`
+- [kapilduraphe/okta-mcp-server](https://github.com/kapilduraphe/okta-mcp-server) — Okta MCP Server ☆`20`
+- [hieuttmmo/entraid-mcp-server](https://github.com/hieuttmmo/entraid-mcp-server) — EntraID via Microsoft Graph API ☆`36`
+- [ChristophEnglisch/keycloak-model-context-protocol](https://github.com/ChristophEnglisch/keycloak-model-context-protocol) — Keycloak user and realm management ☆`41`
+- [descope-sample-apps/descope-mcp-server-stdio](https://github.com/descope-sample-apps/descope-mcp-server-stdio) — Descope user management and audits ☆`29`
+### MCP Security
+
+- [eqtylab/mcp-guardian](https://github.com/eqtylab/mcp-guardian) — Manage / Proxy / Secure your MCP Servers ☆`197`
+- [kapilduraphe/mcp-watch](https://github.com/kapilduraphe/mcp-watch) — Security scanner for MCP servers ☆`126`
+- [postralai/masquerade](https://github.com/postralai/masquerade) — The Privacy Firewall for LLMs ☆`75`
+- [82ch/MCP-Dandan](https://github.com/82ch/MCP-Dandan) — MCP security with real-time proxying ☆`63`
+- [AIM-Intelligence/AIM-MCP](https://github.com/AIM-Intelligence/AIM-MCP) — AIM MCP Server :: Guard and Protect your MCPs & AI Chatting ☆`20`
+- [cromwellian/hippycampus](https://github.com/cromwellian/hippycampus) — REST endpoint to MCP conversion ☆`20`
+- [kontext-security/attestable-mcp-server](https://github.com/kontext-security/attestable-mcp-server) — Hardware attestation for MCP server integrity ☆`18`
+### Network & Firewall
+
+- [vespo92/OPNSenseMCP](https://github.com/vespo92/OPNSenseMCP) — MCP Server for OPNSense to act as IaC proxy ☆`45`
+- [intruder-io/intruder-mcp](https://github.com/intruder-io/intruder-mcp) — An MCP server to let AI agents control Intruder ☆`24`
+### Pentesting & OSINT
+
+- [PortSwigger/mcp-server](https://github.com/PortSwigger/mcp-server) — MCP Server for Burp ☆`676`
+- [BurtTheCoder/mcp-maigret](https://github.com/BurtTheCoder/mcp-maigret) — Maigret OSINT user account collection ☆`238`
+- [BurtTheCoder/mcp-shodan](https://github.com/BurtTheCoder/mcp-shodan) — MCP server for Shodan - device search, IP recon, CVE intel ☆`122`
+- [BurtTheCoder/mcp-virustotal](https://github.com/BurtTheCoder/mcp-virustotal) — VirusTotal API queries ☆`118`
+- [roadwy/cve-search_mcp](https://github.com/roadwy/cve-search_mcp) — CVE database security queries ☆`94`
+- [mobb-dev/bugsy](https://github.com/mobb-dev/bugsy) — Automatic security vulnerability remediation for your code. ☆`66`
+- [GitGuardian/ggmcp](https://github.com/GitGuardian/ggmcp) — Scan and remediate hardcoded secrets ☆`34`
+- [StacklokLabs/osv-mcp](https://github.com/StacklokLabs/osv-mcp) — An MCP server for OSV ☆`31`
+- [BurtTheCoder/mcp-dnstwist](https://github.com/BurtTheCoder/mcp-dnstwist) — DNS fuzzing for phishing detection ☆`48`
+- [nickpending/mcp-recon](https://github.com/nickpending/mcp-recon) — Tellix conversational recon interface ☆`25`
+- [gnlds/mcp-cve-intelligence-server-lite](https://github.com/gnlds/mcp-cve-intelligence-server-lite) — CVE intelligence from NVD, MITRE, GitHub ☆`19`
+### Reverse Engineering
+
+- [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP) — MCP Server for Ghidra ☆`8,408`
+- [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) — IDA Pro reverse engineering with AI ☆`7,487`
+- [zinja-coder/jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp) — Plugin for JADX to integrate MCP server ☆`1,777`
+- [symgraph/GhidrAssistMCP](https://github.com/symgraph/GhidrAssistMCP) — An MCP extension for Ghidra ☆`573`
+- [zinja-coder/apktool-mcp-server](https://github.com/zinja-coder/apktool-mcp-server) — APK Tool for Android reverse engineering ☆`361`
+- [fosdickio/binary_ninja_mcp](https://github.com/fosdickio/binary_ninja_mcp) — Binary Ninja plugin for LLM integration ☆`314`
+- [radareorg/radare2-mcp](https://github.com/radareorg/radare2-mcp) — MCP stdio server for radare2 ☆`205`
+- [13bm/GhidraMCP](https://github.com/13bm/GhidraMCP) — Active Socket based MCP Server for Ghidra ☆`105`
+- [zboralski/ida-headless-mcp](https://github.com/zboralski/ida-headless-mcp) — Headless IDA Pro binary analysis via Model Context Protocol ☆`102`
+- [pullkitsan/mobsf-mcp-server](https://github.com/pullkitsan/mobsf-mcp-server) — MobSF APK and IPA security scanning ☆`18`
+### SIEM & SecOps
+
+- [beelzebub-labs/beelzebub](https://github.com/beelzebub-labs/beelzebub) — Low-code honeypot with AI virtualization ☆`1,951`
+- [MorDavid/BloodHound-MCP-AI](https://github.com/MorDavid/BloodHound-MCP-AI) — BloodHound integration with AI through MCP ☆`352`
+- [gbrigandi/mcp-server-wazuh](https://github.com/gbrigandi/mcp-server-wazuh) — MCP Server for Wazuh SIEM ☆`195`
+- [securityfortech/secops-mcp](https://github.com/securityfortech/secops-mcp) — All-in-one security testing toolbox via MCP ☆`192`
+- [CrowdStrike/falcon-mcp](https://github.com/CrowdStrike/falcon-mcp) — CrowdStrike Falcon security analysis ☆`137`
+- [cycodehq/cycode-cli](https://github.com/cycodehq/cycode-cli) — SAST, SCA, Secrets, IaC security scanning ☆`98`
+- [panther-labs/mcp-panther](https://github.com/panther-labs/mcp-panther) — Detections, alerts, and log queries ☆`43`
+- [slouchd/cyberchef-api-mcp-server](https://github.com/slouchd/cyberchef-api-mcp-server) — CyberChef API MCP Server ☆`39`
+- [qianniuspace/mcp-security-audit](https://github.com/qianniuspace/mcp-security-audit) — MCP server for security auditing ☆`52`
+- [Gaffx/volatility-mcp](https://github.com/Gaffx/volatility-mcp) — This repo hosts an MCP server for volatility3.x ☆`45`
+- [fr0gger/MCP_Security](https://github.com/fr0gger/MCP_Security) — This is a repository to experiment with MCP for security ☆`47`
+- [Contrast-Security-OSS/mcp-contrast](https://github.com/Contrast-Security-OSS/mcp-contrast) — MCP Server for Contrast Security ☆`18`
+- [Spathodea-Network/opencti-mcp](https://github.com/Spathodea-Network/opencti-mcp) — OpenCTI threat intelligence platform ☆`38`
+## Social Media
+
+- [iFurySt/RedNote-MCP](https://github.com/iFurySt/RedNote-MCP) — MCP server for accessing RedNote(XiaoHongShu, xhs). ☆`1,042`
+- [karanb192/reddit-mcp-buddy](https://github.com/karanb192/reddit-mcp-buddy) — Clean Reddit data: posts, search, users ☆`605`
+- [adhikasp/mcp-twikit](https://github.com/adhikasp/mcp-twikit) — Twitter interaction via MCP ☆`231`
+- [34892002/bilibili-mcp-js](https://github.com/34892002/bilibili-mcp-js) — Bilibili video search MCP service ☆`161`
+- [Seym0n/tiktok-mcp](https://github.com/Seym0n/tiktok-mcp) — Model Context Protocol (MCP) with TikTok integration ☆`147`
+- [trypeggy/instagram_dm_mcp](https://github.com/trypeggy/instagram_dm_mcp) — Instagram Direct messages MCP ☆`157`
+- [HagaiHen/facebook-mcp-server](https://github.com/HagaiHen/facebook-mcp-server) — Facebook posts, comments, insights automation ☆`142`
+- [king-of-the-grackles/reddit-research-mcp](https://github.com/king-of-the-grackles/reddit-research-mcp) — Reddit research with structured insights ☆`106`
+- [Xquik-dev/x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) — X API integration with 40+ tools, webhooks & MCP server ☆`46`
+- [anwerj/youtube-uploader-mcp](https://github.com/anwerj/youtube-uploader-mcp) — Upload/Schedule videos on Youtube with the help of AI ☆`38`
+- [LuniaKunal/mcp-twitter](https://github.com/LuniaKunal/mcp-twitter) — Manage your twitter account using mcp ☆`58`
+- [ertiqah/linkedin-mcp-runner](https://github.com/ertiqah/linkedin-mcp-runner) — LinkedIn content analysis and posting ☆`30`
+- [jaipandya/producthunt-mcp-server](https://github.com/jaipandya/producthunt-mcp-server) — MCP server for Product Hunt data access ☆`43`
+- [AbdelStark/nostr-mcp](https://github.com/AbdelStark/nostr-mcp) — Nostr posting and interaction ☆`37`
+- [macrocosm-os/macrocosmos-mcp](https://github.com/macrocosm-os/macrocosmos-mcp) — The MCP for macrocosmos subnets. ☆`28`
+- [laulauland/bluesky-context-server](https://github.com/laulauland/bluesky-context-server) — Bluesky MCP server ☆`30`
+- [jonathan-politzki/mcp-writer-substack](https://github.com/jonathan-politzki/mcp-writer-substack) — Bridge Substack writings to Claude ☆`28`
+- [mbelinky/x-mcp-server](https://github.com/mbelinky/x-mcp-server) — MCP server to post on x.com with OAuth v1 and v2 ☆`20`
+## Sports
+
+- [r-huijts/strava-mcp](https://github.com/r-huijts/strava-mcp) — Strava fitness data integration ☆`340`
+- [rishijatia/fantasy-pl-mcp](https://github.com/rishijatia/fantasy-pl-mcp) — Fantasy Premier League MCP Server ☆`68`
+- [guillochon/mlb-api-mcp](https://github.com/guillochon/mlb-api-mcp) — MCP server for MLB baseball statistics ☆`44`
+- [mikechao/balldontlie-mcp](https://github.com/mikechao/balldontlie-mcp) — MCP server for NBA, NFL, MLB sports data ☆`23`
+- [yeonupark/mcp-soccer-data](https://github.com/yeonupark/mcp-soccer-data) — Real-time football data ☆`30`
+- [lenwood/cfbd-mcp-server](https://github.com/lenwood/cfbd-mcp-server) — An MCP server enabling CFBD API queries within Claude Desktop. ☆`26`
+- [tomekkorbak/strava-mcp-server](https://github.com/tomekkorbak/strava-mcp-server) — MCP server for Strava API integration ☆`20`
+- [kw510/strava-mcp](https://github.com/kw510/strava-mcp) — MCP server with Strava OAuth on Cloudflare Workers ☆`26`
+- [r-huijts/firstcycling-mcp](https://github.com/r-huijts/firstcycling-mcp) — MCP server for professional cycling data from FirstCycling ☆`18`
+- [RobSpectre/mvf1](https://github.com/RobSpectre/mvf1) — Python package and CLI for MultiViewer For F1 ☆`18`
+## Text-to-Speech
+
+- [mbailey/voicemode](https://github.com/mbailey/voicemode) — Natural (2-way) voice conversations with Claude Code ☆`1,053`
+- [mberg/kokoro-tts-mcp](https://github.com/mberg/kokoro-tts-mcp) — Kokoro Text to Speech (TTS) MCP Server ☆`76`
+## Translation
+
+- [caol64/wenyan-mcp](https://github.com/caol64/wenyan-mcp) — Markdown formatting and translation to Chinese ☆`1,176`
+- [aymericzip/intlayer](https://github.com/aymericzip/intlayer) — MCP server for Intlayer internationalization ☆`684`
+- [DeepLcom/deepl-mcp-server](https://github.com/DeepLcom/deepl-mcp-server) — Translation with DeepL API ☆`100`
+- [translated/lara-mcp](https://github.com/translated/lara-mcp) — Lara Translate API with language detection ☆`79`
+- [mmntm/weblate-mcp](https://github.com/mmntm/weblate-mcp) —  ☆`18`
+## Travel & Transport
+
+- [openbnb-org/mcp-server-airbnb](https://github.com/openbnb-org/mcp-server-airbnb) — Search Airbnb using your AI Agent ☆`424`
+- [cobanov/teslamate-mcp](https://github.com/cobanov/teslamate-mcp) — MCP server for TeslaMate vehicle data and analytics ☆`126`
+- [r-huijts/ns-mcp-server](https://github.com/r-huijts/ns-mcp-server) — MCP server for Dutch Railways (NS) travel information ☆`52`
+- [pab1it0/tripadvisor-mcp](https://github.com/pab1it0/tripadvisor-mcp) — MCP server for Tripadvisor location data and reviews ☆`54`
+- [sunsetcoder/flightradar24-mcp-server](https://github.com/sunsetcoder/flightradar24-mcp-server) — Model Context Protocol server for Flight Tracking ☆`46`
+- [KyrieTangSheng/mcp-server-nationalparks](https://github.com/KyrieTangSheng/mcp-server-nationalparks) — US National Parks info via NPS API ☆`39`
+- [Pradumnasaraf/aviationstack-mcp](https://github.com/Pradumnasaraf/aviationstack-mcp) — MCP for AviationStack API - real-time flight data ☆`18`
+- [campertunity/mcp-server](https://github.com/campertunity/mcp-server) —  ☆`16`
+- [mfukushim/map-traveler-mcp](https://github.com/mfukushim/map-traveler-mcp) — Virtual traveler library for MCP ☆`23`
+- [variflight/variflight-mcp](https://github.com/variflight/variflight-mcp) — Variflight services implementation ☆`24`
+- [JordanDalton/DoorDash-MCP-Server](https://github.com/JordanDalton/DoorDash-MCP-Server) — MCP server for DoorDash delivery service integration ☆`22`
+## Web Scraping
+
+- [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) — Python scraper based on AI ☆`23,311`
+- [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) — Web scraping and search for LLM clients ☆`6,066`
+- [brightdata/brightdata-mcp](https://github.com/brightdata/brightdata-mcp) — All-in-one public web access solution ☆`2,298`
+- [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) — MCP server for Apify web scraping and data extraction ☆`1,077`
+- [jae-jae/fetcher-mcp](https://github.com/jae-jae/fetcher-mcp) — Playwright web page content fetching ☆`1,022`
+- [etsd-tech/mcp-pointer](https://github.com/etsd-tech/mcp-pointer) — DOM element pointing for agents ☆`571`
+- [apify/mcp-server-rag-web-browser](https://github.com/apify/mcp-server-rag-web-browser) — A MCP Server for the RAG Web Browser Actor ☆`204`
+- [tinyfish-io/agentql-mcp](https://github.com/tinyfish-io/agentql-mcp) — AgentQL data extraction integration ☆`160`
+- [just-every/mcp-read-website-fast](https://github.com/just-every/mcp-read-website-fast) — Fast webpage to markdown conversion ☆`144`
+- [scrapeless-ai/scrapeless-mcp-server](https://github.com/scrapeless-ai/scrapeless-mcp-server) — Scrapeless Mcp Server ☆`160`
+- [pskill9/website-downloader](https://github.com/pskill9/website-downloader) — MCP server to download entire websites ☆`150`
+- [just-every/mcp-screenshot-website-fast](https://github.com/just-every/mcp-screenshot-website-fast) — Fast webpage screenshots for LLMs ☆`105`
+- [oxylabs/oxylabs-mcp](https://github.com/oxylabs/oxylabs-mcp) — Official Oxylabs MCP integration ☆`94`
+- [cyberchitta/scrapling-fetch-mcp](https://github.com/cyberchitta/scrapling-fetch-mcp) — Access bot-protected websites ☆`77`
+- [crawlbase/crawlbase-mcp](https://github.com/crawlbase/crawlbase-mcp) — MCP server connecting AI agents with real-time web data ☆`54`
+- [djannot/puppeteer-vision-mcp](https://github.com/djannot/puppeteer-vision-mcp) — Web scraping with AI-driven interaction handling ☆`48`
+- [supadata-ai/mcp](https://github.com/supadata-ai/mcp) — Video and web scraping for Claude ☆`45`
+- [puremd/puremd-mcp](https://github.com/puremd/puremd-mcp) — Unblock, scrape, and search tools for MCP clients ☆`60`
+- [ananddtyagi/webpage-screenshot-mcp](https://github.com/ananddtyagi/webpage-screenshot-mcp) — MCP server for webpage screenshot capture ☆`54`
+- [webscraping-ai/webscraping-ai-mcp-server](https://github.com/webscraping-ai/webscraping-ai-mcp-server) — MCP server for AI-powered web scraping ☆`41`
+- [pragmar/mcp-server-webcrawl](https://github.com/pragmar/mcp-server-webcrawl) — Web crawler data and archives connection ☆`38`
+- [Decodo/mcp-web-scraper](https://github.com/Decodo/mcp-web-scraper) — Decodo web scraping for MCP clients ☆`23`
+- [levz0r/html-to-markdown-mcp](https://github.com/levz0r/html-to-markdown-mcp) — HTML to Markdown converter using Turndown ☆`24`
+- [wong2/mcp-jina-reader](https://github.com/wong2/mcp-jina-reader) — Jina Reader MCP Server ☆`47`
+- [DevEnterpriseSoftware/scrapi-mcp](https://github.com/DevEnterpriseSoftware/scrapi-mcp) — MCP server for using ScrAPI to scrape web pages. ☆`18`
+
+
+---
+
+## 🏆 Top 100 by Stars
+
+> The most starred projects in this list, sorted by GitHub stars.
+
+1. [upstash/context7](https://github.com/upstash/context7) — Up-to-date code docs for LLMs ☆`52,822`
+1. [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) — Query Engine for AI Analytics - self-reasoning agents on live data ☆`38,988`
+1. [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) — Chrome DevTools for coding agents ☆`35,330`
+1. [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) — Playwright MCP server ☆`30,917`
+1. [github/github-mcp-server](https://github.com/github/github-mcp-server) — GitHub's official MCP Server ☆`28,889`
+1. [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) — Python framework for building MCP servers and clients ☆`24,564`
+1. [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) — Python scraper based on AI ☆`23,311`
+1. [mastra-ai/mastra](https://github.com/mastra-ai/mastra) — TypeScript AI agent framework with RAG ☆`23,041`
+1. [oraios/serena](https://github.com/oraios/serena) — Semantic code retrieval and editing toolkit ☆`23,007`
+1. [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) — Automate browser based workflows with AI ☆`21,161`
+1. [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) — Blender 3D modeling with Claude AI ☆`19,820`
+1. [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) — Build n8n workflows with AI assistants ☆`18,216`
+1. [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) — AI app store with 24/7 desktop history ☆`18,214`
+1. [apache/apisix](https://github.com/apache/apisix) — The Cloud-Native API Gateway and AI Gateway ☆`16,453`
+1. [googleapis/mcp-toolbox](https://github.com/googleapis/mcp-toolbox) — Open source database MCP toolbox ☆`14,601`
+1. [GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) — Figma layout info for AI coding agents ☆`14,374`
+1. [trycua/cua](https://github.com/trycua/cua) — MCP server for CUA platform ☆`13,483`
+1. [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) — Expose FastAPI endpoints as MCP tools ☆`11,806`
+1. [elie222/inbox-zero](https://github.com/elie222/inbox-zero) — AI email assistant for inbox zero ☆`10,458`
+1. [instantdb/instant](https://github.com/instantdb/instant) — Modern Firebase with real-time database ☆`10,106`
+1. [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) — Hindsight: Agent Memory That Learns ☆`9,337`
+1. [awslabs/mcp](https://github.com/awslabs/mcp) — AWS MCP servers for AI assistants ☆`8,782`
+1. [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) — Go implementation of MCP ☆`8,591`
+1. [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP) — MCP Server for Ghidra ☆`8,408`
+1. [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) — Build agents with MCP and workflow patterns ☆`8,268`
+1. [idosal/git-mcp](https://github.com/idosal/git-mcp) — Free remote MCP for any GitHub project ☆`7,925`
+1. [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) — Build autonomous AI agents in Python. ☆`7,825`
+1. [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) — IDA Pro reverse engineering with AI ☆`7,487`
+1. [grab/cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp) — Cursor and Figma communication ☆`6,656`
+1. [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp) — Browser control for AI applications ☆`6,350`
+1. [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) — Unified observability DB for metrics, logs, traces ☆`6,162`
+1. [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) — Web scraping and search for LLM clients ☆`6,066`
+1. [zilliztech/claude-context](https://github.com/zilliztech/claude-context) — Code search for Claude Code agents ☆`5,939`
+1. [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) — Terminal control, file search, diff editing ☆`5,901`
+1. [genkit-ai/genkit](https://github.com/genkit-ai/genkit) — AI app framework for JavaScript and Go ☆`5,793`
+1. [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp) — WhatsApp MCP server ☆`5,510`
+1. [executeautomation/mcp-playwright](https://github.com/executeautomation/mcp-playwright) — MCP server for Playwright browser testing ☆`5,436`
+1. [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) — secure, local, cross-platform and programmable sandboxes for AI agents ☆`5,407`
+1. [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev) — MCP server for Lingo localization platform ☆`5,402`
+1. [getsentry/XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP) — MCP server for Xcode build operations ☆`5,216`
+1. [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) — MCP server for Atlassian tools (Confluence, Jira) ☆`4,942`
+1. [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) — Build AI systems with Evals, RAG, Agents, fine-tuning ☆`4,753`
+1. [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp) — Frontend development with AI like Magic ☆`4,721`
+1. [baserow/baserow](https://github.com/baserow/baserow) — No-code database, apps, agents with AI ☆`4,647`
+1. [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp) — Mobile automation for iOS, Android, emulators ☆`4,553`
+1. [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) — Exa MCP for web search and web crawling! ☆`4,251`
+1. [makenotion/notion-mcp-server](https://github.com/makenotion/notion-mcp-server) — Official Notion MCP Server ☆`4,219`
+1. [antvis/mcp-server-chart](https://github.com/antvis/mcp-server-chart) — 25+ visual charts using @antvis for data analysis ☆`3,966`
+1. [dagger/container-use](https://github.com/dagger/container-use) — MCP server for container orchestration ☆`3,725`
+1. [haris-musa/excel-mcp-server](https://github.com/haris-musa/excel-mcp-server) — Excel file manipulation ☆`3,699`
+1. [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) — Cloudflare services management ☆`3,612`
+1. [archestra-ai/archestra](https://github.com/archestra-ai/archestra) — Enterprise AI Platform with guardrails, MCP registry, gateway & orchestrator ☆`3,564`
+1. [MarkusPfundstein/mcp-obsidian](https://github.com/MarkusPfundstein/mcp-obsidian) — Obsidian integration via REST API plugin ☆`3,376`
+1. [browserbase/mcp-server-browserbase](https://github.com/browserbase/mcp-server-browserbase) — Browser control with Browserbase ☆`3,258`
+1. [metorial/metorial](https://github.com/metorial/metorial) — Connect any AI model to 600+ integrations; powered by MCP ☆`3,248`
+1. [steipete/Peekaboo](https://github.com/steipete/Peekaboo) — macOS screenshot and window capture MCP server ☆`3,124`
+1. [Coding-Solo/godot-mcp](https://github.com/Coding-Solo/godot-mcp) — MCP server for Godot game engine ☆`3,082`
+1. [CodeGraphContext/CodeGraphContext](https://github.com/CodeGraphContext/CodeGraphContext) — Code graph indexing for AI context ☆`2,970`
+1. [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) — AI conversations that remember context ☆`2,870`
+1. [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) — MCP server for Grafana ☆`2,824`
+1. [Jpisnice/shadcn-ui-mcp-server](https://github.com/Jpisnice/shadcn-ui-mcp-server) — MCP server for shadcn/ui component library ☆`2,746`
+1. [supabase-community/supabase-mcp](https://github.com/supabase-community/supabase-mcp) — Connect Supabase to your AI assistants ☆`2,612`
+1. [zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) — Convert almost anything to Markdown ☆`2,590`
+1. [bytebase/dbhub](https://github.com/bytebase/dbhub) — Token-efficient multi-database MCP ☆`2,580`
+1. [crystaldba/postgres-mcp](https://github.com/crystaldba/postgres-mcp) — Postgres with read/write access and performance ☆`2,542`
+1. [blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) — arXiv paper search and analysis ☆`2,539`
+1. [sparfenyuk/mcp-proxy](https://github.com/sparfenyuk/mcp-proxy) — A bridge between Streamable HTTP and stdio MCP transports ☆`2,426`
+1. [brightdata/brightdata-mcp](https://github.com/brightdata/brightdata-mcp) — All-in-one public web access solution ☆`2,298`
+1. [metatool-ai/metamcp](https://github.com/metatool-ai/metamcp) — MCP Aggregator, Orchestrator, Middleware, Gateway in one docker ☆`2,216`
+1. [jamubc/gemini-mcp-tool](https://github.com/jamubc/gemini-mcp-tool) — MCP server for Gemini CLI with large file analysis ☆`2,163`
+1. [IvanMurzak/Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) — AI-powered bridge connecting LLMs to Unity Editor ☆`2,158`
+1. [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) — MCP server for Google Workspace integration ☆`2,123`
+1. [perplexityai/modelcontextprotocol](https://github.com/perplexityai/modelcontextprotocol) — Official Perplexity API MCP server ☆`2,089`
+1. [cjo4m06/mcp-shrimp-task-manager](https://github.com/cjo4m06/mcp-shrimp-task-manager) — Task manager with chain-of-thought and reflection ☆`2,082`
+1. [chatmcp/mcpso](https://github.com/chatmcp/mcpso) — directory for Awesome MCP Servers ☆`1,993`
+1. [financial-datasets/mcp-server](https://github.com/financial-datasets/mcp-server) — Financial Datasets stock market API ☆`1,961`
+1. [beelzebub-labs/beelzebub](https://github.com/beelzebub-labs/beelzebub) — Low-code honeypot with AI virtualization ☆`1,951`
+1. [IBM/mcp-cli](https://github.com/IBM/mcp-cli) — Feature-rich CLI for interacting with MCP servers ☆`1,945`
+1. [nottelabs/notte](https://github.com/nottelabs/notte) — Framework to build web agents ☆`1,932`
+1. [joshuayoes/ios-simulator-mcp](https://github.com/joshuayoes/ios-simulator-mcp) — MCP server for interacting with the iOS simulator ☆`1,874`
+1. [zinja-coder/jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp) — Plugin for JADX to integrate MCP server ☆`1,777`
+1. [tavily-ai/tavily-mcp](https://github.com/tavily-ai/tavily-mcp) — Real-time search, extract, map and crawl ☆`1,763`
+1. [ravitemer/mcphub.nvim](https://github.com/ravitemer/mcphub.nvim) — MCP client for Neovim with intuitive server management ☆`1,760`
+1. [stacklok/toolhive](https://github.com/stacklok/toolhive) — Runtime and gateway for deploying MCP servers in containers ☆`1,716`
+1. [julien040/anyquery](https://github.com/julien040/anyquery) — SQL queries for GitHub, Notion, +40 more ☆`1,664`
+1. [ezyang/codemcp](https://github.com/ezyang/codemcp) — Coding assistant MCP for Claude Desktop ☆`1,615`
+1. [leonardsellem/n8n-mcp-server](https://github.com/leonardsellem/n8n-mcp-server) — Tools for interacting with n8n API ☆`1,601`
+1. [CoderGamester/mcp-unity](https://github.com/CoderGamester/mcp-unity) — MCP server for Unity game engine integration ☆`1,594`
+1. [microsoft/azure-devops-mcp](https://github.com/microsoft/azure-devops-mcp) — Azure DevOps integration for AI agents ☆`1,571`
+1. [MicrosoftDocs/mcp](https://github.com/MicrosoftDocs/mcp) — Microsoft Learn MCP for LLMs ☆`1,553`
+1. [benborla/mcp-server-mysql](https://github.com/benborla/mcp-server-mysql) — MCP server for MySQL database operations ☆`1,541`
+1. [korotovsky/slack-mcp-server](https://github.com/korotovsky/slack-mcp-server) — MCP server for Slack workspace integration ☆`1,535`
+1. [anaisbetts/mcp-installer](https://github.com/anaisbetts/mcp-installer) — An MCP server that installs other MCP servers for you ☆`1,519`
+1. [isaacphi/mcp-language-server](https://github.com/isaacphi/mcp-language-server) — MCP server implementing Language Server Protocol ☆`1,511`
+1. [stripe/ai](https://github.com/stripe/ai) — One-stop shop for building AI-powered products and businesses with Stripe. ☆`1,472`
+1. [containers/kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server) — Kubernetes and OpenShift management ☆`1,445`
+1. [Flux159/mcp-server-kubernetes](https://github.com/Flux159/mcp-server-kubernetes) — MCP Server for kubernetes management commands ☆`1,377`
+1. [mattt/iMCP](https://github.com/mattt/iMCP) — Access Messages, Contacts, Reminders on Mac ☆`1,371`
+1. [damms005/devdb-vscode](https://github.com/damms005/devdb-vscode) — Zero-config VS Code database extension ☆`1,363`
+1. [qdrant/mcp-server-qdrant](https://github.com/qdrant/mcp-server-qdrant) — Official Qdrant vector database MCP ☆`1,345`
+
+## Contributing
+
+Please see [CONTRIBUTING](.github/CONTRIBUTING.md) for details.
+
+## Feedback
+
+Found something wrong? Open an issue or submit a pull request — contributions are welcome!
+
+## Credits
+
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
+- [appcypher/awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers)
+- [wong2/awesome-mcp-servers](https://github.com/wong2/awesome-mcp-servers)
+- [All Contributors](https://github.com/abordage/awesome-mcp/graphs/contributors)
+
+## License
+
+The MIT License (MIT). Please see [License File](LICENSE) for more information.
