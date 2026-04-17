@@ -1522,6 +1522,7 @@ Add a live chat widget to your website, connect other channels, and automate sal
 
  - [15Five MCP Server](https://mcp.pipedream.com/app/f15five) - 15Five is a human-centered performance management platform that creates effective managers, highly engaged employees, and top-performing organizations.
  - [ADP MCP Server](https://mcp.pipedream.com/app/adp) - Easy & Accurate Payroll. Managing your people has never been easier with ADP's all-in-one, cloud-based platform for payroll, HR, time, talent and benefits.
+ - [AI Dev Jobs](https://aidevboard.com) - AI/ML job board with MCP tools for job search, company lookup, and stats. 8,400+ jobs. MCP: https://aidevboard.com/mcp
  - [ApplicantStack MCP Server](https://mcp.pipedream.com/app/applicantstack) - Applicant tracking and recruitment software
  - [Async Interview MCP Server](https://mcp.pipedream.com/app/async_interview) - Async Interview is the world’s most advanced video interviewing platform, offering pre-recorded interviews customized to meet any recruitment scenario.
  - [BambooHR MCP Server](https://mcp.pipedream.com/app/bamboohr) - BambooHR is the #1 online HR Software for small and medium businesses that have outgrown spreadsheets.
@@ -2682,6 +2683,7 @@ With customizable modes, interactive features, insightful analytics, powerful in
  - [Neon (API Keys) MCP Server](https://mcp.pipedream.com/app/neon_api_keys) - Open-source Serverless Postgres in the Cloud ⭐️
  - [Nextdoor Ads MCP Server](https://mcp.pipedream.com/app/nextdoor) - Nextdoor is an app for neighborhoods where you can get local tips, buy and sell items, and more.
  - [NiftyKit MCP Server](https://mcp.pipedream.com/app/niftykit) - NiftyKit is the tool to build, collaborate, and launch projects — without coding.
+ - [Not Human Search](https://nothumansearch.ai) - Agent-first discovery of MCP servers; live JSON-RPC probe + score 0-100 for 8,000+ sites. MCP: https://nothumansearch.ai/mcp
  - [Nudgify MCP Server](https://mcp.pipedream.com/app/nudgify) - Nudgify is the Social Proof, FOMO and UX app that adds real-world context to your website in realtime.
  - [Omnivore MCP Server](https://mcp.pipedream.com/app/omnivore) - A free and open source read-it-later app for serious readers. Save any web article, subscribe to newsletters, read distraction free, add highlights and notes.
  - [One AI MCP Server](https://mcp.pipedream.com/app/one_ai) - APIs that make your app understand language. Summarize conversations, categorize articles, and more.
