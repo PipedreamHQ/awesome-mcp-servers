@@ -1332,6 +1332,9 @@ Open source plugins for metrics about your programming"
  - [ZeroBounce MCP Server](https://mcp.pipedream.com/app/zerobounce) - ZeroBounce is an email validation and deliverability platform helping more than 150,000 customers reduce bounces and land their emails in the inbox.
  - [Zoho Creator MCP Server](https://mcp.pipedream.com/app/zoho_creator) - Low-code platform
 
+ - [Agent Shadow Brain MCP Server](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory, genetic algorithm self-evolution, predictive bug detection, and PageRank knowledge graphs.
+ - [Omni Skills Forge MCP Server](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor.
+
 ### <a name="entertainment"></a>Entertainment
 
  - [Action Network MCP Server](https://mcp.pipedream.com/app/action_network) - An intuitive, comprehensive online tool set that empowers progressive campaigns to be stronger & more effective
