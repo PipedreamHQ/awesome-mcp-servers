@@ -2262,6 +2262,8 @@ ProWorkflow is an online project management software that enables you to keep ac
  - [Bitdefender GravityZone MCP Server](https://mcp.pipedream.com/app/bitdefender_gravityzone) - Cyber Security Platform
  - [HackerOne MCP Server](https://mcp.pipedream.com/app/hackerone) - Attack Resistance Platform combines the most creative human intelligence with the latest artificial intelligence to reduce threat exposure at all stages of the software development lifecycle.
 
+ - [EnigmAgent MCP Server](https://github.com/Agnuxo1/EnigmAgent) - AES-256-GCM + Argon2id encrypted local vault. Resolves `{{PLACEHOLDER}}` secrets at runtime so API keys never appear in prompts, logs, or LLM context.
+
 ### <a name="home-automation"></a>Smart Home Automation
 
  - [Adafruit IO MCP Server](https://mcp.pipedream.com/app/adafruit_io) - Adafruit IO is a platform designed to display, respond, and interact with your project's Internet-of-Things (IoT) data.
