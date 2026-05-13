@@ -1160,6 +1160,7 @@ how they act, and how much your marketing is really worth."
  - [Semrush MCP Server](https://mcp.pipedream.com/app/semrush) - Get measurable results from online marketing. Do SEO, content marketing, competitor research, PPC and social media marketing from just one platform.
  - [Seqera MCP Server](https://mcp.pipedream.com/app/seqera) - One platform for scientific data analysis.
  - [Serply MCP Server](https://mcp.pipedream.com/app/serply) - Get accurate, real-time Google search and SERP results as JSON in seconds. Less bloat than alternatives.
+ - [Sharpe MCP Server](https://www.sharpe.ai/docs/mcp-server) - Agent-ready crypto market intelligence: funding, options, arbitrage, narratives, listings, and news.
  - [SheetDB MCP Server](https://mcp.pipedream.com/app/sheetdb) - Turn a Google Spreadsheet into a JSON API. Connect Google sheets to CRM, API, Website, WordPress, any application or tool.
  - [Sigma MCP Server](https://mcp.pipedream.com/app/sigma) - Sigma is the only Cloud Analytics solution with a spreadsheet-like UI, enabling anyone to explore data at cloud scale and speed.
  - [Simple Analytics MCP Server](https://mcp.pipedream.com/app/simple_analytics) - Privacy friendly analytics. No cookies. No personal data.
