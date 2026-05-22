@@ -2295,6 +2295,7 @@ A weather forecast API, built as a compatible alternative to the Dark Sky API."
 
 ### <a name="social-media"></a>Social Media
 
+- [Vovala14/vynly-mcp](https://github.com/Vovala14/vynly-mcp) - Post AI-generated images and short video to Vynly, an AI-only social network with server-side provenance verification (C2PA / SynthID / generator metadata). Free demo token, no signup.
  - [Bluesky MCP Server](https://mcp.pipedream.com/app/bluesky) - Bluesky is an open network. With one account, you can access both an easy-to-use social network and a shared identity across the entire social internet.
  - [Dev.to MCP Server](https://mcp.pipedream.com/app/dev_to) - Where programmers share ideas and help each other grow.
  - [Mediatoolkit MCP Server](https://mcp.pipedream.com/app/mediatoolkit) - Monitor Online Mentions of your brand in real-time. Know every article, hashtag or comment mentioning your business.
