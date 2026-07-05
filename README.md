@@ -89,6 +89,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
  - [Columns Ai MCP Server](https://mcp.pipedream.com/app/columns_ai) - The simple platform to build data stories.
  - [Contact Enhance MCP Server](https://mcp.pipedream.com/app/contact_enhance) - A bot that enriches your business contact data.
  - [ContentGroove MCP Server](https://mcp.pipedream.com/app/contentgroove) - Create video highlights using generative AI.
+- [context-kit](https://github.com/JDDavenport/context-kit) 🐍 🏠 - MCP resource server exposing Personal Context Artifacts (pca-wiki, pca-mental-models, pca-voice, pca-protocols) to Claude Desktop and any MCP client. Zero dependencies (stdlib only).
  - [Cradl AI MCP Server](https://mcp.pipedream.com/app/cradl_ai) - Automate internal document processes with AI.
  - [CustomGPT MCP Server](https://mcp.pipedream.com/app/customgpt) - CustomGPT lets you easily build your own chatbot with your own data.
  - [Datarobot MCP Server](https://mcp.pipedream.com/app/datarobot) - Enterprise AI
@@ -2521,7 +2522,8 @@ Natively integrate user research with minimal dev attention, privacy-first."
  - [Product Fruits MCP Server](https://mcp.pipedream.com/app/product_fruits) - User onboarding platform that brings results
  - [Productlane MCP Server](https://mcp.pipedream.com/app/productlane) - The future of Product Discovery. Exclusively for Linear.
  - [Push by Techulus MCP Server](https://mcp.pipedream.com/app/push_by_techulus) - Push offers a cross-platform solution for sending push notifications via code and no-code to deliver transactional information in real-time. Get Started for free.
- - [Pusher MCP Server](https://mcp.pipedream.com/app/pusher) - Hosted APIs that are flexible,  scalable, and easy to integrate
+ - [Pusher MCP Server](https://mcp.pipedream.com/app/pusher) - Hosted APIs that are flexible,
+ scalable, and easy to integrate
  - [Python MCP Server](https://mcp.pipedream.com/app/python) - Anything you can do in Python can be done in a Pipedream Workflow. This includes using any of the 350,000+ PyPi packages available in your Python powered workflows.
  - [Qntrl MCP Server](https://mcp.pipedream.com/app/qntrl) - Gain visibility, control and automation with an all-in-one Workflow Orchestration Software
  - [Ragic MCP Server](https://mcp.pipedream.com/app/ragic) - "Be your own data expert!
