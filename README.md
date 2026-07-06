@@ -1309,6 +1309,7 @@ Connect provides managed authentication, approved client IDs, durable components
  - [Reverse Contact MCP Server](https://mcp.pipedream.com/app/reversecontact) - Find Linkedin profile from an email
  - [Reward Sciences MCP Server](https://mcp.pipedream.com/app/reward_sciences) - Reward Sciences is an easy-to-use platform that enables organizations to incentivize and reward human behaviors wherever and whenever they benefit the business.
  - [Rollbar MCP Server](https://mcp.pipedream.com/app/rollbar) - Find and fix code errors faster.
+ - [rtblint MCP Server](https://github.com/aleksUIX/rtblint) - OpenRTB bid request validator/linter (crate `rtblint-mcp`), exposes IAB OpenRTB spec compliance checks to AI agents over MCP.
  - [Scrape-It.Cloud MCP Server](https://mcp.pipedream.com/app/scrape_it_cloud) - Scrape-It.Cloud is an API for web scraping valuable data in JSON format from any website without needing a proxy.
  - [ScrapeNinja MCP Server](https://mcp.pipedream.com/app/scrapeninja) - Extract Web Data on Scale
  - [ScrapingBee MCP Server](https://mcp.pipedream.com/app/scrapingbee) - We're an API that handles headless browsers and rotates proxies for you.
