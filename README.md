@@ -2516,6 +2516,7 @@ Natively integrate user research with minimal dev attention, privacy-first."
  - [Polygon MCP Server](https://mcp.pipedream.com/app/polygon) - Stock Market Data APIs
  - [Postman MCP Server](https://mcp.pipedream.com/app/postman) - Postman is the world's leading API platform.
  - [Prerender.io MCP Server](https://mcp.pipedream.com/app/prerender) - Prerender.io is a Google-recommended dynamic rendering solution that enables Angular, React, Vue, or JavaScript sites to be crawled perfectly by search engines.
+ - [Prerender Buddy MCP Server](https://github.com/kopachlager/prerenderbuddy-mcp) - Inspects crawler-visible output for JS-heavy sites and validates bot-friendly rendering.
  - [Prismic MCP Server](https://mcp.pipedream.com/app/prismic) - Empower marketers to release on-brand pages fast while using your tech stack. Prismic is the headless page builder for Next.js, Nuxt, and SvelteKit sites.
  - [ProcFu MCP Server](https://mcp.pipedream.com/app/procfu) - ProcFu (like Kung Fu but for Processes), is an add-on for Citrix Podio that greatly enhances the abilities of your Podio Workflow Automations and the functionality and utility of your Citrix Podio account.
  - [Product Fruits MCP Server](https://mcp.pipedream.com/app/product_fruits) - User onboarding platform that brings results
@@ -2782,4 +2783,3 @@ Find companies you can trust."
  - [Zoho People MCP Server](https://mcp.pipedream.com/app/zoho_people) - Zoho People is a cloud-based HR software crafted to nurture employees, quickly adapt to changes, and make HR management agile and effective.
  - [Zoho Recruit MCP Server](https://mcp.pipedream.com/app/zoho_recruit) - Zoho Recruit is a cloud-based hiring platform that gives HR teams and recruitment agencies the digital tools needed to fill roles quickly and efficiently.
  - [Zoho Sprints MCP Server](https://mcp.pipedream.com/app/zoho_sprints) - Zoho Sprints provides a feature-rich agile project management tool with Scrum Board, agile reports, backlog, timesheets, meetings and dashboard.
-
