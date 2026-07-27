@@ -2783,3 +2783,4 @@ Find companies you can trust."
  - [Zoho Recruit MCP Server](https://mcp.pipedream.com/app/zoho_recruit) - Zoho Recruit is a cloud-based hiring platform that gives HR teams and recruitment agencies the digital tools needed to fill roles quickly and efficiently.
  - [Zoho Sprints MCP Server](https://mcp.pipedream.com/app/zoho_sprints) - Zoho Sprints provides a feature-rich agile project management tool with Scrum Board, agile reports, backlog, timesheets, meetings and dashboard.
 
+- [Trends MCP](https://github.com/trendsmcp-ai/Trends-MCP) - Live cross-platform trend data for AI agents (Google, YouTube, TikTok, Reddit, Amazon, Wikipedia, news, npm, Steam, and more). Historical series, growth rates, and live leaderboards. Free API key at https://trendsmcp.ai
