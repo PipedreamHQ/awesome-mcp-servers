@@ -2,6 +2,10 @@
 
 A curated list of awesome Model Context Protocol (MCP) servers.
 
+> Most entries link to Pipedream-managed MCP servers, not original project
+> repositories. Review each service's source, terms, permissions, and data
+> handling before connecting it.
+
 ## What is MCP?
 
 [MCP](https://modelcontextprotocol.io/) is an open protocol that enables AI models to securely interact with local and remote resources through standardized server implementations. This list focuses on production-ready and experimental MCP servers that extend AI capabilities through file access, database connections, API integrations, and other contextual services.
@@ -2300,6 +2304,7 @@ A weather forecast API, built as a compatible alternative to the Dark Sky API."
  - [Mediatoolkit MCP Server](https://mcp.pipedream.com/app/mediatoolkit) - Monitor Online Mentions of your brand in real-time. Know every article, hashtag or comment mentioning your business.
  - [vk MCP Server](https://mcp.pipedream.com/app/vk) - European social network
  - [Wordpress.org MCP Server](https://mcp.pipedream.com/app/wordpress_org) - Self-hosted version of Wordpress, which you can use to easily create a beautiful website, blog, or app.
+ - [Xquik MCP Server](https://mcp.pipedream.com/app/xquik) - Search, monitor, and export X data through Xquik, with approval-gated account actions. Not affiliated with X Corp.
 
 ### <a name="survye-forms"></a>Survey & Forms
 
@@ -2782,4 +2787,3 @@ Find companies you can trust."
  - [Zoho People MCP Server](https://mcp.pipedream.com/app/zoho_people) - Zoho People is a cloud-based HR software crafted to nurture employees, quickly adapt to changes, and make HR management agile and effective.
  - [Zoho Recruit MCP Server](https://mcp.pipedream.com/app/zoho_recruit) - Zoho Recruit is a cloud-based hiring platform that gives HR teams and recruitment agencies the digital tools needed to fill roles quickly and efficiently.
  - [Zoho Sprints MCP Server](https://mcp.pipedream.com/app/zoho_sprints) - Zoho Sprints provides a feature-rich agile project management tool with Scrum Board, agile reports, backlog, timesheets, meetings and dashboard.
-
