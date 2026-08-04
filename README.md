@@ -2782,4 +2782,5 @@ Find companies you can trust."
  - [Zoho People MCP Server](https://mcp.pipedream.com/app/zoho_people) - Zoho People is a cloud-based HR software crafted to nurture employees, quickly adapt to changes, and make HR management agile and effective.
  - [Zoho Recruit MCP Server](https://mcp.pipedream.com/app/zoho_recruit) - Zoho Recruit is a cloud-based hiring platform that gives HR teams and recruitment agencies the digital tools needed to fill roles quickly and efficiently.
  - [Zoho Sprints MCP Server](https://mcp.pipedream.com/app/zoho_sprints) - Zoho Sprints provides a feature-rich agile project management tool with Scrum Board, agile reports, backlog, timesheets, meetings and dashboard.
+ - [MCP360 MCP Server](https://mcp360.ai/) - MCP360 is a unified integration platform and marketplace that connects AI agents to 100+ external tools and custom MCPs through a single integration, giving agents one central access point instead of separate configurations for each tool.
 
