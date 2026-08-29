@@ -1208,6 +1208,8 @@ how they act, and how much your marketing is really worth."
 
 ### <a name="developer-tools"></a>Developer Tools
 
+ - [SandBase CLI MCP Server](https://github.com/sandbaseai/cli) - Open-source local MCP bridge connecting AI clients to 2,000+ models and APIs
+
  - [1SaaS MCP Server](https://mcp.pipedream.com/app/onesaas) - 1SaaS brings you the tool platform for all your projects when working with low-code, no-code, APIs and automation. #BreakLimits
  - [Abstract - IP Geolocation API MCP Server](https://mcp.pipedream.com/app/abstract_ip_geo) - Automate anything with Abstract APIs
  - [Adalo MCP Server](https://mcp.pipedream.com/app/adalo) - No code app development platform
