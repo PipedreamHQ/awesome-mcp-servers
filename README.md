@@ -187,6 +187,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
  - [RunPod MCP Server](https://mcp.pipedream.com/app/runpod) - The Cloud Built for AI
  - [Runware MCP Server](https://mcp.pipedream.com/app/runware) - Low Cost, Ultra-Fast Stable Diffusion API
  - [Sapling.ai MCP Server](https://mcp.pipedream.com/app/sapling_ai) - Language models for enterprise applications.
+ - [SandBase Harness MCP Server](https://github.com/sandbaseai/sandbase-harness) - Self-hosted AI agent runtime and local stdio MCP bridge for durable sessions, sandboxed execution, approvals, artifacts, audit, and replay.
  - [ScoreDetect MCP Server](https://mcp.pipedream.com/app/scoredetect) - ScoreDetect allows you to easily create verification certificates for your digital content.
  - [SiteSpeakAI MCP Server](https://mcp.pipedream.com/app/sitespeakai) - Automate your customer support with ChatGPT. SiteSpeakAI helps you create a custom trained AI powered support chatbot for your business or website.
  - [Skyvern MCP Server](https://mcp.pipedream.com/app/skyvern) - Automate Browser-Based Workflows with AI
@@ -2782,4 +2783,3 @@ Find companies you can trust."
  - [Zoho People MCP Server](https://mcp.pipedream.com/app/zoho_people) - Zoho People is a cloud-based HR software crafted to nurture employees, quickly adapt to changes, and make HR management agile and effective.
  - [Zoho Recruit MCP Server](https://mcp.pipedream.com/app/zoho_recruit) - Zoho Recruit is a cloud-based hiring platform that gives HR teams and recruitment agencies the digital tools needed to fill roles quickly and efficiently.
  - [Zoho Sprints MCP Server](https://mcp.pipedream.com/app/zoho_sprints) - Zoho Sprints provides a feature-rich agile project management tool with Scrum Board, agile reports, backlog, timesheets, meetings and dashboard.
-
