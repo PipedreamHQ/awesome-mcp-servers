@@ -499,6 +499,7 @@ Designed to help every family, Beanstalk makes saving and investing easy no matt
  - [bexio MCP Server](https://mcp.pipedream.com/app/bexio) - Business software for small businesses, startups and self-employed individuals
  - [Big Cartel MCP Server](https://mcp.pipedream.com/app/big_cartel) - Easy Online Stores for Artists and Makers
  - [BigBox MCP Server](https://mcp.pipedream.com/app/bigbox) - BigBox is the real-time Home Depot Product Data API you've been looking for. No manual rules or web-scraper maintenance required.
+ - [BuyWhere MCP Server](https://github.com/BuyWhere/buywhere-mcp) - Agent-native product catalog: 300M+ products, 150,000+ stores. Remote https://api.buywhere.ai/mcp (streamable-http). Install: `npx -y @buywhere/mcp-server`.
  - [BigCommerce MCP Server](https://mcp.pipedream.com/app/bigcommerce) - Ecommerce for a New Era
  - [BILL MCP Server](https://mcp.pipedream.com/app/bill) - The intelligent way to create and pay bills, send invoices, and get paid. Get started with BILL.
  - [Billsby MCP Server](https://mcp.pipedream.com/app/billsby) - The most powerful, customizable and easy to integrate subscription billing software used by hundreds of companies worldwide to simplify revenue operations
