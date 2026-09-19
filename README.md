@@ -2753,6 +2753,7 @@ With customizable modes, interactive features, insightful analytics, powerful in
  - [Trustpilot (Customer) MCP Server](https://mcp.pipedream.com/app/trustpilot) - "Read reviews. Write reviews.
 Find companies you can trust."
  - [Unbounce MCP Server](https://mcp.pipedream.com/app/unbounce) - Unbounce landing pages have helped businesses turn billions of visitors into leads, sales, and signups. (Literally.) Combining that data with AI, Unbounce lets you create custom landing pages twice as fast as old-school builders.
+ - [UnlockFlow MCP Server](https://github.com/mhr2027r-dotcom/mcp-unlockflow) - Finance / unlock×capital-flow judgment MCP over stdio; illustrative data only (NFA). Free notes: https://t.me/CapitalFlowDeskHQ
  - [Uplisting MCP Server](https://mcp.pipedream.com/app/uplisting) - Confidently grow your STR business & earn more on Uplisting. Preferred+ AirBnB software partner.
  - [Uscreen MCP Server](https://mcp.pipedream.com/app/uscreen) - Uscreen is an all-in-one membership platform designed for video creators.⚡ Follow us for the best free video streaming tips!
  - [Vero MCP Server](https://mcp.pipedream.com/app/vero) - Game-changing multi-channel messaging tools for the next generation of marketers.
