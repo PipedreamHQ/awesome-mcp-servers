@@ -210,6 +210,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
  - [Twin MCP Server](https://mcp.pipedream.com/app/twin) - Never do the same thing twice
  - [Uberduck MCP Server](https://mcp.pipedream.com/app/uberduck) - Make Music With AI Vocals. Epic synthetic singing and rapping vocals for creative agencies, musicians, and coders.
  - [Undetectable AI MCP Server](https://mcp.pipedream.com/app/undetectable_ai) - Rated #1 Best AI Detector by Forbes! Use our AI detector to check if your text will be flagged as AI-written content.
+ - [UpRes MCP Server](https://github.com/auroracapital/upres.ai) - Multi-model AI image and video upscaling up to 8K across 14 specialist models with REST API, CLI, and MCP server.
  - [Universal Summarizer by Kagi MCP Server](https://mcp.pipedream.com/app/universal_summarizer_by_kagi) - The Universal Summarizer is an API using powerful LLMs to summarize any content, of almost any format, with unlimited token length!
  - [V7 Darwin MCP Server](https://mcp.pipedream.com/app/v7_darwin) - AI Data Labeling & ML Training Data Platform.
  - [V7 Go MCP Server](https://mcp.pipedream.com/app/v7_go) - Build Better AI With Pixel-Perfect Auto-Annotation.
