@@ -1186,6 +1186,7 @@ how they act, and how much your marketing is really worth."
  - [Zenserp MCP Server](https://mcp.pipedream.com/app/zenserp) - Zenserp enables you to scrape search engine result pages in a fast and scalable way. Getting SERPs has never been easier.
  - [Zoho Analytics MCP Server](https://mcp.pipedream.com/app/zoho_analytics) - Self-service BI & Analytics Software
  - [Zyte API MCP Server](https://mcp.pipedream.com/app/zyte_api) - Hi, we’re Zyte, the central point of entry for all your web data needs.
+ - [Mode VC Radar MCP](https://modevc.com/api/mcp) - Read-only venture capital & AI market research MCP server (39 empirical AI charts, 3,650 VC firms, SEC Form D filings, and 18 founder financial calculators; free Streamable HTTP at https://modevc.com/api/mcp).
 
 ### <a name="databases"></a>Databases
 
