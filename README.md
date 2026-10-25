@@ -2711,6 +2711,7 @@ With customizable modes, interactive features, insightful analytics, powerful in
  - [Rex MCP Server](https://mcp.pipedream.com/app/rex) - The real estate software platform built for all your agency needs.
  - [Ringover MCP Server](https://mcp.pipedream.com/app/ringover) - Transform your communications into powerful engines of growth.
  - [Roboflow MCP Server](https://mcp.pipedream.com/app/roboflow) - Build & use computer vision models fast✨
+ - [RoboParts MCP Server](https://roboparts.cc) - Vendor-neutral robot hardware compatibility checker: 868 entities, three-state verdicts (yes/no/don't-know), ISO 9409-1 flange anchor, printable 3D adapters. Registry: cc.roboparts.
  - [RunSignup MCP Server](https://mcp.pipedream.com/app/runsignup) - Best in class technology for endurance events.
  - [Sakari SMS MCP Server](https://mcp.pipedream.com/app/sakari_sms) - Sakari is a cloud-based SaaS company providing text messaging for business teams around the world. Integrate SMS with your favorite systems today.
  - [SalesLens MCP Server](https://mcp.pipedream.com/app/saleslens) - Optimize Call Center Performance with AI-Driven Quality Monitoring
