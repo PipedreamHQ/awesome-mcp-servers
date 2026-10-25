@@ -2261,6 +2261,7 @@ ProWorkflow is an online project management software that enables you to keep ac
 
  - [Bitdefender GravityZone MCP Server](https://mcp.pipedream.com/app/bitdefender_gravityzone) - Cyber Security Platform
  - [HackerOne MCP Server](https://mcp.pipedream.com/app/hackerone) - Attack Resistance Platform combines the most creative human intelligence with the latest artificial intelligence to reduce threat exposure at all stages of the software development lifecycle.
+- [DoomPay](https://github.com/doomsday-network/doom-pay) - 2-line Stripe-style non-custodial Web3 checkout widget (`pay.js`) and MCP server for verifying L1 `DOOM` and Base Mainnet `wDOOM` payments.
 
 ### <a name="home-automation"></a>Smart Home Automation
 
@@ -2521,7 +2522,8 @@ Natively integrate user research with minimal dev attention, privacy-first."
  - [Product Fruits MCP Server](https://mcp.pipedream.com/app/product_fruits) - User onboarding platform that brings results
  - [Productlane MCP Server](https://mcp.pipedream.com/app/productlane) - The future of Product Discovery. Exclusively for Linear.
  - [Push by Techulus MCP Server](https://mcp.pipedream.com/app/push_by_techulus) - Push offers a cross-platform solution for sending push notifications via code and no-code to deliver transactional information in real-time. Get Started for free.
- - [Pusher MCP Server](https://mcp.pipedream.com/app/pusher) - Hosted APIs that are flexible,  scalable, and easy to integrate
+ - [Pusher MCP Server](https://mcp.pipedream.com/app/pusher) - Hosted APIs that are flexible,
+ scalable, and easy to integrate
  - [Python MCP Server](https://mcp.pipedream.com/app/python) - Anything you can do in Python can be done in a Pipedream Workflow. This includes using any of the 350,000+ PyPi packages available in your Python powered workflows.
  - [Qntrl MCP Server](https://mcp.pipedream.com/app/qntrl) - Gain visibility, control and automation with an all-in-one Workflow Orchestration Software
  - [Ragic MCP Server](https://mcp.pipedream.com/app/ragic) - "Be your own data expert!
