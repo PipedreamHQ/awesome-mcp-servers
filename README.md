@@ -483,6 +483,7 @@ with ShipHero."
  - [Adyen MCP Server](https://mcp.pipedream.com/app/adyen) - End-to-end payments, data, and financial management in a single solution. Meet the financial technology platform that helps you realize your ambitions faster.
  - [AfterShip MCP Server](https://mcp.pipedream.com/app/aftership) - Create a world-class post-purchase experience.
  - [Alegra MCP Server](https://mcp.pipedream.com/app/alegra) - Alegra is an accounting and billing app designed for Latin American managers.
+ - [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) - Local-first payment runtime with a stdio MCP interface for x402 offer inspection, bounded payment preparation, status and receipt recovery on Apple Silicon macOS (Node 24).
  - [Amazon MCP Server](https://mcp.pipedream.com/app/amazon) - Online shopping from the earth's biggest selection
  - [Amazon Selling Partner MCP Server](https://mcp.pipedream.com/app/amazon_selling_partner) - For Amazon selling partners, programmatically access data on your orders, shipments, payments, and much more. Applications using the SP-API can increase selling efficiency, reduce labor requirements, and improve response time to customers, helping selling partners grow their businesses.
  - [AMcards MCP Server](https://mcp.pipedream.com/app/amcards) - Online Greeting Card company
