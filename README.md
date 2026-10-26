@@ -695,6 +695,7 @@ Fast, convenient, and error-free, the Snapdocs digital mortgage closing platform
  - [Aircall MCP Server](https://mcp.pipedream.com/app/aircall) - Call center software for customer-centric teams
  - [Akismet MCP Server](https://mcp.pipedream.com/app/akismet) - The most trusted solution for spam protection for small sites and large enterprises.
  - [Alerty MCP Server](https://mcp.pipedream.com/app/alerty) - Send yourself native notifications from your apps and servers.
+ - [AliasMail MCP Server](https://github.com/aliasmail-space/aliasmail-mcp) - Zero-log disposable temporary inboxes, autonomous OTP & verification code extraction, and deep email forensics suite powered by [AliasMail.space](https://aliasmail.space).
  - [Altiria MCP Server](https://mcp.pipedream.com/app/altiria) - SMS platform
  - [Amazon SES MCP Server](https://mcp.pipedream.com/app/amazon_ses) - Amazon SES is a cloud-based email service provider that can integrate into any application for high volume email automation
  - [Anymail Finder MCP Server](https://mcp.pipedream.com/app/anymail_finder) - Anymail finder is a SaaS company that allows its customers to quickly find validated emails of the employees of any company.
