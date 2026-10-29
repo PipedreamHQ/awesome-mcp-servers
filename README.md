@@ -683,6 +683,7 @@ Fast, convenient, and error-free, the Snapdocs digital mortgage closing platform
 
 ### <a name="communication"></a>Communication
 
+ - [model.tools MCP Server](https://github.com/maceip/model-tools-mcp) - Zero-auth email OTP extraction, KV state checkpoints, webhook receiver bins, delayed HTTP wakeup timers, and URL-to-Markdown conversion via remote Streamable HTTP (`https://mcp.model.tools/mcp`) or stdio.
  - [1msg MCP Server](https://mcp.pipedream.com/app/__1msg) - Tools & automation for WhatsApp Business API.
  - [1S2U MCP Server](https://mcp.pipedream.com/app/ones2u) - "International Quality Bulk SMS Service Provider.
 
