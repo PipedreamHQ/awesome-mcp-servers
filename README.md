@@ -246,6 +246,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
  - [addevent MCP Server](https://mcp.pipedream.com/app/addevent) - AddEvent is the number #1 "Add to calendar" service on the Internet. We handle millions of events every year for businesses around the world
  - [Aero Workflow MCP Server](https://mcp.pipedream.com/app/aero_workflow) - Aero is workflow & practice management built specifically with the modern cloud-based accounting firm in mind.
  - [Agiliron MCP Server](https://mcp.pipedream.com/app/agiliron) - Inventory Management & Multi-Channel Retail POS Software.
+ - [Signbee MCP Server](https://github.com/signbee/mcp) - Document signing for AI agents — send Markdown or PDF contracts for two-party e-signing with SHA-256 cryptographic audit certificates and OTP verification.
  - [Agrello MCP Server](https://mcp.pipedream.com/app/agrello) - E-Signing Software For Busy People
  - [Aha MCP Server](https://mcp.pipedream.com/app/aha) - Product Roadmap Software
  - [Airfocus MCP Server](https://mcp.pipedream.com/app/airfocus) - Strategic Product Management Platform | airfocus
