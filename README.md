@@ -1371,6 +1371,7 @@ from movies, TV shows, books, history, and more."
  - [Shutterstock MCP Server](https://mcp.pipedream.com/app/shutterstock) - Stock Images, Photos, Vectors, Video, and Music
  - [SpiritMe MCP Server](https://mcp.pipedream.com/app/spiritme) - AI-video platform for creating personalized videos with digital avatars.
  - [Spoonacular MCP Server](https://mcp.pipedream.com/app/spoonacular) - Free meal planner with nutritional info. Save recipes from any site. All Your Food. One Place
+ - [Smarter.Poker MCP Server](https://github.com/Smarter-Poker/smarter-poker-mcp) - Quantitative poker analytics (169-combo Monte Carlo equity, Malmuth-Harville ICM, Nash push/fold, bankroll RoR) and live discovery across 808+ US poker rooms and tournament series (`https://smarter.poker/api/mcp`)
  - [SportsData MCP Server](https://mcp.pipedream.com/app/sportsdata) - Real time data provider syndicating scores, stats, odds, projections, news & images
  - [Spotify MCP Server](https://mcp.pipedream.com/app/spotify) - Spotify is a digital music service that gives you access to millions of songs.
  - [Strava MCP Server](https://mcp.pipedream.com/app/strava) - Designed by athletes, for athletes, Strava's mobile app and website connect millions of runners and cyclists through the sports they love.
