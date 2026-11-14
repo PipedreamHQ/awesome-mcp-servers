@@ -1153,6 +1153,7 @@ Klipfolio is a data analytics cloud app for building and sharing real-time busin
  - [RudderStack Transformation MCP Server](https://mcp.pipedream.com/app/rudderstack_transformation) - All your customer data pipelines in one platform. Use the Rudderstack Transformation API to manage your RudderStack Transformations and Libraries.
  - [San Francisco Open Data - DataSF MCP Server](https://mcp.pipedream.com/app/san_francisco_open_data_datasf) - Search hundreds of datasets from the City and County of San Francisco
  - [ScrapeGraphAI MCP Server](https://mcp.pipedream.com/app/scrapegraphai) - API Scraper powered by AI
+ - [Scrapewise](https://github.com/BEBOTECH-OU/scrapewise-mcp) - Remote MCP server that scrapes, cleans and matches product and price data from any website.
  - [Scrapfly MCP Server](https://mcp.pipedream.com/app/scrapfly) - Scrapfly Web Scraping API for developer
  - [Segment MCP Server](https://mcp.pipedream.com/app/segment) - Customer data platform
  - [SegMetrics MCP Server](https://mcp.pipedream.com/app/segmetrics) - "Get 100% clarity on where your leads come from,
