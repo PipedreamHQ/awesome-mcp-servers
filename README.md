@@ -1164,6 +1164,7 @@ how they act, and how much your marketing is really worth."
  - [Sigma MCP Server](https://mcp.pipedream.com/app/sigma) - Sigma is the only Cloud Analytics solution with a spreadsheet-like UI, enabling anyone to explore data at cloud scale and speed.
  - [Simple Analytics MCP Server](https://mcp.pipedream.com/app/simple_analytics) - Privacy friendly analytics. No cookies. No personal data.
  - [SimpleKPI MCP Server](https://mcp.pipedream.com/app/simplekpi) - Beautifully #simple #KPI software. Create, manage and analyse your Key Performance Indicators from the cloud.
+- [Skool Community Scraper](https://github.com/GeminiGeorge22/publicrecords-mcp/tree/main/servers/skool-community-mcp) - Search Skool communities by keyword. Members, price, rating and estimated monthly revenue for each, plus daily growth tracking.
  - [Soax MCP Server](https://mcp.pipedream.com/app/scrapein_) - Effortless data extraction from any website. We manage headless browsers and rotate proxies for you.
  - [Splunk MCP Server](https://mcp.pipedream.com/app/splunk) - Get visibility and insights across your whole organization, powering actions that improve security, reliability and innovation velocity.
  - [StackShare MCP Server](https://mcp.pipedream.com/app/stackshare_api) - StackShare enables you to uncover the tech stacks behind 1.5M companies and counting.
