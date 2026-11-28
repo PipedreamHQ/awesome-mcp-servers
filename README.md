@@ -2259,6 +2259,7 @@ ProWorkflow is an online project management software that enables you to keep ac
 
 ### <a name="security"></a>Security
 
+- [Insomnia Security MCP](https://github.com/vulnz/insomnia-mcp) - All-in-one offensive security, multi-language SAST/taint, live secret validation, SCA/SBOM, Web DAST, OSINT, 21,100+ 1-Day CVE verification, and 29-protocol network enumeration MCP server (160 tools; zero-install Streamable HTTP at `https://mcp.insom.ai/mcp` + `npx`/`uvx` bridge, 50 free credits).
  - [Bitdefender GravityZone MCP Server](https://mcp.pipedream.com/app/bitdefender_gravityzone) - Cyber Security Platform
  - [HackerOne MCP Server](https://mcp.pipedream.com/app/hackerone) - Attack Resistance Platform combines the most creative human intelligence with the latest artificial intelligence to reduce threat exposure at all stages of the software development lifecycle.
 
